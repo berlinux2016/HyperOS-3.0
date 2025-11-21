@@ -239,18 +239,18 @@
     <string name="launch_wechat_scanner">WeChat-Scanner</string>
     <string name="list_empty_text">Leer</string>
     <string name="list_empty_text_xspace">Weitere duale Apps erstellen und erneut versuchen.</string>
-    <string name="long_press_back_key">Zurück-Taste lange drücken</string>
-    <string name="long_press_buttom_key">Home-Taste am Sperrbildschirm lange drücken</string>
-    <string name="long_press_home_key">Home-Taste lange drücken</string>
-    <string name="long_press_menu_key">Menü-Taste lange drücken</string>
-    <string name="long_press_menu_key_when_lock">Menü-Taste am Sperrbildschirm lange drücken</string>
+    <string name="long_press_back_key">Zurück-Taste gedrückt halten</string>
+    <string name="long_press_buttom_key">Home-Taste am Sperrbildschirm gedrückt halten</string>
+    <string name="long_press_home_key">Home-Taste gedrückt halten</string>
+    <string name="long_press_menu_key">Menü-Taste gedrückt halten</string>
+    <string name="long_press_menu_key_when_lock">Menü-Taste am Sperrbildschirm gedrückt halten</string>
     <string name="long_press_power_guide_message" formatted="false">Halte die Power-Taste für %s Sek gedrückt, um Google Assistant aufzuwecken. \nWenn du die Taste für %s Sek gedrückt hältst, öffnet sich stattdessen das Herunterfahren-Menü.</string>
     <string name="long_press_power_guide_title">Mit Power-Taste aufwecken</string>
-    <string name="long_press_power_key">Power-Taste lange drücken</string>
+    <string name="long_press_power_key">Power-Taste gedrückt halten</string>
     <string name="long_press_power_key_half_of_second">Power-Taste für %s Sek gedrückt halten, um Google Assistant einzuschalten</string>
     <string name="long_press_power_key_half_second">Power-Taste für %s Sek gedrückt halten</string>
     <string name="long_press_power_key_tips">&lt;Data>Langes Drücken der Power-Taste ist &lt;font color=#999999>schneller und bequemer&lt;/font>&lt;/Data></string>
-    <string name="long_press_volume_down">Leiser-Taste lange drücken</string>
+    <string name="long_press_volume_down">Leiser-Taste gedrückt halten</string>
     <string name="master_clear_apply_step_1">Der Widerruf der Autorisierung erfordert einen Werksreset auf deinem Gerät. Alle Dateien und Daten, inkl. Konten, Kontakte, Fotos und Apps, werden dauerhaft gelöscht. Sichere alle wichtigen Elemente auf deinem Computer, bevor du die Autorisierung widerrufst.</string>
     <string name="master_clear_apply_step_2">Alle wichtigen Elemente auf deinem Computer müssen gesichert sein. Nach dem Tippen auf \"OK\" wird ein Werksreset auf deinem Gerät durchgeführt, wobei alle Dateien und Daten, inkl. Konten, Kontakte, Fotos und Apps, dauerhaft gelöscht werden.</string>
     <string name="master_clear_not_available">Werksreset ist von deinem Arbeitgeber eingeschränkt.</string>
@@ -356,7 +356,7 @@
     <string name="scanner_fingerprint_error_tips_desc">Keine passenden Fingerabdrücke gefunden. Zweitprofilfingerabdruck hinzufügen?</string>
     <string name="scanner_fingerprint_tips_desc">Vorhandenen Fingerabdruck für das Zweitprofil auswählen. Du kannst ihn dann nicht mehr für das Hauptprofil verwenden.</string>
     <string name="scanner_fingerprint_tips_title">Mit vorhandenem Fingerabdruck auf das Zweitprofil zugreifen</string>
-    <string name="screen_key_long_press">Navigationstasten lange drücken</string>
+    <string name="screen_key_long_press">Navigationstasten gedrückt halten</string>
     <string name="screen_key_long_press_action">Funktion auslösen</string>
     <string name="screen_key_long_press_timeout">Dauer langes Drücken einstellen</string>
     <string name="screen_key_press_action">Funktion auslösen</string>
