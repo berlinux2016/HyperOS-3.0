@@ -151,8 +151,8 @@
         <item>Letzten Dezember</item>
     </string-array>
     <string-array name="monthly_babies_title">
-        <item>Du bist groß geworden!</item>
-        <item>Du bist wieder größer geworden!</item>
+        <item>Sie sind groß geworden!</item>
+        <item>Sie sind wieder größer geworden!</item>
     </string-array>
     <string-array name="monthly_foods_title">
         <item>Mein persönliches Menü</item>

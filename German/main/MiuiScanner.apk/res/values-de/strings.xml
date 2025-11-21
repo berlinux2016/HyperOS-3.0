@@ -332,7 +332,7 @@
     <string name="new_schedule">Termin erstellen</string>
     <string name="newbuildfile">Neue Datei</string>
     <string name="nickname">Spitzname:</string>
-    <string name="no_has_experience_version_permission">Du bist nicht berechtigt, Scanner Beta zu verwenden. Berechtigung beantragen oder die stabile Version herunterladen.</string>
+    <string name="no_has_experience_version_permission">Sie sind nicht berechtigt, Scanner Beta zu verwenden. Berechtigung beantragen oder die stabile Version herunterladen.</string>
     <string name="no_inner_version">Beta-Version ist nicht verfügbar</string>
     <string name="no_network">Netzwerkverbindung fehlgeschlagen. Etwas warten und erneut versuchen.</string>
     <string name="no_one_phone">Gültige Rufnummer eingeben</string>

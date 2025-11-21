@@ -380,7 +380,7 @@
     <string name="fs_gesture_back_ready_title">Zurückgehen</string>
     <string name="fs_gesture_final_see_more">Weitere Demos anzeigen unter Einstellungen &gt; Startbildschirm &gt; Systemnavigation</string>
     <string name="fs_gesture_final_summary">Tasten reaktivieren unter Einstellungen &gt; Vollbildanzeige</string>
-    <string name="fs_gesture_final_title">Du bist bereit zu rocken!</string>
+    <string name="fs_gesture_final_title">Sie sind bereit zu rocken!</string>
     <string name="fs_gesture_finish">Toll!</string>
     <string name="fs_gesture_switch_recents_summary">Von unten wischen und anhalten</string>
     <string name="game_status">Spielen</string>
@@ -399,7 +399,7 @@
     <string name="group_system_full_screenshot">Einen vollständigen Screenshot erstellen</string>
     <string name="group_system_go_back">Zurück: vorherigen Zustand wiederherstellen (Zurück-Taste)</string>
     <string name="guest_exit_quick_settings_button">Gast beenden</string>
-    <string name="guest_notification_session_active">Du bist im Gastmodus</string>
+    <string name="guest_notification_session_active">Sie sind im Gastmodus</string>
     <string name="guest_reset_and_restart_dialog_message">Dies startet eine neue Gastsitzung und löscht alle Apps und Daten der aktuellen Sitzung</string>
     <string name="guest_resetting">Gast zurücksetzen…</string>
     <string name="guest_wipe_session_dontwipe">Ja, fortsetzen</string>
@@ -632,7 +632,7 @@ dd.MM."</string>
     <string name="miui_magazine_c_clock_style2_date_content_description">EEEE, dd. MMM</string>
     <string name="miui_magazine_clock_date">dd.MM.</string>
     <string name="miui_magazine_clock_date_content_description">dd.MM.</string>
-    <string name="miui_notification_menu_msg_unfocus">Du bist dabei, das Benachrichtigungs-Spotlight für %1$s auszuschalten. Diese Benachrichtigungen werden normal angezeigt. Jetzt ausschalten?</string>
+    <string name="miui_notification_menu_msg_unfocus">Sie sind dabei, das Benachrichtigungs-Spotlight für %1$s auszuschalten. Diese Benachrichtigungen werden normal angezeigt. Jetzt ausschalten?</string>
     <string name="miui_notification_menu_title_not_allow">Einschränken</string>
     <string name="miui_notification_menu_unfocus">Benachrichtigungs-Spotlight ausschalten</string>
     <string name="miui_restart_button_description">Neustart für beste Darstellung</string>

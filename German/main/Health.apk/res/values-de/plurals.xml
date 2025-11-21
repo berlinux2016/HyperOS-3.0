@@ -113,12 +113,12 @@
         <item quantity="one">%s weitere Minute, bis du dein Ziel erreichst</item>
     </plurals>
     <plurals name="sport_tts_riding_distance">
-        <item quantity="other">Du bist %s Kilometer Rad gefahren</item>
-        <item quantity="one">Du bist %s Kilometer Rad gefahren</item>
+        <item quantity="other">Sie sind %s Kilometer Rad gefahren</item>
+        <item quantity="one">Sie sind %s Kilometer Rad gefahren</item>
     </plurals>
     <plurals name="sport_tts_running_distance">
-        <item quantity="other">Du bist %s Kilometer gelaufen</item>
-        <item quantity="one">Du bist %s Kilometer gelaufen</item>
+        <item quantity="other">Sie sind %s Kilometer gelaufen</item>
+        <item quantity="one">Sie sind %s Kilometer gelaufen</item>
     </plurals>
     <plurals name="sport_tts_total_consume">
         <item quantity="other">Du hast %s Kalorien verbrannt</item>
@@ -137,12 +137,12 @@
         <item quantity="one">%1$d Minute</item>
     </plurals>
     <plurals name="sporting_content_riding_km">
-        <item quantity="other">Du bist bereits %1$s Kilometer Rad gefahren</item>
-        <item quantity="one">Du bist bereits %1$s Kilometer Rad gefahren</item>
+        <item quantity="other">Sie sind bereits %1$s Kilometer Rad gefahren</item>
+        <item quantity="one">Sie sind bereits %1$s Kilometer Rad gefahren</item>
     </plurals>
     <plurals name="sporting_content_running_km">
-        <item quantity="other">Du bist bereits %1$s Kilometer gelaufen</item>
-        <item quantity="one">Du bist bereits %1$s Kilometer gelaufen</item>
+        <item quantity="other">Sie sind bereits %1$s Kilometer gelaufen</item>
+        <item quantity="one">Sie sind bereits %1$s Kilometer gelaufen</item>
     </plurals>
     <plurals name="sporting_content_sec">
         <item quantity="other">%1$d Sekunden</item>
@@ -153,8 +153,8 @@
         <item quantity="one">Du hast bereits %1$s Kilometer zurückgelegt</item>
     </plurals>
     <plurals name="sporting_content_walking_stpe">
-        <item quantity="other">Du bist bereits %1$s Schritte gegangen</item>
-        <item quantity="one">Du bist bereits %1$s Schritt gegangen</item>
+        <item quantity="other">Sie sind bereits %1$s Schritte gegangen</item>
+        <item quantity="one">Sie sind bereits %1$s Schritt gegangen</item>
     </plurals>
     <plurals name="sporting_unit_calories">
         <item quantity="other">%1$d Kalorien</item>

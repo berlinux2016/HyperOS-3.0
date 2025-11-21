@@ -12,7 +12,7 @@
     <string name="auto_backup_progress">Sichern…</string>
     <string name="auto_backup_time">Zeit</string>
     <string name="backup_is_running">Sicherung läuft</string>
-    <string name="backup_notice_content">Deine Sicherungen werden nicht verschlüsselt, was bedeutet, dass Dritte auf sie zugreifen oder sie manipulieren können. Auch andere Sicherheitsrisiken können auftreten. Du musst deine Sicherungskopien in einer gut geschützten Umgebung aufbewahren.</string>
+    <string name="backup_notice_content">Ihre Sicherungen werden nicht verschlüsselt, was bedeutet, dass Dritte auf sie zugreifen oder sie manipulieren können. Auch andere Sicherheitsrisiken können auftreten. Sie müssen Ihre Sicherungskopien in einer gut geschützten Umgebung aufbewahren.</string>
     <string name="backup_notification_title">\"Sicherung\" läuft…</string>
     <string name="broken_screen_rescue_service_content">Mit dieser Funktion kannst du Elemente über ein USB-Kabel sichern, wenn der Bildschirm deines Geräts beschädigt ist oder nicht reagiert. Um Elemente zu sichern, wenn der Bildschirm nicht reagiert, solltest du diese Funktion aktivieren, wenn der Bildschirm noch korrekt funktioniert.</string>
     <string name="broken_screen_rescue_service_disable">Sicherungen mit beschädigtem Bildschirm ausschalten</string>
@@ -163,7 +163,7 @@
     <string name="mtrl_picker_toggle_to_text_input_mode">Zum Texteingabemodus wechseln</string>
     <string name="multi_user_mode_backup_message">Sicherung kann im Mehrbenutzermodus nicht verwendet werden. Zum Fortfahren Mehrbenutzermodus ausschalten.</string>
     <string name="multi_user_mode_dialog_message">Mi Mover kann im Mehrbenutzermodus nicht verwendet werden. Zum Fortfahren Mehrbenutzermodus ausschalten.</string>
-    <string name="multi_user_mode_dialog_title">Du bist im Mehrbenutzermodus</string>
+    <string name="multi_user_mode_dialog_title">Sie sind im Mehrbenutzermodus</string>
     <string name="never">Nie</string>
     <string name="new_confirm_enable_encrypt_content">Verschlüsselte Sicherungen sind mit deinem Xiaomi-Konto verknüpft. Du musst dich an deinem Xiaomi-Konto anmelden, um Elemente aus solchen Sicherungen wiederherzustellen.</string>
     <string name="new_local_click_to_jump">Tippen, um detaillierte Anweisungen anzuzeigen</string>

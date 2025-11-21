@@ -47,7 +47,7 @@
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
     <string name="freeform_demo_final_restart">Neu beginnen</string>
-    <string name="freeform_demo_final_title">Du bist bereit zu rocken!</string>
+    <string name="freeform_demo_final_title">Sie sind bereit zu rocken!</string>
     <string name="freeform_demo_previous_tutorial">Zurück</string>
     <string name="freeform_guide_dialog_freeform_controller_summary">Popup an seinem oberen Rand ziehen, um es zu verschieben \noder tippen, um weitere Optionen anzuzeigen</string>
     <string name="freeform_guide_dialog_freeform_resize_summary">Untere Ecken zur Größenänderung ziehen</string>

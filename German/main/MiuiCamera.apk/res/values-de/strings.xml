@@ -386,8 +386,8 @@
     <string name="download_automatic_summary">Funktions-Plugins automatisch über WLAN herunterladen</string>
     <string name="download_automatic_summary_cn">Funktions-Plugins automatisch über WLAN herunterladen</string>
     <string name="download_confirm">Herunterladen</string>
-    <string name="download_hint_check_on_wifi">Du bist mit WLAN verbunden. Diese %1$s MB-Datei jetzt herunterladen?</string>
-    <string name="download_hint_check_on_wifi_cn">Du bist mit WLAN verbunden. Diese %1$s MB-Datei jetzt herunterladen?</string>
+    <string name="download_hint_check_on_wifi">Sie sind mit WLAN verbunden. Diese %1$s MB-Datei jetzt herunterladen?</string>
+    <string name="download_hint_check_on_wifi_cn">Sie sind mit WLAN verbunden. Diese %1$s MB-Datei jetzt herunterladen?</string>
     <string name="download_hint_cn">Anscheinend ist dein Gerät nicht mit WLAN verbunden. Jetzt %1$s MB an mobilen Daten nutzen, um Elemente herunterzuladen?</string>
     <string name="download_hint_wifi">Anscheinend ist dein Gerät nicht mit WLAN verbunden. Jetzt %1$s MB an mobilen Daten nutzen, um Elemente herunterzuladen?</string>
     <string name="download_in_progress">Herunterladen…</string>

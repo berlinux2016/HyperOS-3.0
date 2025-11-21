@@ -300,7 +300,7 @@
     <string name="solar_term_white_dews">Weißer Tau</string>
     <string name="solar_term_winter_begins">Winteranfang</string>
     <string name="solar_term_winter_solstice">Wintersonnenwende</string>
-    <string name="stealth_mode_tip">Du bist inkognito. Mikrofon kann jetzt nicht verwendet werden.</string>
+    <string name="stealth_mode_tip">Sie sind inkognito. Mikrofon kann jetzt nicht verwendet werden.</string>
     <string name="suggested_delete">Vorschlag: \"%1$s\" löschen</string>
     <string name="suggested_modifications">Vorschlag: \"%1$s\" zu \"%2$s\" ändern</string>
     <string name="sunday_shortest">S</string>
@@ -399,7 +399,7 @@
     <string name="warn_cannot_add_new_link_card">Neuer Link nicht möglich, weil die Notiz zu lang ist</string>
     <string name="warn_cannot_add_new_picture">Neues Bild nicht möglich, weil die Notiz zu lang ist</string>
     <string name="warn_cannot_add_new_style">Neues Format nicht möglich, weil die Notiz zu lang ist</string>
-    <string name="warn_enter_browse_mode">Du bist im schreibgeschützten Modus</string>
+    <string name="warn_enter_browse_mode">Sie sind im schreibgeschützten Modus</string>
     <string name="warn_enter_browse_mode_forbid_create">Im schreibgeschützten Modus können keine Notizen erstellt oder bearbeitet werden</string>
     <string name="wednesday_shortest">M</string>
     <string name="widget_click_check">Tippen zum Anzeigen</string>

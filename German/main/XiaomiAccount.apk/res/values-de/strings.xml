@@ -40,7 +40,7 @@
     <string name="account_secure_info_pref_title">Kontodaten</string>
     <string name="account_security">Kontosicherheit</string>
     <string name="account_security_info_pref_title">Sicherheitsinfos</string>
-    <string name="account_token_expired_msg">Bestätigungscode abgelaufen, neu beginnen oder abmelden.\nDeine Konto-ID: %s</string>
+    <string name="account_token_expired_msg">Bestätigungscode abgelaufen, neu beginnen oder abmelden.\nIhre Konto-ID: %s</string>
     <string name="account_token_expired_title">Authentifizierung fehlgeschlagen</string>
     <string name="account_user_avatar">Profilfoto</string>
     <string name="account_user_avatar_activity_not_found">Galerie öffnen fehlgeschlagen</string>
@@ -542,7 +542,7 @@
     <string name="passport_error_empty_vcode">Gib deinen Bestätigungscode ein</string>
     <string name="passport_error_empty_voice_code">Captcha eingeben</string>
     <string name="passport_error_illegal_pwd">Ungültiges Passwort</string>
-    <string name="passport_error_invalid_dev_id">Deine Geräte-ID ist ungültig</string>
+    <string name="passport_error_invalid_dev_id">Ihre Geräte-ID ist ungültig</string>
     <string name="passport_error_invalid_phone_num">Rufnummer ist ungültig</string>
     <string name="passport_error_length_limit">Eingegebener Text ist zu lang</string>
     <string name="passport_error_network">Netzwerkverbindung fehlgeschlagen</string>
@@ -734,7 +734,7 @@
     <string name="passport_user_reg_region">Land/Region</string>
     <string name="passport_user_reg_region_warning">Du kannst dein Land/deine Region nicht mehr ändern, sobald das Konto erstellt wurde</string>
     <string name="passport_vcode_email_send_prompt"><Data>Dein Bestätigungscode wurde an &lt;a href=>&lt;xliff:g id=email_address>%s&lt;/xliff:g>&lt;/a> gesendet</Data></string>
-    <string name="passport_vcode_notification_title">Deine Anmeldeverifizierung ist unvollständig</string>
+    <string name="passport_vcode_notification_title">Ihre Anmeldeverifizierung ist unvollständig</string>
     <string name="passport_vcode_prompt_long">Bestätigungscode eingeben</string>
     <string name="passport_vcode_sms_send_prompt">Bestätigungscode an %s senden</string>
     <string name="passport_vcode_what_app_send_prompt">Dein WhatsApp-Bestätigungscode wird an dein Wiederherstellungstelefon gesendet (&lt;font color=#1F93FF>%s&lt;/font>).</string>
@@ -781,7 +781,7 @@
     <string name="qrcode_login_title">Scannen zum Anmelden</string>
     <string name="range_end">Bereichsende</string>
     <string name="range_start">Bereichsanfang</string>
-    <string name="recycle_phone_notification_msg">Deine Rufnummer wurde anscheinend wiederverwendet. Tippen zum Aktualisieren.</string>
+    <string name="recycle_phone_notification_msg">Ihre Rufnummer wurde anscheinend wiederverwendet. Tippen zum Aktualisieren.</string>
     <string name="recycle_phone_notification_title">Xiaomi-Konto Sicherheitsrisiko</string>
     <string name="removing_account">Abmelden…</string>
     <string name="reopen">Einschalten</string>

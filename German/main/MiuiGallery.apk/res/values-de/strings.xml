@@ -304,7 +304,7 @@ Die besten Fotos werden automatisch ausgewählt. Du kannst mehr Fotos manuell hi
     <string name="delete_album_msg_format">Album \"%2$s\" %1$s %3$s löschen?</string>
     <string name="delete_album_msg_format_cloud">%1$s %2$s aus Xiaomi Cloud und von allen synchronisierten Geräten löschen?</string>
     <string name="delete_album_msg_format_local">%1$s %2$s löschen?</string>
-    <string name="delete_all_photos">Du bist dabei, alle Fotos auf diesem Gerät zu löschen. Dabei können wichtige Daten verloren gehen. Trotzdem löschen?</string>
+    <string name="delete_all_photos">Sie sind dabei, alle Fotos auf diesem Gerät zu löschen. Dabei können wichtige Daten verloren gehen. Trotzdem löschen?</string>
     <string name="delete_from_all_devices_and_cloud">von allen Geräten und aus Xiaomi Cloud</string>
     <string name="delete_from_cloud">Auch aus Xiaomi Cloud löschen</string>
     <string name="delete_in_album">Gewählte Elemente werden aus der Cloud und von allen verbundenen Geräten gelöscht und unter den zuletzt gelöschten Elementen für %d Tage gespeichert, wenn du einen kostenlosen Cloud-Speichertarif hast. Trotzdem löschen?</string>
@@ -549,7 +549,7 @@ Die besten Fotos werden automatisch ausgewählt. Du kannst mehr Fotos manuell hi
     <string name="invite_sharer_title">"%1$s's %2$s einladen"</string>
     <string name="invite_user_fail_toast">Ein Fehler ist aufgetreten. Etwas warten und erneut versuchen.</string>
     <string name="invite_user_now">Einladen</string>
-    <string name="invite_wechat_user_title">Du bist eingeladen, den Zugriff auf %1$s zu teilen</string>
+    <string name="invite_wechat_user_title">Sie sind eingeladen, den Zugriff auf %1$s zu teilen</string>
     <string name="is_in_ocr">Erkennen…</string>
     <string name="kick_sharer_failed">Person entfernen fehlgeschlagen</string>
     <string name="kick_sharer_successfully">Diese Person wurde entfernt</string>

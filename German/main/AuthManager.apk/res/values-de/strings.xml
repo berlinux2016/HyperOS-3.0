@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="HIPS_Perm_Access_Gallery_Desc">Erlaube dieser App Zugriff auf Elemente in deiner Galerie</string>
+    <string name="HIPS_Perm_Access_Gallery_Desc">Erlauben Sie dieser App Zugriff auf Elemente in Ihrer Galerie</string>
     <string name="HIPS_Perm_AutoStart">Beim Start ausführen</string>
     <string name="HIPS_Perm_AutoStart_Desc">beim Start ausführen</string>
     <string name="HIPS_Perm_Bluetooth_Connectivity">Bluetooth-Konnektivität ändern</string>
@@ -22,7 +22,7 @@
     <string name="HIPS_Perm_Read_Call_Log_Desc">Anrufliste lesen</string>
     <string name="HIPS_Perm_Read_Contact_Desc">Kontakte lesen</string>
     <string name="HIPS_Perm_Receive_SMS">SMS und MMS empfangen</string>
-    <string name="HIPS_Perm_Receive_SMS_desc">Zum Empfang deiner Nachrichten</string>
+    <string name="HIPS_Perm_Receive_SMS_desc">Zum Empfang Ihrer Nachrichten</string>
     <string name="HIPS_Perm_Settings">Systemeinstellungen ändern</string>
     <string name="HIPS_Perm_SystemAlert">Popups anzeigen</string>
     <string name="HIPS_Perm_SystemAlert_Desc">Apps erlauben, Popups anzuzeigen</string>
@@ -41,7 +41,7 @@
     <string name="HIPS_Perm_operator_get_phonenumbner">Zugriff auf Rufnummer zum Anmelden</string>
     <string name="HIPS_Perm_operator_get_phonenumbner_Desc">Rufnummer vom Anbieter zum Anmelden abfragen</string>
     <string name="HIPS_Perm_operator_get_phonenumbner_Hint">Wenn du dich jetzt nicht mit einem Tippen anmelden konntest, geh zurück zur Anmeldeseite und versuch es erneut.</string>
-    <string name="HIPS_Perm_operator_get_phonenumbner_Message">Diese App möchte für die Anmeldung deine Rufnummer vom Anbieter abfragen. Zulassen?</string>
+    <string name="HIPS_Perm_operator_get_phonenumbner_Message">Diese App möchte für die Anmeldung Ihre Rufnummer vom Anbieter abfragen. Zulassen?</string>
     <string name="HIPS_Perm_operator_shake_Desc">Zur Erkennung der Position des Geräts im Raum, von Erschütterungen und der Bildschirmausrichtung</string>
     <string name="HIPS_Perm_operator_wall_paper">Dienste dynamischer Hintergrund</string>
     <string name="HIPS_Perm_operator_wall_paper_Desc">Systemdienste dynamischer Hintergrund bearbeiten</string>
@@ -52,17 +52,17 @@
     <string name="HIPS_Perm_read_notification_sms">Service-SMS</string>
     <string name="HIPS_Perm_read_notification_sms_Desc">Service-SMS lesen</string>
     <string name="HIPS_Perm_recognition">Auf Aktivitätsinfo zugreifen</string>
-    <string name="HIPS_Perm_recognition_Desc">App-Zugriff auf deine Aktivitätsinfo erlauben</string>
+    <string name="HIPS_Perm_recognition_Desc">App-Zugriff auf Ihre Aktivitätsinfo erlauben</string>
     <string name="HIPS_Perm_show_when_locked">Am Sperrbildschirm anzeigen</string>
     <string name="HIPS_Perm_show_when_locked_Desc">am Sperrbildschirm anzeigen</string>
     <string name="HIPS_Perm_tencentControl">Zugriff auf Nachrichten in Social Media-Apps</string>
-    <string name="HIPS_Perm_tencentControl_Desc">App den Zugriff auf deine WeChat- und QQ-Nachrichten erlauben</string>
+    <string name="HIPS_Perm_tencentControl_Desc">App den Zugriff auf Ihre WeChat- und QQ-Nachrichten erlauben</string>
     <string name="HIPS_SecurityPrompt_Reject">Verweigern (%d)</string>
     <string name="HIPS_SecurityPrompt_Reject_Once">Einmal verweigern (%d)</string>
     <string name="Su_Package_Forbidden2">hat keinen Root-Zugriff</string>
     <string name="am">AM</string>
     <string name="app_name">Rechte</string>
-    <string name="blur_location_is_on_tip">%1$s verwendet deinen ungefähren Standort. Weiterhin verwenden statt genauen Standort?</string>
+    <string name="blur_location_is_on_tip">%1$s verwendet Ihren ungefähren Standort. Weiterhin verwenden statt genauen Standort?</string>
     <string name="blur_location_now_tip">Ungefährer Standort ist an</string>
     <string name="call_notification_answer_action">Annehmen</string>
     <string name="call_notification_decline_action">Ablehnen</string>
@@ -70,9 +70,9 @@
     <string name="call_notification_incoming_text">Eingehender Anruf</string>
     <string name="call_notification_ongoing_text">Laufender Anruf</string>
     <string name="call_notification_screening_text">Eingehende Anrufe prüfen</string>
-    <string name="cetus_invisible_mode_notice_audio">Du bist inkognito. Mikrofon ist jetzt nicht verfügbar.</string>
-    <string name="cetus_invisible_mode_notice_camera">Du bist inkognito. Kamera ist jetzt nicht verfügbar.</string>
-    <string name="cetus_invisible_mode_notice_location">Du bist inkognito. Standortdienste sind jetzt nicht verfügbar.</string>
+    <string name="cetus_invisible_mode_notice_audio">Sie sind inkognito. Mikrofon ist jetzt nicht verfügbar.</string>
+    <string name="cetus_invisible_mode_notice_camera">Sie sind inkognito. Kamera ist jetzt nicht verfügbar.</string>
+    <string name="cetus_invisible_mode_notice_location">Sie sind inkognito. Standortdienste sind jetzt nicht verfügbar.</string>
     <string name="clipboard_ai_allow_once">%1$s wurde der Zugriff auf Elemente in der Zwischenablage automatisch erlaubt</string>
     <string name="clipboard_may_sensitive">Evtl. sensible Daten</string>
     <string name="clipboard_read_ai_deny_once">%1$s wurde der Zugriff auf die Zwischenablage eingeschränkt</string>

@@ -70,20 +70,20 @@
         <item quantity="one">Änderungen werden in %d Sek übernommen</item>
     </plurals>
     <plurals name="show_cit_countdown">
-        <item quantity="other">Du bist %1$d Schritte vom Aufrufen des CIT entfernt.</item>
-        <item quantity="one">Du bist %1$d Schritt vom Aufrufen des CIT entfernt.</item>
+        <item quantity="other">Sie sind %1$d Schritte vom Aufrufen des CIT entfernt.</item>
+        <item quantity="one">Sie sind %1$d Schritt vom Aufrufen des CIT entfernt.</item>
     </plurals>
     <plurals name="show_dev_countdown">
         <item quantity="other">In %1$d Schritten bist du ein Entwickler.</item>
         <item quantity="one">In %1$d Schritt bist du ein Entwickler.</item>
     </plurals>
     <plurals name="show_pho_countdown">
-        <item quantity="other">Du bist %1$d Schritte vom Öffnen der Gerätedaten entfernt.</item>
-        <item quantity="one">Du bist %1$d Schritt vom Öffnen der Gerätedaten entfernt.</item>
+        <item quantity="other">Sie sind %1$d Schritte vom Öffnen der Gerätedaten entfernt.</item>
+        <item quantity="one">Sie sind %1$d Schritt vom Öffnen der Gerätedaten entfernt.</item>
     </plurals>
     <plurals name="show_rep_countdown">
-        <item quantity="other">Du bist %1$d Schritte von den Fehlerberichten entfernt.</item>
-        <item quantity="one">Du bist %1$d Schritt von den Fehlerberichten entfernt.</item>
+        <item quantity="other">Sie sind %1$d Schritte von den Fehlerberichten entfernt.</item>
+        <item quantity="one">Sie sind %1$d Schritt von den Fehlerberichten entfernt.</item>
     </plurals>
     <plurals name="special_access_summary">
         <item quantity="other">%d Apps können unbegrenzt Daten verwenden</item>

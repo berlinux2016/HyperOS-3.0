@@ -627,9 +627,9 @@ Wenn die beiden Geräte nicht mit demselben Netzwerk verbunden werden können, a
     <string name="title_connection_interrupted">Verbindung unterbrochen</string>
     <string name="title_install">Mi Canvas installieren</string>
     <string name="title_update">Mi Canvas aktualisieren</string>
-    <string name="toast_invisible_mode">Du bist inkognito. Casting jetzt nicht möglich.</string>
+    <string name="toast_invisible_mode">Sie sind inkognito. Casting jetzt nicht möglich.</string>
     <string name="toast_invisible_mode1">Casting funktioniert nicht, wenn du inkognito bist</string>
-    <string name="toast_msg_for_small_window">Du kannst das Fenster, das übertragen wird, minimieren, um andere Funktionen deines Telefons zu verwenden, ohne den Casting-Prozess zu unterbrechen.</string>
+    <string name="toast_msg_for_small_window">Sie können das Fenster, das übertragen wird, minimieren, um andere Funktionen Ihres Telefons zu verwenden, ohne den Casting-Prozess zu unterbrechen.</string>
     <string name="toast_nfc_same_wifi">Verbinde dein TV und dieses Gerät mit demselben Netzwerk</string>
     <string name="toast_turn_off_hotspot_before_cast">Portablen Hotspot vor dem Casting ausschalten</string>
     <string name="tomorrow">Morgen</string>
