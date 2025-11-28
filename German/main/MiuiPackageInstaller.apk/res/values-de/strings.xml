@@ -40,7 +40,7 @@
     <string name="already_understand_the_risks_market_unknown">Ich verstehe, dass dieses Installationspaket nicht auf Sicherheitsprobleme getestet wurde</string>
     <string name="already_understood_bundle_app">Ich verstehe die Risiken von gebündelten Apps</string>
     <string name="anonymous_source_continue">Fortfahren</string>
-    <string name="anonymous_source_warning">Ihr Telefon und Ihre personenbezogenen Daten sind anfälliger für Angriffe unbekannter Apps. Durch die Installation dieser App stimmen Sie zu, dass Sie für Schäden an Ihrem Telefon oder Datenverluste verantwortlich sind, die durch die Verwendung dieser App entstehen können.</string>
+    <string name="anonymous_source_warning">Dein Telefon und deine personenbezogenen Daten sind anfälliger für Angriffe unbekannter Apps. Durch die Installation dieser App stimmst du zu, dass du für Schäden an deinem Telefon oder Datenverluste verantwortlich bist, die durch die Verwendung dieser App entstehen können.</string>
     <string name="app_already_on_the_app_store">Von GetApps herunterladen</string>
     <string name="app_crash_test_text">Paketinstaller zwangsweise beendet</string>
     <string name="app_description_picture">App-Beschreibung</string>

@@ -524,7 +524,7 @@ Wenn die beiden Geräte nicht mit demselben Netzwerk verbunden werden können, a
     <string name="screen_projection_entrance_list_new">Liste der für das Casting verfügbaren Geräte anzeigen</string>
     <string name="screen_projection_example_document_hint_miui15">*Elemente werden auf einem TV in der Nähe angezeigt</string>
     <string name="screen_projection_example_document_hint_new"><Data>*Um diese Funktion zu nutzen, gehe zu Dateien > Dokumente und tippe auf das Symbol &lt;img src=../drawable/ic_cast_icon_photo.png/>.</Data></string>
-    <string name="screen_projection_example_document_summary">Zeigen Sie Präsentationen auf einem externen Monitor an, während Sie mit Ihrem Telefon zwischen Folien und Notizen wechseln. Gehe zu Dateimanager &gt; Dokumente, um diese Funktion zu testen.</string>
+    <string name="screen_projection_example_document_summary">Zeige Präsentationen auf einem externen Monitor an, während du mit deinem Telefon zwischen Folien und Notizen wechselst. Gehe zu Dateimanager &gt; Dokumente, um diese Funktion zu testen.</string>
     <string name="screen_projection_example_document_summary_miui15">Präsentationsfolien auf einem TV anzeigen, während dieses Gerät als Fernbedienung verwendet wird</string>
     <string name="screen_projection_example_document_title">Dokumente</string>
     <string name="screen_projection_example_gallery_hint_miui15">*Um Fotos und Videos zu übertragen, wähle ein Element in der Galerie aus, tippe auf \"Teilen\" und dann auf das Symbol \"Casting\."</string>

@@ -545,7 +545,7 @@
     <string name="local_mode_open">Offline-Modus</string>
     <string name="local_notification_default_title">Themen</string>
     <string name="local_notification_font_trial_title">Neue Schriften testen</string>
-    <string name="local_notification_update_theme_title">Aktualisieren Sie Ihre Themen</string>
+    <string name="local_notification_update_theme_title">Aktualisiere deine Themen</string>
     <string name="local_photos">Lokale Fotos</string>
     <string name="local_resouce_creator_name">Entwickler: %1$s</string>
     <string name="lock_screen_apply">Als Sperrbildschirm festlegen</string>
@@ -619,7 +619,7 @@ dd.MM."</string>
     <string name="miuishare_share_editor_title">Teilen</string>
     <string name="miuishare_share_fail">Teilen fehlgeschlagen</string>
     <string name="miuishare_sys_title_share">Mehr Optionen</string>
-    <string name="miuishare_timeline_title">Finden Sie Ihren nächsten Hintergrund</string>
+    <string name="miuishare_timeline_title">Finde deinen nächsten Hintergrund</string>
     <string name="miuishare_title_more">Mehr</string>
     <string name="miuishare_title_share">Teilen</string>
     <string name="miuix_access_state_desc">Ausgewählt</string>
@@ -1210,10 +1210,10 @@ Sie können diese Erlaubnis unter Einstellungen > Datenschutz erteilen."</string
     <string name="settings_search_keyword_font_online">Online-Schriftarten</string>
     <string name="settings_search_keyword_font_style">Schriftformat</string>
     <string name="settings_search_keyword_font_wechat">WeChat-Schriftart</string>
-    <string name="share_content_text_first_font">Testen Sie es! \"%1$s\"-Schriftart verleiht Ihrem Telefon ein völlig neues Aussehen.</string>
-    <string name="share_content_text_first_theme">Testen Sie es! \"%1$s\"-Thema verleiht Ihrem Telefon ein völlig neues Aussehen.</string>
-    <string name="share_content_text_first_wallpaper">Testen Sie es! \"%1$s\"-Hintergrund verleiht Ihrem Telefon ein völlig neues Aussehen.</string>
-    <string name="share_content_text_second">Finden Sie Ihren eigenen Stil in %1$s!</string>
+    <string name="share_content_text_first_font">Teste es! \"%1$s\"-Schriftart verleiht deinem Telefon ein völlig neues Aussehen.</string>
+    <string name="share_content_text_first_theme">Teste es! \"%1$s\"-Thema verleiht deinem Telefon ein völlig neues Aussehen.</string>
+    <string name="share_content_text_first_wallpaper">Teste es! \"%1$s\"-Hintergrund verleiht deinem Telefon ein völlig neues Aussehen.</string>
+    <string name="share_content_text_second">Finde deinen eigenen Stil in %1$s!</string>
     <string name="share_content_topic">\#Xiaomi Themen#</string>
     <string name="share_copy_theme_url">Themen-URL kopieren</string>
     <string name="share_copy_url_success">Erfolgreich kopiert</string>
@@ -1372,9 +1372,9 @@ Sie können diese Erlaubnis unter Einstellungen > Datenschutz erteilen."</string
     <string name="theme_comment_detail_no_more">Das ist im Moment alles</string>
     <string name="theme_comment_detail_sub_comment_title">Alle Antworten</string>
     <string name="theme_comment_dialog_cancel">Jetzt nicht</string>
-    <string name="theme_comment_dialog_message">Gefällt Ihnen das Thema, das Sie jetzt verwenden? Wir würden uns über Ihr Feedback freuen!</string>
+    <string name="theme_comment_dialog_message">Gefällt dir das Thema, das du jetzt verwendest? Wir würden uns über dein Feedback freuen!</string>
     <string name="theme_comment_dialog_ok">Bewerten</string>
-    <string name="theme_comment_sub_comment_bar_hint">Teilen Sie Ihre Ideen mit unserer Community</string>
+    <string name="theme_comment_sub_comment_bar_hint">Teile deine Ideen mit unserer Community</string>
     <string name="theme_component_icon">Symbole</string>
     <string name="theme_component_title_alarmstyle">Alarmstil</string>
     <string name="theme_component_title_all">Themen</string>

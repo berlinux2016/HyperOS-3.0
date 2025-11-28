@@ -436,5 +436,5 @@
     <string name="xiaomi_market_sdk_update_dialog_cancel">Jetzt nicht</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Aktualisieren</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Ein Update ist verfügbar</string>
-    <string name="year_month_day_hour_minute_format">dd-MM-yyyy HH.mm</string>
+    <string name="year_month_day_hour_minute_format">dd.MM.yyyy HH.mm</string>
 </resources>
