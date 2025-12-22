@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="crop_wallpaper">Hintergrundbild zuschneiden</string>
+    <string name="wallpaper_instructions">Hintergrundbild festlegen</string>
+    <string name="wallpaper_load_fail">„Bild konnte nicht als Hintergrundbild geladen werden“</string>
+</resources>

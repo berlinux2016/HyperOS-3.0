@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apn_source_service" />
+    <string name="app_label">Phone and Messaging Storage</string>
+    <string name="mms_provider_label">MMS</string>
+    <string name="mms_sms_provider_label">Nachrichten</string>
+    <string name="siminfo_default_name">JA %d</string>
+    <string name="sms_provider_label">Nachrichten</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

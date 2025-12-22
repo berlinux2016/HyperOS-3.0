@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigieren Sie nach Hause</string>
+    <string name="abc_action_bar_up_description">Navigieren Sie nach oben</string>
+    <string name="abc_action_menu_overflow_description">Weitere Optionen</string>
+    <string name="abc_action_mode_done">Fertig</string>
+    <string name="abc_activity_chooser_view_see_all">Alle anzeigen</string>
+    <string name="abc_activitychooserview_choose_application">Wählen Sie eine App</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Strg+</string>
+    <string name="abc_menu_delete_shortcut_label">Löschen</string>
+    <string name="abc_menu_enter_shortcut_label">eingeben</string>
+    <string name="abc_menu_function_shortcut_label">Funktion+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Umschalt+</string>
+    <string name="abc_menu_space_shortcut_label">Raum</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menü+</string>
+    <string name="abc_search_hint">Suchen…</string>
+    <string name="abc_searchview_description_clear">Klare Abfrage</string>
+    <string name="abc_searchview_description_query">Suchanfrage</string>
+    <string name="abc_searchview_description_search">Suchen</string>
+    <string name="abc_searchview_description_submit">Anfrage senden</string>
+    <string name="abc_searchview_description_voice">Sprachsuche</string>
+    <string name="abc_shareactionprovider_share_with">Teilen mit</string>
+    <string name="abc_shareactionprovider_share_with_application">Mit %s teilen</string>
+    <string name="abc_toolbar_collapse_description">Zusammenbruch</string>
+    <string name="accessing_notification_title">Accessing files from %1$s</string>
+    <string name="androidx_startup">androidx.startup</string>
+    <string name="app_label">Telefon- und Nachrichtenspeicher</string>
+    <string name="call_notification_answer_action">Antwort</string>
+    <string name="call_notification_answer_video_action">Video</string>
+    <string name="call_notification_decline_action">Abfall</string>
+    <string name="call_notification_hang_up_action">Auflegen</string>
+    <string name="call_notification_incoming_text">Eingehender Anruf</string>
+    <string name="call_notification_ongoing_text">Laufender Anruf</string>
+    <string name="call_notification_screening_text">Überwachen eines eingehenden Anrufs</string>
+    <string name="downloads_app_label">Downloads</string>
+    <string name="error_busy_device">„Das andere Gerät ist beschäftigt. Sie können keine Dateien übertragen, bis es verfügbar ist.“</string>
+    <string name="error_locked_device">Keine Dateien gefunden. Das andere Gerät ist möglicherweise gesperrt. Wenn ja, entsperren Sie es und versuchen Sie es erneut.</string>
+    <string name="root_name">%1$s %2$s</string>
+    <string name="search_menu_title">Suchen</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

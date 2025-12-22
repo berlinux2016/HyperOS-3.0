@@ -1,27 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="add_frequent_phrases">Häufige Sätze hinzufügen</string>
+    <string name="add_frequent_phrases">Fügen Sie häufige Phrasen hinzu</string>
+    <string name="ai_content_description">KI-Schreiben</string>
+    <string name="ai_recognition">AI</string>
+    <string name="androidx_startup">androidx.startup</string>
+    <string name="app_name">pdf-android-tools</string>
+    <string name="ask_hyper_xiaoai">Fragen</string>
     <string name="call">Anrufen</string>
-    <string name="call_notification_answer_action">Annehmen</string>
-    <string name="call_notification_decline_action">Ablehnen</string>
+    <string name="call_notification_answer_action">Antwort</string>
+    <string name="call_notification_answer_video_action">Video</string>
+    <string name="call_notification_decline_action">Abfall</string>
     <string name="call_notification_hang_up_action">Auflegen</string>
     <string name="call_notification_incoming_text">Eingehender Anruf</string>
     <string name="call_notification_ongoing_text">Laufender Anruf</string>
-    <string name="call_notification_screening_text">Eingehende Anrufe prüfen</string>
+    <string name="call_notification_screening_text">Überwachen eines eingehenden Anrufs</string>
     <string name="edit_frequent_phrases">Häufige Sätze bearbeiten</string>
     <string name="floating_toolbar_close_overflow_description">Überlauf schließen</string>
-    <string name="floating_toolbar_open_overflow_description">Mehr Optionen</string>
-    <string name="frequent_phrases">Häufige Sätze</string>
+    <string name="floating_toolbar_menu_item_text_tag">floating_toolbar_menu_item_text</string>
+    <string name="floating_toolbar_open_overflow_description">Weitere Optionen</string>
+    <string name="frequent_phrases">Häufige Phrasen</string>
     <string name="google_call">Anruf</string>
+    <string name="google_check">Sicht</string>
     <string name="google_email">E-Mail</string>
     <string name="google_map">Karte</string>
     <string name="google_open">Öffnen</string>
+    <string name="google_track">Schiene</string>
     <string name="google_translate">Übersetzen</string>
-    <string name="open">Suchen</string>
+    <string name="open">Jetzt geöffnet</string>
     <string name="query">Abfragen</string>
     <string name="select">Wählen</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="translate">Übersetzen</string>
     <string name="translation_more">Mehr</string>
-    <string name="translation_query_error">Keine Ergebnisse gefunden</string>
-    <string name="translation_query_error_network">Keine Info erhalten, Netzwerkverbindung prüfen und erneut versuchen</string>
+    <string name="translation_query_error">„Konnte keine Ergebnisse finden“</string>
+    <string name="translation_query_error_network">„Informationen konnten nicht abgerufen werden. Überprüfen Sie die Netzwerkverbindung und versuchen Sie es erneut.“</string>
 </resources>

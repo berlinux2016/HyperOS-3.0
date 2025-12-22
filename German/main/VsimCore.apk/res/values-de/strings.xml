@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">pdf-android-tools</string>
+    <string name="assist_center_title">Wird derzeit verwendet</string>
+    <string name="assist_center_traffic_title">Übrig</string>
+    <string name="assist_key1_title">Heute verwendet</string>
+    <string name="assist_key2_title">Datenplan</string>
+    <string name="gb">GB</string>
+    <string name="kb">KB</string>
+    <string name="mb">MB</string>
+    <string name="noti_key1_today_used">Today: %1$s</string>
+    <string name="noti_key2_remain">Remaining: %1$s</string>
+    <string name="noti_key2_used">Used: %1$s</string>
+    <string name="noti_key3">Details ></string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

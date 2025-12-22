@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="advanced_privacy_search_terms" />
+    <string name="advanced_privacy_summary">Autofill, activity controls, and more</string>
+    <string name="advanced_privacy_title">Weitere Datenschutzeinstellungen</string>
+    <string name="advanced_security_search_terms" />
+    <string name="advanced_security_summary">Encryption, credentials, and more</string>
+    <string name="advanced_security_title">Fortschrittlich</string>
+    <string name="advanced_title">Weitere Einstellungen</string>
+    <string name="biometrics_search_terms">Fingerabdruck, Finger, Fingerabdruck hinzufügen, Gesichtsentsperrung, Gesicht</string>
+    <string name="biometrics_title">Biometrie</string>
+    <string name="config_NotificationListenerServicePregrants" />
+    <string name="config_defaultRefreshOnPageOpenSources" />
+    <string name="config_same_task_safety_source_ids">AndroidAccessibility,AndroidAdvancedPrivacy,AndroidAdvancedSecurity,AndroidBackgroundLocation,AndroidBiometrics,AndroidLockScreen,AndroidNotificationListener,AndroidPermissionAutoRevoke,AndroidPermissionManager,AndroidPermissionUsage,AndroidPrivacyControls,AndroidWorkPolicyInfo</string>
+    <string name="config_useSettingsHomepageIntentExtra">AndroidAdvancedPrivacy,AndroidAdvancedSecurity,TestSource</string>
+    <string name="group_unknown_summary">Noch keine Infos</string>
+    <string name="loading_summary">Geräteeinstellungen werden überprüft…</string>
+    <string name="lock_screen_search_terms">Gerätesperre, Bildschirmsperre, Sperrbildschirm, Sperrbildschirm, Passwort, PIN, Muster</string>
+    <string name="lock_screen_sources_summary" />
+    <string name="lock_screen_sources_title">Device lock</string>
+    <string name="lock_screen_summary_disabled">Noch keine Infos</string>
+    <string name="lock_screen_title">Bildschirmsperre</string>
+    <string name="notification_channel_group_name">Sicherheit &amp; Privatsphäre</string>
+    <string name="notification_channel_name_critical_warning">Kritische Warnungen</string>
+    <string name="notification_channel_name_information">Empfehlungen</string>
+    <string name="notification_channel_name_recommendation">Warnungen</string>
+    <string name="overall_severity_level_account_recommendation_title">Das Konto ist möglicherweise gefährdet</string>
+    <string name="overall_severity_level_action_taken_summary">{count, plural, =1 {Ergriffene Maßnahmen} other {Ergriffene Maßnahmen} }</string>
+    <string name="overall_severity_level_critical_account_warning_title">Konto gefährdet</string>
+    <string name="overall_severity_level_critical_data_warning_title">Ihre Daten sind gefährdet</string>
+    <string name="overall_severity_level_critical_device_warning_title">Das Gerät ist gefährdet</string>
+    <string name="overall_severity_level_critical_passwords_warning_title">Passwörter kompromittiert (neu)</string>
+    <string name="overall_severity_level_critical_personal_warning_title">Sie sind in Gefahr</string>
+    <string name="overall_severity_level_critical_safety_warning_title">Risiken gefunden</string>
+    <string name="overall_severity_level_data_recommendation_title">Ihre Daten könnten gefährdet sein</string>
+    <string name="overall_severity_level_device_recommendation_title">Das Gerät ist möglicherweise gefährdet</string>
+    <string name="overall_severity_level_ok_review_summary">Überprüfen Sie die Einstellungsliste</string>
+    <string name="overall_severity_level_ok_review_title">Überprüfen Sie die Einstellungen</string>
+    <string name="overall_severity_level_ok_summary">Keine Probleme gefunden</string>
+    <string name="overall_severity_level_ok_title">Sieht gut aus</string>
+    <string name="overall_severity_level_passwords_recommendation_title">Passwörter kompromittiert (alt)</string>
+    <string name="overall_severity_level_personal_recommendation_title">Möglicherweise sind Sie gefährdet</string>
+    <string name="overall_severity_level_safety_recommendation_title">Mögliche Risiken gefunden</string>
+    <string name="overall_severity_level_tip_summary">{count, plural, =1 {Siehe Empfehlung} other {Siehe Empfehlungen} }</string>
+    <string name="overall_severity_n_alerts_summary">{count, plural, =1 {Alarm anzeigen} other {Alarm anzeigen} }</string>
+    <string name="permission_manager_search_terms">Berechtigungen, Berechtigungsmanager</string>
+    <string name="permission_manager_summary">Kontrollieren Sie den App-Zugriff auf Ihre Daten</string>
+    <string name="permission_manager_title">Berechtigungsmanager</string>
+    <string name="permission_usage_search_terms">Datenschutz, Datenschutz-Dashboard</string>
+    <string name="permission_usage_summary">Zeigen Sie an, welche Apps zuletzt Berechtigungen verwendet haben</string>
+    <string name="permission_usage_title">Datenschutz-Dashboard</string>
+    <string name="privacy_controls_search_terms">Datenschutz, Datenschutzkontrollen</string>
+    <string name="privacy_controls_summary">Steuern Sie den Gerätezugriff auf Mikrofon, Kamera und mehr</string>
+    <string name="privacy_controls_title">Datenschutzkontrollen</string>
+    <string name="privacy_sources_summary">Dashboard, Berechtigungen, Kontrollen</string>
+    <string name="privacy_sources_title">Privatsphäre</string>
+    <string name="redirecting_error">Seite konnte nicht geöffnet werden</string>
+    <string name="refresh_error">{count, plural, =1 {Konnte die Einstellung nicht überprüfen} other {Konnte die Einstellungen nicht überprüfen} }</string>
+    <string name="resolving_action_error">Warnung konnte nicht gelöst werden</string>
+    <string name="safetyCenterResourcesAppLabel">Ressourcen des Sicherheitszentrums</string>
+    <string name="scanning_title">Scannen</string>
+    <string name="test_single_source_group_id_footer">Zusammenfassungstext für die Fußzeile</string>
+    <string name="work_profile_paused">Das Arbeitsprofil ist pausiert</string>
+</resources>

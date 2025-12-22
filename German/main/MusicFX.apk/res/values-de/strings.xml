@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="androidx_startup">androidx.startup</string>
+    <string name="app_name">pdf-android-tools</string>
+    <string name="bass_boost_strength">Bassverstärkung</string>
+    <string name="call_notification_answer_action">Antwort</string>
+    <string name="call_notification_answer_video_action">Video</string>
+    <string name="call_notification_decline_action">Abfall</string>
+    <string name="call_notification_hang_up_action">Auflegen</string>
+    <string name="call_notification_incoming_text">Eingehender Anruf</string>
+    <string name="call_notification_ongoing_text">Laufender Anruf</string>
+    <string name="call_notification_screening_text">Überwachen eines eingehenden Anrufs</string>
+    <string name="ci_extreme">FX-Booster</string>
+    <string name="classical">Klassisch</string>
+    <string name="dance">Tanzen</string>
+    <string name="eq_dialog_title">Equalizer</string>
+    <string name="flat">Wohnung</string>
+    <string name="folk">Leute</string>
+    <string name="headset_plug">Für diese Effekte schließen Sie Kopfhörer an.</string>
+    <string name="heavy_metal">Heavy Metal</string>
+    <string name="hip_hop">Hip Hop</string>
+    <string name="jazz">Jazz</string>
+    <string name="no_effects">Effekte nicht verfügbar.</string>
+    <string name="normal">Normal</string>
+    <string name="picker_title">Bedienfeld für Musikeffekte</string>
+    <string name="pop">Pop</string>
+    <string name="rock">Felsen</string>
+    <string name="setup">Aufstellen</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="user">Benutzer</string>
+    <string name="virtualizer_strength">Surround-Sound</string>
+</resources>
