@@ -1946,7 +1946,6 @@ We will share more once you're back online."</string>
     <string name="popkii_http_server_out_time">Zeitüberschreitung bei der Serveranforderung. Bitte versuchen Sie es später noch einmal</string>
     <string name="popkii_http_token_error">Login abgelaufen, bitte loggen Sie sich erneut ein</string>
     <string name="popkii_http_unknown_error">Anforderungsfehler, unbekannter Fehler</string>
-    <string name="popkii_indicator_color_error">Indikatorfarbattribut: „@color/colorID oder #000000“</string>
     <string name="popkii_input_limit">0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
     <string name="popkii_jump_ad">über etwas springen</string>
     <string name="popkii_no">NO</string>
