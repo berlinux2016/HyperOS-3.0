@@ -540,7 +540,7 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="account_sync_summary_all_on">Synchr. an für alle Elemente</string>
     <string name="account_sync_summary_some_on">Synchr. an für %1$d von %2$d Elementen</string>
     <string name="account_sync_title">Kontosynchronisation</string>
-    <string name="account_type" />com.android.calendar</string>
+    <string name="account_type">com.android.calendar</string>
     <string name="account_user_avatar_from_album">Galerie</string>
     <string name="account_user_avatar_from_camera">Kamera</string>
     <string name="account_user_name">Name</string>
@@ -984,7 +984,7 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="app_names_concatenation_template_2">%1$s, %2$s</string>
     <string name="app_names_concatenation_template_3">%1$s, %2$s, %3$s</string>
     <string name="app_not_found_dlg_text">„Die App wurde nicht in der Liste der installierten Apps gefunden.“</string>
-    <string name="app_not_found_dlg_title" />App nicht gefunden</string>
+    <string name="app_not_found_dlg_title">App nicht gefunden</string>
     <string name="app_notification_block_title">Alle blockieren</string>
     <string name="app_notification_field">App-Benachrichtigungen</string>
     <string name="app_notification_field_summary">Benachrichtigungen von einzelnen Apps steuern</string>
@@ -4213,7 +4213,7 @@ If this device isn’t nearby, you don’t need to do anything."</string>
     <string name="emergency_tone_summary">Verhalten einstellen, wenn ein Notruf gemacht wird</string>
     <string name="emergency_tone_title">Notrufsignal</string>
     <string name="emergency_tone_vibrate">Vibrationen</string>
-    <string name="empty_title" />" "</string>
+    <string name="empty_title">" "</string>
     <string name="enableNetwork">Netzwerk aktivieren</string>
     <string name="enable_16k_app_compat_details">Beim Umschalten wird die App gestoppt und im Seitengrößenkompatibilitätsmodus auf einem 16-KB-Gerät ausgeführt.</string>
     <string name="enable_16k_app_compat_title">Führen Sie die App im Kompatibilitätsmodus für die Seitengröße aus</string>
@@ -4405,7 +4405,7 @@ If this device isn’t nearby, you don’t need to do anything."</string>
     <string name="error_name_empty">Namensfeld darf nicht leer sein</string>
     <string name="error_ota_failed">Das Kernel-Update ist fehlgeschlagen. Beim Anwenden von OTA ist ein Fehler aufgetreten.</string>
     <string name="error_pending_updates">Das Kernel-Update ist fehlgeschlagen. Überprüfen und installieren Sie alle ausstehenden Updates.</string>
-    <string name="error_title" />„Konnte nicht synchronisiert werden“</string>
+    <string name="error_title">„Konnte nicht synchronisiert werden“</string>
     <string name="estimated_charging_time_left">Bis vollgeladen</string>
     <string name="estimated_time_description">Die Schätzung kann sich je nach Nutzung ändern</string>
     <string name="estimated_time_left">Geschätzte Restdauer</string>

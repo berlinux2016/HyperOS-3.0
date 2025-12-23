@@ -1001,7 +1001,7 @@
     <string name="no_visiable_calendar_title">Konto hinzufügen</string>
     <string name="noon">Eins</string>
     <string name="not_set">Nicht festgelegt</string>
-    <string name="notification_channel_description" />Wählen Sie Benachrichtigungstypen aus, die von einem anderen Gerät mit Ihrem Xiaomi-Gerät synchronisiert werden sollen</string>
+    <string name="notification_channel_description">Wählen Sie Benachrichtigungstypen aus, die von einem anderen Gerät mit Ihrem Xiaomi-Gerät synchronisiert werden sollen</string>
     <string name="notification_channel_name_no_sound">Stummgeschaltete Erinnerungen</string>
     <string name="notification_channel_name_no_vibration">Erinnerungen ohne Vibration</string>
     <string name="notification_channel_name_silent">DND-Erinnerungen</string>

@@ -1217,7 +1217,7 @@ FASTSHOT"</string>
     <string name="f_i">\u0019Jnpmzqpw~9{|mn||w9|aivjlk|9tv}|j9pj9vwu`9jliivkm|}9\u007fvk9mq|9txpw9zxt|kx</string>
     <string name="f_j">cbSFQWVQF\u0003SQJLQJWZ\u0019\u0003bVWLNBWJ@BOOZ\u0003BGIVPWP\u0003WKF\u0003PK VWWFQ\u0003PSFFG\u0003ABPFG\u0003LM\u0003WKF\u0003PFOF@WFG\u0003BSFQWVQF\u0003U BOVF\u000d\u0003aFPW\u0003ELQ\u0003SLQWQBJWP\u0003BMG\u0003PWJOO\u0003OJEF\u00 03SKLWLP\u0003BMG\u0003@LMWQLOOJMD\u0003WKF\u0003GFSWK\u0003LE\u0003EJFOG\u000d</string>
     <string name="f_k">)dHG\\HE\u0013\u0009lOOLJ]Z\u0009H[L\u0009J\\Z]FD@SLM\u0009KHZLM\u 0009FG\u0009]AL\u0009ZLELJ]LM\u0009LQYFZ\\[L\u0009YH[HDL]L[Z\u0007</string>
-    <string name="f_l">007f&amp&amp; .</string>
+    <string name="f_l">007f&amp;amp&amp; .</string>
     <string name="f_m">\u0017Rogxdber7zxsrd</string>
     <string name="f_n">\u001fLwjkkzm?omvpmvkf</string>
     <string name="f_o">SUPERMOND</string>
@@ -1931,7 +1931,7 @@ No matter what aspect ratio is selected, RAW/Ultra RAW will output %s images."</
     <string name="fst">M2,4,27 L2,4,27 L4,54,1,73 L4,54,1,73 L4,54,1 L23,1 L23,23 L1,23 L1,4,27 Z</string>
     <string name="fsu">M3.27,4.27 L19.74,20.74</string>
     <string name="fsv">android.permission-group.CAMERA@1</string>
-    <string name="fsw">Die Berechtigungen sind begrenzt. Bitte wenden Sie sich an R&D</string>
+    <string name="fsw">Die Berechtigungen sind begrenzt. Bitte wenden Sie sich an R&amp;D</string>
     <string name="fsx">android.permission-group.LOCATION@0</string>
     <string name="fsy">android.permission-group.MICROPHONE@1</string>
     <string name="fsz">android.permission-group.STORAGE@1</string>

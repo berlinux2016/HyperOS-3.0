@@ -533,7 +533,7 @@ One-year and five-year LPRs will be quoted on the 20th of each month (delays mig
     <string name="not_supported_due_to_language">Diese Funktion ist nur für die chinesische Sprache verfügbar</string>
     <string name="ok">Habe es</string>
     <string name="pad_handwritten_floating_button_text">Handschriftlicher Berechnungsknopf</string>
-    <string name="percent" />{value, plural, =1 {1%} other {#%}}</string>
+    <string name="percent">{value, plural, =1 {1%} other {#%}}</string>
     <string name="percentage_formula">100+50 %</string>
     <string name="percentage_key1">=100,5</string>
     <string name="percentage_key2">=150</string>

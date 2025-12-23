@@ -952,7 +952,7 @@ Unter Einstellungen &gt; Bedienungshilfen kannst du diesem Kürzel eine andere F
     <string name="error_message_title">Fehler</string>
     <string name="etws_primary_default_message_earthquake">Bleiben Sie ruhig und suchen Sie Schutz in der Nähe.</string>
     <string name="etws_primary_default_message_earthquake_and_tsunami">Bleiben Sie ruhig und suchen Sie Schutz in der Nähe.</string>
-    <string name="etws_primary_default_message_others" />Warnung der lokalen Regierung. Weitere Informationen folgen in Kürze.</string>
+    <string name="etws_primary_default_message_others">Warnung der lokalen Regierung. Weitere Informationen folgen in Kürze.</string>
     <string name="etws_primary_default_message_tsunami">Evakuieren Sie umgehend aus Küstenregionen und Flussufern an einen sichereren Ort, z. B. auf eine Anhöhe.</string>
     <string name="eventTypeAnniversary">Jubiläum</string>
     <string name="eventTypeBirthday">Geburtstag</string>

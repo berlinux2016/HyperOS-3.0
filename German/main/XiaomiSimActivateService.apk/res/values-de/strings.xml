@@ -562,7 +562,7 @@
     <string name="passport_user_name_phone_number">Telefonnummer</string>
     <string name="passport_user_password_hint">Passwort</string>
     <string name="passport_vcode_what_app_send_prompt">Ihr WhatsApp-Bestätigungscode wird an Ihr Wiederherstellungstelefon gesendet (&lt;font color=#1F93FF>%s&lt;/font>).</string>
-    <string name="passport_wechat_application_id" />wxbf03a31f4135dd16</string>
+    <string name="passport_wechat_application_id">wxbf03a31f4135dd16</string>
     <string name="passport_wechat_scope">snsapi_userinfo</string>
     <string name="passport_wechat_state">passport_weixin_sns_auth_state</string>
     <string name="passport_weibo_application_id" />

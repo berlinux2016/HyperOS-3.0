@@ -621,7 +621,7 @@ Send this code to the supervisor."</string>
     <string name="mi_service_back">Zurück</string>
     <string name="mi_service_dialog_cancel">Ausfahrt</string>
     <string name="mi_service_dialog_confirm">Öffnen</string>
-    <string name="mi_service_dialog_content">Alle Feedbackfunktionen wurden in die neue App „Services & Feedback“ verschoben. Die Feedback-App wird von Ihrem Startbildschirm entfernt. Tippen Sie auf „Öffnen“, um „Dienste und Feedback“ auszuprobieren.</string>
+    <string name="mi_service_dialog_content">Alle Feedbackfunktionen wurden in die neue App „Services &amp; Feedback“ verschoben. Die Feedback-App wird von Ihrem Startbildschirm entfernt. Tippen Sie auf „Öffnen“, um „Dienste und Feedback“ auszuprobieren.</string>
     <string name="mi_service_dialog_title">Vorstellung von „Services und Feedback“</string>
     <string name="midnight">Nacht</string>
     <string name="mishop_login_other">Ein anderes Konto</string>
