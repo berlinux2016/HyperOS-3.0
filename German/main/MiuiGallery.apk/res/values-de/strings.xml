@@ -1484,7 +1484,6 @@ Die besten Fotos werden automatisch ausgewählt. Du kannst mehr Fotos manuell hi
     <string name="editphoto_datetime_needdownload_origin_subtitle">Originaldatei aus Xiaomi Cloud herunterladen, um die Zeit zu ändern</string>
     <string name="editphoto_datetime_needdownload_origin_title">Original herunterladen</string>
     <string name="email_picker_title">Geteilte E-Mail hinzufügen</string>
-    <string name="empty" />" "</string>
     <string name="empty_album_hidden_list_title">Keine ausgeblendeten Alben</string>
     <string name="empty_album_other_list_title">Keine Alben hier</string>
     <string name="empty_album_rubbish_list_title">Keine Alben hier</string>

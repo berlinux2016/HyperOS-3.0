@@ -535,7 +535,6 @@
     <string name="emergency_contact">Notfallkontakte</string>
     <string name="emergency_lock_show_subtitle">Erhalte deine medizinische Notfall-ID, indem du bei gesperrtem Bildschirm auf \"Notfall\" und \"Medizinische Notfall-ID\" tippst.</string>
     <string name="emergency_lock_show_title">Bei Sperre anzeigen</string>
-    <string name="empty" />" "</string>
     <string name="enable">Einschalten</string>
     <string name="enable_go_now">Einschalten</string>
     <string name="enable_not_now">Jetzt nicht</string>

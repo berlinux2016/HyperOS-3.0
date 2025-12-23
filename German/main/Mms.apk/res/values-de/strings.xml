@@ -424,7 +424,6 @@ Please note that the internet messaging functionality is now suspended until fur
     <string name="edit_slide_activity">Folie bearbeiten</string>
     <string name="edit_slideshow_activity">Diashow bearbeiten</string>
     <string name="emergency_label">Notfallkontakt</string>
-    <string name="empty" />" "</string>
     <string name="enable_location_service">Berechtigungen erforderlich</string>
     <string name="enabled">Ermöglicht</string>
     <string name="english_subject_limit">40 Zeichen</string>

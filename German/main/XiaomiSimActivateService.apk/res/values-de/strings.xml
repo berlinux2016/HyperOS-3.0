@@ -199,7 +199,6 @@
     <string name="earthly_branches_yin">寅</string>
     <string name="earthly_branches_you">酉</string>
     <string name="earthly_branches_zi">子</string>
-    <string name="empty" />" "</string>
     <string name="eras_bc">BCE</string>
     <string name="error_checking_client_tip">Aktivierungsumgebung wurde nicht geprüft. Tippen, um es erneut zu versuchen.</string>
     <string name="error_network_io_tip">Netzwerkeinstellungen prüfen und erneut versuchen</string>

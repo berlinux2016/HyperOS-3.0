@@ -965,7 +965,6 @@ Once you clear all data, you'll exit the app. This data will be cleared permanen
     <string name="earthly_branches_you">酉</string>
     <string name="earthly_branches_zi">子</string>
     <string name="edit_playlist_info">Playlist-Informationen bearbeiten</string>
-    <string name="empty" />" "</string>
     <string name="empty_page_no_artist">Keine Künstler.</string>
     <string name="enable">Einschalten</string>
     <string name="enabled">Ermöglicht</string>

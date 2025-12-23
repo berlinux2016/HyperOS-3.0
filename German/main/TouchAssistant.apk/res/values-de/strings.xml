@@ -136,7 +136,6 @@
     <string name="edge_mode_custom_summary">Größe der Aufweckbereiche nahe am Bildschirmrand einstellen</string>
     <string name="edge_mode_custom_title">Brauch</string>
     <string name="edge_mode_default_title">Standard</string>
-    <string name="empty" />" "</string>
     <string name="eras_ad">CE</string>
     <string name="eras_bc">BCE</string>
     <string name="evening">Nachmittag</string>

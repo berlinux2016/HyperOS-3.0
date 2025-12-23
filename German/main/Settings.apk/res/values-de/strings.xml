@@ -4213,7 +4213,6 @@ If this device isn’t nearby, you don’t need to do anything."</string>
     <string name="emergency_tone_summary">Verhalten einstellen, wenn ein Notruf gemacht wird</string>
     <string name="emergency_tone_title">Notrufsignal</string>
     <string name="emergency_tone_vibrate">Vibrationen</string>
-    <string name="empty" />" "</string>
     <string name="empty_title" />" "</string>
     <string name="enableNetwork">Netzwerk aktivieren</string>
     <string name="enable_16k_app_compat_details">Beim Umschalten wird die App gestoppt und im Seitengrößenkompatibilitätsmodus auf einem 16-KB-Gerät ausgeführt.</string>

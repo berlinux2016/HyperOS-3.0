@@ -632,7 +632,6 @@
     <string name="editor_continue">Weitermachen</string>
     <string name="effect_home">Desktop-Effekt</string>
     <string name="effect_lock">Lockscreen-Effekt</string>
-    <string name="empty" />" "</string>
     <string name="enable_aod_list">Always-On-Display einschalten</string>
     <string name="enable_transparent_wallpaper">Transparenten Hintergrund verwenden</string>
     <string name="enabling_all_free_mode">Einlösen…</string>

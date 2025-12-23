@@ -184,7 +184,6 @@
     <string name="earthly_branches_yin">寅</string>
     <string name="earthly_branches_you">酉</string>
     <string name="earthly_branches_zi">子</string>
-    <string name="empty" />" "</string>
     <string name="enable_power_save_mode_notification_fail_content">Erneut versuchen oder Stromsparen am Telefon einschalten</string>
     <string name="enable_power_save_mode_notification_fail_title">Einschalten nicht möglich</string>
     <string name="enable_power_save_mode_notification_success_content">Stromsparen erfolgreich am Telefon aktiviert</string>

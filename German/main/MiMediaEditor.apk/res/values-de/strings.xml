@@ -761,7 +761,6 @@ For best results, use this feature on clear, forward-facing photos."</string>
     <string name="editor_export">Speichern</string>
     <string name="editor_talkback_redo">Wiederholen</string>
     <string name="editor_talkback_undo">Rückgängig machen</string>
-    <string name="empty" />" "</string>
     <string name="enter_choice_mode">Teilen-Dialog aufgerufen</string>
     <string name="eras_ad">CE</string>
     <string name="eras_bc">BCE</string>

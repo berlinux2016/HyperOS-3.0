@@ -574,7 +574,6 @@
     <string name="email_sync_failed">E-Mail synchronisieren fehlgeschlagen</string>
     <string name="emial_filter_create_hint">Regel wird nicht auf bestehende E-Mails angewendet</string>
     <string name="eml_parse_message">EML-Datei öffnen…</string>
-    <string name="empty" />" "</string>
     <string name="empty_email_tip">Leere Nachricht kann nicht gesendet werden</string>
     <string name="encrypt_app_aes_key">cRCaZZvSn73In2mMPjjFHeE0sEcfyB6h</string>
     <string name="enumeration_delimiter">" | "</string>

@@ -336,7 +336,6 @@ You can view generated logs in File Manager."</string>
     <string name="earthly_branches_zi">子</string>
     <string name="edge_mode_state_summary">Der Bereich um abgerundete Kanten reagiert nicht auf Berührungen</string>
     <string name="edge_mode_state_title">Versehentliche Berührung an den Rändern ignorieren</string>
-    <string name="empty" />" "</string>
     <string name="ent_activating">Aktivieren…</string>
     <string name="ent_activation">Aktivieren</string>
     <string name="ent_activation_hint">Gib deinen Firmencode zusammen mit dem Lizenzcode ein, um den Unternehmensmodus zu aktivieren. Danach werden benutzerdefinierte Unternehmensdienste aktiviert.</string>

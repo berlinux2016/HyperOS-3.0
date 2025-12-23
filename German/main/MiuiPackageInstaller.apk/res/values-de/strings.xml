@@ -308,7 +308,6 @@
     <string name="elder_mode_setting_subtitle">Schutz vor Installation riskanter Apps und Datenschutzverletzungen</string>
     <string name="elder_mode_subtitle">Schutz vor Installation riskanter Apps, Datenschutzverletzungen und Betrug</string>
     <string name="elder_mode_title">Älterenschutz</string>
-    <string name="empty" />" "</string>
     <string name="enhance_mode_close_feedback">Danke für die Nutzung des erhöhten Schutzes</string>
     <string name="enhance_mode_close_tip">Mi Protect bleibt auch dann aktiviert, wenn Sie den erweiterten Schutz deaktivieren.</string>
     <string name="enhance_mode_feedback_reason">Warum schalten Sie diese Funktion aus?</string>

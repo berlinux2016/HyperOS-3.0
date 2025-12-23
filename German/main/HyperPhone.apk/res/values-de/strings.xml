@@ -172,7 +172,6 @@
     <string name="earthly_branches_yin">寅</string>
     <string name="earthly_branches_you">酉</string>
     <string name="earthly_branches_zi">子</string>
-    <string name="empty" />" "</string>
     <string name="enable_crbt_pref_title">Profilvideos für eingehende Anrufe deaktivieren</string>
     <string name="enable_dual_4g_prompt_when_turn_on_volte">VoLTE erfordert 4G-Konnektivität für beide SIM-Steckplätze. Jetzt auf Dual 4G umsteigen?</string>
     <string name="enable_esim_dialog_summary">„Wenn Sie eSIM aktivieren, können Sie Ihre aktuelle SIM-Karte %s nicht verwenden. eSIM trotzdem aktivieren?“</string>

@@ -790,7 +790,6 @@ Pages you view won't appear in history."</string>
     <string name="edit_bookmark_tips">Erfolgreich zu den Lesezeichen hinzugefügt. &lt;font color=#247BFF>Bearbeiten&lt;/font></string>
     <string name="edit_quicklink">Bearbeiten</string>
     <string name="edit_website">URL bearbeiten</string>
-    <string name="empty" />" "</string>
     <string name="empty_bookmark">Leer</string>
     <string name="empty_history_hint">Die Geschichte ist leer</string>
     <string name="empty_snapshot_hint">Leer</string>

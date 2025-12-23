@@ -344,7 +344,6 @@ Wichtig: Daten der installierten Apps werden dabei nicht in Xiaomi Cloud gesiche
     <string name="earthly_branches_yin">寅</string>
     <string name="earthly_branches_you">酉</string>
     <string name="earthly_branches_zi">子</string>
-    <string name="empty" />" "</string>
     <string name="eras_bc">BCE</string>
     <string name="error_num_placeholder">--</string>
     <string name="error_retry_later">Aktion wurde nicht abgeschlossen. Etwas warten und erneut versuchen.</string>

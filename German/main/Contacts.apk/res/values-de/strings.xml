@@ -685,7 +685,6 @@ By tapping \"Agree\" below, you're agreeing to &lt;font color=#33aaff&gt;&lt;a h
     <string name="email_other">E-Mail</string>
     <string name="email_work">An E-Mail (Geschäftlich)</string>
     <string name="emergency_number_label">Notfallnummer</string>
-    <string name="empty" />" "</string>
     <string name="eras_ad">CE</string>
     <string name="eras_bc">BCE</string>
     <string name="err_dont_install_mipay">Mi Pay installieren, um die Zahlung abzuschließen</string>

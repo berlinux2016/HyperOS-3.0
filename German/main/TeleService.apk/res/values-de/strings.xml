@@ -923,7 +923,6 @@ Try again."</string>
     <string name="emm_cause_3">Benutzer wurde nicht verifiziert. Gerät ausschalten, wieder einschalten und erneut versuchen.</string>
     <string name="emm_cause_6">Gerät wurde nicht verifiziert. Gerät ausschalten, wieder einschalten und erneut versuchen.</string>
     <string name="emm_cause_7_8_12_13_15_16_17_22">Sie können Roaming jetzt nicht nutzen. Gerät ausschalten, wieder einschalten und erneut versuchen. Wenn dieses Problem danach immer noch auftritt, wenden Sie sich an den Anbieter-Kundendienst (SKT: +%1$d-%2$d-%3$d-%4$d).</string>
-    <string name="empty" />" "</string>
     <string name="enable">Einschalten</string>
     <string name="enable_2g_dialog_title">Achtung</string>
     <string name="enable_2g_dialog_warn_message">Wenn Sie 2G ausschalten und sich in einem Gebiet befinden, in dem 2G das einzige verfügbare Netz ist, können Sie keine Notrufe oder andere Anrufe führen. Trotzdem ausschalten?</string>

@@ -142,7 +142,6 @@
     <string name="earthly_branches_yin">寅</string>
     <string name="earthly_branches_you">酉</string>
     <string name="earthly_branches_zi">子</string>
-    <string name="empty" />" "</string>
     <string name="eras_bc">BCE</string>
     <string name="error_message_1">Es ist ein Serverfehler aufgetreten. Warten Sie ein oder zwei Minuten und versuchen Sie es erneut.</string>
     <string name="error_message_2">Damit Sie Ihre Einwilligung widerrufen können, muss Ihr Gerät mit dem Netzwerk verbunden sein. Überprüfen Sie Ihre Netzwerkeinstellungen und versuchen Sie es erneut.</string>

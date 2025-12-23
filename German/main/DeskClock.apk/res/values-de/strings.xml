@@ -247,7 +247,6 @@
     <string name="edit_alarm">Alarm bearbeiten</string>
     <string name="edit_label">Alarmbezeichnung bearbeiten</string>
     <string name="edit_systemtime">Systemzeit bearbeiten</string>
-    <string name="empty" />" "</string>
     <string name="eras_ad">CE</string>
     <string name="eras_bc">BCE</string>
     <string name="error_a11y_label">Fehler: ungültig</string>

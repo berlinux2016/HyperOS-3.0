@@ -225,7 +225,6 @@
     <string name="edit_hint2">HTTP-, FTP-, magnet- oder ed2k-Link eingeben</string>
     <string name="editmode_menu_delete">Löschen</string>
     <string name="editmode_menu_share">Teilen</string>
-    <string name="empty" />" "</string>
     <string name="eras_ad">CE</string>
     <string name="eras_bc">BCE</string>
     <string name="evening">Nachmittag</string>

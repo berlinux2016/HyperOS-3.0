@@ -480,7 +480,6 @@ Data sharing practices may vary based on your app version, use, region, and age.
     <string name="earthly_branches_you">酉</string>
     <string name="earthly_branches_zi">子</string>
     <string name="edit_photos_description">Bearbeiten Sie ausgewählte Fotos für diese App</string>
-    <string name="empty" />" "</string>
     <string name="encryption_unaware_confirmation_message">Hinweis: Wenn Sie Ihr Gerät neu starten und eine Bildschirmsperre eingerichtet haben, kann diese App erst gestartet werden, wenn Sie Ihr Gerät entsperren.</string>
     <string name="enhanced_confirmation_dialog_desc">Aus Sicherheitsgründen ist diese Einstellung derzeit nicht verfügbar.</string>
     <string name="enhanced_confirmation_dialog_desc_permission">"The app requested access to a sensitive permission which can put your personal and financial info at risk.&lt;br&gt;&lt;br&gt;It's possible the app won't work properly without this restricted permission. &lt;a href=%1$s&gt;Learn how to allow access&lt;/a&gt;"</string>

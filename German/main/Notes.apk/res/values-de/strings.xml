@@ -523,7 +523,6 @@
     <string name="earthly_branches_zi">子</string>
     <string name="edit_header_lock_description">Versteckte Notiz</string>
     <string name="edit_note_hint_title">Titel</string>
-    <string name="empty" />" "</string>
     <string name="enable_sync_desc">Sync your notes with your Xiaomi Account (%1$s)?</string>
     <string name="enter_content">Erst Inhalt eingeben</string>
     <string name="eras_ad">CE</string>

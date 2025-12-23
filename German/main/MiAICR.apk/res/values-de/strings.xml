@@ -634,7 +634,6 @@
     <string name="earthly_branches_you">酉</string>
     <string name="earthly_branches_zi">子</string>
     <string name="eleme_corresponding">„ { Versionsname: 11.16.8, Versionscode: 1270, entsprechende Liste: [ { Knotenname: Adresse_Paste_Label, Knoten-ID: Bearbeiten }, { Knotenname: Erkennung_btn, Knoten-ID: Erkennung } ] } „</string>
-    <string name="empty" />" "</string>
     <string name="eras_bc">BCE</string>
     <string name="error_a11y_label">Fehler: ungültig</string>
     <string name="error_icon_content_description">Fehler</string>

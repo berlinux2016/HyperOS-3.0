@@ -445,7 +445,6 @@
     <string name="email_guests_label">E-Mail an Gäste</string>
     <string name="email_picker_label">E-Mail mit</string>
     <string name="email_subject_prefix">"AW: "</string>
-    <string name="empty" />" "</string>
     <string name="eras_ad">CE</string>
     <string name="eras_bc">BCE</string>
     <string name="error_icon_content_description">Fehler</string>

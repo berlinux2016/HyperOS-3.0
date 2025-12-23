@@ -143,7 +143,6 @@ Make sure your speaker's firmware is up to date."</string>
     <string name="earthly_branches_yin">寅</string>
     <string name="earthly_branches_you">酉</string>
     <string name="earthly_branches_zi">子</string>
-    <string name="empty" />" "</string>
     <string name="enable_location_alert_message">Um die Geräte zu verbinden, aktivieren Sie zunächst die Ortungsdienste. Jetzt einschalten?</string>
     <string name="enable_location_alert_ok">Einschalten</string>
     <string name="enable_location_alert_title">Aktivieren Sie die Ortungsdienste</string>

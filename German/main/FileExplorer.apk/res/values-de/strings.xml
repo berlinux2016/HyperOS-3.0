@@ -347,7 +347,6 @@ Try moving files from your device to Mi Drive."</string>
     <string name="earthly_branches_you">酉</string>
     <string name="earthly_branches_zi">子</string>
     <string name="edit_quick_category">Bearbeiten</string>
-    <string name="empty" />" "</string>
     <string name="enable_usb">USB-Gerät anschließen</string>
     <string name="encrypt_error">Privat markieren fehlgeschlagen. Erneut versuchen.</string>
     <string name="encrypt_prefix">PRIVAT</string>

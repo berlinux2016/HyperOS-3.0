@@ -162,7 +162,6 @@ Summary content, including any private information therein, will be processed by
     <string name="earthly_branches_yin">寅</string>
     <string name="earthly_branches_you">酉</string>
     <string name="earthly_branches_zi">子</string>
-    <string name="empty" />" "</string>
     <string name="enable_lockscreen_notification">Sperrbildschirm-Benachrichtigungen sind erlaubt</string>
     <string name="enable_show_badge_notification">Benachrichtigungsausweise sind erlaubt</string>
     <string name="eras_ad">CE</string>
