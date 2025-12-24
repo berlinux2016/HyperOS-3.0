@@ -30,9 +30,9 @@
     <string name="abc_searchview_description_voice">Sprachsuche</string>
     <string name="abc_toolbar_collapse_description">Zusammenbruch</string>
     <string name="access_sensor_note">Apps mit dieser Berechtigung können auf %s Daten von Ihren Gerätesensoren zugreifen.</string>
-    <string name="accessed">Accessed %1$s</string>
+    <string name="accessed">Auf %1$s zugegriffen</string>
     <string name="accessibility_banner_message_dismiss">Zurückweisen</string>
-    <string name="active_calories_burned">Active: %1$s</string>
+    <string name="active_calories_burned">Aktiv: %1$s</string>
     <string name="active_calories_burned_lowercase_label">aktiv verbrannte Kalorien</string>
     <string name="active_calories_burned_read_content_description">Lesen Sie die verbrannten aktiven Kalorien</string>
     <string name="active_calories_burned_uppercase_label">Aktiv verbrannte Kalorien</string>
@@ -50,29 +50,29 @@
     <string name="additional_access_combined_footer">Aktivieren Sie mindestens eine Leseberechtigung, um den Hintergrund- oder früheren Datenzugriff für diese App zu aktivieren</string>
     <string name="additional_access_history_footer">Aktivieren Sie mindestens eine Leseberechtigung, um den früheren Datenzugriff für diese App zu aktivieren</string>
     <string name="additional_access_label">Zusätzlicher Zugang</string>
-    <string name="additional_access_medical_read_footer">%1$s can already access past data for your health records. To change this, turn off health record permissions for this app</string>
+    <string name="additional_access_medical_read_footer">%1$s kann bereits auf frühere Daten zu Ihren Gesundheitsakten zugreifen. Um dies zu ändern, deaktivieren Sie die Berechtigungen für Gesundheitsdatensätze für diese App</string>
     <string name="additional_access_medical_read_footer_link">Verwalten Sie die Berechtigungen für Gesundheitsakten</string>
     <string name="additional_access_summary">Vergangene Daten, Hintergrunddaten</string>
-    <string name="additional_permissions_combined_request_description">%1$s also wants to access these Health Connect settings</string>
-    <string name="additional_permissions_combined_request_title">Allow additional access for %1$s?</string>
+    <string name="additional_permissions_combined_request_description">%1$s möchte auch auf diese Health Connect-Einstellungen zugreifen</string>
+    <string name="additional_permissions_combined_request_title">Zusätzlichen Zugriff für %1$s zulassen?</string>
     <string name="all_app_data_selected_deletion_confirmation_dialog">Alle %s Daten dauerhaft löschen?</string>
-    <string name="all_app_entries_selected_day_deletion_confirmation_dialog">Permanently delete all %1$s entries for %2$s?</string>
-    <string name="all_app_entries_selected_month_deletion_confirmation_dialog">Permanently delete all %1$s entries for %2$s?</string>
-    <string name="all_app_entries_selected_week_deletion_confirmation_dialog">Permanently delete all %1$s entries for the week of %2$s?</string>
+    <string name="all_app_entries_selected_day_deletion_confirmation_dialog">Alle %1$s Einträge für %2$s dauerhaft löschen?</string>
+    <string name="all_app_entries_selected_month_deletion_confirmation_dialog">Alle %1$s Einträge für %2$s dauerhaft löschen?</string>
+    <string name="all_app_entries_selected_week_deletion_confirmation_dialog">Alle %1$s Einträge für die Woche von %2$s dauerhaft löschen?</string>
     <string name="all_data_no_data_footer">Hier werden Daten von Apps mit Zugriff auf Health Connect angezeigt</string>
     <string name="all_data_selected_deletion_confirmation_dialog">Alle Daten dauerhaft löschen?</string>
-    <string name="all_entries_selected_day_deletion_confirmation_dialog">Permanently delete all entries for %1$s?</string>
-    <string name="all_entries_selected_month_deletion_confirmation_dialog">Permanently delete all entries for %1$s?</string>
-    <string name="all_entries_selected_week_deletion_confirmation_dialog">Permanently delete all entries for the week of %1$s?</string>
+    <string name="all_entries_selected_day_deletion_confirmation_dialog">Alle Einträge für %1$s dauerhaft löschen?</string>
+    <string name="all_entries_selected_month_deletion_confirmation_dialog">Alle Einträge für %1$s dauerhaft löschen?</string>
+    <string name="all_entries_selected_week_deletion_confirmation_dialog">Alle Einträge für die Woche von %1$s dauerhaft löschen?</string>
     <string name="all_medical_data_content_description">Schreiben Sie alle Gesundheitsakten</string>
     <string name="all_medical_data_lowercase_label">alle Gesundheitsakten</string>
     <string name="all_medical_data_uppercase_label">Alle Gesundheitsakten</string>
     <string name="allergies_intolerances_content_description">Lesen Sie Allergien</string>
     <string name="allergies_intolerances_lowercase_label">Allergien</string>
     <string name="allergies_intolerances_uppercase_label">Allergien</string>
-    <string name="allow_all_the_time_prompt">Choose when %1$s can access your fitness and wellness data</string>
+    <string name="allow_all_the_time_prompt">Wählen Sie aus, wann %1$s auf Ihre Fitness- und Wellnessdaten zugreifen kann</string>
     <string name="allowed">Gewährt</string>
-    <string name="allowed_apps_count">%1$d of %2$d apps allowed</string>
+    <string name="allowed_apps_count">%1$d von %2$d Apps zulässig</string>
     <string name="allowed_to_access">Zugriff erlaubt</string>
     <string name="allowed_to_read">Lesen erlaubt</string>
     <string name="amrap_performance_goal">So viele Wiederholungen wie möglich</string>
@@ -85,7 +85,7 @@
     <string name="app_sources_header">App-Quellen</string>
     <string name="app_update_needed_banner_button">Suchen Sie nach Updates</string>
     <string name="app_update_needed_banner_description_multiple">Einige Apps müssen aktualisiert werden, um weiterhin mit Health Connect synchronisiert zu werden. Updates sind möglicherweise nicht für alle Apps verfügbar.</string>
-    <string name="app_update_needed_banner_description_single">%1$s needs to be updated to continue syncing with Health Connect. Updates may not be available for all apps.</string>
+    <string name="app_update_needed_banner_description_single">%1$s muss aktualisiert werden, um die Synchronisierung mit Health Connect fortzusetzen. Updates sind möglicherweise nicht für alle Apps verfügbar.</string>
     <string name="app_update_needed_banner_learn_more_button">Erfahren Sie mehr</string>
     <string name="app_update_needed_banner_title">App-Update erforderlich</string>
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
@@ -103,28 +103,28 @@
     <string name="automatic_export_switch_text">Verwenden Sie den geplanten Export</string>
     <string name="back_button">Zurück</string>
     <string name="back_extension">Rückenverlängerung</string>
-    <string name="background_read_access_description">„Erlauben Sie dieser App, auf Health Connect-Daten zuzugreifen, wenn Sie die App nicht verwenden.“</string>
+    <string name="background_read_access_description">"Erlauben Sie dieser App, auf Health Connect-Daten zuzugreifen, wenn Sie die App nicht verwenden."</string>
     <string name="background_read_access_title">Zugriff auf Daten im Hintergrund</string>
-    <string name="background_read_combined_request_description">„Erlauben Sie dieser App, auf Health Connect-Daten zuzugreifen, wenn Sie die App nicht verwenden.“</string>
+    <string name="background_read_combined_request_description">"Erlauben Sie dieser App, auf Health Connect-Daten zuzugreifen, wenn Sie die App nicht verwenden."</string>
     <string name="background_read_combined_request_title">Zugriff auf Daten im Hintergrund</string>
-    <string name="background_read_description">„Erlauben Sie dieser App, auf Health Connect-Daten zuzugreifen, wenn Sie die App nicht verwenden.“</string>
-    <string name="background_read_medical_access_description_both_types_granted">„Erlauben Sie dieser App, auf Fitness- und Wellnessdaten sowie Gesundheitsdaten zuzugreifen, wenn Sie die App nicht verwenden.“</string>
-    <string name="background_read_medical_access_description_fitness_granted">„Erlauben Sie dieser App, auf diese Daten zuzugreifen, wenn Sie die App nicht verwenden.“</string>
-    <string name="background_read_medical_access_description_medical_granted">„Erlauben Sie dieser App, auf diese Daten zuzugreifen, wenn Sie die App nicht verwenden.“</string>
+    <string name="background_read_description">"Erlauben Sie dieser App, auf Health Connect-Daten zuzugreifen, wenn Sie die App nicht verwenden."</string>
+    <string name="background_read_medical_access_description_both_types_granted">"Erlauben Sie dieser App, auf Fitness- und Wellnessdaten sowie Gesundheitsdaten zuzugreifen, wenn Sie die App nicht verwenden."</string>
+    <string name="background_read_medical_access_description_fitness_granted">"Erlauben Sie dieser App, auf diese Daten zuzugreifen, wenn Sie die App nicht verwenden."</string>
+    <string name="background_read_medical_access_description_medical_granted">"Erlauben Sie dieser App, auf diese Daten zuzugreifen, wenn Sie die App nicht verwenden."</string>
     <string name="background_read_medical_access_title_both_types_granted">Greifen Sie im Hintergrund auf alle Daten zu</string>
     <string name="background_read_medical_access_title_fitness_granted">Greifen Sie im Hintergrund auf Fitness- und Wellnessdaten zu</string>
     <string name="background_read_medical_access_title_medical_granted">Greifen Sie im Hintergrund auf Gesundheitsakten zu</string>
-    <string name="background_read_medical_combined_request_description_both_types_granted">„Erlauben Sie dieser App, auf Fitness- und Wellnessdaten sowie Gesundheitsdaten zuzugreifen, wenn Sie die App nicht verwenden.“</string>
-    <string name="background_read_medical_combined_request_description_fitness_granted">„Erlauben Sie dieser App, auf diese Daten zuzugreifen, wenn Sie die App nicht verwenden.“</string>
-    <string name="background_read_medical_combined_request_description_medical_granted">„Erlauben Sie dieser App, auf diese Daten zuzugreifen, wenn Sie die App nicht verwenden.“</string>
+    <string name="background_read_medical_combined_request_description_both_types_granted">"Erlauben Sie dieser App, auf Fitness- und Wellnessdaten sowie Gesundheitsdaten zuzugreifen, wenn Sie die App nicht verwenden."</string>
+    <string name="background_read_medical_combined_request_description_fitness_granted">"Erlauben Sie dieser App, auf diese Daten zuzugreifen, wenn Sie die App nicht verwenden."</string>
+    <string name="background_read_medical_combined_request_description_medical_granted">"Erlauben Sie dieser App, auf diese Daten zuzugreifen, wenn Sie die App nicht verwenden."</string>
     <string name="background_read_medical_combined_request_title_both_types_granted">Greifen Sie im Hintergrund auf alle Daten zu</string>
     <string name="background_read_medical_combined_request_title_fitness_granted">Greifen Sie im Hintergrund auf Fitness- und Wellnessdaten zu</string>
     <string name="background_read_medical_combined_request_title_medical_granted">Greifen Sie im Hintergrund auf Gesundheitsakten zu</string>
-    <string name="background_read_medical_single_request_description_both_types_granted">„Wenn Sie dies zulassen, kann diese App auf Fitness- und Wellnessdaten sowie Gesundheitsdaten zugreifen, wenn Sie die App nicht verwenden.“</string>
-    <string name="background_read_medical_single_request_description_fitness_granted">„Wenn Sie dies zulassen, kann diese App auf Fitness- und Wellnessdaten zugreifen, wenn Sie die App nicht verwenden.“</string>
-    <string name="background_read_medical_single_request_description_medical_granted">„Wenn Sie dies zulassen, kann diese App auf Gesundheitsdaten zugreifen, wenn Sie die App nicht verwenden.“</string>
-    <string name="background_read_single_request_description">„Wenn Sie dies zulassen, kann diese App auf Health Connect-Daten zugreifen, wenn Sie die App nicht verwenden.“</string>
-    <string name="background_read_single_request_title">Allow %1$s to access data in the background?</string>
+    <string name="background_read_medical_single_request_description_both_types_granted">"Wenn Sie dies zulassen, kann diese App auf Fitness- und Wellnessdaten sowie Gesundheitsdaten zugreifen, wenn Sie die App nicht verwenden."</string>
+    <string name="background_read_medical_single_request_description_fitness_granted">"Wenn Sie dies zulassen, kann diese App auf Fitness- und Wellnessdaten zugreifen, wenn Sie die App nicht verwenden."</string>
+    <string name="background_read_medical_single_request_description_medical_granted">"Wenn Sie dies zulassen, kann diese App auf Gesundheitsdaten zugreifen, wenn Sie die App nicht verwenden."</string>
+    <string name="background_read_single_request_description">"Wenn Sie dies zulassen, kann diese App auf Health Connect-Daten zugreifen, wenn Sie die App nicht verwenden."</string>
+    <string name="background_read_single_request_title">%1$s erlauben, im Hintergrund auf Daten zuzugreifen?</string>
     <string name="backup_and_restore_footer_body_text">Mit dem Export können Sie Ihre Daten speichern, um sie auf ein neues Telefon zu übertragen</string>
     <string name="backup_and_restore_footer_link_text">Informationen zum Sichern und Wiederherstellen</string>
     <string name="backup_and_restore_settings_screen_title">Sichern und Wiederherstellen</string>
@@ -160,7 +160,7 @@
     <string name="blood_pressure">%1$s/%2$s mmHg</string>
     <string name="blood_pressure_left_arm">Linker Oberarm</string>
     <string name="blood_pressure_left_wrist">Linkes Handgelenk</string>
-    <string name="blood_pressure_long">%1$s/%2$s millimetre of mercury</string>
+    <string name="blood_pressure_long">%1$s/%2$s Millimeter Quecksilbersäule</string>
     <string name="blood_pressure_lowercase_label">Blutdruck</string>
     <string name="blood_pressure_read_content_description">Blutdruck ablesen</string>
     <string name="blood_pressure_right_arm">Rechter Oberarm</string>
@@ -206,13 +206,13 @@
     <string name="calories_long">{count, plural, =1 {1 Kalorie} andere {# Kalorien}}</string>
     <string name="can_read">Kann %s lesen</string>
     <string name="can_write">Kann %s schreiben</string>
-    <string name="cant_see_all_your_apps_description">„Wenn Sie eine installierte App nicht sehen können, ist sie möglicherweise noch nicht mit Health Connect kompatibel.“</string>
+    <string name="cant_see_all_your_apps_description">"Wenn Sie eine installierte App nicht sehen können, ist sie möglicherweise noch nicht mit Health Connect kompatibel."</string>
     <string name="cervical_mucus_lowercase_label">Zervixschleim</string>
     <string name="cervical_mucus_read_content_description">Zervixschleim ablesen</string>
     <string name="cervical_mucus_uppercase_label">Zervixschleim</string>
     <string name="cervical_mucus_write_content_description">Zervixschleim auftragen</string>
-    <string name="character_counter_content_description">Characters entered %1$d of %2$d</string>
-    <string name="character_counter_overflowed_content_description">Character limit exceeded %1$d of %2$d</string>
+    <string name="character_counter_content_description">Eingegebene Zeichen %1$d von %2$d</string>
+    <string name="character_counter_overflowed_content_description">Die Zeichenbeschränkung hat %1$d von %2$d überschritten</string>
     <string name="character_counter_pattern">%1$d/%2$d</string>
     <string name="check_for_updates">Suchen Sie nach Updates</string>
     <string name="check_for_updates_description">Stellen Sie sicher, dass installierte Apps auf dem neuesten Stand sind</string>
@@ -236,7 +236,7 @@ If you want to completely delete the data from your connected apps, check each a
     <string name="confirming_question_delete_button">Löschen</string>
     <string name="confirming_question_x_months">{count, plural, =1{Daten automatisch nach # Monat löschen?} other{Daten automatisch nach # Monaten löschen?} }</string>
     <string name="connected_apps_button_no_permissions_subtitle">None</string>
-    <string name="connected_apps_button_subtitle">%1$s of %2$s apps have access</string>
+    <string name="connected_apps_button_subtitle">%1$s von %2$s Apps haben Zugriff</string>
     <string name="connected_apps_connected_subtitle">{count, plural, =1 {1 App hat Zugriff} andere {# Apps haben Zugriff}}</string>
     <string name="connected_apps_empty_list_section_title">Keine kompatiblen Apps installiert</string>
     <string name="connected_apps_section_title">Erlaubter Zugriff</string>
@@ -246,13 +246,13 @@ If you want to completely delete the data from your connected apps, check each a
     <string name="copy">Kopieren</string>
     <string name="cricket">Kricket</string>
     <string name="crunch">Knirschen</string>
-    <string name="current_access">%1$s has access to %2$s.</string>
-    <string name="current_allow_mode_all_the_time">Currently, %1$s can access fitness and wellness data all the time</string>
-    <string name="current_allow_mode_while_in_use">Currently, %1$s can access fitness and wellness data while in use</string>
+    <string name="current_access">%1$s hat Zugriff auf %2$s.</string>
+    <string name="current_allow_mode_all_the_time">Derzeit können %1$s jederzeit auf Fitness- und Wellnessdaten zugreifen</string>
+    <string name="current_allow_mode_while_in_use">Derzeit können %1$s während der Nutzung auf Fitness- und Wellnessdaten zugreifen</string>
     <string name="cycle_tracking_category_lowercase">Zyklusverfolgung</string>
     <string name="cycle_tracking_category_uppercase">Zyklusverfolgung</string>
     <string name="cycling_cadence_series_range">%1$s - %2$s</string>
-    <string name="cycling_cadence_series_range_long">from %1$s to %2$s</string>
+    <string name="cycling_cadence_series_range_long">von %1$s bis %2$s</string>
     <string name="cycling_rpm">{count, plural, =1 {1 rpm} other {# rpm}}</string>
     <string name="cycling_rpm_long">{count, plural, =1 {1 Umdrehung pro Minute} other {# Umdrehungen pro Minute}}</string>
     <string name="dancing">Tanzen</string>
@@ -285,8 +285,8 @@ If you want to completely delete the data from your connected apps, check each a
     <string name="delete_button_content_description">Daten löschen</string>
     <string name="delete_data_notification_title">Health Connect-Daten werden gelöscht</string>
     <string name="delete_dialog_failure_close_button">Schließen</string>
-    <string name="delete_dialog_failure_message">„Es ist ein Fehler aufgetreten und Health Connect konnte Ihre Daten nicht löschen.“</string>
-    <string name="delete_dialog_failure_title">„Daten konnten nicht gelöscht werden“</string>
+    <string name="delete_dialog_failure_message">"Es ist ein Fehler aufgetreten und Health Connect konnte Ihre Daten nicht löschen."</string>
+    <string name="delete_dialog_failure_title">"Daten konnten nicht gelöscht werden"</string>
     <string name="delete_dialog_failure_try_again_button">Versuchen Sie es erneut</string>
     <string name="delete_dialog_see_connected_apps_button">Siehe verbundene Apps</string>
     <string name="delete_dialog_success_got_it_button">Fertig</string>
@@ -297,36 +297,36 @@ If you want to completely delete the data from your connected apps, check each a
     <string name="dietary_fiber">Ballaststoffe</string>
     <string name="disconnect_all_app_permissions_dialog_checkbox">Löschen Sie außerdem alle Health Connect-Daten</string>
     <string name="disconnect_all_apps">Entfernen Sie den Zugriff für alle Apps</string>
-    <string name="disconnect_all_fitness_or_medical_and_additional_permissions_dialog_message">"%1$s will no longer be able to read or write this data from Health Connect, including background and past data.
+    <string name="disconnect_all_fitness_or_medical_and_additional_permissions_dialog_message">"%1$s kann diese Daten von Health Connect nicht mehr lesen oder schreiben, einschließlich Hintergrund- und Vergangenheitsdaten.
 
-This doesn't affect other permissions this app may have, like camera, microphone or location."</string>
-    <string name="disconnect_all_fitness_or_medical_and_background_permissions_dialog_message">"%1$s will no longer be able to read or write this data from Health Connect, including background data.
+Dies wirkt sich nicht auf andere Berechtigungen dieser App aus, etwa Kamera, Mikrofon oder Standort."</string>
+    <string name="disconnect_all_fitness_or_medical_and_background_permissions_dialog_message">"%1$s kann diese Daten, einschließlich Hintergrunddaten, nicht mehr von Health Connect lesen oder schreiben.
 
-This doesn't affect other permissions this app may have, like camera, microphone or location."</string>
-    <string name="disconnect_all_fitness_or_medical_and_historical_permissions_dialog_message">"%1$s will no longer be able to read or write this data from Health Connect, including past data.
+Dies wirkt sich nicht auf andere Berechtigungen dieser App aus, etwa Kamera, Mikrofon oder Standort."</string>
+    <string name="disconnect_all_fitness_or_medical_and_historical_permissions_dialog_message">"%1$s kann diese Daten, einschließlich früherer Daten, nicht mehr von Health Connect lesen oder schreiben.
 
-This doesn't affect other permissions this app may have, like camera, microphone or location."</string>
-    <string name="disconnect_all_fitness_or_medical_no_additional_permissions_dialog_message">"%1$s will no longer be able to read or write this data from Health Connect.
+Dies wirkt sich nicht auf andere Berechtigungen dieser App aus, etwa Kamera, Mikrofon oder Standort."</string>
+    <string name="disconnect_all_fitness_or_medical_no_additional_permissions_dialog_message">"%1$s kann diese Daten von Health Connect nicht mehr lesen oder schreiben.
 
-This doesn't affect other permissions this app may have, like camera, microphone or location."</string>
-    <string name="disconnect_all_fitness_permissions_dialog_checkbox">Also delete fitness data from %1$s from Health Connect</string>
+Dies wirkt sich nicht auf andere Berechtigungen dieser App aus, etwa Kamera, Mikrofon oder Standort."</string>
+    <string name="disconnect_all_fitness_permissions_dialog_checkbox">Löschen Sie auch Fitnessdaten von %1$s aus Health Connect</string>
     <string name="disconnect_all_fitness_permissions_title">Alle Fitness- und Wellnessberechtigungen entfernen?</string>
-    <string name="disconnect_all_health_and_additional_permissions_dialog_message">"%1$s will no longer be able to read or write data from Health Connect, including background and past data.
+    <string name="disconnect_all_health_and_additional_permissions_dialog_message">"%1$s kann keine Daten mehr von Health Connect lesen oder schreiben, einschließlich Hintergrund- und Vergangenheitsdaten.
 
-This doesn't affect other permissions this app may have, like camera, microphone or location."</string>
-    <string name="disconnect_all_health_and_background_permissions_dialog_message">"%1$s will no longer be able to read or write data from Health Connect, including background data.
+Dies wirkt sich nicht auf andere Berechtigungen dieser App aus, etwa Kamera, Mikrofon oder Standort."</string>
+    <string name="disconnect_all_health_and_background_permissions_dialog_message">"%1$s kann keine Daten mehr von Health Connect lesen oder schreiben, einschließlich Hintergrunddaten.
 
-This doesn't affect other permissions this app may have, like camera, microphone or location."</string>
-    <string name="disconnect_all_health_and_historical_permissions_dialog_message">"%1$s will no longer be able to read or write data from Health Connect, including past data.
+Dies wirkt sich nicht auf andere Berechtigungen dieser App aus, etwa Kamera, Mikrofon oder Standort."</string>
+    <string name="disconnect_all_health_and_historical_permissions_dialog_message">"%1$s kann keine Daten mehr von Health Connect lesen oder schreiben, einschließlich früherer Daten.
 
-This doesn't affect other permissions this app may have, like camera, microphone or location."</string>
-    <string name="disconnect_all_health_no_additional_permissions_dialog_message">"%1$s will no longer be able to read or write data from Health Connect.
+Dies wirkt sich nicht auf andere Berechtigungen dieser App aus, etwa Kamera, Mikrofon oder Standort."</string>
+    <string name="disconnect_all_health_no_additional_permissions_dialog_message">"%1$s kann keine Daten mehr von Health Connect lesen oder schreiben.
 
-This doesn't affect other permissions this app may have, like camera, microphone or location."</string>
-    <string name="disconnect_all_health_permissions_dialog_checkbox">Also delete fitness data and health records from %1$s from Health Connect</string>
+Dies wirkt sich nicht auf andere Berechtigungen dieser App aus, etwa Kamera, Mikrofon oder Standort."</string>
+    <string name="disconnect_all_health_permissions_dialog_checkbox">Löschen Sie außerdem Fitnessdaten und Gesundheitsdaten von %1$s aus Health Connect</string>
     <string name="disconnect_all_health_permissions_success_toast">Berechtigungen für diese App entfernt</string>
     <string name="disconnect_all_health_permissions_title">Alle Berechtigungen entfernen?</string>
-    <string name="disconnect_all_medical_permissions_dialog_checkbox">Also delete health records from %1$s from Health Connect</string>
+    <string name="disconnect_all_medical_permissions_dialog_checkbox">Löschen Sie auch Gesundheitsdatensätze von %1$s aus Health Connect</string>
     <string name="disconnect_all_medical_permissions_title">Alle Berechtigungen für Gesundheitsdatensätze entfernen?</string>
     <string name="distance_km">{dist, plural, =1 {1 km} other {# km}}</string>
     <string name="distance_km_long">{Dist, Plural, =1 {1 Kilometer} andere {# Kilometer}}</string>
@@ -369,10 +369,10 @@ This doesn't affect other permissions this app may have, like camera, microphone
     <string name="exercise_class">Übungskurs</string>
     <string name="exercise_laps_header">Runden</string>
     <string name="exercise_lowercase_label">Übung</string>
-    <string name="exercise_permission_dialog_disable_summary">%1$s requires exercise access in order for exercise routes to be enabled</string>
+    <string name="exercise_permission_dialog_disable_summary">%1$s benötigt Übungszugriff, damit Übungsrouten aktiviert werden können</string>
     <string name="exercise_permission_dialog_disable_title">Beide Datentypen deaktivieren?</string>
     <string name="exercise_permission_dialog_enable_title">Beide Datentypen aktivieren?</string>
-    <string name="exercise_permission_dialog_enabled_summary">%1$s needs read access to exercise for exercise routes to be enabled</string>
+    <string name="exercise_permission_dialog_enabled_summary">%1$s benötigt Lesezugriff auf das Training, damit Trainingsrouten aktiviert werden können</string>
     <string name="exercise_permission_dialog_negative_button">No</string>
     <string name="exercise_permission_dialog_positive_button">Yes</string>
     <string name="exercise_read_content_description">Übung lesen</string>
@@ -392,8 +392,8 @@ This doesn't affect other permissions this app may have, like camera, microphone
     <string name="export_default_file_name_with_sequence">Health Connect (%1$s)</string>
     <string name="export_destination_title">Wählen Sie aus, wo der geplante Export gespeichert werden soll</string>
     <string name="export_file_access_error_banner_button">Aufstellen</string>
-    <string name="export_file_access_error_banner_summary">There was a problem with the export for %1$s. Please set up a new scheduled export and try again.</string>
-    <string name="export_file_access_error_banner_title">„Daten konnten nicht exportiert werden“</string>
+    <string name="export_file_access_error_banner_summary">Beim Export für %1$s ist ein Problem aufgetreten. Bitte richten Sie einen neuen geplanten Export ein und versuchen Sie es erneut.</string>
+    <string name="export_file_access_error_banner_title">"Daten konnten nicht exportiert werden"</string>
     <string name="export_import_choose_account_cancel_button">Cancel</string>
     <string name="export_import_choose_account_done_button">Fertig</string>
     <string name="export_import_choose_account_title">Wählen Sie ein Konto</string>
@@ -403,9 +403,9 @@ This doesn't affect other permissions this app may have, like camera, microphone
     <string name="export_import_tap_to_choose_account">Tippen Sie, um ein Konto auszuwählen</string>
     <string name="export_invalid_storage">Bitte wählen Sie eine Cloud-Speicher-App zum Exportieren Ihrer Daten</string>
     <string name="export_next_button">Weiter</string>
-    <string name="export_notification_error_generic_error_body_text">There was a problem with the export for %1$s. Please set up a new scheduled export and try again.</string>
-    <string name="export_notification_error_generic_error_title">„Health Connect konnte keine Daten exportieren“</string>
-    <string name="export_notification_error_more_space_needed_body_text">Health Connect needs %1$s of storage space on your phone to continue the scheduled export.</string>
+    <string name="export_notification_error_generic_error_body_text">Beim Export für %1$s ist ein Problem aufgetreten. Bitte richten Sie einen neuen geplanten Export ein und versuchen Sie es erneut.</string>
+    <string name="export_notification_error_generic_error_title">"Health Connect konnte keine Daten exportieren"</string>
+    <string name="export_notification_error_more_space_needed_body_text">Health Connect benötigt %1$s Speicherplatz auf Ihrem Telefon, um den geplanten Export fortzusetzen.</string>
     <string name="export_notification_error_more_space_needed_title">Mehr Platz benötigt</string>
     <string name="export_notification_free_up_space_intent_button">Geben Sie Speicherplatz frei</string>
     <string name="export_notification_set_up_intent_button">Aufstellen</string>
@@ -434,7 +434,7 @@ This doesn't affect other permissions this app may have, like camera, microphone
     <string name="frequency_weekly">Wöchentlich</string>
     <string name="frisbee_disc">Frisbee</string>
     <string name="front_raise">Frontheben</string>
-    <string name="give_permission_prompt">These permissions give %1$s access to data from your device sensors.</string>
+    <string name="give_permission_prompt">Diese Berechtigungen gewähren %1$s Zugriff auf Daten von Ihren Gerätesensoren.</string>
     <string name="golf">Golf</string>
     <string name="gram_long_format">{Anzahl, Plural, =1 {1 Gramm} andere {# Gramm}}</string>
     <string name="gram_short_format">{count, plural, =1 {1 g} other {# g}}</string>
@@ -449,7 +449,7 @@ This doesn't affect other permissions this app may have, like camera, microphone
     <string name="heart_rate_lowercase_label">Herzfrequenz</string>
     <string name="heart_rate_read_content_description">Herzfrequenz ablesen</string>
     <string name="heart_rate_series_range">%1$s - %2$s</string>
-    <string name="heart_rate_series_range_long">from %1$s to %2$s</string>
+    <string name="heart_rate_series_range_long">von %1$s bis %2$s</string>
     <string name="heart_rate_uppercase_label">Herzfrequenz</string>
     <string name="heart_rate_value">{count, plural, =1 {1 bpm} other {# bpm}}</string>
     <string name="heart_rate_variability_lowercase_label">Herzfrequenzvariabilität</string>
@@ -470,32 +470,32 @@ This doesn't affect other permissions this app may have, like camera, microphone
     <string name="height_unit_title">Höhe</string>
     <string name="height_uppercase_label">Höhe</string>
     <string name="height_write_content_description">Schreibhöhe</string>
-    <string name="help">„Kann keine Geräte finden?“</string>
+    <string name="help">"Kann keine Geräte finden?"</string>
     <string name="help_and_feedback">Hilfe &amp; Rückmeldung</string>
     <string name="high_intensity_interval_training">Hochintensives Intervalltraining</string>
     <string name="hiking">Wandern</string>
     <string name="hip_thrust">Hüftstoß</string>
     <string name="historic_access_description">Erlauben Sie dieser App, auf alle früheren Health Connect-Daten zuzugreifen</string>
-    <string name="history_read_access_description">Allow this app to access Health Connect data added before %1$s</string>
+    <string name="history_read_access_description">Erlauben Sie dieser App den Zugriff auf Health Connect-Daten, die vor %1$s hinzugefügt wurden</string>
     <string name="history_read_access_description_fallback">Erlauben Sie dieser App den Zugriff auf alle früheren Health Connect-Daten</string>
     <string name="history_read_access_title">Greifen Sie auf vergangene Daten zu</string>
-    <string name="history_read_combined_request_description">Allow this app to access Health Connect data added before %1$s</string>
+    <string name="history_read_combined_request_description">Erlauben Sie dieser App den Zugriff auf Health Connect-Daten, die vor %1$s hinzugefügt wurden</string>
     <string name="history_read_combined_request_description_fallback">Erlauben Sie dieser App, auf alle früheren Health Connect-Daten zuzugreifen</string>
     <string name="history_read_combined_request_title">Greifen Sie auf vergangene Daten zu</string>
-    <string name="history_read_medical_access_description">Allow this app to access data added before %1$s</string>
+    <string name="history_read_medical_access_description">Erlauben Sie dieser App den Zugriff auf Daten, die vor %1$s hinzugefügt wurden</string>
     <string name="history_read_medical_access_description_fallback">Erlauben Sie dieser App, auf alle früheren Daten zuzugreifen</string>
-    <string name="history_read_medical_access_read_warning">No fitness data is currently being read because %1$s has no read permissions on</string>
+    <string name="history_read_medical_access_read_warning">Derzeit werden keine Fitnessdaten gelesen, da %1$s keine Leseberechtigungen hat</string>
     <string name="history_read_medical_access_title">Greifen Sie auf vergangene Fitness- und Wellnessdaten zu</string>
-    <string name="history_read_medical_combined_request_description">Allow this app to access data added before %1$s</string>
+    <string name="history_read_medical_combined_request_description">Erlauben Sie dieser App den Zugriff auf Daten, die vor %1$s hinzugefügt wurden</string>
     <string name="history_read_medical_combined_request_description_fallback">Erlauben Sie dieser App, auf alle früheren Daten zuzugreifen</string>
-    <string name="history_read_medical_combined_request_footer">%1$s can already access past data for your health records</string>
+    <string name="history_read_medical_combined_request_footer">%1$s kann bereits auf frühere Daten zu Ihren Gesundheitsakten zugreifen</string>
     <string name="history_read_medical_combined_request_footer_link">Lesen Sie mehr über Berechtigungen</string>
     <string name="history_read_medical_combined_request_title">Greifen Sie auf vergangene Fitness- und Wellnessdaten zu</string>
-    <string name="history_read_medical_single_request_description">If you allow, this app can access fitness and wellness data added before %1$s.</string>
+    <string name="history_read_medical_single_request_description">Wenn Sie dies zulassen, kann diese App auf Fitness- und Wellnessdaten zugreifen, die vor %1$s hinzugefügt wurden.</string>
     <string name="history_read_medical_single_request_description_fallback">Wenn Sie dies zulassen, kann diese App auf alle vergangenen Fitness- und Wellnessdaten zugreifen.</string>
-    <string name="history_read_single_request_description">If you allow, this app can access Health Connect data added before %1$s.</string>
+    <string name="history_read_single_request_description">Wenn Sie dies zulassen, kann diese App auf Health Connect-Daten zugreifen, die vor %1$s hinzugefügt wurden.</string>
     <string name="history_read_single_request_description_fallback">Wenn Sie dies zulassen, kann diese App auf alle früheren Health Connect-Daten zugreifen.</string>
-    <string name="history_read_single_request_title">Allow %1$s to access past data?</string>
+    <string name="history_read_single_request_title">%1$s den Zugriff auf frühere Daten erlauben?</string>
     <string name="home_subtitle">Verwalten Sie die Gesundheits- und Fitnessdaten auf Ihrem Gerät und steuern Sie, welche Apps darauf zugreifen können</string>
     <string name="hour_duration">%1$sh</string>
     <string name="hour_duration_accessibility">{count, plural, =1 {1 Stunde} andere {# Stunden}}</string>
@@ -511,18 +511,18 @@ This doesn't affect other permissions this app may have, like camera, microphone
     <string name="import_complete_toast_text">Datenwiederherstellung abgeschlossen</string>
     <string name="import_confirmation_dialog_cancel_button">Cancel</string>
     <string name="import_confirmation_dialog_import_button">Import</string>
-    <string name="import_confirmation_dialog_text">%1$s will be imported into Health Connect</string>
+    <string name="import_confirmation_dialog_text">%1$s werden in Health Connect importiert</string>
     <string name="import_confirmation_dialog_title">Diese Datei importieren?</string>
     <string name="import_data">Daten importieren</string>
     <string name="import_data_description">Daten aus einer zuvor exportierten Datei wiederherstellen</string>
-    <string name="import_error_banner_title">„Daten konnten nicht wiederhergestellt werden“</string>
+    <string name="import_error_banner_title">"Daten konnten nicht wiederhergestellt werden"</string>
     <string name="import_in_progress_toast_text">Wiederherstellung läuft</string>
     <string name="import_invalid_storage">Bitte wählen Sie eine Cloud-Speicher-App für den Import Ihrer Daten</string>
     <string name="import_notification_choose_file_intent_button">Datei auswählen</string>
     <string name="import_notification_error_generic_error_body_text">Beim Wiederherstellen der Daten aus Ihrem Export ist ein Problem aufgetreten.</string>
-    <string name="import_notification_error_generic_error_title">„Health Connect konnte Daten nicht wiederherstellen“</string>
-    <string name="import_notification_error_invalid_file_body_text">„Die von Ihnen ausgewählte Datei ist für die Wiederherstellung nicht kompatibel. Stellen Sie sicher, dass Sie die richtige exportierte Datei auswählen.“</string>
-    <string name="import_notification_error_more_space_needed_body_text">Health Connect needs %1$s of storage space on your phone to continue restoring your data.</string>
+    <string name="import_notification_error_generic_error_title">"Health Connect konnte Daten nicht wiederherstellen"</string>
+    <string name="import_notification_error_invalid_file_body_text">"Die von Ihnen ausgewählte Datei ist für die Wiederherstellung nicht kompatibel. Stellen Sie sicher, dass Sie die richtige exportierte Datei auswählen."</string>
+    <string name="import_notification_error_more_space_needed_body_text">Health Connect benötigt %1$s Speicherplatz auf Ihrem Telefon, um Ihre Daten weiterhin wiederherzustellen.</string>
     <string name="import_notification_error_more_space_needed_title">Mehr Platz benötigt</string>
     <string name="import_notification_error_version_mismatch_body_text">Aktualisieren Sie Ihr System, damit Health Connect Ihre Daten wiederherstellen kann, und versuchen Sie es dann erneut.</string>
     <string name="import_notification_free_up_space_intent_button">Geben Sie Speicherplatz frei</string>
@@ -537,7 +537,7 @@ This doesn't affect other permissions this app may have, like camera, microphone
     <string name="import_version_mismatch_error_banner_button">Jetzt aktualisieren</string>
     <string name="import_version_mismatch_error_banner_summary">Aktualisieren Sie Ihr System, damit Health Connect Ihre Daten wiederherstellen kann, und versuchen Sie es dann erneut.</string>
     <string name="import_wrong_file_error_banner_button">Datei auswählen</string>
-    <string name="import_wrong_file_error_banner_summary">„Die von Ihnen ausgewählte Datei ist für die Wiederherstellung nicht kompatibel. Stellen Sie sicher, dass Sie die richtige exportierte Datei auswählen.“</string>
+    <string name="import_wrong_file_error_banner_summary">"Die von Ihnen ausgewählte Datei ist für die Wiederherstellung nicht kompatibel. Stellen Sie sicher, dass Sie die richtige exportierte Datei auswählen."</string>
     <string name="in_progress">Im Gange</string>
     <string name="inactive_app_data_selected_deletion_confirmation_dialog">Permanently delete %1$s data for %2$s?</string>
     <string name="inactive_apps">Inaktive Apps</string>
@@ -562,7 +562,7 @@ This doesn't affect other permissions this app may have, like camera, microphone
     <string name="laboratory_results_lowercase_label">Laborergebnisse</string>
     <string name="laboratory_results_uppercase_label">Laborergebnisse</string>
     <string name="last_export_file_location">%1$s • %2$s</string>
-    <string name="last_export_time">Last export: %1$s</string>
+    <string name="last_export_time">Letzter Export: %1$s</string>
     <string name="last_export_time_hours_ago">{count, plural, =1 {Letzter Export: vor 1 Stunde} other {Letzter Export: vor # Stunden}}</string>
     <string name="last_export_time_minutes_ago">{count, plural, =1 {Letzter Export: vor 1 Minute} other {Letzter Export: vor # Minuten}}</string>
     <string name="last_export_time_now">Letzter Export: jetzt</string>
@@ -605,9 +605,9 @@ This doesn't affect other permissions this app may have, like camera, microphone
     <string name="manage_permissions">Berechtigungen verwalten</string>
     <string name="manage_permissions_learn_more">Lesen Sie die Datenschutzbestimmungen</string>
     <string name="manage_permissions_manage_app_header">App verwalten</string>
-    <string name="manage_permissions_rationale">"You can learn how %1$s handles your data in the developer's privacy policy"</string>
+    <string name="manage_permissions_rationale">"Wie %1$s mit Ihren Daten umgeht, erfahren Sie in der Datenschutzerklärung des Entwicklers."</string>
     <string name="manage_permissions_read_header">Lesen erlaubt</string>
-    <string name="manage_permissions_time_frame">%1$s can read data added after %2$s</string>
+    <string name="manage_permissions_time_frame">%1$s kann Daten lesen, die nach %2$s hinzugefügt wurden</string>
     <string name="manage_permissions_write_header">Schreiben erlaubt</string>
     <string name="manage_your_settings_text"><b>Manage your settings and privacy</b>"
 Change app permissions and manage your data at any time"</string>
@@ -635,12 +635,12 @@ Change app permissions and manage your data at any time"</string>
     <string name="medical_request_about_health_records">Über Gesundheitsakten</string>
     <string name="medical_request_data_to_share">Zu den zu teilenden Daten gehören:</string>
     <string name="medical_request_footer">Synchronisieren Sie Ihre Gesundheitsakten aus Ihren verschiedenen Apps und Quellen, um sie an einem Ort aufzubewahren</string>
-    <string name="medical_request_header">Allow %1$s to access your health records?</string>
-    <string name="medical_request_header_access_info_read">"If you give access, the app can read data such as allergies, lab results, vaccines and more
+    <string name="medical_request_header">%1$s den Zugriff auf Ihre Gesundheitsakten erlauben?</string>
+    <string name="medical_request_header_access_info_read">"Wenn Sie Zugriff gewähren, kann die App Daten wie Allergien, Laborergebnisse, Impfstoffe und mehr auslesen
 %1$s"</string>
-    <string name="medical_request_header_access_info_read_write">"If you give access, the app can read and write data such as allergies, lab results, vaccines and more
+    <string name="medical_request_header_access_info_read_write">"Wenn Sie Zugriff gewähren, kann die App Daten wie Allergien, Laborergebnisse, Impfstoffe und mehr lesen und schreiben
 %1$s"</string>
-    <string name="medical_request_summary">If you allow, %1$s can share your health records with Health Connect.</string>
+    <string name="medical_request_summary">Wenn Sie dies zulassen, kann %1$s Ihre Gesundheitsdaten mit Health Connect teilen.</string>
     <string name="medications_content_description">Lesen Sie Medikamente</string>
     <string name="medications_lowercase_label">Medikamente</string>
     <string name="medications_uppercase_label">Medikamente</string>
@@ -652,31 +652,31 @@ Change app permissions and manage your data at any time"</string>
     <string name="menu_show_system">System anzeigen</string>
     <string name="migration_app_update_needed_action">Bevor Sie fortfahren, aktualisieren Sie die Health Connect-App auf die neueste Version.</string>
     <string name="migration_in_progress_permissions_dialog_button_got_it">Habe es</string>
-    <string name="migration_in_progress_permissions_dialog_content">"Health Connect is being integrated with the Android system.
+    <string name="migration_in_progress_permissions_dialog_content">"Health Connect wird in das Android-System integriert.
 
-You'll get a notification when the process is complete and you can use %1$s with Health Connect."</string>
-    <string name="migration_in_progress_permissions_dialog_content_apps">"Health Connect is being integrated with the Android system.
+Sie erhalten eine Benachrichtigung, wenn der Vorgang abgeschlossen ist und Sie %1$s mit Health Connect verwenden können."</string>
+    <string name="migration_in_progress_permissions_dialog_content_apps">"Health Connect wird in das Android-System integriert.
 
-You'll get a notification when the process is complete and you can use Health Connect."</string>
+Sie erhalten eine Benachrichtigung, wenn der Vorgang abgeschlossen ist und Sie Health Connect verwenden können."</string>
     <string name="migration_in_progress_permissions_dialog_title">Health Connect-Integration läuft</string>
-    <string name="migration_in_progress_screen_integration_details">"Health Connect is being integrated with the Android system.
+    <string name="migration_in_progress_screen_integration_details">"Health Connect wird in das Android-System integriert.
 
-It may take some time while your data and permissions are being transferred."</string>
+Es kann einige Zeit dauern, bis Ihre Daten und Berechtigungen übertragen werden.</string>
     <string name="migration_in_progress_screen_title">Integration im Gange</string>
     <string name="migration_module_update_needed_action">Bevor Sie fortfahren, aktualisieren Sie Ihr Telefonsystem.</string>
     <string name="migration_module_update_needed_notification_title">Systemaktualisierung erforderlich</string>
-    <string name="migration_module_update_needed_restart">„Wenn Sie Ihr Telefonsystem bereits aktualisiert haben, versuchen Sie, Ihr Telefon neu zu starten, um die Integration fortzusetzen.“</string>
-    <string name="migration_not_complete_dialog_content">„Sie erhalten eine Benachrichtigung, sobald es wieder verfügbar ist.“</string>
-    <string name="migration_not_complete_dialog_title">„Die Integration von Health Connect wurde nicht abgeschlossen“</string>
+    <string name="migration_module_update_needed_restart">"Wenn Sie Ihr Telefonsystem bereits aktualisiert haben, versuchen Sie, Ihr Telefon neu zu starten, um die Integration fortzusetzen."</string>
+    <string name="migration_not_complete_dialog_content">"Sie erhalten eine Benachrichtigung, sobald es wieder verfügbar ist."</string>
+    <string name="migration_not_complete_dialog_title">"Die Integration von Health Connect wurde nicht abgeschlossen"</string>
     <string name="migration_paused_notification_content">Health Connect wird in das Android-System integriert. Tippen Sie, um fortzufahren</string>
     <string name="migration_paused_notification_title">Integration pausiert</string>
-    <string name="migration_paused_screen_details">"The Health Connect app closed while it was being integrated with the Android system.
+    <string name="migration_paused_screen_details">"Die Health Connect-App wurde geschlossen, während sie in das Android-System integriert wurde.
 
-Click resume to reopen the app and continue transferring your data and permissions."</string>
+Klicken Sie auf "Fortsetzen", um die App erneut zu öffnen und mit der Übertragung Ihrer Daten und Berechtigungen fortzufahren."</string>
     <string name="migration_paused_screen_title">Integration pausiert</string>
     <string name="migration_pending_permissions_dialog_button_continue">Weitermachen</string>
     <string name="migration_pending_permissions_dialog_button_start_integration">Starten Sie die Integration</string>
-    <string name="migration_pending_permissions_dialog_content">Health Connect is ready to be integrated with your Android system. If you give %1$s access now, some features may not work until integration is complete.</string>
+    <string name="migration_pending_permissions_dialog_content">Health Connect kann jetzt in Ihr Android-System integriert werden. Wenn Sie %1$s jetzt Zugriff gewähren, funktionieren einige Funktionen möglicherweise erst, wenn die Integration abgeschlossen ist.</string>
     <string name="migration_pending_permissions_dialog_title">Health Connect-Integration</string>
     <string name="migration_update_needed_notification_content">Starten Sie dieses Update, damit Health Connect weiterhin in Ihre Systemeinstellungen integriert werden kann</string>
     <string name="migration_update_needed_screen_details">Health Connect wird in das Android-System integriert, sodass Sie direkt über Ihre Einstellungen darauf zugreifen können.</string>
@@ -716,18 +716,18 @@ Click resume to reopen the app and continue transferring your data and permissio
     <string name="mtrl_checkbox_state_description_checked">Geprüft</string>
     <string name="mtrl_checkbox_state_description_indeterminate">Teilweise überprüft</string>
     <string name="mtrl_checkbox_state_description_unchecked">Nicht überprüft</string>
-    <string name="mtrl_chip_close_icon_content_description">Remove %1$s</string>
+    <string name="mtrl_chip_close_icon_content_description">%1$s entfernen</string>
     <string name="mtrl_picker_a11y_next_month">Wechseln Sie zum nächsten Monat</string>
     <string name="mtrl_picker_a11y_prev_month">Zum Vormonat wechseln</string>
     <string name="mtrl_picker_cancel">Cancel</string>
     <string name="mtrl_picker_confirm">OK</string>
     <string name="mtrl_picker_day_of_week_column_header">%1$s</string>
-    <string name="mtrl_picker_end_date_description">End date %1$s</string>
-    <string name="mtrl_picker_navigate_to_current_year_description">Navigate to current year %1$d</string>
-    <string name="mtrl_picker_navigate_to_year_description">Navigate to year %1$d</string>
+    <string name="mtrl_picker_end_date_description">Enddatum %1$s</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">Navigieren Sie zum aktuellen Jahr %1$d</string>
+    <string name="mtrl_picker_navigate_to_year_description">Navigieren Sie zum Jahr %1$d</string>
     <string name="mtrl_picker_save">Speichern</string>
-    <string name="mtrl_picker_start_date_description">Start date %1$s</string>
-    <string name="mtrl_picker_today_description">Today %1$s</string>
+    <string name="mtrl_picker_start_date_description">Startdatum %1$s</string>
+    <string name="mtrl_picker_today_description">Heute %1$s</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Wechseln Sie in den Kalendereingabemodus</string>
     <string name="mtrl_picker_toggle_to_day_selection">Tippen Sie, um zur Kalenderansicht zu wechseln</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Wechseln Sie in den Texteingabemodus</string>
@@ -757,7 +757,7 @@ Click resume to reopen the app and continue transferring your data and permissio
     <string name="needs_updating_apps_section_title">Muss aktualisiert werden</string>
     <string name="next_export_file_location">%1$s • %2$s</string>
     <string name="next_export_text">Der nächste Export beginnt bald</string>
-    <string name="next_export_time">Next export: %1$s</string>
+    <string name="next_export_time">Nächster Export: %1$s</string>
     <string name="niacin">Niacin</string>
     <string name="no_apps_allowed">Keine Apps erlaubt</string>
     <string name="no_apps_denied">Keine Apps abgelehnt</string>
@@ -781,20 +781,18 @@ Click resume to reopen the app and continue transferring your data and permissio
     <string name="off">Off</string>
     <string name="on">On</string>
     <string name="onboarding_description">Health Connect speichert Ihre Gesundheits- und Fitnessdaten und bietet Ihnen eine einfache Möglichkeit, die verschiedenen Apps auf Ihrem Gerät zu synchronisieren</string>
-    <string name="onboarding_description_health_records">"Health Connect stores and syncs your health and fitness data from different apps.
+    <string name="onboarding_description_health_records">"Health Connect speichert und synchronisiert Ihre Gesundheits- und Fitnessdaten aus verschiedenen Apps.
 
-"<b>Fitness and wellness data,</b>" including exercise sessions, steps, nutrition, sleep and more
-
-"<b>Health records,</b> including vaccines, lab results and more</string>
+"</string>
     <string name="onboarding_description_with_health_connect">Mit Health Connect ist das möglich</string>
     <string name="onboarding_get_started_button_text">Fangen Sie an</string>
     <string name="onboarding_go_back_button_text">Geh zurück</string>
     <string name="onboarding_title">Beginnen Sie mit Health Connect</string>
     <string name="one_app_entry_selected_deletion_confirmation_dialog">Diesen %s-Eintrag dauerhaft löschen?</string>
     <string name="one_entry_selected_deletion_confirmation_dialog">Diesen Eintrag dauerhaft löschen?</string>
-    <string name="only_one_connected_app_button_subtitle">%1$s of %2$s apps has access</string>
+    <string name="only_one_connected_app_button_subtitle">%1$s von %2$s Apps haben Zugriff</string>
     <string name="other_android_permissions">Um andere Android-Berechtigungen zu verwalten, auf die diese App zugreifen kann, gehen Sie zu Einstellungen > Apps</string>
-    <string name="other_android_permissions_content_description">Um andere Android-Berechtigungen zu verwalten, auf die diese App zugreifen kann, gehen Sie zu „Einstellungen“ und tippen Sie dann auf „Apps“.</string>
+    <string name="other_android_permissions_content_description">Um andere Android-Berechtigungen zu verwalten, auf die diese App zugreifen kann, gehen Sie zu "Einstellungen" und tippen Sie dann auf "Apps".</string>
     <string name="ovulation_high">Hoch</string>
     <string name="ovulation_inconclusive">Nicht schlüssig</string>
     <string name="ovulation_negative">Negativ</string>
@@ -819,30 +817,30 @@ Click resume to reopen the app and continue transferring your data and permissio
     <string formatted="false" name="percent">{value, plural, =1 {1%} other {#%}}</string>
     <string name="percent_long">{Wert, Plural, =1 {1 Prozent} andere {# Prozent}}</string>
     <string name="performance_goals_range">%1$s - %2$s</string>
-    <string name="period_day">Period day %1$d of %2$d</string>
+    <string name="period_day">Periodentag %1$d von %2$d</string>
     <string name="period_length">{count, plural, =1 {Zeitraum (1 Tag)} other {Zeitraum (# Tage)}}</string>
     <string name="permgroupdesc_health">Zugriff auf Ihre Gesundheitsdaten</string>
     <string name="permgrouplab_health">Health Connect</string>
     <string name="permissions_and_data_header">Berechtigungen und Daten</string>
     <string name="permissions_disconnect_all_dialog_disconnect">Alles entfernen</string>
-    <string name="permissions_disconnect_all_dialog_message">"None of your apps will be able to access or add new data to Health Connect. This doesn't delete any existing data.
+    <string name="permissions_disconnect_all_dialog_message">"Keine Ihrer Apps kann auf Health Connect zugreifen oder neue Daten hinzufügen. Dadurch werden keine vorhandenen Daten gelöscht.
 
-This doesn't affect other permissions this app may have, like location, camera, or microphone."</string>
+Dies hat keinen Einfluss auf andere Berechtigungen, über die diese App möglicherweise verfügt, z. B. Standort, Kamera oder Mikrofon.</string>
     <string name="permissions_disconnect_all_dialog_title">Zugriff für alle Apps entfernen?</string>
-    <string name="permissions_disconnect_dialog_checkbox">Also delete %1$s data from Health Connect</string>
+    <string name="permissions_disconnect_dialog_checkbox">Löschen Sie außerdem %1$s Daten aus Health Connect</string>
     <string name="permissions_disconnect_dialog_disconnect">Alles entfernen</string>
-    <string name="permissions_disconnect_dialog_message">"%1$s will no longer be able to read or write any data from Health Connect.
+    <string name="permissions_disconnect_dialog_message">"%1$s kann keine Daten mehr von Health Connect lesen oder schreiben.
 
-This doesn't affect other permissions this app may have, like camera, microphone, or location."</string>
-    <string name="permissions_disconnect_dialog_message_background">"%1$s will no longer be able to read or write any data from Health Connect, including background data.
+Dies wirkt sich nicht auf andere Berechtigungen dieser App aus, etwa Kamera, Mikrofon oder Standort."</string>
+    <string name="permissions_disconnect_dialog_message_background">"%1$s kann keine Daten mehr von Health Connect lesen oder schreiben, einschließlich Hintergrunddaten.
 
-This doesn't affect other permissions this app may have, like location, camera, or microphone."</string>
-    <string name="permissions_disconnect_dialog_message_combined">"%1$s will no longer be able to read or write any data from Health Connect, including background and past data.
+Dies hat keinen Einfluss auf andere Berechtigungen, über die diese App möglicherweise verfügt, z. B. Standort, Kamera oder Mikrofon.</string>
+    <string name="permissions_disconnect_dialog_message_combined">"%1$s kann keine Daten mehr von Health Connect lesen oder schreiben, einschließlich Hintergrund- und Vergangenheitsdaten.
 
-This doesn't affect other permissions this app may have, like location, camera, or microphone."</string>
-    <string name="permissions_disconnect_dialog_message_history">"%1$s will no longer be able to read or write any data from Health Connect, including past data.
+Dies hat keinen Einfluss auf andere Berechtigungen, über die diese App möglicherweise verfügt, z. B. Standort, Kamera oder Mikrofon.</string>
+    <string name="permissions_disconnect_dialog_message_history">"%1$s kann keine Daten mehr von Health Connect lesen oder schreiben, einschließlich früherer Daten.
 
-This doesn't affect other permissions this app may have, like location, camera, or microphone."</string>
+Dies hat keinen Einfluss auf andere Berechtigungen, über die diese App möglicherweise verfügt, z. B. Standort, Kamera oder Mikrofon.</string>
     <string name="permissions_disconnect_dialog_title">Alle Berechtigungen entfernen?</string>
     <string name="permissions_header">Berechtigungen</string>
     <string name="personal_details_content_description">Persönliche Daten lesen</string>
@@ -880,7 +878,7 @@ This doesn't affect other permissions this app may have, like location, camera, 
     <string name="pregnancy_content_description">Lesen Sie Schwangerschaft</string>
     <string name="pregnancy_lowercase_label">Schwangerschaft</string>
     <string name="pregnancy_uppercase_label">Schwangerschaft</string>
-    <string name="priority_list_item_content_description">%1$s in the list %2$s</string>
+    <string name="priority_list_item_content_description">%1$s in der Liste %2$s</string>
     <string name="procedures_content_description">Verfahren lesen</string>
     <string name="procedures_lowercase_label">Verfahren</string>
     <string name="procedures_uppercase_label">Verfahren</string>
@@ -890,22 +888,22 @@ This doesn't affect other permissions this app may have, like location, camera, 
     <string name="range_after_x_months">{count, plural, =1{Nach # Monat}other{Nach # Monaten}}</string>
     <string name="range_never">Niemals</string>
     <string name="range_off">Off</string>
-    <string name="rate_of_perceived_exertion_goal">Effort level: %1$d/10</string>
-    <string name="raw_fhir_closed_bracket">%1$sClosed bracket.</string>
-    <string name="raw_fhir_content_description">Detailed source code: %1$s</string>
-    <string name="raw_fhir_field_value">%1$s Field %2$s Value</string>
-    <string name="raw_fhir_open_bracket">%1$sOpen bracket.</string>
+    <string name="rate_of_perceived_exertion_goal">Aufwand: %1$d/10</string>
+    <string name="raw_fhir_closed_bracket">%1$sGeschlossene Klammer.</string>
+    <string name="raw_fhir_content_description">Detaillierter Quellcode: %1$s</string>
+    <string name="raw_fhir_field_value">%1$s Feld %2$s Wert</string>
+    <string name="raw_fhir_open_bracket">%1$sÖffnen Sie die Klammer.</string>
     <string name="raw_fhir_title">Quelldaten</string>
     <string name="raw_fhir_value">%1$s: %2$s.</string>
     <string name="read_data_access_label">Gelesen: %s</string>
-    <string name="read_permission_category">Allow “%1$s” to read</string>
+    <string name="read_permission_category">Erlaube "%1$s" das Lesen</string>
     <string name="recent_access_empty_state_description">Apps, die kürzlich auf Ihre Daten zugegriffen haben, werden hier automatisch angezeigt</string>
     <string name="recent_access_empty_state_title">Kein aktueller Zugriff</string>
     <string name="recent_access_error">Der letzte Zugriff konnte nicht geladen werden</string>
     <string name="recent_access_header">Aktueller Zugriff</string>
     <string name="recent_access_inactive_app">Diese App ist nicht mehr verfügbar</string>
     <string name="recent_access_screen_description">Sehen Sie, welche Apps in den letzten 24 Stunden auf Ihre Daten zugegriffen haben</string>
-    <string name="recent_access_time_content_descritption">Time: %1$s</string>
+    <string name="recent_access_time_content_descritption">Zeit: %1$s</string>
     <string name="recent_access_view_all_button">Alle anzeigen</string>
     <string name="remove">Entfernen</string>
     <string name="remove_access_for_this_app">Zugriff für diese App entfernen</string>
@@ -917,7 +915,7 @@ This doesn't affect other permissions this app may have, like location, camera, 
     <string name="request_fitness_permissions_data_access_type_read">Wählen Sie die Daten aus, die diese App von Health Connect lesen soll</string>
     <string name="request_fitness_permissions_data_access_type_read_write">Wählen Sie die Daten aus, die diese App in Health Connect lesen oder schreiben soll</string>
     <string name="request_fitness_permissions_data_access_type_write">Wählen Sie die Daten aus, die diese App an Health Connect schreiben soll</string>
-    <string name="request_fitness_permissions_header_title">Allow %1$s to access Health Connect?</string>
+    <string name="request_fitness_permissions_header_title">%1$s den Zugriff auf Health Connect erlauben?</string>
     <string name="request_medical_permissions_data_access_type_read">Wählen Sie die Daten aus, die diese App von Health Connect lesen soll</string>
     <string name="request_medical_permissions_data_access_type_read_write">Wählen Sie die Daten aus, die diese App in Health Connect lesen oder schreiben soll</string>
     <string name="request_permissions_allow">Erlauben</string>
@@ -925,18 +923,18 @@ This doesn't affect other permissions this app may have, like location, camera, 
     <string name="request_permissions_allow_all_the_time">Die ganze Zeit</string>
     <string name="request_permissions_allow_selected">Ausgewählt zulassen</string>
     <string name="request_permissions_deny_all">Alles leugnen</string>
-    <string name="request_permissions_dont_allow">„Nicht zulassen“</string>
+    <string name="request_permissions_dont_allow">"Nicht zulassen"</string>
     <string name="request_permissions_header_time_frame_desc">Wenn Sie Lesezugriff gewähren, kann die App neue Daten und Daten der letzten 30 Tage lesen</string>
     <string name="request_permissions_header_time_frame_history_desc">Wenn Sie Lesezugriff gewähren, kann die App neue und vergangene Daten lesen</string>
     <string name="request_permissions_privacy_policy">Datenschutzrichtlinie</string>
-    <string name="request_permissions_rationale">You can learn how %1$s handles your data in their %2$s</string>
+    <string name="request_permissions_rationale">Sie können erfahren, wie %1$s mit Ihren Daten in %2$s umgeht</string>
     <string name="request_permissions_while_using_the_app">Während der Nutzung der App</string>
-    <string name="request_permissions_with_medical_header_title">Allow %1$s to access fitness and wellness data?</string>
+    <string name="request_permissions_with_medical_header_title">%1$s den Zugriff auf Fitness- und Wellnessdaten erlauben?</string>
     <string name="request_route_allow">Diese Route zulassen</string>
     <string name="request_route_allow_all">Alle Routen zulassen</string>
     <string name="request_route_disclaimer_notice">Diese App kann Ihren früheren Standort auf der Route lesen</string>
-    <string name="request_route_dont_allow">„Nicht zulassen“</string>
-    <string name="request_route_header_title">Allow %1$s to access this exercise route in Health Connect?</string>
+    <string name="request_route_dont_allow">"Nicht zulassen"</string>
+    <string name="request_route_header_title">%1$s den Zugriff auf diese Übungsroute in Health Connect erlauben?</string>
     <string name="request_route_info_access_management_summary">Sie können den App-Zugriff auf Trainingsrouten in den Health Connect-Einstellungen verwalten</string>
     <string name="request_route_info_access_management_title">Wie kann ich den Zugriff verwalten?</string>
     <string name="request_route_info_header_title">Übungsrouten enthalten Standortinformationen</string>
@@ -962,9 +960,9 @@ This doesn't affect other permissions this app may have, like location, camera, 
     <string name="roller_hockey">Rollhockey</string>
     <string name="route_permissions_always_allow">Immer zulassen</string>
     <string name="route_permissions_ask">Fragen Sie jedes Mal</string>
-    <string name="route_permissions_deny">„Nicht zulassen“</string>
+    <string name="route_permissions_deny">"Nicht zulassen"</string>
     <string name="route_permissions_label">Greifen Sie auf Übungsrouten zu</string>
-    <string name="route_permissions_summary">Allow %1$s to access routes</string>
+    <string name="route_permissions_summary">Erlaube %1$s den Zugriff auf Routen</string>
     <string name="rowing">Rudern</string>
     <string name="rowing_machine">Rudergerät</string>
     <string name="rugby">Rugby</string>
@@ -974,7 +972,7 @@ This doesn't affect other permissions this app may have, like location, camera, 
     <string name="saturated_fat">Gesättigtes Fett</string>
     <string name="scheduled_export">Geplanter Export</string>
     <string name="scheduled_export_on_toast_text">Der geplante Export ist aktiviert</string>
-    <string name="scheduled_export_settings_footer_text">„Wenn Sie den geplanten Export deaktivieren, werden zuvor exportierte Daten dort, wo sie gespeichert wurden, nicht gelöscht.“</string>
+    <string name="scheduled_export_settings_footer_text">"Wenn Sie den geplanten Export deaktivieren, werden zuvor exportierte Daten dort, wo sie gespeichert wurden, nicht gelöscht."</string>
     <string name="scuba_diving">Gerätetauchen</string>
     <string name="search_breadcrumbs_data">Health Connect > Daten und Zugriff</string>
     <string name="search_connected_apps">Apps suchen</string>
@@ -989,7 +987,7 @@ This doesn't affect other permissions this app may have, like location, camera, 
     <string name="selected_date_view_action_description">ändern</string>
     <string name="selenium">Selen</string>
     <string name="send_feedback">Feedback senden</string>
-    <string name="send_feedback_description">„Sagen Sie uns, welche Gesundheits- und Fitness-Apps Sie mit Health Connect zusammenarbeiten möchten.“</string>
+    <string name="send_feedback_description">"Sagen Sie uns, welche Gesundheits- und Fitness-Apps Sie mit Health Connect zusammenarbeiten möchten."</string>
     <string name="separator">","</string>
     <string name="session_title">%2$s • %1$s</string>
     <string name="set_auto_delete_button">Stellen Sie das automatische Löschen ein</string>
@@ -1029,7 +1027,7 @@ Choose the data each app can read or write to Health Connect"</string>
     <string name="sleep_category_uppercase">Schlafen</string>
     <string name="sleep_lowercase_label">schlafen</string>
     <string name="sleep_read_content_description">Lesen Sie Schlaf</string>
-    <string name="sleep_session_default">%1$s sleeping</string>
+    <string name="sleep_session_default">%1$schläft</string>
     <string name="sleep_session_with_one_field">%1$s</string>
     <string name="sleep_stage_awake">wach</string>
     <string name="sleep_stage_awake_in_bed">wach im Bett</string>
@@ -1051,13 +1049,13 @@ Choose the data each app can read or write to Health Connect"</string>
     <string name="sodium">Natrium</string>
     <string name="softball">Softball</string>
     <string name="some_app_data_selected_deletion_confirmation_dialog">Ausgewählte %s Daten dauerhaft löschen?</string>
-    <string name="some_app_entries_selected_day_deletion_confirmation_dialog">Permanently delete selected %1$s entries for %2$s?</string>
-    <string name="some_app_entries_selected_month_deletion_confirmation_dialog">Permanently delete selected %1$s entries for %2$s?</string>
-    <string name="some_app_entries_selected_week_deletion_confirmation_dialog">Permanently delete selected %1$s entries for the week of %2$s?</string>
+    <string name="some_app_entries_selected_day_deletion_confirmation_dialog">Ausgewählte %1$s Einträge für %2$s dauerhaft löschen?</string>
+    <string name="some_app_entries_selected_month_deletion_confirmation_dialog">Ausgewählte %1$s Einträge für %2$s dauerhaft löschen?</string>
+    <string name="some_app_entries_selected_week_deletion_confirmation_dialog">Ausgewählte %1$s Einträge für die Woche von %2$s dauerhaft löschen?</string>
     <string name="some_data_selected_deletion_confirmation_dialog">Ausgewählte Daten dauerhaft löschen?</string>
-    <string name="some_entries_selected_day_deletion_confirmation_dialog">Permanently delete selected entries for %1$s?</string>
-    <string name="some_entries_selected_month_deletion_confirmation_dialog">Permanently delete selected entries for %1$s?</string>
-    <string name="some_entries_selected_week_deletion_confirmation_dialog">Permanently delete selected entries for the week of %1$s?</string>
+    <string name="some_entries_selected_day_deletion_confirmation_dialog">Ausgewählte Einträge für %1$s dauerhaft löschen?</string>
+    <string name="some_entries_selected_month_deletion_confirmation_dialog">Ausgewählte Einträge für %1$s dauerhaft löschen?</string>
+    <string name="some_entries_selected_week_deletion_confirmation_dialog">Ausgewählte Einträge für die Woche von %1$s dauerhaft löschen?</string>
     <string name="specimen_source_capillary_blood">Kapillarblut</string>
     <string name="specimen_source_interstitial_fluid">Interstitielle Flüssigkeit</string>
     <string name="specimen_source_plasma">Plasma</string>
@@ -1141,16 +1139,16 @@ Choose the data each app can read or write to Health Connect"</string>
     <string name="temperature_unit_fahrenheit_label">Fahrenheit</string>
     <string name="temperature_unit_kelvin_label">Kelvin</string>
     <string name="temperature_unit_title">Temperatur</string>
-    <string name="template_percent">%1$d percent.</string>
+    <string name="template_percent">%1$d Prozent.</string>
     <string name="tennis">Tennis</string>
     <string name="thiamin">Thiamin</string>
     <string name="things_to_try">Dinge zum Ausprobieren</string>
     <string name="this_month_header">Diesen Monat</string>
     <string name="this_week_header">Diese Woche</string>
     <string name="time_range">%1$s - %2$s</string>
-    <string name="time_range_long">from %1$s to %2$s</string>
+    <string name="time_range_long">von %1$s bis %2$s</string>
     <string name="today_header">Heute</string>
-    <string name="total_calories_burned">Total: %1$s</string>
+    <string name="total_calories_burned">Gesamt: %1$s</string>
     <string name="total_calories_burned_lowercase_label">Gesamtkalorienverbrauch</string>
     <string name="total_calories_burned_read_content_description">Lesen Sie den gesamten Kalorienverbrauch ab</string>
     <string name="total_calories_burned_uppercase_label">Gesamtkalorienverbrauch</string>
@@ -1171,21 +1169,21 @@ Choose the data each app can read or write to Health Connect"</string>
     <string name="vaccines_content_description">Lesen Sie Impfstoffe</string>
     <string name="vaccines_lowercase_label">Impfungen</string>
     <string name="vaccines_uppercase_label">Impfungen</string>
-    <string name="velocity_minute_km">%1$s min/km</string>
-    <string name="velocity_minute_km_long">%1$s minute per kilometer</string>
-    <string name="velocity_minute_miles">%1$s min/mile</string>
-    <string name="velocity_minute_miles_long">%1$s minute per mile</string>
-    <string name="velocity_minute_per_one_hundred_meters">%1$s min/100 meters</string>
-    <string name="velocity_minute_per_one_hundred_meters_long">%1$s minute per 100 meters</string>
-    <string name="velocity_minute_per_one_hundred_yards">%1$s min/100 yards</string>
-    <string name="velocity_minute_per_one_hundred_yards_long">%1$s minute per 100 yards</string>
+    <string name="velocity_minute_km">%1$s Min./km</string>
+    <string name="velocity_minute_km_long">%1$s Minute pro Kilometer</string>
+    <string name="velocity_minute_miles">%1$s Min./Meile</string>
+    <string name="velocity_minute_miles_long">%1$s Minute pro Meile</string>
+    <string name="velocity_minute_per_one_hundred_meters">%1$s min/100 Meter</string>
+    <string name="velocity_minute_per_one_hundred_meters_long">%1$s Minute pro 100 Meter</string>
+    <string name="velocity_minute_per_one_hundred_yards">%1$s Min./100 Yards</string>
+    <string name="velocity_minute_per_one_hundred_yards_long">%1$s Minute pro 100 Yards</string>
     <string name="velocity_speed_km">{Wert, Plural, =1 {1 km/h} other {# km/h}}</string>
     <string name="velocity_speed_km_long">{value, plural, =1 {1 Kilometer pro Stunde} other {# Kilometer pro Stunde}}</string>
     <string name="velocity_speed_miles">{value, plural, =1 {1 mph} other {# mph}}</string>
     <string name="velocity_speed_miles_long">{value, plural, =1 {1 Meile pro Stunde} other {# Meilen pro Stunde}}</string>
     <string name="view_permissions_all_the_time_cap">Die ganze Zeit</string>
-    <string name="view_permissions_description_all_the_time">%1$s can access all of your fitness and wellness data all the time</string>
-    <string name="view_permissions_description_while_in_use">%1$s can access all of your fitness and wellness data while in use</string>
+    <string name="view_permissions_description_all_the_time">%1$s kann jederzeit auf alle Ihre Fitness- und Wellnessdaten zugreifen</string>
+    <string name="view_permissions_description_while_in_use">%1$s kann während der Nutzung auf alle Ihre Fitness- und Wellnessdaten zugreifen</string>
     <string name="view_permissions_while_in_use_cap">Während der Nutzung der App</string>
     <string name="visits_content_description">Besuche lesen</string>
     <string name="visits_lowercase_label">Besuche</string>
@@ -1266,7 +1264,7 @@ Choose to allow all or control them individually."</string>
     <string name="wheelchair_pushes_write_content_description">Schreiben Sie Rollstuhl-Schiebeübungen</string>
     <string name="workout">Trainieren</string>
     <string name="write_data_access_label">Schreiben Sie: %s</string>
-    <string name="write_permission_category">Allow “%1$s” to write</string>
+    <string name="write_permission_category">Erlaube "%1$s" das Schreiben</string>
     <string name="yesterday_header">Gestern</string>
     <string name="yoga">Yoga</string>
     <string name="zinc">Zink</string>

@@ -86,39 +86,39 @@
     <string name="carousel_setting_sub">Hintergrundkarussell zeigt Ihnen jedes Mal neue Geschichten, wenn Sie Ihr Gerät entsperren</string>
     <string name="carrier_introduction_china">Um Ihnen bessere Dienste anzubieten, können Prozesse, die auf Ihrem Gerät laufen (inkl. SystemHelper, RegService und Carrier Services), regelmäßig Informationen zu Ihrem Gerät und Ihrer SIM-Karte (inkl. IMEI, IMSI, MSISDN, MEID, ICCID, MAC-Adresse, Systemversion, Android-Version, Gerätemodell, grundlegende Hardware-Konfiguration und Rufnummer) sowie ungefähre Standortdaten (inkl. Region, Koordinaten, Nachbarschafts-ID und ID der Basisstation) über WLAN, Mobilfunknetz oder kostenlose SMS an den Anbieter senden. Die Anbieter garantieren, dass diese Daten nur zu Analysezwecken, zur Verbesserung der Servicequalität oder zur Bereitstellung kundenspezifischer Dienste oder Technologien verwendet werden und niemals in einer Weise weitergegeben werden, die es ermöglichen würde, Sie persönlich zu identifizieren. Einzelheiten finden Sie in der entsprechenden Erklärung Ihres Anbieters. Sie können alle damit verbundenen Kosten direkt bei Ihrem Anbieter erfragen.</string>
     <string name="carrier_introduction_china_rothko">Um die Qualität der Ihnen bereitgestellten Dienste zu verbessern, senden die auf diesem Gerät ausgeführten Programme (einschließlich SystemHelper, RegService und Carrier-Dienste) möglicherweise Informationen über dieses Gerät oder Ihre SIM-Karte (einschließlich IMEI, IMSI, MSISDN, MEID, ICCID, MAC-Adresse, Systemversion, Android-Version, Gerätemodell, grundlegende Hardwarekonfiguration und Telefonnummer) sowie Ihren ungefähren Standort (einschließlich Region, Koordinaten, Nachbarschaftskennung und Basisstations-ID) über WLAN, Mobilfunknetze oder SMS an Ihren Mobilfunkanbieter. Beim Tätigen von Anrufen stellt DCService eine Verbindung zum Netzwerk her. Mobilfunkanbieter garantieren, dass diese Informationen nur für Analysen, Verbesserungen der Servicequalität oder die Bereitstellung maßgeschneiderter Dienste oder Technologien verwendet werden und niemals auf eine Weise an Dritte weitergegeben werden, die eine Identifizierung Ihrer Person ermöglichen könnte. Weitere Informationen finden Sie in der entsprechenden Erklärung Ihres Mobilfunkanbieters. Alle damit verbundenen Servicegebühren können Sie direkt bei Ihrem Mobilfunkanbieter erfragen.</string>
-    <string name="check_box_label">"&lt;Data&gt;By turning on this feature, you're agreeing to the Xiaomi Interconnectivity's &lt;a href=%1$s&gt;Privacy Policy&lt;/a &gt;.&lt;/Data&gt;"</string>
+    <string name="check_box_label">"&lt;Data>Indem Sie diese Funktion aktivieren, stimmen Sie der &lt;a href=%1$s>Datenschutzerklärung&lt;/a > von Xiaomi Interconnectivity zu.&lt;/Data>"</string>
     <string name="check_box_label_new"><Data>With Interconnectivity, you can transfer items across devices and use cross-device controls. Turning this feature on indicates that you agree to the &lt;a href=%1$s&gt;Privacy Policy&lt;/a &gt;. This service needs to connect to the internet and access the following permissions:</Data></string>
-    <string name="check_network_status">„Konto konnte aufgrund eines Netzwerkfehlers nicht bestätigt werden“</string>
-    <string name="chinese_day_1">初一</string>
-    <string name="chinese_day_10">初十</string>
-    <string name="chinese_day_11">十一</string>
-    <string name="chinese_day_12">十二</string>
-    <string name="chinese_day_13">十三</string>
-    <string name="chinese_day_14">十四</string>
-    <string name="chinese_day_15">十五</string>
-    <string name="chinese_day_16">十六</string>
-    <string name="chinese_day_17">十七</string>
-    <string name="chinese_day_18">十八</string>
-    <string name="chinese_day_19">十九</string>
-    <string name="chinese_day_2">初二</string>
-    <string name="chinese_day_20">二十</string>
-    <string name="chinese_day_21">廿一</string>
-    <string name="chinese_day_22">廿二</string>
-    <string name="chinese_day_23">廿三</string>
-    <string name="chinese_day_24">廿四</string>
-    <string name="chinese_day_25">廿五</string>
-    <string name="chinese_day_26">廿六</string>
-    <string name="chinese_day_27">廿七</string>
-    <string name="chinese_day_28">廿八</string>
-    <string name="chinese_day_29">廿九</string>
-    <string name="chinese_day_3">初三</string>
-    <string name="chinese_day_30">三十</string>
-    <string name="chinese_day_4">初四</string>
-    <string name="chinese_day_5">初五</string>
-    <string name="chinese_day_6">初六</string>
-    <string name="chinese_day_7">初七</string>
-    <string name="chinese_day_8">初八</string>
-    <string name="chinese_day_9">初九</string>
+    <string name="check_network_status">"Konto konnte aufgrund eines Netzwerkfehlers nicht bestätigt werden"</string>
+    <string name="chinese_day_1">Erste Klasse der Mittelschule</string>
+    <string name="chinese_day_10">Der zehnte Tag des Mondmonats</string>
+    <string name="chinese_day_11">elf</string>
+    <string name="chinese_day_12">zwölf</string>
+    <string name="chinese_day_13">Dreizehn</string>
+    <string name="chinese_day_14">vierzehn</string>
+    <string name="chinese_day_15">fünfzehn</string>
+    <string name="chinese_day_16">sechzehn</string>
+    <string name="chinese_day_17">siebzehn</string>
+    <string name="chinese_day_18">achtzehn</string>
+    <string name="chinese_day_19">neunzehn</string>
+    <string name="chinese_day_2">Zweite Klasse der Mittelschule</string>
+    <string name="chinese_day_20">zwanzig</string>
+    <string name="chinese_day_21">Einundzwanzig</string>
+    <string name="chinese_day_22">zweiundzwanzig</string>
+    <string name="chinese_day_23">Dreiundzwanzig</string>
+    <string name="chinese_day_24">Vierundzwanzig</string>
+    <string name="chinese_day_25">Fünfundzwanzig</string>
+    <string name="chinese_day_26">Sechsundzwanzig</string>
+    <string name="chinese_day_27">Siebenundzwanzig</string>
+    <string name="chinese_day_28">Achtundzwanzig</string>
+    <string name="chinese_day_29">Neunundzwanzig</string>
+    <string name="chinese_day_3">Dritte Klasse</string>
+    <string name="chinese_day_30">dreißig</string>
+    <string name="chinese_day_4">Vierter Tag des neuen Mondjahres</string>
+    <string name="chinese_day_5">fünfter Tag</string>
+    <string name="chinese_day_6">Der sechste Tag des Mondmonats</string>
+    <string name="chinese_day_7">Der siebte Tag des Mondmonats</string>
+    <string name="chinese_day_8">Der achte Tag des Mondmonats</string>
+    <string name="chinese_day_9">Neunter Tag</string>
     <string name="chinese_day_elementary">初</string>
     <string name="chinese_digit_eight">八</string>
     <string name="chinese_digit_five">五</string>
@@ -197,7 +197,7 @@
     <string name="device_information_usage_desc">Mit diesem Dienst können Sie Gerätedaten anzeigen, Ihr Gerät mit Netzwerken verbinden und seine Funktionen einrichten.</string>
     <string name="diagnose_report">Senden Sie Diagnosedaten, um Systemprobleme zu lokalisieren und zu analysieren und die Benutzerfreundlichkeit zu verbessern. Diese Daten können personenbezogene Daten beinhalten (z. B. IP, Standort etc.).</string>
     <string name="disageement_abnormal_download">Wenn Sie nicht zustimmen, solche Berechtigungen zu erteilen oder Ihre personenbezogenen Daten weiterzugeben und hochzuladen, können Sie diesen Dienst nicht nutzen.</string>
-    <string name="disagree">„Stimme nicht zu“</string>
+    <string name="disagree">"Stimme nicht zu"</string>
     <string name="disagree_unable_serve">Wenn Sie den oben genannten Berechtigungen nicht zustimmen, können Sie diesen Dienst nicht nutzen.</string>
     <string name="disagreement_abnormal_running">Wenn Sie nicht zustimmen, solche Berechtigungen zu erteilen oder Ihre personenbezogenen Daten weiterzugeben und hochzuladen, können Sie diese App nicht nutzen. In solchen Fällen können Sie diese Anwendung nicht verwenden oder die Berechtigungen in den Einstellungen einschränken.</string>
     <string name="disagreement_abnormal_running_fast_pairing">Wenn Sie nicht zustimmen, solche Berechtigungen zu erteilen, können Sie diese App nicht verwenden. In solchen Fällen können Sie die Berechtigungen einschränken und diese Funktion in den Einstellungen deaktivieren.</string>
@@ -265,24 +265,24 @@
     <string name="fmt_date_timezone">D z</string>
     <string name="fmt_date_year">jjjj</string>
     <string name="fmt_time">T</string>
-    <string name="fmt_time_12hour">„h ‚Uhr‘“</string>
+    <string name="fmt_time_12hour">"h ‚Uhr‘"</string>
     <string name="fmt_time_12hour_minute">Hmm</string>
     <string name="fmt_time_12hour_minute_pm">h:mm a</string>
     <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
     <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
     <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
     <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
-    <string name="fmt_time_12hour_pm">ha</string>
-    <string name="fmt_time_24hour">„HH ‚Uhr‘“</string>
+    <string name="fmt_time_12hour_pm">Ha</string>
+    <string name="fmt_time_24hour">"HH ‚Uhr‘"</string>
     <string name="fmt_time_24hour_minute">HH: mm</string>
     <string name="fmt_time_24hour_minute_second">HH:mm:ss</string>
     <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
     <string name="fmt_time_millis">"S'ms'"</string>
     <string name="fmt_time_minute">"bedeuten"</string>
-    <string name="fmt_time_minute_second">„M'min's'“</string>
-    <string name="fmt_time_minute_second_millis">„m'min‘ s.S‘“</string>
-    <string name="fmt_time_second">„s“</string>
-    <string name="fmt_time_second_millis">„s.S‘‘“</string>
+    <string name="fmt_time_minute_second">"M'min's'"</string>
+    <string name="fmt_time_minute_second_millis">"m'min‘ s.S‘"</string>
+    <string name="fmt_time_second">"s"</string>
+    <string name="fmt_time_second_millis">"s.S‘‘"</string>
     <string name="fmt_time_timezone">T z</string>
     <string name="fmt_timezone">z</string>
     <string name="fmt_weekday">W</string>
@@ -435,25 +435,25 @@ Zu Zwecken der Risikoprävention, Statistik und analytischen Verarbeitung benöt
     <string name="kind_note03">Die Frontkamera und das Klappscharnier des Innenbildschirms sind empfindlich. Vermeiden Sie es, diese Bereiche mit scharfen Gegenständen zu beschädigen, da dies die Garantie beeinträchtigen kann.</string>
     <string name="kind_note04">Falten Sie das Gerät zusammen, bevor Sie es in eine Tasche stecken. Dies kann Platz sparen und den Bildschirm besser schützen.</string>
     <string name="kind_note05">Stellen Sie das Gerät nicht so auf, dass der Innenbildschirm nach unten zeigt. Druck auf den flexiblen Bildschirm kann ihn beschädigen und die Garantie beeinträchtigen.</string>
-    <string name="kind_note06_cn">„Der innere Bildschirm dieses Geräts ist mit einer speziellen Schutzfolie bedeckt. Entfernen oder ersetzen Sie den inneren Bildschirmschutz nicht selbst, da die daraus resultierende Beschädigung des inneren Bildschirms Auswirkungen auf die Garantie hat. Wenn Sie den Bildschirmschutz ersetzen müssen, wenden Sie sich an den Kundendienst von Xiaomi.“</string>
-    <string name="kind_note06_global">„Der innere Bildschirm dieses Geräts ist mit einer speziellen Schutzfolie bedeckt. Entfernen oder ersetzen Sie den inneren Bildschirmschutz nicht selbst, da dies den Bildschirm beschädigen kann.“</string>
+    <string name="kind_note06_cn">"Der innere Bildschirm dieses Geräts ist mit einer speziellen Schutzfolie bedeckt. Entfernen oder ersetzen Sie den inneren Bildschirmschutz nicht selbst, da die daraus resultierende Beschädigung des inneren Bildschirms Auswirkungen auf die Garantie hat. Wenn Sie den Bildschirmschutz ersetzen müssen, wenden Sie sich an den Kundendienst von Xiaomi."</string>
+    <string name="kind_note06_global">"Der innere Bildschirm dieses Geräts ist mit einer speziellen Schutzfolie bedeckt. Entfernen oder ersetzen Sie den inneren Bildschirmschutz nicht selbst, da dies den Bildschirm beschädigen kann."</string>
     <string name="kind_subtitle">Dieses Gerät verwendet ein faltbares Bildschirmdesign. Beachten Sie zum Schutz Ihres Geräts Folgendes:</string>
-    <string name="kind_tip_details_inner_details">„Vermeiden Sie es, mit scharfen Gegenständen (Stiftspitzen, Fingernägeln usw.) auf den Bildschirm zu drücken, während Sie Ihr Gerät verwenden oder tragen. Bevor Sie das Gerät zusammenklappen, stellen Sie sicher, dass sich auf dem inneren Bildschirm keine harten Gegenstände wie Karten, Münzen oder Schlüssel befinden.“</string>
-    <string name="kind_tip_details_inner_title">„Drücken Sie nicht mit scharfen oder harten Gegenständen auf den inneren Bildschirm.“</string>
-    <string name="kind_tip_details_pocket_details">„Falten Sie Ihr Gerät zusammen, wenn Sie es nicht verwenden. Vermeiden Sie den Kontakt des Innenbildschirms mit scharfen und harten Gegenständen in Ihrer Tasche.“</string>
-    <string name="kind_tip_details_pocket_title">„Stecken Sie das ausgeklappte Gerät nicht direkt in Ihre Tasche oder Hosentasche“</string>
-    <string name="kind_tip_details_protective_details_cn">„Der Innenbildschirm dieses Geräts ist mit einer speziellen Schutzfolie bedeckt, für deren Austausch professionelle Ausrüstung erforderlich ist. Entfernen oder ersetzen Sie den Innenbildschirmschutz nicht selbst, da die daraus resultierende Beschädigung des Innenbildschirms Auswirkungen auf die Garantie hat. Wenn Sie den Bildschirmschutz ersetzen müssen, wenden Sie sich an den Kundendienst von Xiaomi.“</string>
+    <string name="kind_tip_details_inner_details">"Vermeiden Sie es, mit scharfen Gegenständen (Stiftspitzen, Fingernägeln usw.) auf den Bildschirm zu drücken, während Sie Ihr Gerät verwenden oder tragen. Bevor Sie das Gerät zusammenklappen, stellen Sie sicher, dass sich auf dem inneren Bildschirm keine harten Gegenstände wie Karten, Münzen oder Schlüssel befinden."</string>
+    <string name="kind_tip_details_inner_title">"Drücken Sie nicht mit scharfen oder harten Gegenständen auf den inneren Bildschirm."</string>
+    <string name="kind_tip_details_pocket_details">"Falten Sie Ihr Gerät zusammen, wenn Sie es nicht verwenden. Vermeiden Sie den Kontakt des Innenbildschirms mit scharfen und harten Gegenständen in Ihrer Tasche."</string>
+    <string name="kind_tip_details_pocket_title">"Stecken Sie das ausgeklappte Gerät nicht direkt in Ihre Tasche oder Hosentasche"</string>
+    <string name="kind_tip_details_protective_details_cn">"Der Innenbildschirm dieses Geräts ist mit einer speziellen Schutzfolie bedeckt, für deren Austausch professionelle Ausrüstung erforderlich ist. Entfernen oder ersetzen Sie den Innenbildschirmschutz nicht selbst, da die daraus resultierende Beschädigung des Innenbildschirms Auswirkungen auf die Garantie hat. Wenn Sie den Bildschirmschutz ersetzen müssen, wenden Sie sich an den Kundendienst von Xiaomi."</string>
     <string name="kind_tip_details_protective_details_global">Der Innenbildschirm dieses Geräts ist mit einer speziellen Schutzfolie bedeckt. Das Entfernen oder Ersetzen der Folie kann zu Schäden am inneren Bildschirm führen.</string>
-    <string name="kind_tip_details_protective_title">„Entfernen Sie die innere Displayschutzfolie nicht selbst“</string>
+    <string name="kind_tip_details_protective_title">"Entfernen Sie die innere Displayschutzfolie nicht selbst"</string>
     <string name="kind_tip_subtitle">Dieses Gerät ist mit einem faltbaren Bildschirm ausgestattet. Um Schäden zu vermeiden und sicherzustellen, dass der Bildschirm normal funktioniert, treffen Sie während des Gebrauchs die folgenden Vorsichtsmaßnahmen.</string>
     <string name="kind_tip_title">Aufmerksamkeit</string>
     <string name="ktlocation_U">(KT-Servicemitarbeiter)</string>
     <string name="ktposition_header">Weitergabe von Standortdaten an Notfallrettungsorganisationen</string>
-    <string name="language_disabled_description">%1$s, not available</string>
+    <string name="language_disabled_description">%1$s, nicht verfügbar</string>
     <string name="language_picker_other_languages_title">Mehr Sprachen</string>
-    <string name="language_selected_description">%1$s, selected</string>
+    <string name="language_selected_description">%1$s, ausgewählt</string>
     <string name="language_settings">Sprache wählen</string>
-    <string name="language_unselected_description">%1$s, double tap to apply</string>
+    <string name="language_unselected_description">%1$s, zum Übernehmen doppeltippen</string>
     <string name="layout_size_huge">XL</string>
     <string name="layout_size_large">Groß</string>
     <string name="layout_size_normal">Regulär</string>
@@ -521,10 +521,10 @@ Zu Zwecken der Risikoprävention, Statistik und analytischen Verarbeitung benöt
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Erfolgreich aktualisiert</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Erfrischend…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Zum Aktualisieren loslassen</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">„Das ist alles für den Moment“</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">„Das ist alles für den Moment“</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Das ist alles für den Moment"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"Das ist alles für den Moment"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Nur eine Sekunde…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">„Elemente konnten nicht geladen werden“</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Elemente konnten nicht geladen werden"</string>
     <string name="miuix_show_password">Passwort anzeigen</string>
     <string name="miuix_stretchablewidget_collapsed">Zusammengebrochen</string>
     <string name="miuix_stretchablewidget_expanded">Erweitert</string>
@@ -622,10 +622,10 @@ Zu Zwecken der Risikoprävention, Statistik und analytischen Verarbeitung benöt
 Die gesendeten Daten enthalten allgemeine Infos über Ihr Gerät und Ihre Nutzung (z.B. Akkustand, System- und App-Aktivitäten und Fehler). Die Daten werden verwendet, um Xiaomi-Geräte zu verbessern.
 Die Deaktivierung dieser Funktion hat keinen Einfluss auf die Fähigkeit Ihres Geräts, die für wichtige Dienste wie Systemaktualisierungen und Sicherheit erforderlichen Infos zu senden.
 Sie können diese Funktion unter Einstellungen &gt; Passwörter &amp; Sicherheit &gt; Datenschutz &gt; Nutzung und Diagnose steuern."</string>
-    <string name="other_settings_upload_debug_log_detail_cn">"Help improve your experience by automatically sending diagnostic, device, and app usage data to Xiaomi. This will help improve battery life, system and app stability, and more.
-The data you'll send will contain general information about your device and how you use it (e.g. battery level, system and app activity, and errors). The data will be used to improve Xiaomi devices.
-Turning off this feature doesn't affect your device's ability to send the information needed for essential services such as system updates and security.
-You can control this feature from Settings &gt; Privacy &amp; security &gt; Security &gt; Additional settings &gt; Usage and diagnostics."</string>
+    <string name="other_settings_upload_debug_log_detail_cn">"Helfen Sie mit, Ihr Erlebnis zu verbessern, indem Sie automatisch Diagnose-, Geräte- und App-Nutzungsdaten an Xiaomi senden. Dies wird dazu beitragen, die Akkulaufzeit, die System- und App-Stabilität und mehr zu verbessern."
+Die von Ihnen gesendeten Daten enthalten allgemeine Informationen über Ihr Gerät und dessen Nutzung (z. B. Akkustand, System- und App-Aktivität sowie Fehler). Die Daten werden zur Verbesserung von Xiaomi-Geräten verwendet.
+Das Deaktivieren dieser Funktion hat keinen Einfluss auf die Fähigkeit Ihres Geräts, die für wichtige Dienste wie Systemaktualisierungen und Sicherheit erforderlichen Informationen zu senden.
+Sie können diese Funktion über "Einstellungen" > "Datenschutz und Sicherheit" > "Sicherheit" > "Zusätzliche Einstellungen" > "Nutzung und Diagnose" steuern.</string>
     <string name="other_settings_upload_debug_log_summary">Helfen Sie mit, Ihr Erlebnis zu verbessern, indem Sie automatisch Diagnose-, Geräte- und App-Nutzungsdaten an Xiaomi senden. So können Sie die Akkulaufzeit, die System- und App-Stabilität und vieles mehr verbessern.</string>
     <string name="other_settings_upload_debug_log_title">Nutzungs- und Diagnosedaten senden</string>
     <string name="other_settings_user_experience">Benutzererfahrungsprogramm</string>
@@ -685,7 +685,7 @@ You can control this feature from Settings &gt; Privacy &amp; security &gt; Secu
     <string name="permission_make_a_call_fast_application_summary">Damit Quick Apps telefonieren können;</string>
     <string name="permission_media_storage_summary">Zur Prüfung, wie Apps datenschutzbezogene Berechtigungen beim Zugriff auf Dateien verwenden</string>
     <string name="permission_message_introduction">Zum Senden von Nachrichten an gesperrte Kontakte</string>
-    <string name="permission_mi_account">„Greifen Sie auf die Telefonnummer dieses Geräts zu“</string>
+    <string name="permission_mi_account">"Greifen Sie auf die Telefonnummer dieses Geräts zu"</string>
     <string name="permission_not_agree_service_not_working">Wenn Sie mit den oben genannten erforderlichen Berechtigungen nicht einverstanden sind, können Sie diesen Dienst nicht nutzen.</string>
     <string name="permission_number">Zugriff auf Rufnummer</string>
     <string name="permission_number_introduction">Zum Herstellen einer Bluetooth-Verbindung mit Fahrzeugsystemen und Bluetooth-Kopfhörern</string>
@@ -898,7 +898,7 @@ You can control this feature from Settings &gt; Privacy &amp; security &gt; Secu
     <string name="software_account_mismatch">Kontobestätigung</string>
     <string name="software_account_mismatch_summary">Konto wird überprüft…</string>
     <string name="software_version_mismatch">Nicht unterstützte Software</string>
-    <string name="software_version_mismatch_summary">„Diese Softwareversion wird von Ihrem Gerät nicht unterstützt. Die Verwendung kann ein Sicherheitsrisiko darstellen. Wenden Sie sich für weitere Informationen an Ihren Vertriebsmitarbeiter.“</string>
+    <string name="software_version_mismatch_summary">"Diese Softwareversion wird von Ihrem Gerät nicht unterstützt. Die Verwendung kann ein Sicherheitsrisiko darstellen. Wenden Sie sich für weitere Informationen an Ihren Vertriebsmitarbeiter."</string>
     <string name="solar_term_autumn_begins">Der Herbst beginnt</string>
     <string name="solar_term_autumn_equinox">Herbst-Tagundnachtgleiche</string>
     <string name="solar_term_clear_and_bright">Klar und hell</string>
@@ -1006,7 +1006,7 @@ Sie müssen die Mint Keyboard Datenschutzerklärung akzeptieren, bevor Sie diese
     <string name="the_arbor_day">Tag der Laube</string>
     <string name="the_armed_forces_day">Tag der Streitkräfte</string>
     <string name="the_armys_day">PLA-Tag</string>
-    <string name="the_childrens_day">„Kindertag“</string>
+    <string name="the_childrens_day">"Kindertag"</string>
     <string name="the_chinese_youth_day">Jugendtag</string>
     <string name="the_christmas_day">Weihnachten</string>
     <string name="the_double_ninth_festival">Doppeltes neuntes Festival</string>
@@ -1014,16 +1014,16 @@ Sie müssen die Mint Keyboard Datenschutzerklärung akzeptieren, bevor Sie diese
     <string name="the_easter_day">Ostern</string>
     <string name="the_eve_of_the_spring_festival">Vorabend des chinesischen Neujahrs</string>
     <string name="the_fifth_day">Fünfter Tag des chinesischen Neujahrs</string>
-    <string name="the_fools_day">„Aprilscherz“</string>
+    <string name="the_fools_day">"Aprilscherz"</string>
     <string name="the_forth_day">Vierter Tag des chinesischen Neujahrs</string>
     <string name="the_hksar_establishment_day">Gründungstag der Sonderverwaltungszone Hongkong</string>
-    <string name="the_international_womens_day">„Frauentag“</string>
+    <string name="the_international_womens_day">"Frauentag"</string>
     <string name="the_laba_festival">Laba-Festival</string>
     <string name="the_labour_day">Tag der Arbeit</string>
     <string name="the_lantern_festival">Laternenfest</string>
     <string name="the_mid_autumn_festival">Mittherbstfest</string>
     <string name="the_national_day">Nationalfeiertag</string>
-    <string name="the_national_father_day">„Sun Yat-sens Geburtstag“</string>
+    <string name="the_national_father_day">"Sun Yat-sens Geburtstag"</string>
     <string name="the_new_years_day">Neujahr</string>
     <string name="the_night_of_sevens">Qixi-Fest</string>
     <string name="the_partys_day">CPC-Tag</string>
@@ -1034,9 +1034,9 @@ Sie müssen die Mint Keyboard Datenschutzerklärung akzeptieren, bevor Sie diese
     <string name="the_sixth_day">Sechster Tag des chinesischen Neujahrs</string>
     <string name="the_spirit_festival">Geisterfest</string>
     <string name="the_spring_festival">Chinesisches Neujahr</string>
-    <string name="the_teachers_day">„Tag der Lehrer“</string>
+    <string name="the_teachers_day">"Tag der Lehrer"</string>
     <string name="the_third_day">Dritter Tag des chinesischen Neujahrs</string>
-    <string name="the_tw_childrens_day">„Kindertag“</string>
+    <string name="the_tw_childrens_day">"Kindertag"</string>
     <string name="the_tw_youth_day">Jugendtag</string>
     <string name="the_united_nations_day">Tag der Vereinten Nationen</string>
     <string name="the_valentines_day">"Valentinstag"</string>

@@ -160,8 +160,8 @@
     <string name="activity_title_virus_settings">Einstellungen</string>
     <string name="activity_title_white_list">Ausnahmen</string>
     <string name="ad_btn_default_text">Mehr erfahren</string>
-    <string name="ad_click_type_blank_area">空白</string>
-    <string name="ad_click_type_cancel">取消</string>
+    <string name="ad_click_type_blank_area">leer</string>
+    <string name="ad_click_type_cancel">Stornieren</string>
     <string name="ad_click_type_content_quality">Inhaltsqualität</string>
     <string name="ad_click_type_not_interest">nicht interessiert</string>
     <string name="ad_click_type_often">zu oft</string>
@@ -226,12 +226,12 @@
     <string name="ai_guard_settings_menu_privacy_policy">Datenschutzrichtlinie</string>
     <string name="ai_guard_settings_menu_revoke_privacy_policy">Widerruf der Einwilligung</string>
     <string name="ai_guard_settings_permissions">Berechtigungen</string>
-    <string name="ai_guard_settings_preference_summary">„Wenn Sie einen Telefonanruf oder Videoanrufe auf WeChat oder QQ entgegennehmen, erhalten Sie eine Benachrichtigung, wenn ein Verdacht auf Betrug oder Identitätsfälschung (z. B. Gesichtsvertauschung) festgestellt wird. Sie können diese Funktion für einen einzelnen Anruf deaktivieren.“</string>
+    <string name="ai_guard_settings_preference_summary">"Wenn Sie einen Telefonanruf oder Videoanrufe auf WeChat oder QQ entgegennehmen, erhalten Sie eine Benachrichtigung, wenn ein Verdacht auf Betrug oder Identitätsfälschung (z. B. Gesichtsvertauschung) festgestellt wird. Sie können diese Funktion für einen einzelnen Anruf deaktivieren."</string>
     <string name="ai_guard_settings_preference_summary_1">Bei Betrugsverdacht bei Telefonanrufen und WeChat- oder QQ-Videoanrufen wird eine Benachrichtigung gesendet. Sie können diese Funktion für einen einzelnen Anruf deaktivieren.</string>
     <string name="ai_guard_settings_preference_title">KI-Anrufschutz</string>
     <string name="ai_guard_settings_revoke_dialog_btn_pos">Zurückziehen</string>
     <string name="ai_guard_settings_revoke_dialog_btn_stateful_pos">Abheben (%d)</string>
-    <string name="ai_guard_settings_revoke_dialog_message">„Wenn Sie fortfahren, widerrufen Sie Ihre Einwilligung zur Datenschutzrichtlinie von AI Call Protection. Die bereits erfassten und gespeicherten personenbezogenen Daten werden innerhalb des bestimmten Zeitraums gemäß den geltenden Gesetzen und Vorschriften gelöscht, sofern nichts anderes erforderlich ist. Da AI Call Protection seine Dienste auf der Grundlage der Erfassung notwendiger personenbezogener Daten bereitstellt, wird Ihr Widerruf der Einwilligung als Ablehnung der Annahme von AI Call Protection-Diensten gewertet. Einwilligung jetzt widerrufen?“</string>
+    <string name="ai_guard_settings_revoke_dialog_message">"Wenn Sie fortfahren, widerrufen Sie Ihre Einwilligung zur Datenschutzrichtlinie von AI Call Protection. Die bereits erfassten und gespeicherten personenbezogenen Daten werden innerhalb des bestimmten Zeitraums gemäß den geltenden Gesetzen und Vorschriften gelöscht, sofern nichts anderes erforderlich ist. Da AI Call Protection seine Dienste auf der Grundlage der Erfassung notwendiger personenbezogener Daten bereitstellt, wird Ihr Widerruf der Einwilligung als Ablehnung der Annahme von AI Call Protection-Diensten gewertet. Einwilligung jetzt widerrufen?"</string>
     <string name="ai_guard_settings_revoke_dialog_title">Widerruf der Einwilligung</string>
     <string name="alert_back_diving_mode_summary">Immersiven Modus jetzt ausschalten?</string>
     <string name="alert_back_diving_mode_title">Immersiver Modus</string>
@@ -424,7 +424,7 @@
     <string name="app_manager_app_storage">"Speicher: "</string>
     <string name="app_manager_app_traffic">"Datennutzung: "</string>
     <string name="app_manager_app_update">Aktualisierungen</string>
-    <string name="app_manager_app_version_name">„Version:“</string>
+    <string name="app_manager_app_version_name">"Version:"</string>
     <string name="app_manager_appupdate_remind">Über Updates benachrichtigen</string>
     <string name="app_manager_as_dlg_msg">Wenn Sie einer App den Autostart erlauben, wird zusätzliche RAM- und Akkuleistung benötigt. Trotzdem erlauben?</string>
     <string name="app_manager_as_dlg_msg_new">Wenn Sie einer App den Autostart erlauben, kann dies den Speicherbedarf und den Akkuverbrauch erhöhen. Ihr Gerät optimiert die Autostart-Berechtigungen von Apps, die Sie nicht häufig verwenden, um die Leistung Ihres Geräts zu verbessern.</string>
@@ -456,7 +456,7 @@
     <string name="app_manager_details_title">App-Info</string>
     <string name="app_manager_details_traffic_title">Datennutzung</string>
     <string name="app_manager_details_traffic_title_new">Netzwerkzugriff</string>
-    <string name="app_manager_details_traffic_title_value">Data usage %1$s</string>
+    <string name="app_manager_details_traffic_title_value">Datennutzung %1$s</string>
     <string name="app_manager_disable">Nicht erlauben</string>
     <string name="app_manager_disable_dlg_title">System-App deaktivieren?</string>
     <string name="app_manager_disable_text">Deaktivieren</string>
@@ -576,7 +576,7 @@ You will not lose any app data."</string>
     <string name="app_powerkeeper_miui_auto">Batteriesparmodus (empfohlen)</string>
     <string name="app_powerkeeper_miui_auto_summary">Identifizieren Sie Apps und Aktivitäten, um wichtige Prozesse am Laufen zu halten. Der Batteriesparmodus behandelt wichtige Apps selektiv.</string>
     <string name="app_powerkeeper_no_restrict">Keine Einschränkungen</string>
-    <string name="app_powerkeeper_no_restrict_summary">„Der Energiesparmodus schränkt die Aktivität der App nicht ein“</string>
+    <string name="app_powerkeeper_no_restrict_summary">"Der Energiesparmodus schränkt die Aktivität der App nicht ein"</string>
     <string name="app_powerkeeper_restrict_bg">Beschränken Sie Hintergrund-Apps</string>
     <string name="app_powerkeeper_restrict_running">Schließen Sie Apps nach %d Minuten Hintergrundaktivität</string>
     <string name="app_predict_black_list_empty">Noch keine Einträge hier</string>
@@ -621,10 +621,10 @@ You will not lose any app data."</string>
     <string name="app_running_tip_dialog_title">%1$s beenden</string>
     <string name="app_settings_link">Weitere Einstellungen in der App</string>
     <string name="app_source_global_search">globale Suche</string>
-    <string name="app_source_home">桌面</string>
-    <string name="app_source_notification">通知</string>
-    <string name="app_source_other">其他</string>
-    <string name="app_source_settings">设置</string>
+    <string name="app_source_home">Desktop</string>
+    <string name="app_source_notification">benachrichtigen</string>
+    <string name="app_source_other">andere</string>
+    <string name="app_source_settings">aufstellen</string>
     <string name="app_source_widget">Widget</string>
     <string name="app_summary">Bearbeiten von Fotos und Videos</string>
     <string name="app_usage_half_year">Letzte %d Monate</string>
@@ -691,9 +691,9 @@ You will not lose any app data."</string>
     <string name="applock_lock_mode_locked">Wenn das Gerät gesperrt ist</string>
     <string name="applock_lock_mode_locked_or_exit">Wenn das Gerät gesperrt ist oder nach Beenden der App</string>
     <string name="applock_lock_mode_locked_or_exit_or_wait">Wenn das Gerät gesperrt ist oder %d Min nach Beenden der App</string>
-    <string name="applock_lock_mode_locked_or_exit_or_wait_summary">Lock apps %1$d minute after you leave, exit, or switch to another app</string>
+    <string name="applock_lock_mode_locked_or_exit_or_wait_summary">Sperren Sie Apps %1$d Minuten, nachdem Sie die App verlassen, verlassen oder zu einer anderen App wechseln</string>
     <string name="applock_lock_mode_locked_or_exit_summary">Sperren Sie Apps, wenn Sie die App verlassen, beenden oder zu einer anderen App wechseln</string>
-    <string name="applock_lock_mode_locked_summary">„Keine Verifizierung erforderlich, bis das Gerät gesperrt ist“</string>
+    <string name="applock_lock_mode_locked_summary">"Keine Verifizierung erforderlich, bis das Gerät gesperrt ist"</string>
     <string name="applock_login_and_add_account">Anmelden &amp; hinzufügen</string>
     <string name="applock_mixtype_hidepwd_icon">Ausblenden</string>
     <string name="applock_mixtype_showpwd_icon">Anzeigen</string>
@@ -710,9 +710,9 @@ You will not lose any app data."</string>
     <string name="applock_operate_hidenoti_title">Möchten Sie sensible Benachrichtigungen ausblenden?</string>
     <string name="applock_password_set_luck_button">Einstellungen</string>
     <string name="applock_password_set_luck_comment">Sie müssen eine Bildschirmsperre einrichten, um private Funktionen auf diesem Gerät nutzen zu können.</string>
-    <string name="applock_password_set_luck_message">"To securely access private features on your device, Xiaomi HyperOS uses your screen lock by default for identity verification.
+    <string name="applock_password_set_luck_message">"Um sicher auf private Funktionen auf Ihrem Gerät zuzugreifen, verwendet Xiaomi HyperOS standardmäßig Ihre Bildschirmsperre zur Identitätsüberprüfung.
 
-If you haven't set a screen lock yet, follow the instructions to set one."</string>
+Wenn Sie noch keine Bildschirmsperre eingerichtet haben, befolgen Sie die Anweisungen, um eine einzurichten.</string>
     <string name="applock_password_set_luck_title">Stellen Sie zunächst die Bildschirmsperre ein</string>
     <string name="applock_password_start_setting">Aufstellen</string>
     <string name="applock_password_type">App-Sperre</string>
@@ -819,8 +819,8 @@ If you haven't set a screen lock yet, follow the instructions to set one."</stri
     <string name="auto_task_edit_default_task_name">Aufgabenname bearbeiten</string>
     <string name="auto_task_edit_my_custom_task">Aufgabenname eingeben</string>
     <string name="auto_task_edit_operation_summary">Zum Beispiel \"Flugmodus einschalten\"</string>
-    <string name="auto_task_edit_step1_new">%D.</string>
-    <string name="auto_task_edit_step2_new">%D.</string>
+    <string name="auto_task_edit_step1_new">%d.</string>
+    <string name="auto_task_edit_step2_new">%d.</string>
     <string name="auto_task_edit_task_name">Name</string>
     <string name="auto_task_exit_finish">Aufgabe automatisch abgeschlossen</string>
     <string name="auto_task_font_setting_weight_toast">Für diese Schriftart kann der Schriftgrad nicht angepasst werden</string>
@@ -917,7 +917,7 @@ If you haven't set a screen lock yet, follow the instructions to set one."</stri
     <string name="back_modifypassword">Zurück zur Änderung des Passworttyps</string>
     <string name="back_sound_data">Schalten Sie mobile Daten ein und versuchen Sie es erneut.</string>
     <string name="back_sound_fail">Einstellen fehlgeschlagen. Anbietereinstellungen wurden geändert. Aktuelle SIM-Karte als Ihre Datenkarte einstellen, mit Netzwerk verbinden und erneut versuchen.</string>
-    <string name="back_sound_no_support_oversea">"SIM %1$d doesn't support this plan"</string>
+    <string name="back_sound_no_support_oversea">"SIM %1$d unterstützt diesen Plan nicht"</string>
     <string name="back_sound_success">Erfolgreich eingestellt</string>
     <string name="back_sound_support">Erst WLAN ausschalten</string>
     <string name="back_sound_support_china">Erst WLAN ausschalten</string>
@@ -992,7 +992,7 @@ If you haven't set a screen lock yet, follow the instructions to set one."</stri
     <string name="beauty_fun_filter">Verschönern</string>
     <string name="beauty_fun_front_light">Vorderes Aufhelllicht</string>
     <string name="beauty_fun_light">Aufhelllicht</string>
-    <string name="beauty_fun_portrait_center_check">„Der Ultra HD-Modus unterstützt FocusFrame nicht“</string>
+    <string name="beauty_fun_portrait_center_check">"Der Ultra HD-Modus unterstützt FocusFrame nicht"</string>
     <string name="beauty_fun_privacy">Datenschutzkamera</string>
     <string name="beauty_fun_privacy_dialog_message">Wenn Sie die Kamera für die Gesichtserkennungsfunktionen verwenden, wird Ihr Gesicht automatisch erkannt und andere erfasste Bereiche werden maskiert.</string>
     <string name="beauty_fun_privacy_dialog_tips">Diese funktion kann die Erfolgsquote der Gesichtserkennung senken</string>
@@ -1003,7 +1003,7 @@ If you haven't set a screen lock yet, follow the instructions to set one."</stri
     <string name="beauty_fun_privacy_tips">Datenschutzkamera wird nun standardmäßig mit kompatiblen Gesichtserkennungsfunktionen verwendet</string>
     <string name="beauty_fun_screen_light">Bildschirm-Aufhelllicht</string>
     <string name="beauty_fun_settings_light">Helligkeit Aufhelllicht</string>
-    <string name="beauty_fun_ultra_clear_check">„FocusFrame unterstützt den Ultra HD-Modus nicht“</string>
+    <string name="beauty_fun_ultra_clear_check">"FocusFrame unterstützt den Ultra HD-Modus nicht"</string>
     <string name="beauty_fun_video_effect">Video verschönern</string>
     <string name="beauty_portrait_center">FocusFrame</string>
     <string name="beauty_portrait_center_desc">Identifizieren und zentrieren Sie Gesichter in Videoanrufen und Meetings automatisch. Diese Funktion wird von einigen Apps nicht unterstützt.</string>
@@ -1017,8 +1017,8 @@ If you haven't set a screen lock yet, follow the instructions to set one."</stri
     <string name="behavior_widget_read_write_external_storage">Dateizugriff</string>
     <string name="best_booster_status">Spielgeschwindigkeit ist die beste, die derzeit verfügbar ist.</string>
     <string name="best_warning_dialog_button">Habe es</string>
-    <string name="best_warning_dialog_message">„Tipp: Mit dem Assistenten für rote Umschläge können Sie rote Umschläge schneller abholen. Wenn Sie jedoch immer der Erste sind, der sie öffnet, könnte &lt;font color='#F30018'>WeChat fälschlicherweise denken, dass Sie ein automatisches Plugin verwenden, um rote Umschläge anzufordern&lt;/font>, was sich auf Ihre zukünftigen Chancen auswirken könnte. Seien Sie vorsichtig und kontrollieren Sie Ihr Tempo. Rote Umschläge sind großartig, aber seien Sie nicht gierig!“</string>
-    <string name="best_warning_dialog_message1">„Mit dem Assistenten für rote Umschläge können Sie rote Umschläge schneller abholen. Wenn Sie jedoch immer der Erste sind, der sie öffnet, könnte &lt;font color='#F22424'>WeChat fälschlicherweise denken, dass Sie ein automatisches Plugin verwenden, um rote Umschläge anzufordern&lt;/font>, was Ihre zukünftigen Chancen beeinträchtigen könnte. Seien Sie vorsichtig und kontrollieren Sie Ihr Tempo. Rote Umschläge sind großartig, aber seien Sie nicht gierig!“</string>
+    <string name="best_warning_dialog_message">"Tipp: Mit dem Assistenten für rote Umschläge können Sie rote Umschläge schneller abholen. Wenn Sie jedoch immer der Erste sind, der sie öffnet, könnte &lt;font color='#F30018'>WeChat fälschlicherweise denken, dass Sie ein automatisches Plugin verwenden, um rote Umschläge anzufordern&lt;/font>, was sich auf Ihre zukünftigen Chancen auswirken könnte. Seien Sie vorsichtig und kontrollieren Sie Ihr Tempo. Rote Umschläge sind großartig, aber seien Sie nicht gierig!"</string>
+    <string name="best_warning_dialog_message1">"Mit dem Assistenten für rote Umschläge können Sie rote Umschläge schneller abholen. Wenn Sie jedoch immer der Erste sind, der sie öffnet, könnte &lt;font color='#F22424'>WeChat fälschlicherweise denken, dass Sie ein automatisches Plugin verwenden, um rote Umschläge anzufordern&lt;/font>, was Ihre zukünftigen Chancen beeinträchtigen könnte. Seien Sie vorsichtig und kontrollieren Sie Ihr Tempo. Rote Umschläge sind großartig, aber seien Sie nicht gierig!"</string>
     <string name="best_warning_dialog_title">Aufmerksamkeit</string>
     <string name="bg_network_exception_title">Hintergrundverbindung eingeschänkt</string>
     <string name="bh_buy_order_fail_tips_text">Ein Fehler ist aufgetreten. Etwas warten und erneut versuchen.</string>
@@ -1090,9 +1090,9 @@ If you haven't set a screen lock yet, follow the instructions to set one."</stri
     <string name="biometric_applock_password_lockout_title">Zu viele erfolglose Versuche</string>
     <string name="biometric_applock_pwd">Überprüfung der App-Sperre</string>
     <string name="biometric_applock_pwd_or_finger">Verifizieren Sie mit Fingerabdruck oder App-Sperre</string>
-    <string name="biometric_face_error">„Konnte nicht überprüft werden“</string>
+    <string name="biometric_face_error">"Konnte nicht überprüft werden"</string>
     <string name="biometric_face_finger_change">Biometrische Daten haben sich geändert. Geben Sie zur Bestätigung Ihr Passwort ein.</string>
-    <string name="biometric_face_in_use">„Kamera wird verwendet. Entsperrung mit Gesichtsdaten nicht möglich.“</string>
+    <string name="biometric_face_in_use">"Kamera wird verwendet. Entsperrung mit Gesichtsdaten nicht möglich."</string>
     <string name="biometric_finger_verify">Überprüfung des Fingerabdrucks</string>
     <string name="biometric_lockscreen_pwd">Überprüfung der Bildschirmsperre</string>
     <string name="biometric_lockscreen_pwd_or_finger">Überprüfen Sie mit Fingerabdruck oder Bildschirmsperre</string>
@@ -1101,7 +1101,7 @@ If you haven't set a screen lock yet, follow the instructions to set one."</stri
     <string name="biometric_private_pwd_or_finger">Verifizieren Sie mit Fingerabdruck oder Datenschutz-Passwort</string>
     <string name="biometric_reset_password_tips">Passwort erfolgreich zurückgesetzt. Geben Sie zum Entsperren ein neues Passwort ein.</string>
     <string name="biometric_screen_lock_password_lockout_title">Zu viele erfolglose Versuche</string>
-    <string name="biometric_subtitle">For opening %1$s</string>
+    <string name="biometric_subtitle">Zum Öffnen von %1$s</string>
     <string name="biometric_subtitle_default">Überprüfen Sie Ihre Identität</string>
     <string name="biometric_verify_retry">Versuchen Sie es erneut</string>
     <string name="birthday">Geburtstag:</string>
@@ -1174,7 +1174,7 @@ If you haven't set a screen lock yet, follow the instructions to set one."</stri
     <string name="btn_text_quick_save_power">Abkühlen</string>
     <string name="btn_text_quick_scan">Scannen</string>
     <string name="btn_text_stop">Stoppen</string>
-    <string name="bubble_app_empty_page">„Auf diesem Gerät konnten keine Apps gefunden werden, die Sprechblasen unterstützen.“</string>
+    <string name="bubble_app_empty_page">"Auf diesem Gerät konnten keine Apps gefunden werden, die Sprechblasen unterstützen."</string>
     <string name="bubble_app_manage">Konversationsblasen verwalten</string>
     <string name="bubble_mode_barrage_switch_tips">Einschalten, um Sprechblasen für minimierte Apps als Bildschirmkommentare anzuzeigen</string>
     <string name="bubble_mode_barrage_tips">Sprechblasen für minimierte Apps werden als Bildschirmkommentare angezeigt</string>
@@ -1248,7 +1248,7 @@ If you haven't set a screen lock yet, follow the instructions to set one."</stri
     <string name="car_sickness_relief_start_text">Die Linderung der Reisekrankheit wirkt</string>
     <string name="car_sickness_remind_time_title">Bewegungsindikatoren</string>
     <string name="car_sickness_title">Linderung der Reisekrankheit</string>
-    <string name="card_click_type_close_ad">Schaltfläche „Anzeige schließen“ in der oberen rechten Ecke</string>
+    <string name="card_click_type_close_ad">Schaltfläche "Anzeige schließen" in der oberen rechten Ecke</string>
     <string name="card_click_type_open_or_download">Öffnen/Herunterladen in der unteren rechten Ecke</string>
     <string name="card_click_type_other">Andere Bereiche</string>
     <string name="card_main_apkclean_title">APKs löschen</string>
@@ -1325,36 +1325,36 @@ If you haven't set a screen lock yet, follow the instructions to set one."</stri
     <string name="charging_text_battery_nearly_full">Fast aufgeladen</string>
     <string name="charging_text_battery_perfect">Voll aufgeladen</string>
     <string name="check_bill_balance">Überprüfen Sie den Kontostand</string>
-    <string name="chinese_day_1">初一</string>
-    <string name="chinese_day_10">初十</string>
-    <string name="chinese_day_11">十一</string>
-    <string name="chinese_day_12">十二</string>
-    <string name="chinese_day_13">十三</string>
-    <string name="chinese_day_14">十四</string>
-    <string name="chinese_day_15">十五</string>
-    <string name="chinese_day_16">十六</string>
-    <string name="chinese_day_17">十七</string>
-    <string name="chinese_day_18">十八</string>
-    <string name="chinese_day_19">十九</string>
-    <string name="chinese_day_2">初二</string>
-    <string name="chinese_day_20">二十</string>
-    <string name="chinese_day_21">廿一</string>
-    <string name="chinese_day_22">廿二</string>
-    <string name="chinese_day_23">廿三</string>
-    <string name="chinese_day_24">廿四</string>
-    <string name="chinese_day_25">廿五</string>
-    <string name="chinese_day_26">廿六</string>
-    <string name="chinese_day_27">廿七</string>
-    <string name="chinese_day_28">廿八</string>
-    <string name="chinese_day_29">廿九</string>
-    <string name="chinese_day_3">初三</string>
-    <string name="chinese_day_30">三十</string>
-    <string name="chinese_day_4">初四</string>
-    <string name="chinese_day_5">初五</string>
-    <string name="chinese_day_6">初六</string>
-    <string name="chinese_day_7">初七</string>
-    <string name="chinese_day_8">初八</string>
-    <string name="chinese_day_9">初九</string>
+    <string name="chinese_day_1">Erste Klasse der Mittelschule</string>
+    <string name="chinese_day_10">Der zehnte Tag des Mondmonats</string>
+    <string name="chinese_day_11">elf</string>
+    <string name="chinese_day_12">zwölf</string>
+    <string name="chinese_day_13">Dreizehn</string>
+    <string name="chinese_day_14">vierzehn</string>
+    <string name="chinese_day_15">fünfzehn</string>
+    <string name="chinese_day_16">sechzehn</string>
+    <string name="chinese_day_17">siebzehn</string>
+    <string name="chinese_day_18">achtzehn</string>
+    <string name="chinese_day_19">neunzehn</string>
+    <string name="chinese_day_2">Zweite Klasse der Mittelschule</string>
+    <string name="chinese_day_20">zwanzig</string>
+    <string name="chinese_day_21">Einundzwanzig</string>
+    <string name="chinese_day_22">zweiundzwanzig</string>
+    <string name="chinese_day_23">Dreiundzwanzig</string>
+    <string name="chinese_day_24">Vierundzwanzig</string>
+    <string name="chinese_day_25">Fünfundzwanzig</string>
+    <string name="chinese_day_26">Sechsundzwanzig</string>
+    <string name="chinese_day_27">Siebenundzwanzig</string>
+    <string name="chinese_day_28">Achtundzwanzig</string>
+    <string name="chinese_day_29">Neunundzwanzig</string>
+    <string name="chinese_day_3">Dritte Klasse</string>
+    <string name="chinese_day_30">dreißig</string>
+    <string name="chinese_day_4">Vierter Tag des neuen Mondjahres</string>
+    <string name="chinese_day_5">fünfter Tag</string>
+    <string name="chinese_day_6">Der sechste Tag des Mondmonats</string>
+    <string name="chinese_day_7">Der siebte Tag des Mondmonats</string>
+    <string name="chinese_day_8">Der achte Tag des Mondmonats</string>
+    <string name="chinese_day_9">Neunter Tag</string>
     <string name="chinese_day_elementary">初</string>
     <string name="chinese_digit_eight">八</string>
     <string name="chinese_digit_five">五</string>
@@ -1415,7 +1415,7 @@ If you haven't set a screen lock yet, follow the instructions to set one."</stri
     <string name="clearable_edittext_clear_description">Klar</string>
     <string name="click_page_to_recognition">Tippen Sie, um mit der Erkennung fortzufahren</string>
     <string name="click_tab_behavior_record">Aufzeichnung des Anwendungsverhaltens</string>
-    <string name="click_tab_permission">权限</string>
+    <string name="click_tab_permission">Berechtigungen</string>
     <string name="click_tab_uninstall_app">App deinstallieren</string>
     <string name="click_tab_update_app">Anwendungs-Upgrade</string>
     <string name="click_to_charge_bill">Aufladen</string>
@@ -1424,11 +1424,11 @@ If you haven't set a screen lock yet, follow the instructions to set one."</stri
     <string name="click_to_set_traffic">Zum Einstellen tippen</string>
     <string name="clipboard_ai_allow">Entscheide für mich</string>
     <string name="clipboard_ai_allow_summary">Lässt das System entscheiden, ob eine App auf den Inhalt der Zwischenablage zugreifen kann und erinnert Sie daran, wenn sie dies tut</string>
-    <string name="clipboard_paste">粘贴</string>
+    <string name="clipboard_paste">Paste</string>
     <string name="close">Schließen</string>
     <string name="close_callwait">Aus</string>
     <string name="close_lucky_money_dialog_ok">Ausschalten</string>
-    <string name="close_lucky_money_dialog_summary">„Wenn Sie den Assistenten für rote Umschläge deaktivieren, erhalten Sie keine Erinnerungen an neue rote Umschläge und verpassen diese möglicherweise. Wenn Sie schwebende Fenster deaktivieren möchten, können Sie dies in den zusätzlichen Einstellungen tun. Assistent für rote Umschläge jetzt deaktivieren?“</string>
+    <string name="close_lucky_money_dialog_summary">"Wenn Sie den Assistenten für rote Umschläge deaktivieren, erhalten Sie keine Erinnerungen an neue rote Umschläge und verpassen diese möglicherweise. Wenn Sie schwebende Fenster deaktivieren möchten, können Sie dies in den zusätzlichen Einstellungen tun. Assistent für rote Umschläge jetzt deaktivieren?"</string>
     <string name="close_lucky_money_dialog_title">Schalten Sie den Assistenten für rote Umschläge aus</string>
     <string name="cmcc_app_check_dialog_message">Um die Reparatur abzuschließen, starten Sie Ihr Gerät neu.</string>
     <string name="cmcc_app_check_dialog_negative">Später</string>
@@ -1436,7 +1436,7 @@ If you haven't set a screen lock yet, follow the instructions to set one."</stri
     <string name="cmcc_app_check_dialog_title">System repariert</string>
     <string name="com.google.firebase.crashlytics.mapping_file_id">e4780391bd10456a937ae95e85e50911</string>
     <string name="combine_permission_action_foreground">Während der Nutzung der App zulassen</string>
-    <string name="combine_permission_title">%1$s requests the following permissions</string>
+    <string name="combine_permission_title">%1$s fordert die folgenden Berechtigungen an</string>
     <string name="commonly_used_func_card_title">Allgemeine Funktionen</string>
     <string name="commonly_used_func_edit_too_many_func">Weitere Elemente können nicht hinzugefügt werden</string>
     <string name="compact_safebox_dialog_tip">Um Ihnen ein besseres Nutzererlebnis zu bieten, unterstützt das Zweitprofil keine versteckten Ordner mehr. Übertragen Sie diese Elemente so schnell wie möglich, um den Verlust Ihrer Daten zu verhindern.</string>
@@ -1474,11 +1474,11 @@ If you haven't set a screen lock yet, follow the instructions to set one."</stri
     <string name="connected_devices_camera_desc">Erlauben, dass am selben Konto angemeldete Geräte in der Nähe auf diesem Gerät Fotos und Videos aufnehmen können</string>
     <string name="connected_devices_camera_title">Dem oben genannten Gerät erlauben, Fotos und Videos auf diesem Gerät aufzunehmen?</string>
     <string name="connected_devices_files">Dateien</string>
-    <string name="connected_devices_files_desc">„Erlauben Sie Geräten in der Nähe, die bei Ihrem Xiaomi-Konto angemeldet sind, auf die Dateien dieses Geräts zuzugreifen.“</string>
+    <string name="connected_devices_files_desc">"Erlauben Sie Geräten in der Nähe, die bei Ihrem Xiaomi-Konto angemeldet sind, auf die Dateien dieses Geräts zuzugreifen."</string>
     <string name="connected_devices_for_camera">%1$s erlauben, die Kamera dieses Geräts zu verwenden?</string>
     <string name="connected_devices_for_camera_desc">Zum Fotografieren, Aufnehmen von Videos und Führen von Videoanrufen</string>
     <string name="connected_devices_for_empty_view">Keine verbundenen Geräte</string>
-    <string name="connected_devices_for_files">"Allow \"%1$s\" to access this device's files?"</string>
+    <string name="connected_devices_for_files">"Erlaube "%1$s" den Zugriff auf die Dateien dieses Geräts?"</string>
     <string name="connected_devices_for_files_desc">Für geräteübergreifenden Dateizugriff</string>
     <string name="connected_devices_for_notification">%1$s erlauben, die Benachrichtigungen dieses Geräts anzuzeigen?</string>
     <string name="connected_devices_for_notification_desc">Benachrichtigungen dieses Geräts auf anderen Geräten anzeigen, wenn dieses Gerät gesperrt ist</string>
@@ -1531,7 +1531,7 @@ If you haven't set a screen lock yet, follow the instructions to set one."</stri
     <string name="create_table_vaid">CREATE TABLE VAID( _id INTEGER PRIMARY KEY AUTOINCREMENT, package_name TEXT NOT NULL, vaid TEXT NOT NULL );</string>
     <string name="create_talbe_fwlog">CREATE TABLE fwlog( _id INTEGER PRIMARY KEY AUTOINCREMENT, Zahl TEXT DEFAULT NULL, Datum INTEGER NOT NULL DEFAULT 0, Typ INTEGER NOT NULL DEFAULT 0, Grund INTEGER NOT NULL DEFAULT 0, data1 TEXT DEFAULT NULL, data2 TEXT DEFAULT NULL, read INTEGER NOT NULL DEFAULT 0, simid TEXT DEFAULT -1, mode INTEGER NOT NULL DEFAULT 0, callType INTEGER NOT NULL DEFAULT 0 );</string>
     <string name="cs_camera_bubble">Verfügbare Kamera erkannt.</string>
-    <string name="cs_close_vt_camera_first_tips">„Diese Funktion kann nicht verwendet werden, während eine geräteübergreifende Kamera verwendet wird.“</string>
+    <string name="cs_close_vt_camera_first_tips">"Diese Funktion kann nicht verwendet werden, während eine geräteübergreifende Kamera verwendet wird."</string>
     <string name="cs_color_sense">Farbtemperatur</string>
     <string name="cs_conversation_record_using">Aufnehmen</string>
     <string name="cs_func_toast_bluetooth_headset">Bluetooth-Kopfhörer trennen, um diese Funktion zu nutzen</string>
@@ -1555,17 +1555,17 @@ If you haven't set a screen lock yet, follow the instructions to set one."</stri
     <string name="cs_pickup_single_desc">Nur Ton vor dem Bildschirm aufnehmen</string>
     <string name="cs_pickup_single_title">Einzelner Teilnehmer</string>
     <string name="cs_pickup_standard">Standard</string>
-    <string name="cs_pickup_standard_desc">%1$d degree audio pickup</string>
+    <string name="cs_pickup_standard_desc">%1$d Grad Audioaufnahme</string>
     <string name="cs_pickup_surround_desc">Verwendet AI zur Rauschunterdrückung für einen klaren und deutlichen Klang</string>
     <string name="cs_pickup_surround_title">Mikrofon-Rauschunterdrückung</string>
     <string name="cs_pickup_vioce_print_guide_dialog_desc">Beenden Sie den Anruf und folgen Sie den Anweisungen zum Starten.</string>
     <string name="cs_pickup_vioce_print_guide_dialog_title">Um nur die Stimme einer Person zu hören, nehmen Sie zuerst ihren Stimmabdruck auf.</string>
-    <string name="cs_pickup_vioce_print_in_private_tips">Zeichnen Sie Ihren Stimmabdruck auf, um die Geräuschunterdrückung auf „Privat“ einstellen zu können.</string>
+    <string name="cs_pickup_vioce_print_in_private_tips">Zeichnen Sie Ihren Stimmabdruck auf, um die Geräuschunterdrückung auf "Privat" einstellen zu können.</string>
     <string name="cs_pickup_vioce_print_private_dialog_title">Nehmen Sie den Stimmabdruck auf</string>
     <string name="cs_pickup_vioce_print_unsupport_tips">Stimmabdruck vor der Auswahl \"Einzelner Teilnehmer\" aufnehmen</string>
     <string name="cs_pickup_vioce_print_unsupport_toast">Trennen Sie externe Geräte und versuchen Sie es erneut</string>
-    <string name="cs_pickup_voice_print_auto_dialog_tips">"Your voice will be recorded and processed only on this device.
-For best results, record alone in a quiet place."</string>
+    <string name="cs_pickup_voice_print_auto_dialog_tips">"Ihre Stimme wird nur auf diesem Gerät aufgezeichnet und verarbeitet.
+Um optimale Ergebnisse zu erzielen, nehmen Sie die Aufnahmen alleine an einem ruhigen Ort auf.</string>
     <string name="cs_pickup_voice_print_auto_dialog_title">Für die personalisierte Geräuschunterdrückung ist ein Stimmabdruck erforderlich</string>
     <string name="cs_pickup_voice_print_desc">Ton nur von einer Person aufnehmen</string>
     <string name="cs_privacy_camera_global_settings_title">Datenschutz für Anrufe</string>
@@ -1689,7 +1689,7 @@ For best results, record alone in a quiet place."</string>
     <string name="delete">Löschen</string>
     <string name="delete_all_sms">Alle löschen</string>
     <string name="delete_connected_devices">Ausgewählte Geräte jetzt löschen?</string>
-    <string name="delete_connected_devices_title">Delete %1$s now?</string>
+    <string name="delete_connected_devices_title">%1$s jetzt löschen?</string>
     <string name="delete_from_manual_item_white_list">Aus Ausnahmen löschen?</string>
     <string name="delete_input">Löschen</string>
     <string name="deleted_apps">Gelöschte Apps</string>
@@ -1738,12 +1738,12 @@ For best results, record alone in a quiet place."</string>
     <string name="dialog_msg_install_manager_content_pad">Sicherheit erneut installieren?</string>
     <string name="dialog_msg_stop_virus_scan">Sicherheitsscan stoppen, bevor er beendet ist?</string>
     <string name="dialog_no_longer_alert">Nicht mehr anzeigen</string>
-    <string name="dialog_not_remind">„Nicht mehr zeigen“</string>
-    <string name="dialog_preference_click_cancel">取消</string>
+    <string name="dialog_not_remind">"Nicht mehr zeigen"</string>
+    <string name="dialog_preference_click_cancel">Stornieren</string>
     <string name="dialog_preference_click_reset">App zurücksetzen</string>
     <string name="dialog_remobe_luckymoney_cancle">Cancel</string>
     <string name="dialog_remobe_luckymoney_ok">Einschalten</string>
-    <string name="dialog_remove_luckymoney">„Die von Ihnen verwendete Systemversion verfügt über eine vorhandene Funktion für rote Umschläge. Wenn Sie fortfahren, löschen Sie die vorhandene Funktion und verwenden den schnelleren und stabileren Assistenten für rote Umschläge von Xiaomi. Abbrechen, um die Systemfunktion weiterhin zu verwenden. Schalten Sie den Assistenten für rote Umschläge jetzt ein?“</string>
+    <string name="dialog_remove_luckymoney">"Die von Ihnen verwendete Systemversion verfügt über eine vorhandene Funktion für rote Umschläge. Wenn Sie fortfahren, löschen Sie die vorhandene Funktion und verwenden den schnelleren und stabileren Assistenten für rote Umschläge von Xiaomi. Abbrechen, um die Systemfunktion weiterhin zu verwenden. Schalten Sie den Assistenten für rote Umschläge jetzt ein?"</string>
     <string name="dialog_restrict_all_mobile_summary">%s. Mobile Datenverbindung wird danach für alle Apps eingeschränkt</string>
     <string name="dialog_restrict_all_mobile_title">Mobile Datenverbindung für %s einschränken</string>
     <string name="dialog_restrict_all_wlan_summary">WLAN-Verbindung wird danach für alle Apps eingeschränkt</string>
@@ -1768,7 +1768,7 @@ For best results, record alone in a quiet place."</string>
     <string name="dialog_title_auto_start_declare_global">Über Autostart im Hintergrund</string>
     <string name="dialog_title_stop_virus_scan">Sicherheitsscan stoppen</string>
     <string name="disable_air_mode">Zuerst Flugmodus ausschalten</string>
-    <string name="disable_back_screen_display_touch_tip">„Während des Spielens können Sie nicht zweimal tippen, um das hintere Display zu aktivieren.“</string>
+    <string name="disable_back_screen_display_touch_tip">"Während des Spielens können Sie nicht zweimal tippen, um das hintere Display zu aktivieren."</string>
     <string name="disable_sensitive_permissions">Sensible Berechtigungen eingeschränkt</string>
     <string name="disable_sensitive_permissions_detail">Ihre Tastatur kann keine datenschutzbezogenen Berechtigungen verwenden (z. B. Zugriff auf Kontakte oder Standortdaten).</string>
     <string name="dlg_add_blacklist">Diese Nummer blockieren?</string>
@@ -1838,7 +1838,7 @@ For best results, record alone in a quiet place."</string>
     <string name="domestic_roaming_setting">Internationales Roaming</string>
     <string name="dont_bore">Lassen Sie sich nicht von Tasten und Benachrichtigungen ablenken</string>
     <string name="download">Herunterladen</string>
-    <string name="download_tvm_limit_toast">Download interrupted. Limit: %1$d MB. View details in the Notification shade.</string>
+    <string name="download_tvm_limit_toast">Download unterbrochen. Limit: %1$d MB. Details werden im Benachrichtigungsfenster angezeigt.</string>
     <string name="download_tvm_title">Plugin Phone Key Component</string>
     <string name="downloading">Wird geladen...</string>
     <string name="doze_optimization_summary">Berührungsreaktion und Empfindlichkeit erhöhen</string>
@@ -1955,7 +1955,7 @@ For best results, record alone in a quiet place."</string>
     <string name="ew_alert_no_emergency">Fügen Sie Ihre medizinischen Daten in Sicherheit &gt; Erdbebenwarnung hinzu.</string>
     <string name="ew_alert_text_from">Daten bereitgestellt von %s</string>
     <string name="ew_app_name">Erdbebenwarnung</string>
-    <string name="ew_app_name_cancel">„Erdbebenwarnung aufgehoben. Keine Panik!“</string>
+    <string name="ew_app_name_cancel">"Erdbebenwarnung aufgehoben. Keine Panik!"</string>
     <string name="ew_app_name_exercise">Erdbebenwarnung (Demo)</string>
     <string name="ew_app_name_test">Erdbebenwarnung (Beta)</string>
     <string name="ew_app_name_test_run">Erdbebenwarnung (Test)</string>
@@ -2106,7 +2106,7 @@ You must understand that this feature is provided for your reference only. The w
     <string name="ew_open_tips">Erdbebenwarnung ist an</string>
     <string name="ew_push_message">Geschätzte Intensität: %s. Erwarten Sie ein leichtes Beben in Ihrer Nähe.</string>
     <string name="ew_push_title">Erdbebenwarnung für %s</string>
-    <string name="ew_push_title_new">(%1$s) Earthquake warning | A magnitude %3$s earthquake occurred in %2$s.</string>
+    <string name="ew_push_title_new">(%1$s) Erdbebenwarnung | In %2$s ereignete sich ein Erdbeben der Stärke %3$s.</string>
     <string name="ew_safe_place_no_maps_tips">Suchen jetzt nicht möglich. Zuerst Baidu Maps oder Amap installieren.</string>
     <string name="ew_setting_desc_message">Wir schätzen die Intensität des Erdbebens anhand seiner Magnitude, der Lage des Epizentrums und Ihres Standortes ein. Je größer die geschätzte Intensität, desto verheerender wird das Erdbeben in Ihrem Gebiet sein.</string>
     <string name="ew_setting_desc_title">Wie ist die geschätzte Intensität?</string>
@@ -2131,8 +2131,8 @@ You must understand that this feature is provided for your reference only. The w
     <string name="ew_subscribe_city">Hinzugefügte Gebiete</string>
     <string name="ew_subscribe_city_count">Sie können bis zu %s Städte abonnieren</string>
     <string name="ew_subscribe_search_hint">Nach Gebieten suchen</string>
-    <string name="ew_subscribe_title">地震预警 | %1$s发生%2$s级左右地震，%3$s可能有震感</string>
-    <string name="ew_subscribe_title_new">（%1$s）地震预警 | %2$s附近发生%3$s级左右地震，%4$s可能有震感</string>
+    <string name="ew_subscribe_title">Erdbebenwarnung | Ein Erdbeben der Stärke %2$s ereignete sich in %1$s und könnte von %3$s gespürt werden</string>
+    <string name="ew_subscribe_title_new">(%1$s) Erdbebenwarnung | Ein Erdbeben der Stärke %3$s ereignete sich in der Nähe von %2$s und %4$s könnte es spüren</string>
     <string name="ew_user_feedback">Rückmeldung</string>
     <string name="examination_score_100">Alles in Ordnung!</string>
     <string name="examination_score_60_0">Jetzt scannen</string>
@@ -2200,7 +2200,7 @@ You must understand that this feature is provided for your reference only. The w
     <string name="exo_download_removing">Downloads entfernen</string>
     <string name="exo_item_list">%1$s, %2$s</string>
     <string name="exo_player_time_seperate">/</string>
-    <string name="exo_track_bitrate">%1$.2f Mbps</string>
+    <string name="exo_track_bitrate">%1$.2f Mbit/s</string>
     <string name="exo_track_mono">Mono</string>
     <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Wechseln</string>
@@ -2232,7 +2232,7 @@ You must understand that this feature is provided for your reference only. The w
     <string name="face_unlock_finger_or_password_switch">Verwenden Sie Ihren Fingerabdruck oder geben Sie ein Passwort zum Entsperren ein.</string>
     <string name="face_unlock_guide_confirm">Gesichtssperre einschalten</string>
     <string name="face_unlock_guide_dialog_summary">Sie können Gesichtsdaten verwenden, um Ihr Gerät zu entsperren. Gesichtssperre einschalten?</string>
-    <string name="face_unlock_not_found">„Konnte dich nicht erkennen“</string>
+    <string name="face_unlock_not_found">"Konnte dich nicht erkennen"</string>
     <string name="face_unlock_open_eye">Augen etwas mehr öffnen</string>
     <string name="face_unlock_reveal_eye">Augen sichtbar machen</string>
     <string name="face_unlock_reveal_mouth">Lippen sichtbar machen</string>
@@ -2242,7 +2242,7 @@ You must understand that this feature is provided for your reference only. The w
     <string name="face_unlock_verity_dialog_title_succeed">Erfolgreich verifiziert</string>
     <string name="fast_open">Schnellöffnungsmodus</string>
     <string name="fast_open_dialog_message">Wenn Sie diese Funktion aktivieren, wird die App-Seite mit dem roten Umschlag automatisch geöffnet, wenn Sie eine neue Benachrichtigung über den roten Umschlag erhalten. Ihre aktuelle App-Aktivität wird unterbrochen. Jetzt einschalten?</string>
-    <string name="fast_open_dialog_message_summary">„Wir empfehlen nicht, den Schnellöffnungsmodus zuzulassen, um Navigations-, Video- und Gaming-Apps zu unterbrechen. Der Schnellöffnungsmodus funktioniert nicht, wenn der Bildschirm Ihres Geräts ausgeschaltet ist.“</string>
+    <string name="fast_open_dialog_message_summary">"Wir empfehlen nicht, den Schnellöffnungsmodus zuzulassen, um Navigations-, Video- und Gaming-Apps zu unterbrechen. Der Schnellöffnungsmodus funktioniert nicht, wenn der Bildschirm Ihres Geräts ausgeschaltet ist."</string>
     <string name="fast_open_dialog_ok">Einschalten</string>
     <string name="fast_open_noti_summary">%s hat dir einen roten Umschlag geschickt</string>
     <string name="fast_open_summary">Wenn Sie eine neue Benachrichtigung über den roten Umschlag erhalten, wird Ihre aktuelle Aktivität unterbrochen und stattdessen die App-Seite mit dem roten Umschlag geöffnet</string>
@@ -2253,7 +2253,7 @@ You must understand that this feature is provided for your reference only. The w
     <string name="finger_unlock">Entsperren per Fingerabdruck</string>
     <string name="fingerprint_identify_msg">Fingerabdruck lesen…</string>
     <string name="fingerprint_not_identified_msg">Fingerabdruck wurde nicht erkannt. Geben Sie Ihr Passwort ein.</string>
-    <string name="fingerprint_not_remind">„Frag nicht noch einmal“</string>
+    <string name="fingerprint_not_remind">"Frag nicht noch einmal"</string>
     <string name="fingerprint_remind_dialog_title">Fingerabdrucksperre</string>
     <string name="fingerprint_to_lock">Fingerabdrucksperre</string>
     <string name="fingerprint_to_lock_summary">Apps mit Fingerabdruck entsperren</string>
@@ -2370,24 +2370,24 @@ You must understand that this feature is provided for your reference only. The w
     <string name="fmt_date_timezone">D z</string>
     <string name="fmt_date_year">jjjj</string>
     <string name="fmt_time">T</string>
-    <string name="fmt_time_12hour">„h ‚Uhr‘“</string>
+    <string name="fmt_time_12hour">"h ‚Uhr‘"</string>
     <string name="fmt_time_12hour_minute">Hmm</string>
     <string name="fmt_time_12hour_minute_pm">h:mm a</string>
     <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
     <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
     <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
     <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
-    <string name="fmt_time_12hour_pm">ha</string>
-    <string name="fmt_time_24hour">„HH ‚Uhr‘“</string>
+    <string name="fmt_time_12hour_pm">Ha</string>
+    <string name="fmt_time_24hour">"HH ‚Uhr‘"</string>
     <string name="fmt_time_24hour_minute">HH: mm</string>
     <string name="fmt_time_24hour_minute_second">HH:mm:ss</string>
     <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
     <string name="fmt_time_millis">"S'ms'"</string>
     <string name="fmt_time_minute">"bedeuten"</string>
-    <string name="fmt_time_minute_second">„M'min's'“</string>
-    <string name="fmt_time_minute_second_millis">„m'min‘ s.S‘“</string>
-    <string name="fmt_time_second">„s“</string>
-    <string name="fmt_time_second_millis">„s.S‘‘“</string>
+    <string name="fmt_time_minute_second">"M'min's'"</string>
+    <string name="fmt_time_minute_second_millis">"m'min‘ s.S‘"</string>
+    <string name="fmt_time_second">"s"</string>
+    <string name="fmt_time_second_millis">"s.S‘‘"</string>
     <string name="fmt_time_timezone">T z</string>
     <string name="fmt_timezone">z</string>
     <string name="fmt_weekday">W</string>
@@ -2471,8 +2471,8 @@ You must understand that this feature is provided for your reference only. The w
     <string name="game_anti_disturb_msg">Spiel-DND</string>
     <string name="game_balance_more_setting_title">Weitere Einstellungen</string>
     <string name="game_balance_vision_enhance_subtitle">Kontrast erhöhen und Details für Spiele verbessern</string>
-    <string name="game_balance_vision_enhance_subtitle_xring_sr">„Nur verfügbar, wenn die Auflösung des Spiels auf den höchsten Wert eingestellt ist“</string>
-    <string name="game_balance_vision_enhance_subtitle_xring_ys">„Nur verfügbar, wenn die Rendering-Präzision des Spiels auf den höchsten Wert eingestellt ist.“</string>
+    <string name="game_balance_vision_enhance_subtitle_xring_sr">"Nur verfügbar, wenn die Auflösung des Spiels auf den höchsten Wert eingestellt ist"</string>
+    <string name="game_balance_vision_enhance_subtitle_xring_ys">"Nur verfügbar, wenn die Rendering-Präzision des Spiels auf den höchsten Wert eingestellt ist."</string>
     <string name="game_balance_vision_enhance_title">Verbesserte Grafik</string>
     <string name="game_booster">Spiel Turbo</string>
     <string name="game_booster_close">Game Turbo ist aus</string>
@@ -2517,8 +2517,8 @@ You must understand that this feature is provided for your reference only. The w
     <string name="game_toolbox_cellular_network">Geschwindigkeitssteigerung im Mobilfunknetz</string>
     <string name="game_toolbox_display_avrs">AVRS</string>
     <string name="game_toolbox_display_avrs_desc">Einschalten, um die Bildqualität leicht zu verringern und den Stromverbrauch deutlich zu senken</string>
-    <string name="game_toolbox_display_enhance_view_frc_notice">"Note:
-When Smart frame rate is on, in-game and third-party frame rate detection tools may not accurately detect frame rate. Refer to the performance dashboard for the actual frame rate."</string>
+    <string name="game_toolbox_display_enhance_view_frc_notice">"Hinweis:
+Wenn die intelligente Bildrate aktiviert ist, können Tools zur Bildratenerkennung im Spiel und von Drittanbietern die Bildrate möglicherweise nicht genau erkennen. Die tatsächliche Bildrate finden Sie im Leistungs-Dashboard.</string>
     <string name="game_toolbox_display_style_desc">Visuellen Stil anpassen (unterstützt Spiel-HDR)</string>
     <string name="game_toolbox_display_style_game_hdr">Spiel HDR</string>
     <string name="game_toolbox_display_style_not_hdr_desc">Sie können zwischen verschiedenen visuellen Stilen wechseln</string>
@@ -2546,7 +2546,7 @@ When Smart frame rate is on, in-game and third-party frame rate detection tools 
     <string name="game_toolbox_performance_config_resolution_notice_new">Die Bildpriorität verbessert die Bildqualität über Super Resolution und verwaltet die Bildrate über Smart Frame Rate. &lt;font color=%s>Die tatsächliche Bildrate wird im Leistungs-Dashboard angezeigt.&lt;/font></string>
     <string name="game_toolbox_screen_brightness_talkback">Bildschirmhelligkeit</string>
     <string name="game_toolbox_settings_talkback">Einstellungen</string>
-    <string name="game_toolbox_slow_charge_desc">Durch die Aktivierung von „Bypass-Laden Plus“ kann Ihr Spielerlebnis während des Ladevorgangs verbessert und die Gerätetemperatur gesenkt werden, die Ladegeschwindigkeit wird jedoch langsamer sein. Jetzt einschalten?</string>
+    <string name="game_toolbox_slow_charge_desc">Durch die Aktivierung von "Bypass-Laden Plus" kann Ihr Spielerlebnis während des Ladevorgangs verbessert und die Gerätetemperatur gesenkt werden, die Ladegeschwindigkeit wird jedoch langsamer sein. Jetzt einschalten?</string>
     <string name="game_toolbox_slow_charge_dialog_btn">Habe es</string>
     <string name="game_toolbox_slow_charge_negative_btn">Cancel</string>
     <string name="game_toolbox_slow_charge_notification_msg">Diese Funktion kann das Spielerlebnis während des Ladevorgangs verbessern und die Gerätetemperatur senken, allerdings ist die Ladegeschwindigkeit langsamer.</string>
@@ -2555,8 +2555,8 @@ When Smart frame rate is on, in-game and third-party frame rate detection tools 
     <string name="game_toolbox_slow_charge_title">Bypass-Laden Plus</string>
     <string name="game_toolbox_slow_charge_toast">Bypass-Laden Plus ist eingeschaltet</string>
     <string name="game_toolbox_smart_charge_title">Intelligentes Laden</string>
-    <string name="game_toolbox_smotion_vibrate_close_toast">„Das haptische Feedback funktioniert bei Originallayouts nicht. Das haptische Feedback ist deaktiviert.“</string>
-    <string name="game_toolbox_smotion_vibrate_conflic_toast">„Haptisches Feedback funktioniert bei Originallayouts nicht“</string>
+    <string name="game_toolbox_smotion_vibrate_close_toast">"Das haptische Feedback funktioniert bei Originallayouts nicht. Das haptische Feedback ist deaktiviert."</string>
+    <string name="game_toolbox_smotion_vibrate_conflic_toast">"Haptisches Feedback funktioniert bei Originallayouts nicht"</string>
     <string name="game_toolbox_smotion_vibrate_desc">Fügen Sie haptisches Feedback entsprechend den Spielbewegungen hinzu. Es werden nur einige Spiele unterstützt.</string>
     <string name="game_toolbox_smotion_vibrate_title">Haptisches Feedback</string>
     <string name="game_toolbox_super_follow_up_msg">Verbessern Sie die Berührungsreaktion und das Tracking über die gesamte Hardware-Software-Pipeline</string>
@@ -2568,7 +2568,7 @@ When Smart frame rate is on, in-game and third-party frame rate detection tools 
     <string name="game_toolbox_wild_mode_toast_title">Der Ultimate-Modus ist aktiviert</string>
     <string name="game_turbo_custom_subtitle">Sie können die Superauflösung und die intelligente Bildrate anpassen, um Bildrate und Bildqualität zu verwalten</string>
     <string name="game_turbo_frame_rate_priority_subtitle">Verbessern Sie die Bildrate intelligent</string>
-    <string name="game_turbo_image_quality_priority_subtitle">„Bildqualität verbessern“ verbessert die Bildqualität durch Superauflösung und verwaltet die Bildrate durch intelligente Bildrate</string>
+    <string name="game_turbo_image_quality_priority_subtitle">"Bildqualität verbessern" verbessert die Bildqualität durch Superauflösung und verwaltet die Bildrate durch intelligente Bildrate</string>
     <string name="game_turbo_performance_strategy_subtitle">Die tatsächliche Bildrate wird im Leistungs-Dashboard angezeigt</string>
     <string name="game_video_net_data">Mobile Daten</string>
     <string name="game_video_network_eror">Netzwerkverbindung fehlgeschlagen. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
@@ -2874,7 +2874,7 @@ When Smart frame rate is on, in-game and third-party frame rate detection tools 
     <string name="gb_predownload_dialog_title">Hintergrundaktualisierungen sind jetzt verfügbar</string>
     <string name="gb_predownload_message_new">Kompatible Spiele automatisch aktualisieren, wenn das Gerät nicht benutzt wird</string>
     <string name="gb_predownload_noti_message">%2$1.2f GB an aktualisierten Inhalten befinden sich bereits auf diesem Gerät. Sie können sie nutzen, sobald die neue Version veröffentlicht wird.</string>
-    <string name="gb_predownload_noti_small_size_message">"%2$1.2f MB of new resources downloaded. You'll be able to use them as soon as the new version is released."</string>
+    <string name="gb_predownload_noti_small_size_message">"%2$1,2f MB neue Ressourcen heruntergeladen. Sie können sie verwenden, sobald die neue Version veröffentlicht wird."</string>
     <string name="gb_predownload_noti_title">%s im Hintergrund erfolgreich aktualisiert</string>
     <string name="gb_predownload_receive">Prämien erhalten</string>
     <string name="gb_predownload_receive_error">Ein Netzwerkfehler ist aufgetreten. Erneut versuchen.</string>
@@ -3054,7 +3054,7 @@ When Smart frame rate is on, in-game and third-party frame rate detection tools 
     <string name="gd_setting_vtb">Beim Abspielen von Videos anzeigen</string>
     <string name="gd_setting_vtb_desc">Besondere Funktionen für die Videowiedergabe</string>
     <string name="gd_sidebar_edit_add_app_tips_talkback">App hinzufügen</string>
-    <string name="gd_sidebar_edit_add_app_upper_limit_talkback">„Kann keine weiteren Widgets hinzufügen“</string>
+    <string name="gd_sidebar_edit_add_app_upper_limit_talkback">"Kann keine weiteren Widgets hinzufügen"</string>
     <string name="gd_sidebar_edit_all_title">Alle Apps</string>
     <string name="gd_sidebar_edit_btn_close">Ausblenden</string>
     <string name="gd_sidebar_edit_btn_expand">Mehr</string>
@@ -3094,7 +3094,7 @@ Halten Sie den Indikator gedrückt, um das Fenster zu verschieben."</string>
     <string name="go_to_send">Zum Senden</string>
     <string name="go_to_setting">Einstellungen</string>
     <string name="go_to_setting_fingerprint">Einstellungen</string>
-    <string name="google_api_key">AIzaSyDzi9GYT9bhylWCRaWjNZQk0PSd5L5-1L0</string>
+    <string name="google_api_key">AIzaSyCLTk-WlTTx8UwHK2EdapM_Pu-CiQHYaio</string>
     <string name="google_app_id">1:987294656539:android:3649c8a3f344e2fe2170be</string>
     <string name="google_base_app_install_choice">App benötigt Google-Dienste-Framework, um richtig zu funktionieren. Jetzt herunterladen und installieren?</string>
     <string name="google_base_app_installed">Erfolgreich installiert</string>
@@ -3103,7 +3103,7 @@ Halten Sie den Indikator gedrückt, um das Fenster zu verschieben."</string>
     <string name="google_base_app_timeout">Sitzung unterbrochen. Etwas warten und erneut versuchen.</string>
     <string name="google_base_app_title">Google-Dienste installieren</string>
     <string name="google_base_app_toast">Google-Dienste-Framework wird im Hintergrund installiert. Etwas warten und erneut versuchen.</string>
-    <string name="google_crash_reporting_api_key">AIzaSyDzi9GYT9bhylWCRaWjNZQk0PSd5L5-1L0</string>
+    <string name="google_crash_reporting_api_key">AIzaSyCLTk-WlTTx8UwHK2EdapM_Pu-CiQHYaio</string>
     <string name="google_storage_bucket">security-center-89b35.appspot.com</string>
     <string name="grant_dialog_button_allow_onetime">Einmal</string>
     <string name="grant_dialog_button_deny_and_dont_ask_again">Nicht zulassen &amp; frag nicht noch einmal</string>
@@ -3294,21 +3294,21 @@ Halten Sie den Indikator gedrückt, um das Fenster zu verschieben."</string>
     <string name="hints_virus_lib_update_default_summary">Letzter Aktualisierungszeitpunkt unbekannt</string>
     <string name="homepage_entry_way">Startseite</string>
     <string name="hongbao_cancel">Cancel</string>
-    <string name="hongbao_message_slogon">„Es ist dein Glückstag“</string>
+    <string name="hongbao_message_slogon">"Es ist dein Glückstag"</string>
     <string name="hongbao_name">Assistent für rote Umschläge</string>
     <string name="hot">Beliebt</string>
     <string name="hot_today">Heute beliebt</string>
     <string name="how_to_modify_risk_app_permission">Schritte</string>
-    <string name="how_to_modify_risk_app_permission_desc">„Wenn Sie dem Entwickler einer App vertrauen, befolgen Sie diese Schritte, um ihm den Zugriff auf Berechtigungen zu ermöglichen:“</string>
+    <string name="how_to_modify_risk_app_permission_desc">"Wenn Sie dem Entwickler einer App vertrauen, befolgen Sie diese Schritte, um ihm den Zugriff auf Berechtigungen zu ermöglichen:"</string>
     <string name="i_know">Habe es</string>
     <string name="i_know_time">Verstanden (%d)</string>
     <string name="icon_content_description">Dialogsymbol</string>
     <string name="icon_created_settings_preference">Hinzugefügt</string>
     <string name="icon_text_size_giga_byte">%.1fG</string>
-    <string name="icon_text_size_max">9.9G</string>
+    <string name="icon_text_size_max">9,9G</string>
     <string name="icon_text_size_mega_byte">%dm</string>
     <string name="ignore_special_app">Schließen Sie die von ausgewählten Apps genutzten Daten von Ihrem Tarif aus</string>
-    <string name="im">IM</string>
+    <string name="im">ICH BIN</string>
     <string name="image_protect_auto_del">%s versucht, Bilder zu löschen</string>
     <string name="image_protect_del_pic_tips">Über gelöschte Bilder benachrichtigen</string>
     <string name="image_protect_del_success">Erfolgreich gelöscht</string>
@@ -3428,8 +3428,8 @@ Halten Sie den Indikator gedrückt, um das Fenster zu verschieben."</string>
     <string name="lock_app_input_invalid_car">Geben Sie nur gültige Zeichen ein</string>
     <string name="lock_mode_title">Sperreinstellungen</string>
     <string name="lock_screen_face_password_type_tips">Sie können Ihr Passwort unter Gesichtsdaten &amp; ändern. Bildschirmsperre</string>
-    <string name="lock_screen_finger_password_type_tips">Sie können Ihr Passwort unter „Fingerabdrücke &amp; Passwort“ ändern. Bildschirmsperre</string>
-    <string name="lock_screen_hongbao_message">From %1$s</string>
+    <string name="lock_screen_finger_password_type_tips">Sie können Ihr Passwort unter "Fingerabdrücke &amp; Passwort" ändern. Bildschirmsperre</string>
+    <string name="lock_screen_hongbao_message">Von %1$s</string>
     <string name="lock_screen_password_only_type_tips">Sie können Ihr Passwort in der Bildschirmsperre ändern</string>
     <string name="lock_screen_password_type">Bildschirmsperre</string>
     <string name="lock_screen_password_type_tips">Sie können Ihre Bildschirmsperre unter Fingerabdrücke, Gesichtsdaten und Bildschirmsperre ändern.</string>
@@ -3467,7 +3467,7 @@ Halten Sie den Indikator gedrückt, um das Fenster zu verschieben."</string>
     <string name="lockscreen_glogin_password_hint">Passwort</string>
     <string name="lockscreen_glogin_submit_button">anmelden</string>
     <string name="loding">Daten laden</string>
-    <string name="log_count">(%D)</string>
+    <string name="log_count">(%d)</string>
     <string name="long_click_dialog_summary">Lange drücken, um Ausnahmen hinzuzufügen.</string>
     <string name="long_click_dialog_title">Beachten</string>
     <string name="low_memory_warning_dialog_cancel_button">Abbrechen</string>
@@ -3477,9 +3477,9 @@ Halten Sie den Indikator gedrückt, um das Fenster zu verschieben."</string>
     <string name="low_temperature_button_ok">Verstanden</string>
     <string name="low_temperature_warning_message">Anscheinend ist es zu kalt und Ihr Telefon wird früher als erwartet ausgeschaltet. Speichern Sie alle wichtigen Änderungen.</string>
     <string name="low_temperature_warning_title">Lufttemperatur ist niedrig</string>
-    <string name="lucky_assistant_description">"Provided by Xiaomi
-Red envelope assistant for WeChat and QQ
-Reminders aren't supported for blocked groups or when using DND software on your computer"</string>
+    <string name="lucky_assistant_description">"Bereitgestellt von Xiaomi
+Red-Envelope-Assistent für WeChat und QQ
+Erinnerungen werden für blockierte Gruppen oder bei Verwendung von DND-Software auf Ihrem Computer nicht unterstützt.</string>
     <string name="lucky_money_close">Schließen</string>
     <string name="lucky_money_group_summary">Erhalten Sie nur Erinnerungen für rote Umschläge, die in Gruppen versendet werden. Empfohlen, um Benachrichtigungen zu reduzieren.</string>
     <string name="lucky_money_help_link">https://embed.sec.miui.com/red-envelopes-tips</string>
@@ -3505,7 +3505,7 @@ Reminders aren't supported for blocked groups or when using DND software on your
     <string name="main_alert_message_no_imsi">Keine SIM-Karte gefunden</string>
     <string name="main_alert_message_open_traffic_ctrl">Datennutzung einschränken empfohlen</string>
     <string name="main_balance_check">Überprüfen Sie den Kontostand</string>
-    <string name="main_bill_out_talkback">Negative balance %1$.2f</string>
+    <string name="main_bill_out_talkback">Negativer Saldo %1$.2f</string>
     <string name="main_bill_remained">Guthaben</string>
     <string name="main_button_mi_sim_close">Mi SIM aktivieren</string>
     <string name="main_button_mi_sim_open">Details anzeigen</string>
@@ -3520,7 +3520,7 @@ Reminders aren't supported for blocked groups or when using DND software on your
     <string name="main_daily_card_guide_dialog_title">Datentariftyp einstellen</string>
     <string name="main_daily_card_guide_dialog_title_new">Datentariftyp einstellen</string>
     <string name="main_daily_package">Täglicher Datentarif</string>
-    <string name="main_declaration_dialog_msg">„Der in dieser Funktion angezeigte Guthabenwert kann bei Verhandlungen mit Ihrem Mobilfunkanbieter nicht als Beweismittel verwendet werden. Die von Ihrem Mobilfunkanbieter bereitgestellten Statistiken zur mobilen Daten- und Sprachnutzung haben Vorrang.“</string>
+    <string name="main_declaration_dialog_msg">"Der in dieser Funktion angezeigte Guthabenwert kann bei Verhandlungen mit Ihrem Mobilfunkanbieter nicht als Beweismittel verwendet werden. Die von Ihrem Mobilfunkanbieter bereitgestellten Statistiken zur mobilen Daten- und Sprachnutzung haben Vorrang."</string>
     <string name="main_indicator_title">Aktivierung</string>
     <string name="main_leisure_remained">Verbleibende Daten in der Nebenzeit</string>
     <string name="main_month_total_used">Diesen Monat genutzt</string>
@@ -3560,14 +3560,14 @@ Reminders aren't supported for blocked groups or when using DND software on your
     <string name="malicious_default_config">[{behavior:3,default_report_threshold:10},{behavior:4,default_report_threshold:10},{behavior:6,default_report_threshold:10},{behavior:7,default_report_threshold:5},{behavior:10,default_report_threshold:10},{behavior:12,default_report_threshold:10},{behavior:13,default_report_threshold:10},{behavior:14,default_report_threshold:10},{behavior:15,default_report_threshold:10},{behavior:16,default_report_threshold:10},{behavior:19,default_report_threshold:10},{behavior:36,default_report_threshold:10},{behavior:27,default_report_threshold:10},{behavior:26,default_report_threshold:36000},{behavior:35,record_threshold:10},{behavior:37},{behavior:38},{behavior:34},{behavior:31},{behavior:29},{behavior:30},{behavior:28,default_report_threshold:10,exclude_apps:[com.miui.weather2,com.android.calendar,com.android.deskclock,com.miui.notes,com.android.soundrecorder,com.mfashiongallery.emag,com.xiaomi.mibrain.speech,com.miui.gallery,com.miui.securitymanager,com.xiaomi.vipaccount,com.mi.health,com.xiaomi.shop,com.xiaomi.market,com.xiaomi.smarthome,com.miui.virtualsim,com.xiaomi.gamecenter,com.xiaomi.youpin,com.miui.newmidrive,cn.wps.moffice_eng.xiaomi.lite,com.android.emai,com.xiaomi.scanner,com.miui.calculato,com.miui.newhome,com.miui.compass,com.miui.compass]},{behavior:22,default_report_threshold:36000},{behavior:23,default_report_threshold:36000},{behavior:10001},{behavior:10002},{behavior:10003},{behavior:10004}]</string>
     <string name="malicious_hot_start">Heißstart</string>
     <string name="malicious_keyguard_show">Bildschirmanzeige sperren</string>
-    <string name="malicious_media_projection">录屏</string>
+    <string name="malicious_media_projection">Aufnahmebildschirm</string>
     <string name="malicious_no_launcher">Kein Desktopsymbol</string>
     <string name="malicious_push_notification">Benachrichtigungsleiste PUSH</string>
     <string name="malicious_read_calendar">Kalender lesen</string>
     <string name="malicious_read_contacts">Kontakte lesen</string>
     <string name="malicious_read_phone_info">Holen Sie sich Handyinformationen</string>
     <string name="malicious_read_sms">SMS lesen</string>
-    <string name="malicious_record_audio">录音</string>
+    <string name="malicious_record_audio">Aufnahme</string>
     <string name="malicious_run_long">Die Laufzeit ist zu lang</string>
     <string name="malicious_set_android_widget">Hochrisikoszenarien – native Android-Widgets</string>
     <string name="malicious_system_grant_third_uri">Vom System autorisierter Drittanbieter-URI</string>
@@ -3675,7 +3675,7 @@ Reminders aren't supported for blocked groups or when using DND software on your
     <string name="menu_click_defult_setting">Standard-App-Einstellungen</string>
     <string name="menu_click_hide_system">Systemdienste ausblenden</string>
     <string name="menu_click_reset_preference">App-Einstellungen zurücksetzen</string>
-    <string name="menu_click_setting">设置</string>
+    <string name="menu_click_setting">aufstellen</string>
     <string name="menu_click_show_system">Systemdienste anzeigen</string>
     <string name="menu_edit">Bearbeiten</string>
     <string name="menu_hide_work_profile_text">Arbeits-Apps ausblenden</string>
@@ -3753,7 +3753,7 @@ Reminders aren't supported for blocked groups or when using DND software on your
     <string name="mi_service_app_detail">Details zur Datennutzung</string>
     <string name="mi_service_traffic_detail">Framework-Details</string>
     <string name="mi_sim_link">"%1$s&lt;br/&gt;&lt;br/&gt;&lt;font color='#ccffffff'&gt;&lt;U&gt;Tippen, um die geöffnete Mi Sim aufzuladen.&lt;/U&gt;&lt;/font&gt;"</string>
-    <string name="mi_sim_link_custom">"%1$s&lt;br/&gt;&lt;br/&gt;&lt;font color='#ccffffff'&gt;&lt;U&gt;%2$s&lt;/U&gt;&lt;/font&gt;"</string>
+    <string name="mi_sim_link_custom">"%1$s&lt;br/>&lt;br/>&lt;font color='#ccffffff'>&lt;U>%2$s&lt;/U>&lt;/font>"</string>
     <string name="mian_page_primary_txt">Roaming im Ausland</string>
     <string name="mic">Mikrofon</string>
     <string name="mic_noise_reduction_mode_standard">Standard</string>
@@ -3820,10 +3820,10 @@ Reminders aren't supported for blocked groups or when using DND software on your
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Erfolgreich aktualisiert</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Erfrischend…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Zum Aktualisieren loslassen</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">„Das ist alles für den Moment“</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">„Das ist alles für den Moment“</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Das ist alles für den Moment"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"Das ist alles für den Moment"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Nur eine Sekunde…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">„Elemente konnten nicht geladen werden“</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Elemente konnten nicht geladen werden"</string>
     <string name="miuix_show_password">Passwort anzeigen</string>
     <string name="miuix_stretchablewidget_collapsed">Zusammengebrochen</string>
     <string name="miuix_stretchablewidget_expanded">Erweitert</string>
@@ -3837,15 +3837,15 @@ Reminders aren't supported for blocked groups or when using DND software on your
     <string name="mm_app_name">Mi SIM</string>
     <string name="mode_size_center">Zentriert</string>
     <string name="mode_size_full">Vollbild</string>
-    <string name="model_type_pad">平板</string>
-    <string name="model_type_phone">手机</string>
+    <string name="model_type_pad">Wohnung</string>
+    <string name="model_type_phone">Handy</string>
     <string name="modify_cellular_type">Tippen, um Ihren Tarif auszuwählen</string>
     <string name="modify_password_mode">&lt;u&gt;Passworttyp ändern&lt;/u&gt;<u>Change password type</u></string>
     <string name="modify_risk_app_permission_dialog_cancel">Cancel</string>
     <string name="modify_risk_app_permission_dialog_confirm">Einschalten</string>
-    <string name="modify_risk_app_permission_dialog_message">Um Ihre Privatsphäre zu schützen, empfehlen wir, „Leere Nachrichten zurückgeben“ zu aktivieren, nachdem Sie dieser App Berechtigungen erteilt haben.</string>
+    <string name="modify_risk_app_permission_dialog_message">Um Ihre Privatsphäre zu schützen, empfehlen wir, "Leere Nachrichten zurückgeben" zu aktivieren, nachdem Sie dieser App Berechtigungen erteilt haben.</string>
     <string name="modify_risk_app_permission_dialog_title">Leere Nachrichten zurückgeben</string>
-    <string name="modify_risk_app_permission_steps">%1$d. Open &lt;b&gt;Settings&lt;/b&gt; &gt; &lt;b&gt;Apps&lt;/b&gt;.&lt;br&gt;&lt;/br&gt; %2$d. Select &lt;b&gt;Apps&lt;/b&gt;.&lt;br&gt;&lt;/br&gt; %3$d. Select &lt;b&gt;Manage permissions&lt;/b&gt;.&lt;br&gt;&lt;/br&gt; %4$d. Tap the ︙ icon and select &lt;b&gt;Unblock permissions&lt;/b&gt;.&lt;br&gt;&lt;/br&gt; %5$d. You can then grant individual permissions.</string>
+    <string name="modify_risk_app_permission_steps">%1$d. Öffnen Sie &lt;b>Einstellungen&lt;/b> > &lt;b>Apps&lt;/b>.&lt;br>&lt;/br> %2$d. Wählen Sie &lt;b>Apps&lt;/b>.&lt;br>&lt;/br> %3$d. Wählen Sie &lt;b>Berechtigungen verwalten&lt;/b>.&lt;br>&lt;/br> %4$d. Tippen Sie auf das ︙-Symbol und wählen Sie &lt;b>Berechtigungen entsperren&lt;/b>.&lt;br>&lt;/br> %5$d. Anschließend können Sie individuelle Berechtigungen erteilen.</string>
     <string name="modifypassword">Passworttyp ändern</string>
     <string name="monday">Montag</string>
     <string name="monday_short">Mo</string>
@@ -4035,7 +4035,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="nickname">Spitzname</string>
     <string name="night">Abend</string>
     <string name="no_game">Keine Spiele gefunden</string>
-    <string name="no_lucky_money">„Sie haben noch keine roten Umschläge erhalten“</string>
+    <string name="no_lucky_money">"Sie haben noch keine roten Umschläge erhalten"</string>
     <string name="no_open">Jetzt nicht</string>
     <string name="no_privacy_permission">Zustimmung zur Datenschutzerklärung nicht erforderlich</string>
     <string name="no_sim_card_by_tips">Um Warnungen zum Telefonguthaben und zur Datennutzung einzustellen, müssen Sie zunächst eine SIM-Karte einlegen.</string>
@@ -4147,7 +4147,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="notify_weekly_traffic_title_for_slotnum">%1$s nutzte diese Woche %2$s</string>
     <string name="now_inquiry">Einzelheiten</string>
     <string name="number_address">Standort</string>
-    <string name="number_of_lucky_money">„Rote Umschläge, an die Sie erinnert wurden“</string>
+    <string name="number_of_lucky_money">"Rote Umschläge, an die Sie erinnert wurden"</string>
     <string name="numeric_need_to_confirm">Erneut eingeben zur Bestätigung</string>
     <string name="numeric_password_confirmed_header_confirm">Erfolgreich festgelegt. Tippen zum Bestätigen.</string>
     <string name="numeric_password_confirmed_header_continue">"Erfolgreich festgelegt. \"Weiter\" tippen.</string>
@@ -4294,7 +4294,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="package_setted_error_notification_summary">Tippen, um Datennutzungsdetails anzuzeigen</string>
     <string name="package_setted_error_notification_titile">Datentarif wurde nicht eingestellt</string>
     <string name="packages_subtitle">Inklusive Pakete</string>
-    <string name="page_lose_focus_cant_recognition">„Biometrische Daten konnten aufgrund eines Problems nicht überprüft werden“</string>
+    <string name="page_lose_focus_cant_recognition">"Biometrische Daten konnten aufgrund eines Problems nicht überprüft werden"</string>
     <string name="passwordIncorrect">Benutzername oder Passwort falsch</string>
     <string name="password_forget_pattern_confirm">Verstanden</string>
     <string name="password_forget_pattern_message">Aus Sicherheitsgründen können Sie Ihr Passwort nur nach einem Rücksetzen der Werksdaten zurücksetzen. Tippen, um zurückzusetzen.</string>
@@ -4339,9 +4339,9 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="pc_battery_detail_curve_reference_now">Jetzt</string>
     <string name="pc_battery_detail_device_item_title">Statistik \nStromverbrauch</string>
     <string name="pc_battery_health_revise_title">Daten zum Akkuzustand kalibrieren</string>
-    <string name="pc_battery_history_accessibility_item_chart_binary">Time used since last charge: %1$s %2$s</string>
-    <string name="pc_battery_history_accessibility_item_chart_single">Time used since last charge: %1$s</string>
-    <string name="pc_battery_history_accessibility_item_consueme_list">%1$s, Battery usage: %2$s</string>
+    <string name="pc_battery_history_accessibility_item_chart_binary">Verbrauchte Zeit seit dem letzten Aufladen: %1$s %2$s</string>
+    <string name="pc_battery_history_accessibility_item_chart_single">Verbrauchte Zeit seit dem letzten Aufladen: %1$s</string>
+    <string name="pc_battery_history_accessibility_item_consueme_list">%1$s, Batterieverbrauch: %2$s</string>
     <string name="pc_battery_history_battery_detail_menu_item">Einzelheiten</string>
     <string name="pc_battery_history_battery_software_menu_item">Software</string>
     <string name="pc_battery_history_consume_all_menu_item">Alle</string>
@@ -4405,8 +4405,8 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="pc_current_power_mode">Aktueller Modus</string>
     <string name="pc_cycle_count_protect_title">Zyklen</string>
     <string name="pc_dialog_dual_type_c_port_reminder_btn">Habe es</string>
-    <string name="pc_dialog_dual_type_c_port_reminder_checkbox">„Nicht mehr zeigen“</string>
-    <string name="pc_dialog_dual_type_c_port_reminder_message">„Der Typ-C-Anschluss an der kurzen Seite des Geräts unterstützt keine Datenübertragung. Stellen Sie über den anderen Anschluss eine Verbindung zum Computer her.“</string>
+    <string name="pc_dialog_dual_type_c_port_reminder_checkbox">"Nicht mehr zeigen"</string>
+    <string name="pc_dialog_dual_type_c_port_reminder_message">"Der Typ-C-Anschluss an der kurzen Seite des Geräts unterstützt keine Datenübertragung. Stellen Sie über den anderen Anschluss eine Verbindung zum Computer her."</string>
     <string name="pc_dialog_dual_type_c_port_reminder_title">Ladeerinnerung</string>
     <string name="pc_emergency_call">Notfall</string>
     <string name="pc_endurance_calculation">Berechnen…</string>
@@ -4470,8 +4470,8 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="pc_install_manager">Installation via USB</string>
     <string name="pc_intellect_charge_protect_summary">Laden anpassen anhand von Nutzungsszenarien</string>
     <string name="pc_intellect_charge_protect_title">Optimiertes Laden</string>
-    <string name="pc_is_exiting_low_temperature">"Turning off
-Cold endurance mode"</string>
+    <string name="pc_is_exiting_low_temperature">"Ausschalten
+Kalter Ausdauermodus</string>
     <string name="pc_is_exiting_super_power">Ultra-Stromsparen\nausschalten</string>
     <string name="pc_keywords_fast_charge">Schnellladen</string>
     <string name="pc_keywords_low_power_consumption_save">Stromsparen</string>
@@ -4492,9 +4492,9 @@ Cold endurance mode"</string>
     <string name="pc_low_battery_fast_charge_summary">Schließen Sie das mitgelieferte Ladegerät an, um den Ladevorgang zu beschleunigen, wenn der Bildschirm aus und der Akku leer ist. Diese Funktion kann Ihr Gerät erwärmen.</string>
     <string name="pc_low_temp_charge_summary">Lassen Sie das Ladegerät angeschlossen und warten Sie, bis sich der Akku nach dem Erlöschen des Bildschirms erwärmt hat, um normal zu laden</string>
     <string name="pc_low_temp_charge_title">Laden bei niedriger Temperatur</string>
-    <string name="pc_low_temp_disable_otg_message">„Externe Geräte und umgekehrtes Laden können derzeit nicht verwendet werden, weil die Temperatur oder der Akku zu niedrig ist. Versuchen Sie es erneut, sobald die Temperatur oder der Akkustand ansteigt.“</string>
+    <string name="pc_low_temp_disable_otg_message">"Externe Geräte und umgekehrtes Laden können derzeit nicht verwendet werden, weil die Temperatur oder der Akku zu niedrig ist. Versuchen Sie es erneut, sobald die Temperatur oder der Akkustand ansteigt."</string>
     <string name="pc_low_temp_disable_otg_ok">Habe es</string>
-    <string name="pc_low_temp_disable_otg_title">„Kann keine externen Geräte verwenden und das Laden nicht umkehren“</string>
+    <string name="pc_low_temp_disable_otg_title">"Kann keine externen Geräte verwenden und das Laden nicht umkehren"</string>
     <string name="pc_low_temperature_extreme_endurance_summary">Begrenzen Sie die Geräteleistung, um die Akkulaufzeit zu verlängern, wenn die Umgebungstemperatur extrem niedrig ist</string>
     <string name="pc_low_temperature_extreme_endurance_title">Kälteschutzmodus</string>
     <string name="pc_main_activity_back">Zurück</string>
@@ -4513,7 +4513,7 @@ Cold endurance mode"</string>
     <string name="pc_night_charge_protect_summary">Ladedauer automatisch anpassen, um die Langlebigkeit des Akkus zu erhalten</string>
     <string name="pc_night_charge_protect_title">Schutz beim nächtlichen Aufladen</string>
     <string name="pc_night_sleep_mode_summary">Einige Funktionen automatisch ausschalten, um den Akku schonen, wenn Schlafen erkannt wird</string>
-    <string name="pc_night_sleep_mode_summary_pad">„Wenn der Bildschirm ausgeschaltet ist, schließt Ihr Gerät Hintergrund-Apps und schränkt die Netzwerknutzung ein. Wenn das Gerät längere Zeit nicht verwendet wird, wird es automatisch in den Ruhezustand versetzt oder ausgeschaltet.“</string>
+    <string name="pc_night_sleep_mode_summary_pad">"Wenn der Bildschirm ausgeschaltet ist, schließt Ihr Gerät Hintergrund-Apps und schränkt die Netzwerknutzung ein. Wenn das Gerät längere Zeit nicht verwendet wird, wird es automatisch in den Ruhezustand versetzt oder ausgeschaltet."</string>
     <string name="pc_night_sleep_mode_title">Nachtmodus</string>
     <string name="pc_no_more_remind">Nicht erinnern</string>
     <string name="pc_ordinary_charge_summary">Immer bis zu %1$s laden</string>
@@ -4534,7 +4534,7 @@ Cold endurance mode"</string>
     <string name="pc_remind_close_cover_to_charge_summary">Gerät vor dem Aufladen zusammenklappen, um einen schnelleren und stabileren Ladevorgang zu ermöglichen.</string>
     <string name="pc_remind_close_cover_to_charge_title">Zum Laden zusammenklappen</string>
     <string name="pc_reminder_always_protect_summary">Auf begrenztes Laden umschalten, um die Akkualterung zu reduzieren</string>
-    <string name="pc_remove_shell_charging_notification_msg">„Kabelloses Laden ist mit dieser Hülle nicht möglich. Entfernen Sie sie oder verwenden Sie stattdessen kabelgebundenes Laden.“</string>
+    <string name="pc_remove_shell_charging_notification_msg">"Kabelloses Laden ist mit dieser Hülle nicht möglich. Entfernen Sie sie oder verwenden Sie stattdessen kabelgebundenes Laden."</string>
     <string name="pc_remove_shell_charging_notification_title">Entfernen Sie die Hülle, um das kabellose Laden zu verwenden</string>
     <string name="pc_remove_shell_charging_toast">Entfernen Sie das Gehäuse, um das umgekehrte kabellose Laden zu verwenden</string>
     <string name="pc_satellite_auto_enter_super_power">Ultra-Stromsparen eingeschaltet, um die Satellitenkommunikation sicherzustellen</string>
@@ -4559,8 +4559,8 @@ Cold endurance mode"</string>
     <string name="pc_smart_charge_notify_summary_high_temp_protect">To protect your device from overheating, charging will be stopped when battery level reaches %1$s</string>
     <string name="pc_smart_charge_notify_summary_navagition">Navigation… Ladevorgang wird beendet, wenn der Akkustand %1$s erreicht</string>
     <string name="pc_smart_charge_notify_summary_night_charge">Ladevorgang wird bei %s beendet</string>
-    <string name="pc_smart_charge_notify_summary_night_pause_charge">Charging paused at %1$s. It will resume at %2$s.</string>
-    <string name="pc_smart_charge_notify_summary_night_start_charge">Charging will pause when battery reaches %1$s and resume automatically based on your usage</string>
+    <string name="pc_smart_charge_notify_summary_night_pause_charge">Der Ladevorgang wurde bei %1$s unterbrochen. Es wird bei %2$s fortgesetzt.</string>
+    <string name="pc_smart_charge_notify_summary_night_start_charge">Der Ladevorgang wird unterbrochen, wenn der Akku %1$s erreicht, und je nach Nutzung automatisch fortgesetzt</string>
     <string name="pc_smart_charge_pogo_project_dialog_content">Um die Akkulaufzeit zu verlängern, wird der Akku dieses Geräts nicht über den aktuellen Stand hinausgehen, während er mit dem Auto verbunden ist.</string>
     <string name="pc_smart_charge_pogo_project_dialog_not_show_again">Nicht mehr anzeigen</string>
     <string name="pc_smart_charge_pogo_project_dialog_title">Akkuschutz</string>
@@ -4604,15 +4604,15 @@ Cold endurance mode"</string>
     <string name="percent_formatted_text">%S%%</string>
     <string name="percent_symbol">%</string>
     <string name="percent_text_formatted">%S%%</string>
-    <string name="percentage">%D%%</string>
+    <string name="percentage">%d%%</string>
     <string name="perfermance_optimization_summary">Überhitzung und Hardware-Probleme vermeiden</string>
     <string name="perfermance_optimization_title">Leistungsoptimierung</string>
     <string name="performance_frame_enhance_super_display_tips">Erhöhte Bildrate und Superauflösung können nicht gleichzeitig funktionieren. Das Einschalten des einen schaltet das andere aus.</string>
     <string name="performance_frame_insert_super_display_tips">Smarte Bildrate und Superauflösung können nicht gleichzeitig wirksam sein. Wenn Sie das eine aktivieren, schalten Sie das andere aus.</string>
     <string name="perm_desc_accessibility">Diese Berechtigung ist erforderlich, um den Bildschirm anzuzeigen und zu steuern, Apps und Hardwaresensoren gemäß Ihren Anweisungen zu bedienen und in Ihrem Namen mit Apps zu interagieren.</string>
-    <string name="perm_disable_dialog_message">"This app's permission (%1$s) hasn't passed review."</string>
+    <string name="perm_disable_dialog_message">"Die Berechtigung dieser App (%1$s) hat die Prüfung nicht bestanden."</string>
     <string name="perm_disable_dialog_title">Berechtigungen eingeschränkt</string>
-    <string name="perm_disable_note_text">"This permission hasn't passed review and is restricted now: %1$s"</string>
+    <string name="perm_disable_note_text">"Diese Berechtigung hat die Prüfung nicht bestanden und ist jetzt eingeschränkt: %1$s"</string>
     <string name="perm_intercept_content">Dieser App folgende Berechtigung erlauben: %1s?</string>
     <string name="perm_intercept_notification_title">Wenn Sie %1s die Verwendung von Benachrichtigungen erlauben, führt diese App folgende Aktionen aus:</string>
     <string name="perm_intercept_privacy_content">Diese Aktionen können Ihre personenbezogenen Daten offen legen. Berechtigung (%1s) trotzdem erteilen?</string>
@@ -4835,7 +4835,7 @@ Cold endurance mode"</string>
     <string name="permission_usage_projection_screen_use">Zugriff auf oder Aufnahme von Bildschirminhalt</string>
     <string name="permission_usage_terminal_camera_once">%1$s | Diese App hat die Kamera dieses Geräts verwendet</string>
     <string name="permission_usage_terminal_camera_use">Diese App verwendet die Kamera dieses Geräts</string>
-    <string name="permission_usage_terminal_file_once">%1$s | Accessed files on this device</string>
+    <string name="permission_usage_terminal_file_once">%1$s | Auf Dateien auf diesem Gerät zugegriffen</string>
     <string name="permission_usage_terminal_file_use">Auf Dateien auf diesem Gerät zugegriffen</string>
     <string name="permission_usage_terminal_screen_once">%1$s | Diese App verwendete den Bildschirm dieses Geräts</string>
     <string name="permission_usage_terminal_screen_use">Diese App verwendet den Bildschirm dieses Geräts</string>
@@ -4852,7 +4852,7 @@ Cold endurance mode"</string>
     <string name="permission_with_call_and_contact">Anruf-, Kontaktdaten- und Anruflistenberechtigungen</string>
     <string name="permission_with_read_write_clipboard">Apps den Zugriff auf und das Speichern von Elementen in der Zwischenablage erlauben</string>
     <string name="permit_running_network">Hintergrunddaten</string>
-    <string name="person_have_hongbao">%1$s sent you a red envelope!</string>
+    <string name="person_have_hongbao">%1$s hat dir einen roten Umschlag geschickt!</string>
     <string name="person_hotpot">Mobile Hotspots</string>
     <string name="phone">Telefon:</string>
     <string name="phone_manage">Werkzeuge</string>
@@ -5070,7 +5070,7 @@ Cold endurance mode"</string>
     <string name="power_dialog_performance_mode_checkbox">Auf %d Hz-Aktualisierungsrate umschalten</string>
     <string name="power_dialog_super_save_msg">Ultra-Stromsparen schränkt die meisten stromfressenden Funktionen ein und verringert die Leistung Ihres Geräts, um die Grundfunktionen (z. B. Anrufe, SMS und Netzwerkverbindungen) so lange wie möglich verfügbar zu halten. Ultra-Stromsparen einschalten?</string>
     <string name="power_dialog_super_save_msg_5g">Ultra-Stromsparen schränkt die meisten stromfressenden Funktionen (z. B. 5G-Konnektivität) ein und reduziert die Leistung Ihres Geräts. Nur Anrufe, Nachrichten und Netzwerkverbindungen werden nicht beeinträchtigt. Ultra-Stromsparen einschalten?</string>
-    <string name="power_dialog_super_save_msg_p2">„Der Ultra-Batteriesparmodus schaltet das hintere Display aus und schränkt die meisten stromverbrauchenden Funktionen ein. Dadurch verringert sich die Leistung Ihres Geräts, damit grundlegende Funktionen (z. B. Anrufe, SMS und Verbindung zum Netzwerk) so lange wie möglich verfügbar bleiben. Ultra-Batteriesparmodus aktivieren?“</string>
+    <string name="power_dialog_super_save_msg_p2">"Der Ultra-Batteriesparmodus schaltet das hintere Display aus und schränkt die meisten stromverbrauchenden Funktionen ein. Dadurch verringert sich die Leistung Ihres Geräts, damit grundlegende Funktionen (z. B. Anrufe, SMS und Verbindung zum Netzwerk) so lange wie möglich verfügbar bleiben. Ultra-Batteriesparmodus aktivieren?"</string>
     <string name="power_dialog_super_save_title">Ultra-Stromsparen</string>
     <string name="power_idle">Telefon im Leerlauf</string>
     <string name="power_main_battery_last_day_hour">Noch %1$s T %2$s h bleiben</string>
@@ -5198,7 +5198,7 @@ Cold endurance mode"</string>
     <string name="power_settings_number">Prozent</string>
     <string name="power_settings_saver_title">Stromsparen</string>
     <string name="power_settings_shape">Grafisch</string>
-    <string name="power_settings_title">Systemleistung</string>
+    <string name="power_settings_title">@string/Settings_title_power_center</string>
     <string name="power_settings_top">Obere Leiste</string>
     <string name="power_superpower_title_systemui_highpower">Verbleibende Zeit</string>
     <string name="power_superpower_title_systemui_lowpower">Ladegerät anschließen</string>
@@ -5226,17 +5226,17 @@ Cold endurance mode"</string>
     <string formatted="false" name="pp_agent_request_screen_ctl_app_title_msg">When this feature is on, %1s can help you control %2s.</string>
     <string name="pp_agent_request_screen_ctl_title">Aktivieren Sie AI Smart Control</string>
     <string name="pp_agent_request_screen_info_app_title">Aktivieren Sie die KI-Bildschirmerkennung für %s</string>
-    <string name="pp_agent_request_screen_info_app_title_msg">When this feature is on, %1$s can access screen content from %2$s</string>
-    <string name="pp_agent_request_screen_info_app_title_msg_setting">Aktivieren Sie „AI-Bildschirmerkennung“ für %s in den Einstellungen, um fortzufahren. Jetzt einschalten?</string>
+    <string name="pp_agent_request_screen_info_app_title_msg">Wenn diese Funktion aktiviert ist, kann %1$s auf den Bildschirminhalt von %2$s zugreifen</string>
+    <string name="pp_agent_request_screen_info_app_title_msg_setting">Aktivieren Sie "AI-Bildschirmerkennung" für %s in den Einstellungen, um fortzufahren. Jetzt einschalten?</string>
     <string name="pp_agent_request_screen_info_app_title_setting">Berechtigungen erforderlich</string>
     <string name="pp_agent_request_screen_info_positive_button_setting">Einschalten</string>
     <string name="pp_agent_request_screen_info_title">Aktivieren Sie die KI-Bildschirmerkennung</string>
     <string name="pp_agent_screen_ctl">KI-intelligente Steuerung</string>
-    <string name="pp_agent_screen_ctl_app_disable">"%1$s can't be controlled by %2$s now."</string>
+    <string name="pp_agent_screen_ctl_app_disable">"%1$s kann derzeit nicht von %2$s kontrolliert werden."</string>
     <string name="pp_agent_screen_ctl_desc">Wenn diese Funktion aktiviert ist, kann %s Ihnen bei der Steuerung von Apps auf diesem Gerät helfen.</string>
     <string name="pp_agent_screen_info">KI-Bildschirmerkennung</string>
     <string formatted="false" name="pp_agent_screen_info_app_disable">"%2s can't recognize %1s's screen content now"</string>
-    <string name="pp_agent_screen_info_desc">„Wenn diese Funktion aktiviert ist, kann %s in Echtzeit erkennen, was auf Ihrem Bildschirm angezeigt wird, und darauf zugreifen.“</string>
+    <string name="pp_agent_screen_info_desc">"Wenn diese Funktion aktiviert ist, kann %s in Echtzeit erkennen, was auf Ihrem Bildschirm angezeigt wird, und darauf zugreifen."</string>
     <string name="pp_agent_screen_info_manager">Verwalten Sie die KI-Bildschirmerkennung</string>
     <string name="pp_agent_screen_info_manager_desc">Verwalten Sie, welche Apps %s auf dem Bildschirm erkennen darf</string>
     <string name="pp_agent_screen_info_title">Erlaube %s, Inhalte in diesen Apps zu erkennen</string>
@@ -5595,25 +5595,25 @@ Cold endurance mode"</string>
     <string name="privacy_password_chanage_process">Datenschutzpasswort ändern</string>
     <string name="privacy_password_custom_password">Benutzerdefinierte PIN</string>
     <string name="privacy_password_digital_password">%d-stellige PIN</string>
-    <string name="privacy_password_enter_custom_password">Enter your %1$d–%2$d-digit PIN</string>
+    <string name="privacy_password_enter_custom_password">Geben Sie Ihre %1$d–%2$d-stellige PIN ein</string>
     <string name="privacy_password_enter_custom_password_again">Geben Sie Ihre PIN erneut ein</string>
-    <string name="privacy_password_enter_custom_password_not_match">„PINs stimmen nicht überein“</string>
+    <string name="privacy_password_enter_custom_password_not_match">"PINs stimmen nicht überein"</string>
     <string name="privacy_password_enter_digital_password">Geben Sie Ihre %d-stellige PIN ein</string>
     <string name="privacy_password_enter_digital_password_again">Geben Sie Ihre %d-stellige PIN erneut ein</string>
     <string name="privacy_password_enter_graphic_password">Zeichnen Sie Ihr Muster</string>
     <string name="privacy_password_enter_hybrid_password">Enter your %1$d–%2$d-character password</string>
     <string name="privacy_password_enter_hybrid_password_again">Geben Sie Ihr Passwort erneut ein</string>
-    <string name="privacy_password_enter_hybrid_password_invalid">„Passwort darf keine ungültigen Zeichen enthalten“</string>
-    <string name="privacy_password_enter_hybrid_password_not_match">„Passwörter stimmen nicht überein“</string>
+    <string name="privacy_password_enter_hybrid_password_invalid">"Passwort darf keine ungültigen Zeichen enthalten"</string>
+    <string name="privacy_password_enter_hybrid_password_not_match">"Passwörter stimmen nicht überein"</string>
     <string name="privacy_password_graphic_password">Muster</string>
     <string name="privacy_password_hybrid_password">Passwort</string>
     <string name="privacy_password_other_password">Anderes Passwort</string>
     <string name="privacy_password_setup_confirm">Bestätigen</string>
     <string name="privacy_password_setup_hint">PIN eingeben</string>
     <string name="privacy_password_setup_next">Weiter</string>
-    <string name="privacy_password_setup_not_match">„PINs stimmen nicht überein. Versuchen Sie es erneut.“</string>
+    <string name="privacy_password_setup_not_match">"PINs stimmen nicht überein. Versuchen Sie es erneut."</string>
     <string name="privacy_password_setup_process">Legen Sie ein Datenschutzkennwort fest</string>
-    <string name="privacy_password_update_desc">„Sie können Ihr Datenschutzpasswort oder Ihre Bildschirmsperre auf bestimmte Funktionen anwenden.“</string>
+    <string name="privacy_password_update_desc">"Sie können Ihr Datenschutzpasswort oder Ihre Bildschirmsperre auf bestimmte Funktionen anwenden."</string>
     <string name="privacy_password_update_message">Alternativ zu Ihrer Bildschirmsperre können Sie Elemente jetzt mit einem Datenschutzkennwort schützen. Wenn Sie diese Funktion aktivieren, werden alte Versionen der App-Sperre oder des Datenschutzkennworts durch das neue Datenschutzkennwort ersetzt und alle privaten Elemente werden dadurch geschützt. Jetzt ein Datenschutzpasswort festlegen?</string>
     <string name="privacy_password_update_title">Aktualisiertes Datenschutzpasswort</string>
     <string name="privacy_password_update_type">Passworttyp</string>
@@ -5778,7 +5778,7 @@ Cold endurance mode"</string>
     <string name="privacyapp_number_unmasked_text">Benachrichtigungsinhalt kann ausgeblendet werden</string>
     <string name="private_face_password_type_tips">Sie können Ihr Passwort unter Gesichtsdaten &amp; ändern. Bildschirmsperre > Datenschutz-Passwort</string>
     <string name="private_file">Private Dateien</string>
-    <string name="private_finger_password_type_tips">Sie können Ihr Passwort unter „Fingerabdrücke &amp; Passwort“ ändern. Bildschirmsperre > Datenschutz-Passwort</string>
+    <string name="private_finger_password_type_tips">Sie können Ihr Passwort unter "Fingerabdrücke &amp; Passwort" ändern. Bildschirmsperre > Datenschutz-Passwort</string>
     <string name="private_note">Versteckte Notizen</string>
     <string name="private_password_only_type_tips">Sie können Ihr Passwort unter Bildschirmsperre > Datenschutz-Passwort ändern</string>
     <string name="private_password_type">Passwort zum Schutz der Privatsphäre</string>
@@ -5791,17 +5791,17 @@ Cold endurance mode"</string>
     <string name="project_id">Xiaomi-Service-Framework</string>
     <string name="promotion">Werbung</string>
     <string name="prompt_all">Für alles fragen</string>
-    <string name="prompt_danger">危险</string>
+    <string name="prompt_danger">Gefahr</string>
     <string name="prompt_input_time_illegal">Falsche Zeitangabe, bitte ändern und erneut versuchen</string>
-    <string name="prompt_safe">安全</string>
-    <string name="prompt_unknown">未知</string>
+    <string name="prompt_safe">Sicherheit</string>
+    <string name="prompt_unknown">unbekannt</string>
     <string name="protect_data_security">Isolierte Daten</string>
     <string name="protect_data_security_detail">Von der Tastatur erzeugte Daten werden isoliert und sind für andere Apps unzugänglich.</string>
     <string name="protect_eye_dont_open">Nicht jetzt</string>
     <string name="protect_eye_hint_summry">Aktivieren Sie den Lesemodus für ein besseres Leseerlebnis</string>
     <string name="protect_eye_hint_title">Augenkomfort</string>
     <string name="protect_eye_open">Einschalten</string>
-    <string name="protect_eye_opened_summry">Bearbeiten Sie die Einstellungen unter „Einstellungen“ > „Anzeige &amp; Helligkeit > Augenkomfort</string>
+    <string name="protect_eye_opened_summry">Bearbeiten Sie die Einstellungen unter "Einstellungen" > "Anzeige &amp; Helligkeit > Augenkomfort</string>
     <string name="protect_eye_opened_title">Der Lesemodus ist aktiviert</string>
     <string name="protocol_exception_title">Netzwerkprotokolldiagnose</string>
     <string name="protocol_loop_back_exception_summary">Lokaler Loop-Back-Test fehlgeschlagen. Um dieses Problem zu melden, gehen Sie zur Feedback-App und senden Sie ein Protokoll Ihres Geräts.</string>
@@ -5867,7 +5867,7 @@ Cold endurance mode"</string>
     <string name="renew_now">Erneuern</string>
     <string name="repair">Reparieren</string>
     <string name="repair_loading_text">Einen Moment…</string>
-    <string name="repeat_prompts">„Machen Sie langsamer! Senden Sie nicht mehrere Anfragen hintereinander.“</string>
+    <string name="repeat_prompts">"Machen Sie langsamer! Senden Sie nicht mehrere Anfragen hintereinander."</string>
     <string name="repeat_type">Wiederholen</string>
     <string name="repeated_marked_number_summary">Zweiten Anruf von der gleichen gemeldeten Nummer innerhalb von %d Min nicht blockieren</string>
     <string name="repeated_marked_number_title">Blockieren Sie keine wiederholten Anrufe von gemeldeten Rufnummern</string>
@@ -5922,8 +5922,8 @@ Cold endurance mode"</string>
     <string name="risk_app_menu_title">Berechtigungen entsperren</string>
     <string name="risk_app_permission_settings_desc">Wenn Sie Apps aus unbekannten Quellen erlauben, auf vertrauliche Berechtigungen zuzugreifen, kann dies ein Risiko für die Sicherheit Ihres Geräts und Ihrer Daten darstellen. Um diesen Risiken vorzubeugen, wird der Zugriff einiger Apps auf bestimmte Berechtigungen standardmäßig blockiert. Sie können Berechtigungen manuell &lt;u>entsperren&lt;/u> und anschließend nach eigenem Ermessen einzelne Berechtigungen erteilen.</string>
     <string name="risk_app_restrict_network_btn">Habe es</string>
-    <string name="risk_app_restrict_network_message">„Die Verbindung dieser App zum Internet wurde auf Antrag der zuständigen Behörden aufgrund ungewöhnlichen Verhaltens eingeschränkt.“</string>
-    <string name="risk_app_restrict_network_title">„Es kann keine Verbindung zum Internet hergestellt werden“</string>
+    <string name="risk_app_restrict_network_message">"Die Verbindung dieser App zum Internet wurde auf Antrag der zuständigen Behörden aufgrund ungewöhnlichen Verhaltens eingeschränkt."</string>
+    <string name="risk_app_restrict_network_title">"Es kann keine Verbindung zum Internet hergestellt werden"</string>
     <string name="risk_count_suffix" />
     <string name="risk_detail_app">Birgt Risiken</string>
     <string name="risk_detail_title">Mögliche Risiken</string>
@@ -5972,7 +5972,7 @@ Cold endurance mode"</string>
     <string name="scan_installed_games">Installierte Spiele prüfen…</string>
     <string name="scan_open_shut_down_password_content">Gerät vor unberechtigtem Zugriff schützen</string>
     <string name="scan_open_shut_down_password_title">Abschaltbestätigung</string>
-    <string name="scan_status_complete">完成</string>
+    <string name="scan_status_complete">Beenden</string>
     <string name="scan_status_not_complete">Nicht abgeschlossen</string>
     <string name="scan_status_risk">Riskant</string>
     <string name="scan_status_safe">Sicher</string>
@@ -5986,8 +5986,8 @@ Cold endurance mode"</string>
     <string name="screen_share_warning_positive_button">Stoppen</string>
     <string name="screen_share_warning_summary">Der Inhalt Ihres Bildschirms wird jetzt aufgezeichnet oder übertragen. Benachrichtigungen werden während des gesamten Prozesses ausgeblendet.</string>
     <string name="screen_share_warning_title">%s greift auf Bildschirminhalt zu</string>
-    <string name="screen_type_external">外屏</string>
-    <string name="screen_type_internal">内屏</string>
+    <string name="screen_type_external">Externer Bildschirm</string>
+    <string name="screen_type_internal">Innenschirm</string>
     <string name="screenrecord_not_find">Neueste Version von Screen Recorder installieren und erneut versuchen</string>
     <string name="sd_eject">SD-Karte aushängen</string>
     <string name="sd_eject_summary">SD-Karte zur sicheren Entnahme aushängen</string>
@@ -6008,7 +6008,7 @@ Cold endurance mode"</string>
     <string name="search_keyword_tools">Werkzeugkasten</string>
     <string name="search_keyword_voice">Stimme</string>
     <string name="search_menu_title">Suchen</string>
-    <string name="search_result_text">„Konnte keine Apps finden“</string>
+    <string name="search_result_text">"Konnte keine Apps finden"</string>
     <string name="secondart_setting_title">Erinnerungseinstellungen</string>
     <string name="section_clear_acc_item_title">%s. Wenn immer noch nicht genügend Speicher vorhanden ist, versuchen Sie Cleaner.</string>
     <string name="section_security_defend_item_title">Schützen Sie Ihre Daten mit der App-Sperre</string>
@@ -6124,7 +6124,7 @@ Cold endurance mode"</string>
     <string name="sim_location_error_dialog_message">Die verwendete SIM-Karte ist von %1$s. Das unterscheidet sich von Ihrem manuell eingestellten Slot (%2$s). Wollen Sie den SIM-Slot auf %3$s ändern?</string>
     <string name="sim_location_error_notify_message">Tippen Sie auf SIM-Slot ändern</string>
     <string name="sim_location_error_notify_title">SIM-Kartenfehler</string>
-    <string name="sim_lock_card_name">„JA %d –“</string>
+    <string name="sim_lock_card_name">"JA %d –"</string>
     <string name="sim_lock_change_done_message">Erfolgreich festgelegt! Merken Sie sich Ihre neue PIN. Wenn Sie sie vergessen, müssen Sie sich an den Kundendienst Ihres Anbieters wenden, um sie wiederherzustellen.</string>
     <string name="sim_lock_cloud_notification_message">PIN kann nicht verifiziert werden, wenn die Synchronisierung mit der Cloud aus ist</string>
     <string name="sim_lock_cloud_notification_title">SIM-Karte ist nicht geschützt</string>
@@ -6168,7 +6168,7 @@ Cold endurance mode"</string>
     <string name="sim_lock_puk_message">Wenden Sie sich an Ihren Anbieter, um zu erfahren, wie Ihr SIM-PUK lautet. Wenn Sie das Limit für die Eingabe falscher PUKs erreichen, wird Ihre SIM-Karte gesperrt.</string>
     <string name="sim_lock_puk_success">PUK erfolgreich verifiziert</string>
     <string name="sim_lock_puk_title">PUK verifizieren</string>
-    <string name="sim_lock_query_all_pin">„PIN:“</string>
+    <string name="sim_lock_query_all_pin">"PIN:"</string>
     <string name="sim_lock_query_all_title">PIN prüfen</string>
     <string name="sim_lock_query_dialog_title">Neue PIN festlegen</string>
     <string name="sim_lock_query_new_pin">Neue PIN festlegen</string>
@@ -6231,7 +6231,7 @@ Cold endurance mode"</string>
     <string name="sms_detail_fragment_title_bill">Telefonguthaben</string>
     <string name="sms_detail_fragment_title_traffic">Verbleibendes Datenvolumen</string>
     <string name="sms_filter">Smarter Filter</string>
-    <string name="sms_guard_alert">„Standard-Messaging-App geändert. Xiaomi Messaging kann SMS-Spam nicht blockieren.“</string>
+    <string name="sms_guard_alert">"Standard-Messaging-App geändert. Xiaomi Messaging kann SMS-Spam nicht blockieren."</string>
     <string name="sms_keywords">Schlüsselwortsperrliste</string>
     <string name="sms_malicious_url">SMS mit bösartigen URLs blockieren</string>
     <string name="sms_prefix">Vorwahlsperrliste</string>
@@ -6471,7 +6471,7 @@ Cold endurance mode"</string>
     <string name="st_call_other_group">Andere</string>
     <string name="st_call_settings">Anrufsperrliste</string>
     <string name="st_call_stranger_group">Anrufe von Unbekannten blockieren</string>
-    <string name="st_confirm_call_all_dialog_summary">„Anrufe von allen Nummern, die nicht zu Ihren Ausnahmen gehören, werden blockiert. Jetzt einschalten?“</string>
+    <string name="st_confirm_call_all_dialog_summary">"Anrufe von allen Nummern, die nicht zu Ihren Ausnahmen gehören, werden blockiert. Jetzt einschalten?"</string>
     <string name="st_confirm_dialog_btn_open">Blockieren</string>
     <string name="st_confirm_dialog_summary_oversea_call">Alle Anrufe von ausländischen Rufnummern werden blockiert.</string>
     <string name="st_confirm_dialog_summary_stranger_call">Alle Anrufe von Unbekannten werden blockiert.</string>
@@ -6542,7 +6542,7 @@ Cold endurance mode"</string>
     <string name="st_title_other_group">Andere</string>
     <string name="st_title_settings_other_group">Weitere Einstellungen</string>
     <string name="st_title_show_antispam_notification">Sperrlisten-\nbenachrichtigungen</string>
-    <string name="st_title_sim_card">%1$s - SIM %2$s</string>
+    <string name="st_title_sim_card">%1$s – SIM-Karte %2$s</string>
     <string name="st_title_whitelist_numbers">Ausnahmen</string>
     <string name="start">Start</string>
     <string name="start_downloading_app">Download starten: %1$s</string>
@@ -6608,7 +6608,7 @@ Cold endurance mode"</string>
     <string name="storage_available_total_size1">Belegt: %1$s | Gesamt: %2$s</string>
     <string name="storage_category_title">Zusätzliche Optionen</string>
     <string name="storage_clear_available_total_size">%1$s/%3$s belegt | %2$s verfügbar</string>
-    <string name="storage_clear_available_total_size_with_ufs">Used: %1$s | Remaining: %2$s | Total: %3$s (Extended by %4$s)</string>
+    <string name="storage_clear_available_total_size_with_ufs">Verwendet: %1$s | Verbleibend: %2$s | Gesamt: %3$s (Erweitert um %4$s)</string>
     <string name="storage_clear_cache">%s freigeben</string>
     <string name="storage_clear_cache_deep">Speicher freigeben</string>
     <string name="storage_clear_cache_large">%s freigeben</string>
@@ -6616,12 +6616,12 @@ Cold endurance mode"</string>
     <string name="storage_clear_video">Video-Cache löschen</string>
     <string name="storage_click_apk">Installationspaket</string>
     <string name="storage_click_app">Anwendungen und Daten</string>
-    <string name="storage_click_audio">音频</string>
+    <string name="storage_click_audio">Audio</string>
     <string name="storage_click_clean">Müll aufräumen</string>
     <string name="storage_click_deep_clean">Tiefenreinigung</string>
-    <string name="storage_click_file">文档</string>
+    <string name="storage_click_file">dokumentieren</string>
     <string name="storage_click_memory_expansion">Speichererweiterung</string>
-    <string name="storage_click_pic">图片</string>
+    <string name="storage_click_pic">Bild</string>
     <string name="storage_click_system_data">Systemdaten</string>
     <string name="storage_click_system_log">Systemprotokoll</string>
     <string name="storage_click_video">视频</string>
@@ -6631,9 +6631,9 @@ Cold endurance mode"</string>
     <string name="storage_dialog_unmounted">^1 wurde sicher entfernt, ist aber immer noch verfügbar.\n\nUm ^1 zu verwenden, bitte zuerst einhängen.</string>
     <string name="storage_dialog_unsupported">Dieses Gerät unterstützt ^1 nicht.\n\nUm ^1 mit diesem Gerät zu verwenden, bitte zuerst einrichten.</string>
     <string name="storage_entry_file">Dateimanager</string>
-    <string name="storage_entry_other">其他</string>
-    <string name="storage_entry_setting">设置</string>
-    <string name="storage_fbo_action_des">Tippen Sie zum Starten auf „Defragmentieren“. Während dieses Vorgangs kann es zu Verzögerungen bei Ihrem Gerät kommen. Vermeiden Sie die Verwendung Ihres Geräts, um die Defragmentierung zu beschleunigen.</string>
+    <string name="storage_entry_other">andere</string>
+    <string name="storage_entry_setting">aufstellen</string>
+    <string name="storage_fbo_action_des">Tippen Sie zum Starten auf "Defragmentieren". Während dieses Vorgangs kann es zu Verzögerungen bei Ihrem Gerät kommen. Vermeiden Sie die Verwendung Ihres Geräts, um die Defragmentierung zu beschleunigen.</string>
     <string name="storage_fbo_btn">Defragmentieren</string>
     <string name="storage_fbo_btn_estimate">Vorbereiten…</string>
     <string name="storage_fbo_clear">Speicheraktualisierung</string>
@@ -6840,7 +6840,7 @@ Cold endurance mode"</string>
     <string name="system_permission_declare_use_network_no_permission">Mit Netzwerk verbinden</string>
     <string name="system_permission_declare_user_agreement"><Data>Read and agree to our &lt;a href=\"%1$s\"&gt;User Agreement&lt;/a&gt; before you continue.</Data></string>
     <string name="system_permission_perm_answer_call">Anrufen</string>
-    <string name="system_permission_perm_optional">„ (optional)“</string>
+    <string name="system_permission_perm_optional">" (optional)"</string>
     <string name="system_permission_perm_read_mms">MMS lesen</string>
     <string name="system_permission_perm_read_numbers">Rufnummern lesen</string>
     <string name="system_permission_perm_send_mms">MMS senden</string>
@@ -6985,7 +6985,7 @@ Cold endurance mode"</string>
     <string name="the_arbor_day">Tag der Laube</string>
     <string name="the_armed_forces_day">Tag der Streitkräfte</string>
     <string name="the_armys_day">PLA-Tag</string>
-    <string name="the_childrens_day">„Kindertag“</string>
+    <string name="the_childrens_day">"Kindertag"</string>
     <string name="the_chinese_youth_day">Jugendtag</string>
     <string name="the_christmas_day">Weihnachten</string>
     <string name="the_double_ninth_festival">Doppeltes neuntes Festival</string>
@@ -6993,16 +6993,16 @@ Cold endurance mode"</string>
     <string name="the_easter_day">Ostern</string>
     <string name="the_eve_of_the_spring_festival">Vorabend des chinesischen Neujahrs</string>
     <string name="the_fifth_day">Fünfter Tag des chinesischen Neujahrs</string>
-    <string name="the_fools_day">„Aprilscherz“</string>
+    <string name="the_fools_day">"Aprilscherz"</string>
     <string name="the_forth_day">Vierter Tag des chinesischen Neujahrs</string>
     <string name="the_hksar_establishment_day">Gründungstag der Sonderverwaltungszone Hongkong</string>
-    <string name="the_international_womens_day">„Frauentag“</string>
+    <string name="the_international_womens_day">"Frauentag"</string>
     <string name="the_laba_festival">Laba-Festival</string>
     <string name="the_labour_day">Tag der Arbeit</string>
     <string name="the_lantern_festival">Laternenfest</string>
     <string name="the_mid_autumn_festival">Mittherbstfest</string>
     <string name="the_national_day">Nationalfeiertag</string>
-    <string name="the_national_father_day">„Sun Yat-sens Geburtstag“</string>
+    <string name="the_national_father_day">"Sun Yat-sens Geburtstag"</string>
     <string name="the_new_years_day">Neujahr</string>
     <string name="the_night_of_sevens">Qixi-Fest</string>
     <string name="the_partys_day">CPC-Tag</string>
@@ -7013,9 +7013,9 @@ Cold endurance mode"</string>
     <string name="the_sixth_day">Sechster Tag des chinesischen Neujahrs</string>
     <string name="the_spirit_festival">Geisterfest</string>
     <string name="the_spring_festival">Chinesisches Neujahr</string>
-    <string name="the_teachers_day">„Tag der Lehrer“</string>
+    <string name="the_teachers_day">"Tag der Lehrer"</string>
     <string name="the_third_day">Dritter Tag des chinesischen Neujahrs</string>
-    <string name="the_tw_childrens_day">„Kindertag“</string>
+    <string name="the_tw_childrens_day">"Kindertag"</string>
     <string name="the_tw_youth_day">Jugendtag</string>
     <string name="the_united_nations_day">Tag der Vereinten Nationen</string>
     <string name="the_valentines_day">"Valentinstag"</string>
@@ -7048,7 +7048,7 @@ Cold endurance mode"</string>
     <string name="title_app_update">Updates verfügbar</string>
     <string name="title_auto_update">Automatisch aktualisieren</string>
     <string name="title_background_connection">Können Sie %s nicht im Hintergrund verwenden?</string>
-    <string name="title_bill_balance_inquiry">Balance (SIM %1$s)</string>
+    <string name="title_bill_balance_inquiry">Guthaben (SIM %1$s)</string>
     <string name="title_block_calls_from_cantacts">Anrufe von Ihren Kontakten verpasst?</string>
     <string name="title_block_calls_from_strangers">Wichtige Anrufe verpasst?</string>
     <string name="title_chain_start">Kettenstart einschränken</string>
@@ -7125,7 +7125,7 @@ Cold endurance mode"</string>
     <string name="title_power_optimizer">Stromsparen</string>
     <string name="title_realname_verify">ID-Verifikation</string>
     <string name="title_reply">Kommentar</string>
-    <string name="title_request_perm_accessibility">Allow %1$s to control your device?</string>
+    <string name="title_request_perm_accessibility">%1$s erlauben, Ihr Gerät zu steuern?</string>
     <string name="title_restrict_data_usage">%s kann sich nicht mit dem Internet verbinden?</string>
     <string name="title_result_absorbed">Fokusmodus</string>
     <string name="title_result_adjust_volume">Lautstärke</string>
@@ -7181,7 +7181,7 @@ Cold endurance mode"</string>
     <string name="toast_keyword_exist">Schlüsselwort hinzugefügt</string>
     <string name="toast_keyword_invalid">Ungültiges Schlüsselwort</string>
     <string name="toast_lockscreen_glogin_empty_password">Passwort erforderlich</string>
-    <string name="toast_network_eror">„Es kann keine Verbindung zum Netzwerk hergestellt werden“</string>
+    <string name="toast_network_eror">"Es kann keine Verbindung zum Netzwerk hergestellt werden"</string>
     <string name="toast_network_switch">Diese App kann sich mit dem Internet verbinden</string>
     <string name="toast_reject_sms_read_permission_success">Erfolgreich festgelegt</string>
     <string name="toast_removed_from_virus_white_list">Aus den Ausnahmen entfernt. Element wird nächstes Mal gescannt.</string>
@@ -7200,13 +7200,13 @@ Cold endurance mode"</string>
     <string name="top_no_network_detial">Laden fehlgeschlagen. Netzwerkverbindung prüfen und erneut versuchen</string>
     <string name="track_auto_collapsed">Automatisch falten</string>
     <string name="track_click_bubble_message">Klicken Sie auf die Kederblase</string>
-    <string name="track_inner_screen">内屏</string>
+    <string name="track_inner_screen">Innenschirm</string>
     <string name="track_manual_collapsed">Manuell einfahren</string>
     <string name="track_no">否</string>
-    <string name="track_outer_screen">外屏</string>
-    <string name="track_phone">手机</string>
-    <string name="track_screen_horizontal">横屏</string>
-    <string name="track_screen_vertical">竖屏</string>
+    <string name="track_outer_screen">Externer Bildschirm</string>
+    <string name="track_phone">Handy</string>
+    <string name="track_screen_horizontal">Horizontaler Bildschirm</string>
+    <string name="track_screen_vertical">Vertikaler Bildschirm</string>
     <string name="track_sidebar_click_app_icon">侧边栏_点击图标</string>
     <string name="track_sidebar_click_split_screen_icon">侧边栏_长按后点击分屏</string>
     <string name="track_sidebar_drag_center">全局侧边栏_拖拽应用至屏幕中央</string>
@@ -7303,14 +7303,14 @@ Cold endurance mode"</string>
     <string name="uninstall_app_dialog_msg">Deinstallation wird alle App-Daten löschen</string>
     <string name="uninstall_app_dialog_title">Jetzt deinstallieren?</string>
     <string name="uninstall_app_done">Deinstallation erfolgreich</string>
-    <string name="uninstall_app_reminder_msg">„Ich verstehe, dass gelöschte App-Daten nicht wiederhergestellt werden können.“</string>
+    <string name="uninstall_app_reminder_msg">"Ich verstehe, dass gelöschte App-Daten nicht wiederhergestellt werden können."</string>
     <string name="uninstall_app_reminder_pre_title">Deinstallieren Sie %s</string>
-    <string name="uninstall_app_reminder_toast">„Bestätigen Sie, dass Sie verstehen, dass gelöschte App-Daten nicht wiederhergestellt werden können.“</string>
+    <string name="uninstall_app_reminder_toast">"Bestätigen Sie, dass Sie verstehen, dass gelöschte App-Daten nicht wiederhergestellt werden können."</string>
     <string name="uninstall_danagerous_btn">Deinstallieren</string>
     <string name="uninstall_danagerous_desc">\"%s\" kann Ihr Gerät beschädigen</string>
     <string name="uninstall_danagerous_msg">\"%s\" kann Ihr Gerät beschädigen, die Leistung beeinträchtigen oder Neustarts verursachen</string>
     <string name="uninstall_danagerous_title">Bösartige Apps deinstallieren</string>
-    <string name="uninstall_xspace_app_reminder_pre_title">„Die Dual-App von %s deinstallieren“</string>
+    <string name="uninstall_xspace_app_reminder_pre_title">"Die Dual-App von %s deinstallieren"</string>
     <string name="unknown_operator">Sie können %2$s anrufen, um die Tarifdetails mit %1$s zu bestätigen.</string>
     <string name="unknown_package">Nicht sicher, welchen Tarif Sie haben?</string>
     <string name="unlike">Nein, danke</string>
@@ -7348,8 +7348,8 @@ Cold endurance mode"</string>
     <string name="usage_type_no_coverage">Zeit ohne Signal</string>
     <string name="usage_type_on_time">Zeit eingeschaltet</string>
     <string name="usage_type_power_consumption_ratio">Batterieverbrauch</string>
-    <string name="usage_type_power_consumption_ratio_hint_binary">Power used by %3$s as a percentage of power used by all apps in the last %1$s %2$s</string>
-    <string name="usage_type_power_consumption_ratio_hint_single">Power used by %2$s as a percentage of power used by all apps in the last %1$s</string>
+    <string name="usage_type_power_consumption_ratio_hint_binary">Von %3$s verbrauchter Strom als Prozentsatz des von allen Apps in den letzten %1$s %2$s verbrauchten Stroms</string>
+    <string name="usage_type_power_consumption_ratio_hint_single">Von %2$s verbrauchter Strom als Prozentsatz des von allen Apps in den letzten %1$s verbrauchten Stroms</string>
     <string name="usage_type_video">Video</string>
     <string name="usage_type_wake_lock">An lassen</string>
     <string name="usage_type_wifi_running">WLAN aktiv</string>
@@ -7388,8 +7388,8 @@ Cold endurance mode"</string>
     <string name="vb_immerse_voice">Immersiver Klang</string>
     <string name="vb_movie_mode">Theater-Modus</string>
     <string name="vb_movie_power_hint">Theatermodus sorgt für ein immersives . \nIhr Gerät könnte sich erwärmen und mehr Akku verbrauchen.</string>
-    <string name="vb_movie_power_hint_new">"Adjust effects for a stunning viewing experience.
-This feature will increase power consumption."</string>
+    <string name="vb_movie_power_hint_new">"Passen Sie Effekte an, um ein atemberaubendes Seherlebnis zu erzielen."
+Diese Funktion erhöht den Stromverbrauch."</string>
     <string name="vb_movie_subtitle">Erfordert Hochleistung</string>
     <string name="vb_mv_style_close_toast">Stil ist aus</string>
     <string name="vb_power_performance_mode_conflict_toast">Diese Funktion kann nicht verwendet werden, wenn der Leistungsmodus an ist</string>
@@ -7536,17 +7536,17 @@ Diese Funktion funktioniert nicht, wenn Stromsparen oder Ultra-Stromsparen aktiv
     <string name="wakepath_manager_checkbox_title">Kettenstart zulassen</string>
     <string name="wakepath_manager_empty_list">Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</string>
     <string name="wakepath_manager_reject_list">Eingeschränkt</string>
-    <string name="wakepath_manager_reject_toast">Suchen Sie in den Einstellungen nach „Kettenstart verwalten“, um zuzulassen, dass diese App andere Apps startet</string>
+    <string name="wakepath_manager_reject_toast">Suchen Sie in den Einstellungen nach "Kettenstart verwalten", um zuzulassen, dass diese App andere Apps startet</string>
     <string name="wakepath_manager_title">Kettenstart verwalten</string>
     <string name="warn_function_no_work">&lt;u>Sie erhalten keine Erinnerungen?&lt;/u></string>
     <string name="warning_car_accident_alert_call_text">Notruf</string>
     <string name="warning_car_accident_alert_cancel_text">Cancel</string>
     <string name="warning_car_accident_alert_countdown_text">Ihr Gerät ruft automatisch 120 an, sobald der Countdown abgelaufen ist</string>
-    <string name="warning_car_accident_alert_fine_text">„Mir geht es gut“</string>
+    <string name="warning_car_accident_alert_fine_text">"Mir geht es gut"</string>
     <string name="warning_car_accident_alert_option_item_call">120 angerufen</string>
     <string name="warning_car_accident_alert_option_item_contats">Benachrichtigte Notfallkontakte</string>
     <string name="warning_car_accident_alert_option_item_time">Autounfall bei %s erkannt</string>
-    <string name="warning_car_accident_alert_text_to_speak">„Ihr Gerät hat erkannt, dass Sie möglicherweise einen Autounfall hatten. Wenn Sie nicht vor Ablauf des Countdowns reagieren, wird automatisch der Rettungsdienst gerufen.“</string>
+    <string name="warning_car_accident_alert_text_to_speak">"Ihr Gerät hat erkannt, dass Sie möglicherweise einen Autounfall hatten. Wenn Sie nicht vor Ablauf des Countdowns reagieren, wird automatisch der Rettungsdienst gerufen."</string>
     <string name="warning_car_accident_alert_text_to_speak_not_translate">Möglicherweise hatten Sie einen Autounfall und wenn Sie nach Ablauf des Countdowns nicht reagieren, wird der Notdienst gerufen.</string>
     <string name="warning_car_accident_alert_top_text">Hatten Sie einen Autounfall?</string>
     <string name="warning_car_accident_alert_waiting_rescue">Warten auf Hilfe…</string>
@@ -7563,8 +7563,8 @@ Please note that the system can't detect all car accidents."</string>
     <string name="warning_car_accident_demo_hang_up">挂断</string>
     <string name="warning_car_accident_demo_re_start">wieder erleben</string>
     <string name="warning_car_accident_demo_start">开始</string>
-    <string name="warning_car_accident_demo_start_text">Klicken Sie auf „Start“, um zu sehen, was passiert, wenn Ihr Telefon einen Autounfall erkennt</string>
-    <string name="warning_car_accident_demo_start_text1">Sie können „Mir geht es gut“ wählen, um die Aufforderung zu beenden, oder Sie können „Notruf“ wählen oder warten, bis der Countdown abgelaufen ist.</string>
+    <string name="warning_car_accident_demo_start_text">Klicken Sie auf "Start", um zu sehen, was passiert, wenn Ihr Telefon einen Autounfall erkennt</string>
+    <string name="warning_car_accident_demo_start_text1">Sie können "Mir geht es gut" wählen, um die Aufforderung zu beenden, oder Sie können "Notruf" wählen oder warten, bis der Countdown abgelaufen ist.</string>
     <string name="warning_car_accident_demo_start_text2">Wenn Sie aktiv einen Notruf wählen, wird die 120 gewählt</string>
     <string name="warning_car_accident_demo_start_text3">Wenn Sie am Ende des Countdowns nichts unternehmen, wird automatisch 120 gewählt.</string>
     <string name="warning_car_accident_demo_start_text4">Der Notruf wird beendet und Sie sehen Folgendes</string>
@@ -7577,12 +7577,12 @@ Please note that the system can't detect all car accidents."</string>
     <string name="warning_car_accident_demo_wait_notify_text">Notfallkontakt benachrichtigt</string>
     <string name="warning_car_accident_demo_wait_text">Warten auf Rettung...</string>
     <string name="warning_car_accident_demo_wait_time_text">Autounfall um 14:40 Uhr festgestellt</string>
-    <string name="warning_car_accident_dialog_message">„Wenn Sie diese Funktion deaktivieren, setzt Ihr Gerät nicht mehr automatisch einen Notruf ab, wenn es erkennt, dass Sie einen Autounfall hatten. Trotzdem deaktivieren?“</string>
+    <string name="warning_car_accident_dialog_message">"Wenn Sie diese Funktion deaktivieren, setzt Ihr Gerät nicht mehr automatisch einen Notruf ab, wenn es erkennt, dass Sie einen Autounfall hatten. Trotzdem deaktivieren?"</string>
     <string name="warning_car_accident_dialog_negative_text">Ausschalten</string>
     <string name="warning_car_accident_dialog_positive_text">Weiter so</string>
     <string name="warning_car_accident_dialog_title">Autounfallerkennung ausschalten?</string>
     <string name="warning_car_accident_open_dialog_text"><Data>Read and agree to the &lt;a href=%s&gt;Car Accident Detection Privacy Policy&lt;/a&gt; before you continue</Data></string>
-    <string name="warning_car_accident_privay_revoke_dialog_message">„Wenn Sie fortfahren, widerrufen Sie Ihre Zustimmung zur Datenschutzrichtlinie der Autounfallerkennung. Die bereits erfassten und gespeicherten personenbezogenen Daten werden gemäß den geltenden Gesetzen und Vorschriften innerhalb des angegebenen Zeitraums gelöscht. Da die Dienste der Autounfallerkennung auf der Erfassung notwendiger personenbezogener Daten basieren, wird Ihr Widerruf der Einwilligung als Ablehnung der Annahme von Autounfallerkennungsdiensten gewertet. Einwilligung jetzt widerrufen?“</string>
+    <string name="warning_car_accident_privay_revoke_dialog_message">"Wenn Sie fortfahren, widerrufen Sie Ihre Zustimmung zur Datenschutzrichtlinie der Autounfallerkennung. Die bereits erfassten und gespeicherten personenbezogenen Daten werden gemäß den geltenden Gesetzen und Vorschriften innerhalb des angegebenen Zeitraums gelöscht. Da die Dienste der Autounfallerkennung auf der Erfassung notwendiger personenbezogener Daten basieren, wird Ihr Widerruf der Einwilligung als Ablehnung der Annahme von Autounfallerkennungsdiensten gewertet. Einwilligung jetzt widerrufen?"</string>
     <string name="warning_car_accident_privay_revoke_text">Widerruf der Einwilligung</string>
     <string name="warning_car_accident_title">Erkennung von Autounfällen</string>
     <string name="warning_view_demo_text">Demo ansehen</string>
@@ -7598,26 +7598,26 @@ Please note that the system can't detect all car accidents."</string>
     <string name="warningcenter_disaster_area_search_hint">Region eingeben</string>
     <string name="warningcenter_disaster_area_select">Gewählte Regionen</string>
     <string name="warningcenter_disaster_area_suggest">Empfohlene Regionen</string>
-    <string name="warningcenter_disaster_area_tips">*Derzeit werden Frühwarndienste für Naturkatastrophen nur in „Tianjin City“, „Taishan City“ und „Lin'an City“ angeboten und werden in Zukunft schrittweise in anderen Regionen eingeführt.</string>
+    <string name="warningcenter_disaster_area_tips">*Derzeit werden Frühwarndienste für Naturkatastrophen nur in "Tianjin City", "Taishan City" und "Lin'an City" angeboten und werden in Zukunft schrittweise in anderen Regionen eingeführt.</string>
     <string name="warningcenter_disaster_area_title">Betroffenes Gebiet</string>
-    <string name="warningcenter_disaster_baoxue">暴雪</string>
-    <string name="warningcenter_disaster_baoyu">暴雨</string>
-    <string name="warningcenter_disaster_bingbao">冰雹</string>
+    <string name="warningcenter_disaster_baoxue">Schneesturm</string>
+    <string name="warningcenter_disaster_baoyu">Regensturm</string>
+    <string name="warningcenter_disaster_bingbao">Hagel</string>
     <string name="warningcenter_disaster_blue">blaue Warnung</string>
     <string name="warningcenter_disaster_caoyuanhuozai">Gebietsgraslandbrand</string>
     <string name="warningcenter_disaster_dafeng">Landsturm</string>
     <string name="warningcenter_disaster_daolujiebing">vereiste Straßen</string>
-    <string name="warningcenter_disaster_dawu">大雾</string>
+    <string name="warningcenter_disaster_dawu">Dichter Nebel</string>
     <string name="warningcenter_disaster_detail_suggest">Wir empfehlen Ihnen, Warnungen mit hoher Priorität einzuschalten</string>
     <string name="warningcenter_disaster_detail_title">Einzelheiten</string>
     <string name="warningcenter_disaster_dizhen">natürliches Erdbeben</string>
     <string name="warningcenter_disaster_dizhizaihaiqixiangfengxian">Geologische Katastrophen und meteorologische Risiken</string>
     <string name="warningcenter_disaster_fengbaochao">Sturmflut</string>
-    <string name="warningcenter_disaster_gaowen">高温</string>
+    <string name="warningcenter_disaster_gaowen">hohe Temperatur</string>
     <string name="warningcenter_disaster_guide_title">Sicherheitshinweise</string>
-    <string name="warningcenter_disaster_hailang">海浪</string>
-    <string name="warningcenter_disaster_hanchao">寒潮</string>
-    <string name="warningcenter_disaster_hongshui">洪水</string>
+    <string name="warningcenter_disaster_hailang">Wellen</string>
+    <string name="warningcenter_disaster_hanchao">Kältewelle</string>
+    <string name="warningcenter_disaster_hongshui">Flut</string>
     <string name="warningcenter_disaster_huapo">Erdrutschereignis</string>
     <string name="warningcenter_disaster_icon_title">Demo-Warnung</string>
     <string name="warningcenter_disaster_info">"Veröffentlicht von CMA's Warnzentrum"</string>
@@ -7634,7 +7634,7 @@ Please note that the system can't detect all car accidents."</string>
     <string name="warningcenter_disaster_list_title">Katastrophenwarnungen</string>
     <string name="warningcenter_disaster_local">Lokalisieren</string>
     <string name="warningcenter_disaster_mai">霾</string>
-    <string name="warningcenter_disaster_neilao">内涝</string>
+    <string name="warningcenter_disaster_neilao">Staunässe</string>
     <string name="warningcenter_disaster_nishiliu">Erdrutschereignis</string>
     <string name="warningcenter_disaster_orange">Orange Alarm</string>
     <string name="warningcenter_disaster_place_settings">Region</string>
@@ -7667,7 +7667,7 @@ Please note that the system can't detect all car accidents."</string>
     <string name="warningcenter_disaster_service_area">Umfang der Dienstleistung</string>
     <string name="warningcenter_disaster_shanhong">Sturzflutereignisse</string>
     <string name="warningcenter_disaster_supprot_link">https://embed.sec.miui.com/disaster/support-city</string>
-    <string name="warningcenter_disaster_taifeng">台风</string>
+    <string name="warningcenter_disaster_taifeng">Taifun</string>
     <string name="warningcenter_disaster_title">Katastrophenwarnung</string>
     <string name="warningcenter_disaster_type_all">Alle Typen</string>
     <string name="warningcenter_disaster_type_cancel">Abgebrochen</string>
@@ -7779,7 +7779,7 @@ Please note that the system can't detect all car accidents."</string>
     <string name="wireless_charging_fg_control_messgae">Drahtloses Umkehrladen wurde ausgeschaltet, weil weniger als %s Akku verbleiben. Sie können die Einstellungen anpassen, damit das drahtlose Umkehrladen länger funktioniert.</string>
     <string name="wireless_charging_fg_control_ok">Anpassen</string>
     <string name="wireless_charging_low_battery_level_message">Drahtloses Umkehrladen kann nicht verwendet werden, wenn der Akku weniger als %s geladen ist.</string>
-    <string name="wireless_charging_no_reverser_charge_message">„Rückwärtsladen ist nicht möglich, wenn das Ladegerät angeschlossen ist.“</string>
+    <string name="wireless_charging_no_reverser_charge_message">"Rückwärtsladen ist nicht möglich, wenn das Ladegerät angeschlossen ist."</string>
     <string name="wireless_charging_no_reverser_charge_title">Ladegerät abklemmen</string>
     <string name="wireless_charging_ok">Habe es</string>
     <string name="wireless_charging_saver_cancel">Ausschalten</string>

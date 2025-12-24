@@ -39,8 +39,8 @@
     <string name="buffer_size">Puffergröße pro CPU</string>
     <string name="cancel">Leugnen</string>
     <string name="categories">Kategorien</string>
-    <string name="character_counter_content_description">Characters entered %1$d of %2$d</string>
-    <string name="character_counter_overflowed_content_description">Character limit exceeded %1$d of %2$d</string>
+    <string name="character_counter_content_description">Eingegebene Zeichen %1$d von %2$d</string>
+    <string name="character_counter_overflowed_content_description">Die Zeichenbeschränkung hat %1$d von %2$d überschritten</string>
     <string name="character_counter_pattern">%1$d/%2$d</string>
     <string name="clear">Klar</string>
     <string name="clear_heap_dump_processes">Heap-Dump-Prozesse löschen</string>
@@ -61,13 +61,13 @@
     <string name="default_continuous_heap_dump_interval">60</string>
     <string name="default_long_trace_duration">30</string>
     <string name="default_long_trace_size">10240</string>
-    <string name="direct_boot_unaware_dialog_message">„Hinweis: Nach einem Neustart kann diese App erst gestartet werden, wenn Sie Ihr Telefon entsperren.“</string>
+    <string name="direct_boot_unaware_dialog_message">"Hinweis: Nach einem Neustart kann diese App erst gestartet werden, wenn Sie Ihr Telefon entsperren."</string>
     <string name="disabled_by_admin">Vom Administrator deaktiviert</string>
     <string name="disabled_by_admin_summary_text">Vom Administrator kontrolliert</string>
     <string name="disabled_by_app_ops_text">Gesteuert durch eingeschränkte Einstellung</string>
     <string name="disabled_in_phone_call_text">Während Anrufen nicht erreichbar</string>
     <string name="done">Fertig</string>
-    <string name="dont_show_again">„Nicht mehr zeigen“</string>
+    <string name="dont_show_again">"Nicht mehr zeigen"</string>
     <string name="edit_user_info_message">Der von Ihnen gewählte Name und das Bild sind für jeden sichtbar, der dieses Gerät verwendet.</string>
     <string name="eight_hours">8 Stunden</string>
     <string name="eight_thousand_kb">8192 KB</string>
@@ -76,7 +76,7 @@
     <string name="error_icon_content_description">Fehler</string>
     <string name="expand_button_title">Fortschrittlich</string>
     <string name="exposed_dropdown_menu_content_description">Dropdown-Menü anzeigen</string>
-    <string name="failed_to_open_app_settings_toast">Failed to open settings for %1$s</string>
+    <string name="failed_to_open_app_settings_toast">Die Einstellungen für %1$s konnten nicht geöffnet werden</string>
     <string name="five_gb">5 GB</string>
     <string name="five_seconds">5 Sekunden</string>
     <string name="grant_admin">Ja, machen Sie sie zu einem Administrator</string>
@@ -86,14 +86,14 @@
     <string name="heap_dump_saved">Heap-Dump gespeichert</string>
     <string name="help_feedback_label">Hilfe &amp; Rückmeldung</string>
     <string name="help_url">https://developer.android.com/topic/performance/tracing</string>
-    <string name="ime_security_warning">This input method may be able to collect all the text you type, including personal data like passwords and credit card numbers. It comes from the app %1$s. Use this input method?</string>
+    <string name="ime_security_warning">Mit dieser Eingabemethode kann möglicherweise der gesamte von Ihnen eingegebene Text erfasst werden, einschließlich persönlicher Daten wie Passwörter und Kreditkartennummern. Es kommt von der App %1$s. Diese Eingabemethode verwenden?</string>
     <string name="install_type_instant">Sofortige App</string>
     <string name="keywords">Systrace, Trace, Leistung</string>
     <string name="lb_navigation_menu_contentDescription">Navigationsmenü</string>
     <string name="lb_search_bar_hint">Suchen</string>
     <string name="lb_search_bar_hint_speech">Sprechen Sie mit der Suche</string>
-    <string name="lb_search_bar_hint_with_title">Search %1$s</string>
-    <string name="lb_search_bar_hint_with_title_speech">Speak to search %1$s</string>
+    <string name="lb_search_bar_hint_with_title">Suche %1$s</string>
+    <string name="lb_search_bar_hint_with_title_speech">Sprechen Sie, um %1$s zu suchen</string>
     <string name="link_to_traces">Gespeicherte Dateien anzeigen</string>
     <string name="long_traces">Lange Spuren</string>
     <string name="long_traces_summary">Kontinuierlich im Gerätespeicher gespeichert</string>
@@ -123,18 +123,18 @@
     <string name="material_timepicker_pm">PM</string>
     <string name="max_long_trace_duration">Maximale lange Trace-Dauer</string>
     <string name="max_long_trace_size">Maximale Länge der langen Spur</string>
-    <string name="mtrl_chip_close_icon_content_description">Remove %1$s</string>
+    <string name="mtrl_chip_close_icon_content_description">%1$s entfernen</string>
     <string name="mtrl_picker_a11y_next_month">Wechseln Sie zum nächsten Monat</string>
     <string name="mtrl_picker_a11y_prev_month">Zum Vormonat wechseln</string>
     <string name="mtrl_picker_cancel">Cancel</string>
     <string name="mtrl_picker_confirm">OK</string>
     <string name="mtrl_picker_day_of_week_column_header">%1$s</string>
-    <string name="mtrl_picker_end_date_description">End date %1$s</string>
-    <string name="mtrl_picker_navigate_to_current_year_description">Navigate to current year %1$d</string>
-    <string name="mtrl_picker_navigate_to_year_description">Navigate to year %1$d</string>
+    <string name="mtrl_picker_end_date_description">Enddatum %1$s</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">Navigieren Sie zum aktuellen Jahr %1$d</string>
+    <string name="mtrl_picker_navigate_to_year_description">Navigieren Sie zum Jahr %1$d</string>
     <string name="mtrl_picker_save">Speichern</string>
-    <string name="mtrl_picker_start_date_description">Start date %1$s</string>
-    <string name="mtrl_picker_today_description">Today %1$s</string>
+    <string name="mtrl_picker_start_date_description">Startdatum %1$s</string>
+    <string name="mtrl_picker_today_description">Heute %1$s</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Wechseln Sie in den Kalendereingabemodus</string>
     <string name="mtrl_picker_toggle_to_day_selection">Tippen Sie, um zur Kalenderansicht zu wechseln</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Wechseln Sie in den Texteingabemodus</string>
@@ -190,13 +190,13 @@
     <string name="pref_key_tracing_quick_setting">quick_setting_enabled</string>
     <string name="pref_key_winscope">winscope</string>
     <string name="record_heap_dump">Heap-Dump aufzeichnen</string>
-    <string name="record_heap_dump_summary_disabled">Wählen Sie unter „Heap-Dump-Prozesse“ mindestens einen Prozess aus, um Heap-Dumps zu sammeln</string>
-    <string name="record_heap_dump_summary_enabled">Erfasst einen Heap-Dump der unter „Heap-Dump-Prozesse“ ausgewählten Prozesse.</string>
+    <string name="record_heap_dump_summary_disabled">Wählen Sie unter "Heap-Dump-Prozesse" mindestens einen Prozess aus, um Heap-Dumps zu sammeln</string>
+    <string name="record_heap_dump_summary_enabled">Erfasst einen Heap-Dump der unter "Heap-Dump-Prozesse" ausgewählten Prozesse.</string>
     <string name="record_stack_samples">CPU-Profil aufzeichnen</string>
-    <string name="record_stack_samples_summary">Callstack-Sampling kann auch in Traces aktiviert werden, indem die Kategorie „CPU“ aktiviert wird</string>
+    <string name="record_stack_samples_summary">Callstack-Sampling kann auch in Traces aktiviert werden, indem die Kategorie "CPU" aktiviert wird</string>
     <string name="record_system_activity">Zeichnen Sie die Systemaktivität auf und analysieren Sie sie später, um die Leistung zu verbessern</string>
     <string name="record_trace">Spur aufzeichnen</string>
-    <string name="record_trace_summary">Erfasst einen System-Trace mithilfe der in „Trace-Einstellungen“ festgelegten Konfiguration.</string>
+    <string name="record_trace_summary">Erfasst einen System-Trace mithilfe der in "Trace-Einstellungen" festgelegten Konfiguration.</string>
     <string name="restore_default_categories">Standardkategorien wiederherstellen</string>
     <string name="saving_heap_dump">Heap-Dump speichern</string>
     <string name="saving_stack_samples">Stapelproben speichern</string>
@@ -212,8 +212,8 @@
     <string name="settingslib_learn_more_text">Erfahren Sie mehr</string>
     <string name="share">Teilen</string>
     <string name="share_file">Datei teilen?</string>
-    <string name="show_quick_settings_tile">Kachel „Schnelleinstellungen“ für die Ablaufverfolgung anzeigen</string>
-    <string name="show_stack_sampling_quick_settings_tile">Zeigt die Kachel „Schnelleinstellungen“ für die CPU-Profilerstellung an</string>
+    <string name="show_quick_settings_tile">Kachel "Schnelleinstellungen" für die Ablaufverfolgung anzeigen</string>
+    <string name="show_stack_sampling_quick_settings_tile">Zeigt die Kachel "Schnelleinstellungen" für die CPU-Profilerstellung an</string>
     <string name="side_sheet_accessibility_pane_title">Seitenblatt</string>
     <string name="sixteen_thousand_kb">16384 KB</string>
     <string name="sixtyfive_thousand_kb">65536 KB</string>
@@ -253,14 +253,14 @@
     <string name="twenty_gb">20 GB</string>
     <string name="twentyfour_hours">24 Stunden</string>
     <string name="two_hundred_mb">200 MB</string>
-    <string name="user_add_user_message_long">"You can share this device with other people by creating additional users. Each user has their own space, which they can customize with apps, wallpaper, and so on. Users can also adjust device settings like Wi‑Fi that affect everyone.
+    <string name="user_add_user_message_long">"Sie können dieses Gerät mit anderen Personen teilen, indem Sie zusätzliche Benutzer erstellen. Jeder Benutzer hat seinen eigenen Bereich, den er mit Apps, Hintergrundbildern usw. anpassen kann. Benutzer können auch Geräteeinstellungen wie WLAN anpassen, die alle betreffen.
 
-When you add a new user, that person needs to set up their space.
+Wenn Sie einen neuen Benutzer hinzufügen, muss diese Person ihren Bereich einrichten.
 
-Any user can update apps for all other users. Accessibility settings and services may not transfer to the new user."</string>
-    <string name="user_add_user_message_short">"When you add a new user, that person needs to set up their space.
+Jeder Benutzer kann Apps für alle anderen Benutzer aktualisieren. Einstellungen und Dienste zur Barrierefreiheit werden möglicherweise nicht auf den neuen Benutzer übertragen."</string>
+    <string name="user_add_user_message_short">"Wenn Sie einen neuen Benutzer hinzufügen, muss diese Person ihren Bereich einrichten.
 
-Any user can update apps for all other users."</string>
+Jeder Benutzer kann Apps für alle anderen Benutzer aktualisieren.</string>
     <string name="user_add_user_title">Neuen Benutzer hinzufügen?</string>
     <string name="user_grant_admin_message">Administratoren verfügen über besondere Berechtigungen, die andere Benutzer nicht haben. Ein Administrator kann alle Benutzer verwalten, dieses Gerät aktualisieren oder zurücksetzen, Einstellungen ändern, alle installierten Apps anzeigen und Administratorrechte für andere gewähren oder widerrufen.</string>
     <string name="user_grant_admin_title">Diesen Benutzer zum Administrator machen?</string>
@@ -270,7 +270,7 @@ Any user can update apps for all other users."</string>
     <string name="user_nickname">Spitzname</string>
     <string name="v7_preference_off">OFF</string>
     <string name="v7_preference_on">ON</string>
-    <string name="wifi_fail_to_scan">„Kann nicht nach Netzwerken suchen“</string>
+    <string name="wifi_fail_to_scan">"Kann nicht nach Netzwerken suchen"</string>
     <string name="winscope_tracing">Sammeln Sie Winscope-Spuren</string>
     <string name="winscope_tracing_summary">Enthält detaillierte UI-Telemetriedaten (kann zu Störungen führen)</string>
 </resources>

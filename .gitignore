@@ -31,5 +31,6 @@ Thumbs.db
 *.log
 *.sql
 *.sqlite
-
+*.bak_final_safe
+*.bak_*
 unknown/

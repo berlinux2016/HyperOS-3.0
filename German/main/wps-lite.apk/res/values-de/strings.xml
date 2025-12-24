@@ -102,7 +102,7 @@
     <string name="et_cardmode">Taschenkarten</string>
     <string name="et_cardmode_color_setting">Farbe einstellen</string>
     <string name="et_cardmode_hide_col">Spalte ausblenden</string>
-    <string name="et_cardmode_location">定位</string>
+    <string name="et_cardmode_location">Position</string>
     <string name="et_cardmode_location_cell">Zelle suchen</string>
     <string name="et_cardmode_tips_content1">Tabelle enthält Filter</string>
     <string name="et_cardmode_tips_content2">6 Spalten ≤ Filterbereiche ≤ 200 Spalten</string>
@@ -184,8 +184,8 @@
     <string name="online_security_error_code_no_operation_permission">权限不足，无法进行本次操作</string>
     <string name="oppo_app_packageName">OPPO Document Viewer (WPS-Anpassung)</string>
     <string formatted="false" name="oppo_scre_dialog_message"><Data>“WPS文档查看器”是用于查看用户办公文档的软件，需要您提供文件存储的权限才能正常使用。为了更好的改进产品体验，WPS Office会收集功能使用信息，并将严格按照&lt;a href=\"%s\"&gt;《最终用户许可协议》&lt;/a&gt;和&lt;a href=\"%s\"&gt;《隐私政策》&lt;/a&gt;的说明，保护您的信息安全。</Data></string>
-    <string name="oppo_scre_dialog_smallTip">Indem Sie auf „Zustimmen“ klicken, stimmen Sie dem oben Gesagten zu.</string>
-    <string name="oppo_scre_dialog_title">„WPS Document Viewer“-Anweisung</string>
+    <string name="oppo_scre_dialog_smallTip">Indem Sie auf "Zustimmen" klicken, stimmen Sie dem oben Gesagten zu.</string>
+    <string name="oppo_scre_dialog_title">"WPS Document Viewer"-Anweisung</string>
     <string name="oppo_search_next">nächster Ort</string>
     <string name="oppo_search_prev">Vorheriger Ort</string>
     <string name="pdf_comment">Kommentar</string>
@@ -211,7 +211,7 @@
     <string name="ppt_no_note">Keine Kommentare</string>
     <string name="ppt_no_slide_for_play">Datei kann nicht angezeigt werden, weil sie keine Folien enthält.</string>
     <string name="ppt_note_null">(Leer)</string>
-    <string name="ppt_play_pen">画笔</string>
+    <string name="ppt_play_pen">Bürste</string>
     <string name="ppt_sharedplay">Wiedergabe teilen</string>
     <string name="ppt_sharedplay_by_miracast">Miracast</string>
     <string name="ppt_sharedplay_device_searching">Suche nach sichtbaren Miracast-Geräten</string>
@@ -238,7 +238,7 @@
     <string name="public_bad_doc_to_process">Ungültiges Dokument. Vorgang kann nicht durchgeführt werden.</string>
     <string name="public_banner_action_button">Jetzt verwenden</string>
     <string name="public_bookmark">Lesezeichen</string>
-    <string name="public_bottombar_mark">标记</string>
+    <string name="public_bottombar_mark">markieren</string>
     <string name="public_cancel">Abbrechen</string>
     <string name="public_chart_category">Kategorien</string>
     <string name="public_chart_series">Serie</string>
@@ -264,7 +264,7 @@
     <string name="public_default_ppt_lable_name">WPS-Demo-Viewer</string>
     <string name="public_default_sheet_lable_name">WPS-Tabellenbetrachter</string>
     <string name="public_default_writer_lable_name">WPS-Textbetrachter</string>
-    <string name="public_dialog_update">更新</string>
+    <string name="public_dialog_update">erneuern</string>
     <string name="public_displayPasswd">Passwort anzeigen</string>
     <string name="public_display_privacy_policy">Datenschutzerklärung anzeigen</string>
     <string name="public_doc_end_preview_tip">Bereitgestellt von WPS Office</string>
@@ -290,7 +290,7 @@
     <string name="public_hyperlink">Hyperlink</string>
     <string name="public_hyperlink_linkto">Link zu:</string>
     <string name="public_iat_addAudioComment_error">An dieser Stelle können keine Kommentare hinzugefügt werden</string>
-    <string name="public_iat_audiocomment_reply_longpress">Lange drücken, um „Antwort“ zu sprechen</string>
+    <string name="public_iat_audiocomment_reply_longpress">Lange drücken, um "Antwort" zu sprechen</string>
     <string name="public_iat_audiocomment_reply_stop">Ende der Veröffentlichung</string>
     <string name="public_iat_convert_to_text">Text konvertieren</string>
     <string name="public_icp_code">Peking ICP Nr. 14035597-9A</string>
@@ -437,7 +437,7 @@
     <string name="public_writer_label">Mi Text Viewer</string>
     <string name="public_writer_table_of_contents_empty">Das Verzeichnis ist leer</string>
     <string name="public_writer_ui_delete">Löschen</string>
-    <string name="public_writer_words">字数</string>
+    <string name="public_writer_words">Wortzahl</string>
     <string name="reader_ppt_autoplay">Automatisch abspielen</string>
     <string name="reader_ppt_play_exit">Beenden</string>
     <string name="reader_ppt_play_options">Optionen</string>
@@ -487,7 +487,7 @@
     <string name="writer_mi_search_prev">Vorherige</string>
     <string name="writer_mi_server_support">WPS Office-Dokumentendienst</string>
     <string name="writer_page_break">Seitenumbruch</string>
-    <string name="writer_page_setting_units"> cm</string>
+    <string name="writer_page_setting_units">cm</string>
     <string name="writer_page_setting_units_inch">Zoll</string>
     <string formatted="false" name="writer_paragraph_set_firstlineindent">Einzug erste Zeile: %.2f%2$s</string>
     <string formatted="false" name="writer_paragraph_set_hangingindent">Hängender Einzug: %.2f%2$s</string>

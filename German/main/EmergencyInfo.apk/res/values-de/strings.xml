@@ -66,7 +66,7 @@
     <string name="accessor_info_title">Apps, die Daten teilen</string>
     <string name="accessor_no_description_text">Die App liefert keine Beschreibung.</string>
     <string name="active_input_method_subtypes">Aktive Eingabemethoden</string>
-    <string name="adb_device_fingerprint_title_format">Device fingerprint: %1$s</string>
+    <string name="adb_device_fingerprint_title_format">Gerätefingerabdruck: %1$s</string>
     <string name="adb_device_forget">Vergessen</string>
     <string name="adb_keys_warning_message">Den Zugriff auf das USB-Debugging von allen Computern widerrufen, die Sie zuvor autorisiert haben?</string>
     <string name="adb_pair_method_code_summary">Koppeln Sie neue Geräte mit einem sechsstelligen Code</string>
@@ -81,7 +81,7 @@
     <string name="adb_qrcode_pairing_device_failed_msg">Das Gerät konnte nicht gekoppelt werden. Entweder war der QR-Code falsch oder das Gerät ist nicht mit demselben Netzwerk verbunden.</string>
     <string name="adb_warning_message">Das USB-Debugging ist nur für Entwicklungszwecke gedacht. Verwenden Sie es, um Daten zwischen Ihrem Computer und Ihrem Gerät zu kopieren, Apps ohne Benachrichtigung auf Ihrem Gerät zu installieren und Protokolldaten auszulesen.</string>
     <string name="adb_warning_title">USB-Debugging zulassen?</string>
-    <string name="adb_wireless_connection_failed_message">Make sure %1$s is connected to the correct network</string>
+    <string name="adb_wireless_connection_failed_message">Stellen Sie sicher, dass %1$s mit dem richtigen Netzwerk verbunden ist</string>
     <string name="adb_wireless_connection_failed_title">Verbindung fehlgeschlagen</string>
     <string name="adb_wireless_device_connected_summary">Derzeit verbunden</string>
     <string name="adb_wireless_device_details_title">Gerätedetails</string>
@@ -102,11 +102,11 @@
     <string name="add_user_failed">Es konnte kein neuer Benutzer erstellt werden</string>
     <string name="address">Adresse:</string>
     <string name="age">Alter</string>
-    <string name="alarm_template">at %1$s</string>
-    <string name="alarm_template_far">on %1$s</string>
-    <string name="alarms_and_reminders_footer_title">"Allow this app to set alarms and schedule time-sensitive actions. This lets the app run in the background, which may use more battery.
+    <string name="alarm_template">bei %1$s</string>
+    <string name="alarm_template_far">auf %1$s</string>
+    <string name="alarms_and_reminders_footer_title">"Erlauben Sie dieser App, Alarme einzustellen und zeitkritische Aktionen zu planen. Dadurch kann die App im Hintergrund ausgeführt werden, was möglicherweise mehr Batterie verbraucht.
 
-If this permission is off, existing alarms and time-based events scheduled by this app won’t work."</string>
+Wenn diese Berechtigung deaktiviert ist, funktionieren vorhandene Alarme und zeitbasierte Ereignisse, die von dieser App geplant werden, nicht."</string>
     <string name="alarms_and_reminders_label">Alarme und Erinnerungen</string>
     <string name="alarms_and_reminders_switch_title">Erlauben Sie das Einstellen von Alarmen und Erinnerungen</string>
     <string name="alarms_and_reminders_title">Alarme &amp; Erinnerungen</string>
@@ -128,7 +128,7 @@ If this permission is off, existing alarms and time-based events scheduled by th
     <string name="b_positive">B positiv</string>
     <string name="back">Zurück</string>
     <string name="back_navigation_animation">Vorausschauende Rückenanimationen</string>
-    <string name="back_navigation_animation_dialog">Diese Einstellung ermöglicht Systemanimationen für prädiktive Gestenanimationen. Dazu ist es erforderlich, „enableOnBackInvokedCallback“ pro App in der Manifestdatei auf „true“ zu setzen.</string>
+    <string name="back_navigation_animation_dialog">Diese Einstellung ermöglicht Systemanimationen für prädiktive Gestenanimationen. Dazu ist es erforderlich, "enableOnBackInvokedCallback" pro App in der Manifestdatei auf "true" zu setzen.</string>
     <string name="back_navigation_animation_summary">Aktivieren Sie Systemanimationen für vorausschauendes Zurück.</string>
     <string name="battery_info_status_charging">Aufladen</string>
     <string name="battery_info_status_charging_dock">Aufladen</string>
@@ -149,30 +149,30 @@ If this permission is off, existing alarms and time-based events scheduled by th
     <string name="blood_type">Blutgruppe</string>
     <string name="bluetooth_a2dp_profile_summary_connected">Verbunden mit Medien-Audio</string>
     <string name="bluetooth_a2dp_profile_summary_use_for">Verwendung für Medienaudio</string>
-    <string name="bluetooth_active_battery_level">Active. %1$s battery.</string>
-    <string name="bluetooth_active_battery_level_untethered">Active. L: %1$s, R: %2$s battery.</string>
-    <string name="bluetooth_active_battery_level_untethered_left">Active. L: %1$s battery.</string>
-    <string name="bluetooth_active_battery_level_untethered_right">Active. R: %1$s battery.</string>
-    <string name="bluetooth_active_media_only_battery_level">Active (media only). %1$s battery.</string>
-    <string name="bluetooth_active_media_only_battery_level_untethered">Active (media only). L: %1$s, R: %2$s battery.</string>
+    <string name="bluetooth_active_battery_level">Aktiv. %1$s Akku.</string>
+    <string name="bluetooth_active_battery_level_untethered">Aktiv. L: %1$s, R: %2$s Batterie.</string>
+    <string name="bluetooth_active_battery_level_untethered_left">Aktiv. L: %1$s Batterie.</string>
+    <string name="bluetooth_active_battery_level_untethered_right">Aktiv. R: %1$s Batterie.</string>
+    <string name="bluetooth_active_media_only_battery_level">Aktiv (nur Medien). %1$s Akku.</string>
+    <string name="bluetooth_active_media_only_battery_level_untethered">Aktiv (nur Medien). L: %1$s, R: %2$s Batterie.</string>
     <string name="bluetooth_active_media_only_no_battery_level">Aktiv (nur Medien)</string>
     <string name="bluetooth_active_no_battery_level">Aktiv</string>
-    <string name="bluetooth_battery_level">%1$s battery</string>
-    <string name="bluetooth_battery_level_lea_support">Connected (supports audio sharing). %1$s battery.</string>
-    <string name="bluetooth_battery_level_untethered">L: %1$s, R: %2$s battery.</string>
-    <string name="bluetooth_battery_level_untethered_lea_support">Connected (supports audio sharing). L: %1$s, R: %2$s battery.</string>
+    <string name="bluetooth_battery_level">%1$s Akku</string>
+    <string name="bluetooth_battery_level_lea_support">Verbunden (unterstützt Audio-Sharing). %1$s Akku.</string>
+    <string name="bluetooth_battery_level_untethered">L: %1$s, R: %2$s Batterie.</string>
+    <string name="bluetooth_battery_level_untethered_lea_support">Verbunden (unterstützt Audio-Sharing). L: %1$s, R: %2$s Batterie.</string>
     <string name="bluetooth_battery_level_untethered_left">Left: %1$s battery</string>
     <string name="bluetooth_battery_level_untethered_left_lea_support">Connected (supports audio sharing). Left: %1$s battery.</string>
     <string name="bluetooth_battery_level_untethered_right">Right: %1$s battery</string>
     <string name="bluetooth_battery_level_untethered_right_lea_support">Connected (supports audio sharing). Right: %1$s battery.</string>
-    <string name="bluetooth_connected">Connected%1$s</string>
-    <string name="bluetooth_connected_battery_level">Connected, battery %1$s%2$s</string>
-    <string name="bluetooth_connected_no_a2dp">Connected (no media)%1$s</string>
-    <string name="bluetooth_connected_no_a2dp_battery_level">Connected (no media), battery %1$s%2$s</string>
-    <string name="bluetooth_connected_no_headset">Connected (no phone)%1$s</string>
-    <string name="bluetooth_connected_no_headset_battery_level">Connected (no phone), battery %1$s%2$s</string>
-    <string name="bluetooth_connected_no_headset_no_a2dp">Connected (no phone or media)%1$s</string>
-    <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Connected (no phone or media), battery %1$s%2$s</string>
+    <string name="bluetooth_connected">Verbunden%1$s</string>
+    <string name="bluetooth_connected_battery_level">Verbunden, Akku %1$s%2$s</string>
+    <string name="bluetooth_connected_no_a2dp">Verbunden (keine Medien)%1$s</string>
+    <string name="bluetooth_connected_no_a2dp_battery_level">Verbunden (keine Medien), Akku %1$s%2$s</string>
+    <string name="bluetooth_connected_no_headset">Verbunden (kein Telefon)%1$s</string>
+    <string name="bluetooth_connected_no_headset_battery_level">Verbunden (kein Telefon), Akku %1$s%2$s</string>
+    <string name="bluetooth_connected_no_headset_no_a2dp">Verbunden (kein Telefon oder Medien)%1$s</string>
+    <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Verbunden (kein Telefon oder Medium), Akku %1$s%2$s</string>
     <string name="bluetooth_connecting">Paarung…</string>
     <string name="bluetooth_disable_absolute_volume">Absolute Lautstärke deaktivieren</string>
     <string name="bluetooth_disable_absolute_volume_summary">Deaktiviert die absolute Bluetooth-Lautstärkefunktion bei Lautstärkeproblemen mit Remote-Geräten, z. B. unzulässig hoher Lautstärke oder mangelnder Kontrolle.</string>
@@ -180,12 +180,12 @@ If this permission is off, existing alarms and time-based events scheduled by th
     <string name="bluetooth_disconnecting">Verbindung trennen…</string>
     <string name="bluetooth_enable_gabeldorsche">Enable Gabeldorsche</string>
     <string name="bluetooth_enable_gabeldorsche_summary">Aktiviert den Bluetooth-Gabeldorsche-Feature-Stack.</string>
-    <string name="bluetooth_guest_battery_level">Guest device. %1$s battery.</string>
-    <string name="bluetooth_guest_battery_level_lea_support">Guest device (supports audio sharing). %1$s battery.</string>
-    <string name="bluetooth_guest_battery_level_untethered">Guest device. L: %1$s, R: %2$s battery.</string>
-    <string name="bluetooth_guest_battery_level_untethered_lea_support">Guest device (supports audio sharing). L: %1$s, R: %2$s battery.</string>
-    <string name="bluetooth_guest_media_only_battery_level">Guest device (media only). %1$s battery.</string>
-    <string name="bluetooth_guest_media_only_battery_level_untethered">Guest device (media only). L: %1$s, R: %2$s battery.</string>
+    <string name="bluetooth_guest_battery_level">Gastgerät. %1$s Akku.</string>
+    <string name="bluetooth_guest_battery_level_lea_support">Gastgerät (unterstützt Audio-Sharing). %1$s Akku.</string>
+    <string name="bluetooth_guest_battery_level_untethered">Gastgerät. L: %1$s, R: %2$s Batterie.</string>
+    <string name="bluetooth_guest_battery_level_untethered_lea_support">Gastgerät (unterstützt Audio-Sharing). L: %1$s, R: %2$s Batterie.</string>
+    <string name="bluetooth_guest_media_only_battery_level">Gastgerät (nur Medien). %1$s Akku.</string>
+    <string name="bluetooth_guest_media_only_battery_level_untethered">Gastgerät (nur Medien). L: %1$s, R: %2$s Batterie.</string>
     <string name="bluetooth_guest_media_only_no_battery_level">Gastgerät (nur Medien)</string>
     <string name="bluetooth_guest_no_battery_level">Gastgerät</string>
     <string name="bluetooth_guest_no_battery_level_lea_support">Gastgerät (unterstützt Audio-Sharing)</string>
@@ -216,16 +216,16 @@ If this permission is off, existing alarms and time-based events scheduled by th
     <string name="bluetooth_pairing_accept">Paar</string>
     <string name="bluetooth_pairing_accept_all_caps">PAAR</string>
     <string name="bluetooth_pairing_decline">Cancel</string>
-    <string name="bluetooth_pairing_device_down_error_message">"Can't communicate with %1$s."</string>
-    <string name="bluetooth_pairing_error_message">"Couldn't pair with %1$s."</string>
-    <string name="bluetooth_pairing_pin_error_message">"Couldn't pair with %1$s because of an incorrect PIN or passkey."</string>
-    <string name="bluetooth_pairing_rejected_error_message">Pairing rejected by %1$s.</string>
+    <string name="bluetooth_pairing_device_down_error_message">"Kann nicht mit %1$s kommunizieren."</string>
+    <string name="bluetooth_pairing_error_message">"Konnte keine Verbindung mit %1$s herstellen."</string>
+    <string name="bluetooth_pairing_pin_error_message">"Kopplung mit %1$s konnte aufgrund einer falschen PIN oder eines falschen Passkeys nicht durchgeführt werden."</string>
+    <string name="bluetooth_pairing_rejected_error_message">Kopplung von %1$s abgelehnt.</string>
     <string name="bluetooth_pairing_will_share_phonebook">Durch das Koppeln erhalten Sie Zugriff auf Ihre Kontakte und den Anrufverlauf, wenn eine Verbindung besteht.</string>
     <string name="bluetooth_pan_nap_profile_summary_connected">Teilen der lokalen Internetverbindung mit dem Gerät</string>
     <string name="bluetooth_pan_profile_summary_use_for">Verwendung für Internetzugang</string>
     <string name="bluetooth_pan_user_profile_summary_connected">Verbunden mit dem Gerät für den Internetzugang</string>
     <string name="bluetooth_profile_a2dp">Medien-Audio</string>
-    <string name="bluetooth_profile_a2dp_high_quality">HD audio: %1$s</string>
+    <string name="bluetooth_profile_a2dp_high_quality">HD-Audio: %1$s</string>
     <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">HD audio</string>
     <string name="bluetooth_profile_headset">Telefonanrufe</string>
     <string name="bluetooth_profile_hearing_aid">Hörgerät</string>
@@ -243,21 +243,21 @@ If this permission is off, existing alarms and time-based events scheduled by th
     <string name="bluetooth_saved_device">Gespeichert</string>
     <string name="bluetooth_saved_device_lea_support">Unterstützt Audio-Sharing</string>
     <string name="bluetooth_select_a2dp_codec_bits_per_sample">Bluetooth-Audiobits pro Probe</string>
-    <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Trigger Bluetooth Audio Codec
-Selection: Bits Per Sample"</string>
+    <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Bluetooth-Audio-Codec auslösen."
+Auswahl: Bits pro Sample"</string>
     <string name="bluetooth_select_a2dp_codec_channel_mode">Bluetooth-Audiokanalmodus</string>
-    <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Trigger Bluetooth Audio Codec
-Selection: Channel Mode"</string>
+    <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Bluetooth-Audio-Codec auslösen."
+Auswahl: Kanalmodus</string>
     <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Bluetooth Audio LDAC Codec: Wiedergabequalität</string>
-    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Trigger Bluetooth Audio LDAC
-Codec Selection: Playback Quality"</string>
+    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Bluetooth-Audio-LDAC auslösen."
+Codec-Auswahl: Wiedergabequalität"</string>
     <string name="bluetooth_select_a2dp_codec_sample_rate">Bluetooth-Audio-Abtastrate</string>
-    <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Trigger Bluetooth Audio Codec
-Selection: Sample Rate"</string>
+    <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Bluetooth-Audio-Codec auslösen."
+Auswahl: Samplerate"</string>
     <string name="bluetooth_select_a2dp_codec_streaming_label">Streaming: %1$s</string>
     <string name="bluetooth_select_a2dp_codec_type">Bluetooth-Audio-Codec</string>
-    <string name="bluetooth_select_a2dp_codec_type_dialog_title">"Trigger Bluetooth Audio Codec
-Selection"</string>
+    <string name="bluetooth_select_a2dp_codec_type_dialog_title">"Bluetooth-Audio-Codec auslösen."
+Auswahl"</string>
     <string name="bluetooth_select_a2dp_codec_type_help_info">Ausgegraut bedeutet, dass es vom Telefon oder Headset nicht unterstützt wird</string>
     <string name="bluetooth_select_avrcp_version_dialog_title">Wählen Sie Bluetooth AVRCP-Version</string>
     <string name="bluetooth_select_avrcp_version_string">Bluetooth AVRCP-Version</string>
@@ -285,7 +285,7 @@ Selection"</string>
     <string name="bt_hci_snoop_log_summary">Erfassen Sie alle Bluetooth-HCI-Protokolle in einer Datei</string>
     <string name="bt_le_audio_broadcast_dialog_different_output">Ausgabe ändern</string>
     <string name="bt_le_audio_broadcast_dialog_sub_title">If you broadcast %1$s or change the output, your current broadcast will stop</string>
-    <string name="bt_le_audio_broadcast_dialog_switch_app">Broadcast %1$s</string>
+    <string name="bt_le_audio_broadcast_dialog_switch_app">Übertragen Sie %1$s</string>
     <string name="bt_le_audio_broadcast_dialog_title">Stop broadcasting %1$s?</string>
     <string name="bugreport_in_power">Verknüpfung zum Fehlerbericht</string>
     <string name="bugreport_in_power_summary">Zeigt im Power-Menü eine Schaltfläche zum Erstellen eines Fehlerberichts an</string>
@@ -310,10 +310,10 @@ Selection"</string>
     <string name="category_work">Arbeiten</string>
     <string name="cell_data_off_content_description">Mobile Daten aus</string>
     <string name="certinstaller_package">com.android.certinstaller</string>
-    <string name="character_counter_content_description">Characters entered %1$d of %2$d</string>
-    <string name="character_counter_overflowed_content_description">Character limit exceeded %1$d of %2$d</string>
+    <string name="character_counter_content_description">Eingegebene Zeichen %1$d von %2$d</string>
+    <string name="character_counter_overflowed_content_description">Die Zeichenbeschränkung hat %1$d von %2$d überschritten</string>
     <string name="character_counter_pattern">%1$d/%2$d</string>
-    <string name="charge_length_format">%1$s ago</string>
+    <string name="charge_length_format">vor %1$s</string>
     <string name="choose_profile">Profil auswählen</string>
     <string name="clear">Klar</string>
     <string name="clear_adb_keys">Widerrufen Sie die USB-Debugging-Berechtigungen</string>
@@ -326,8 +326,8 @@ Selection"</string>
     <string name="config_featureFactory">com.android.emergency.overlay.FeatureFactoryImpl</string>
     <string name="confirm_enable_oem_unlock_text">WARNUNG: Geräteschutzfunktionen funktionieren auf diesem Gerät nicht, während diese Einstellung aktiviert ist.</string>
     <string name="confirm_enable_oem_unlock_title">OEM-Entsperrung zulassen?</string>
-    <string name="connected_via_app">Connected via %1$s</string>
-    <string name="connected_via_network_scorer">Automatically connected via %1$s</string>
+    <string name="connected_via_app">Verbunden über %1$s</string>
+    <string name="connected_via_network_scorer">Automatisch über %1$s verbunden</string>
     <string name="connected_via_network_scorer_default">Automatische Verbindung über Netzwerkbewertungsanbieter</string>
     <string name="content_description_menu_button">Speisekarte</string>
     <string name="copy">Kopieren</string>
@@ -364,7 +364,7 @@ Selection"</string>
     <string name="date_of_birth">Geburtsdatum</string>
     <string name="debug_app">Wählen Sie die Debug-App aus</string>
     <string name="debug_app_not_set">Keine Debug-Anwendung festgelegt</string>
-    <string name="debug_app_set">Debugging application: %1$s</string>
+    <string name="debug_app_set">Debugging-Anwendung: %1$s</string>
     <string name="debug_applications_category">Apps</string>
     <string name="debug_debugging_category">Debuggen</string>
     <string name="debug_drawing_category">Zeichnung</string>
@@ -386,7 +386,7 @@ Selection"</string>
     <string name="development_settings_not_available">Für diesen Benutzer sind keine Entwickleroptionen verfügbar</string>
     <string name="development_settings_summary">Legen Sie Optionen für die App-Entwicklung fest</string>
     <string name="development_settings_title">Entwickleroptionen</string>
-    <string name="direct_boot_unaware_dialog_message">„Hinweis: Nach einem Neustart kann diese App erst gestartet werden, wenn Sie Ihr Telefon entsperren.“</string>
+    <string name="direct_boot_unaware_dialog_message">"Hinweis: Nach einem Neustart kann diese App erst gestartet werden, wenn Sie Ihr Telefon entsperren."</string>
     <string name="disable_linux_terminal_disclaimer">Wenn Sie die Option deaktivieren, werden die Daten des Linux-Terminals gelöscht</string>
     <string name="disable_overlays">Deaktivieren Sie HW-Overlays</string>
     <string name="disable_overlays_summary">Verwenden Sie für die Bildschirmzusammenstellung immer die GPU</string>
@@ -402,9 +402,9 @@ Selection"</string>
     <string name="emergency_action_subtitle">Preparing a call to %1$s</string>
     <string name="emergency_action_title">Notfall-SOS</string>
     <string name="emergency_contacts_title">Notfallkontakte</string>
-    <string name="emergency_info_footer">"Adding medical information and emergency contacts can help first responders in an emergency.
+    <string name="emergency_info_footer">"Das Hinzufügen medizinischer Informationen und Notfallkontakte kann Ersthelfern im Notfall helfen."
 
-Anyone can read this information from your lock screen, and dial your contacts by tapping their names, without unlocking your phone."</string>
+Jeder kann diese Informationen auf Ihrem Sperrbildschirm lesen und Ihre Kontakte anrufen, indem er auf deren Namen tippt, ohne Ihr Telefon zu entsperren.</string>
     <string name="enable_adb">USB-Debugging</string>
     <string name="enable_adb_summary">Debug-Modus, wenn USB angeschlossen ist</string>
     <string name="enable_adb_wireless">Drahtloses Debuggen</string>
@@ -422,7 +422,7 @@ Anyone can read this information from your lock screen, and dial your contacts b
     <string name="enable_verbose_vendor_logging_summary">Fügen Sie in Fehlerberichte zusätzliche gerätespezifische Anbieterprotokolle ein, die möglicherweise private Informationen enthalten, mehr Batterie verbrauchen und/oder mehr Speicher verbrauchen.</string>
     <string name="enabled">Ermöglicht</string>
     <string name="enabled_by_admin">Vom Administrator aktiviert</string>
-    <string name="enhanced_connectivity_summary">Aktiviert die Funktion „Erweiterte Konnektivität“.</string>
+    <string name="enhanced_connectivity_summary">Aktiviert die Funktion "Erweiterte Konnektivität".</string>
     <string name="error_a11y_label">Fehler: ungültig</string>
     <string name="error_icon_content_description">Fehler</string>
     <string name="expand_button_title">Fortschrittlich</string>
@@ -432,13 +432,13 @@ Anyone can read this information from your lock screen, and dial your contacts b
     <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
     <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
     <string name="fail_add_contact">Kontaktinformationen können nicht richtig gelesen werden</string>
-    <string name="fail_display_contact">„Der Kontakt kann nicht angezeigt werden“</string>
-    <string name="fail_load_contact_picker">„Konnte keine Kontaktauswahl finden“</string>
-    <string name="failed_attempts_now_wiping_device">„Zu viele Fehlversuche. Die Daten dieses Geräts werden gelöscht.“</string>
+    <string name="fail_display_contact">"Der Kontakt kann nicht angezeigt werden"</string>
+    <string name="fail_load_contact_picker">"Konnte keine Kontaktauswahl finden"</string>
+    <string name="failed_attempts_now_wiping_device">"Zu viele Fehlversuche. Die Daten dieses Geräts werden gelöscht."</string>
     <string name="failed_attempts_now_wiping_dialog_dismiss">Zurückweisen</string>
     <string name="failed_attempts_now_wiping_profile">Zu viele Fehlversuche. Dieses Arbeitsprofil und seine Daten werden gelöscht.</string>
     <string name="failed_attempts_now_wiping_user">Zu viele Fehlversuche. Dieser Benutzer wird gelöscht.</string>
-    <string name="failed_to_open_app_settings_toast">Failed to open settings for %1$s</string>
+    <string name="failed_to_open_app_settings_toast">Die Einstellungen für %1$s konnten nicht geöffnet werden</string>
     <string name="fallback_emergency_number">112</string>
     <string name="feminine">Feminin</string>
     <string name="font_scale_percentage">%1$d %%</string>
@@ -483,7 +483,7 @@ Anyone can read this information from your lock screen, and dial your contacts b
     <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="home">Einstellungen Startseite</string>
     <string name="icon_content_description">Dialogsymbol</string>
-    <string name="ime_security_warning">This input method may be able to collect all the text you type, including personal data like passwords and credit card numbers. It comes from the app %1$s. Use this input method?</string>
+    <string name="ime_security_warning">Mit dieser Eingabemethode kann möglicherweise der gesamte von Ihnen eingegebene Text erfasst werden, einschließlich persönlicher Daten wie Passwörter und Kreditkartennummern. Es kommt von der App %1$s. Diese Eingabemethode verwenden?</string>
     <string name="immediately_destroy_activities">Behalten Sie keine Aktivitäten bei</string>
     <string name="immediately_destroy_activities_summary">Zerstören Sie jede Aktivität, sobald der Benutzer sie verlässt</string>
     <string name="ims_reg_status_not_registered">Nicht registriert</string>
@@ -532,11 +532,11 @@ Anyone can read this information from your lock screen, and dial your contacts b
     <string name="masculine">Männlich</string>
     <string name="material_clock_display_divider">:</string>
     <string name="material_clock_toggle_content_description">Wählen Sie AM oder PM</string>
-    <string name="material_hour_24h_suffix">%1$s hours</string>
+    <string name="material_hour_24h_suffix">%1$s Stunden</string>
     <string name="material_hour_selection">Stunde auswählen</string>
-    <string name="material_hour_suffix">"%1$s o'clock"</string>
+    <string name="material_hour_suffix">"%1$s Uhr"</string>
     <string name="material_minute_selection">Minuten auswählen</string>
-    <string name="material_minute_suffix">%1$s minutes</string>
+    <string name="material_minute_suffix">%1$s Minuten</string>
     <string name="material_motion_easing_accelerated">cubic-bezier(0.4, 0.0, 1.0, 1.0)</string>
     <string name="material_motion_easing_decelerated">cubic-bezier(0.0, 0.0, 0.2, 1.0)</string>
     <string name="material_motion_easing_emphasized">path(M 0,0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1)</string>
@@ -587,7 +587,7 @@ Anyone can read this information from your lock screen, and dial your contacts b
     <string name="mobile_data_always_on_summary">Halten Sie die mobilen Daten immer aktiv, auch wenn WLAN aktiv ist (für einen schnellen Netzwerkwechsel).</string>
     <string name="mock_location_app">Wählen Sie eine simulierte Standort-App aus</string>
     <string name="mock_location_app_not_set">Keine simulierte Standort-App festgelegt</string>
-    <string name="mock_location_app_set">Mock location app: %1$s</string>
+    <string name="mock_location_app_set">Scheinstandort-App: %1$s</string>
     <string name="mtrl_badge_numberless_content_description">Neue Benachrichtigung</string>
     <string name="mtrl_checkbox_button_icon_path_checked">M14,18.2 11.4,15.6 10,17 14,21 22,13 20.6,11.6z</string>
     <string name="mtrl_checkbox_button_icon_path_group_name">Symbol</string>
@@ -600,13 +600,13 @@ Anyone can read this information from your lock screen, and dial your contacts b
     <string name="mtrl_checkbox_state_description_checked">Geprüft</string>
     <string name="mtrl_checkbox_state_description_indeterminate">Teilweise überprüft</string>
     <string name="mtrl_checkbox_state_description_unchecked">Nicht überprüft</string>
-    <string name="mtrl_chip_close_icon_content_description">Remove %1$s</string>
-    <string name="mtrl_exceed_max_badge_number_content_description">More than %1$d new notifications</string>
+    <string name="mtrl_chip_close_icon_content_description">%1$s entfernen</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Mehr als %1$d neue Benachrichtigungen</string>
     <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
     <string name="mtrl_picker_a11y_next_month">Wechseln Sie zum nächsten Monat</string>
     <string name="mtrl_picker_a11y_prev_month">Zum Vormonat wechseln</string>
-    <string name="mtrl_picker_announce_current_range_selection">Start date selection: %1$s – End date selection: %2$s</string>
-    <string name="mtrl_picker_announce_current_selection">Current selection: %1$s</string>
+    <string name="mtrl_picker_announce_current_range_selection">Auswahl des Startdatums: %1$s – Auswahl des Enddatums: %2$s</string>
+    <string name="mtrl_picker_announce_current_selection">Aktuelle Auswahl: %1$s</string>
     <string name="mtrl_picker_announce_current_selection_none">none</string>
     <string name="mtrl_picker_cancel">Cancel</string>
     <string name="mtrl_picker_confirm">OK</string>
@@ -614,28 +614,28 @@ Anyone can read this information from your lock screen, and dial your contacts b
     <string name="mtrl_picker_date_header_title">Wählen Sie Datum aus</string>
     <string name="mtrl_picker_date_header_unselected">Ausgewähltes Datum</string>
     <string name="mtrl_picker_day_of_week_column_header">%1$s</string>
-    <string name="mtrl_picker_end_date_description">End date %1$s</string>
+    <string name="mtrl_picker_end_date_description">Enddatum %1$s</string>
     <string name="mtrl_picker_invalid_format">Ungültiges Format.</string>
     <string name="mtrl_picker_invalid_format_example">Example: %1$s</string>
     <string name="mtrl_picker_invalid_format_use">Use: %1$s</string>
     <string name="mtrl_picker_invalid_range">Ungültiger Bereich.</string>
-    <string name="mtrl_picker_navigate_to_current_year_description">Navigate to current year %1$d</string>
-    <string name="mtrl_picker_navigate_to_year_description">Navigate to year %1$d</string>
-    <string name="mtrl_picker_out_of_range">Out of range: %1$s</string>
-    <string name="mtrl_picker_range_header_only_end_selected">Start date – %1$s</string>
-    <string name="mtrl_picker_range_header_only_start_selected">%1$s – End date</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">Navigieren Sie zum aktuellen Jahr %1$d</string>
+    <string name="mtrl_picker_navigate_to_year_description">Navigieren Sie zum Jahr %1$d</string>
+    <string name="mtrl_picker_out_of_range">Außerhalb des Bereichs: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Startdatum – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Enddatum</string>
     <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
     <string name="mtrl_picker_range_header_title">Wählen Sie Bereich aus</string>
     <string name="mtrl_picker_range_header_unselected">Startdatum – Enddatum</string>
     <string name="mtrl_picker_save">Speichern</string>
-    <string name="mtrl_picker_start_date_description">Start date %1$s</string>
+    <string name="mtrl_picker_start_date_description">Startdatum %1$s</string>
     <string name="mtrl_picker_text_input_date_hint">Datum</string>
     <string name="mtrl_picker_text_input_date_range_end_hint">Enddatum</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Startdatum</string>
     <string name="mtrl_picker_text_input_day_abbr">d</string>
     <string name="mtrl_picker_text_input_month_abbr">m</string>
     <string name="mtrl_picker_text_input_year_abbr">y</string>
-    <string name="mtrl_picker_today_description">Today %1$s</string>
+    <string name="mtrl_picker_today_description">Heute %1$s</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Wechseln Sie in den Kalendereingabemodus</string>
     <string name="mtrl_picker_toggle_to_day_selection">Tippen Sie, um zur Kalenderansicht zu wechseln</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Wechseln Sie in den Texteingabemodus</string>
@@ -659,7 +659,7 @@ Anyone can read this information from your lock screen, and dial your contacts b
     <string name="next">Weiter</string>
     <string name="no">No</string>
     <string name="no_application">Nichts</string>
-    <string name="no_info_provided">„Keine Informationen über den Besitzer des Telefons“</string>
+    <string name="no_info_provided">"Keine Informationen über den Besitzer des Telefons"</string>
     <string name="not_default_data_content_description">Nicht für die Verwendung von Daten eingestellt</string>
     <string name="not_grant_admin">Nein, machen Sie sie nicht zu einem Administrator</string>
     <string name="not_set">Nicht festgelegt</string>
@@ -694,38 +694,38 @@ Anyone can read this information from your lock screen, and dial your contacts b
     <string name="pointer_location_summary">Bildschirmüberlagerung mit aktuellen Berührungsdaten</string>
     <string name="power_charging">%1$s - %2$s</string>
     <string name="power_charging_duration">%1$s - %2$s left until full</string>
-    <string name="power_charging_duration_v2">%1$s - Fully charged by %2$s</string>
-    <string name="power_charging_future_paused">%1$s - Charging</string>
-    <string name="power_charging_limited">%1$s - Charging on hold to protect battery</string>
-    <string name="power_charging_on_hold_settings_home_page">%1$s - Charging on hold to protect battery</string>
-    <string name="power_discharge_by">Should last until about %1$s (%2$s)</string>
-    <string name="power_discharge_by_enhanced">Should last until about %1$s based on your usage (%2$s)</string>
-    <string name="power_discharge_by_only">Should last until about %1$s</string>
-    <string name="power_discharge_by_only_enhanced">Should last until about %1$s based on your usage</string>
-    <string name="power_discharge_by_only_short">Until %1$s</string>
+    <string name="power_charging_duration_v2">%1$s – Vollständig aufgeladen von %2$s</string>
+    <string name="power_charging_future_paused">%1$s – Wird geladen</string>
+    <string name="power_charging_limited">%1$s – Ladevorgang in der Warteschleife, um den Akku zu schonen</string>
+    <string name="power_charging_on_hold_settings_home_page">%1$s – Ladevorgang in der Warteschleife, um den Akku zu schonen</string>
+    <string name="power_discharge_by">Sollte bis etwa %1$s (%2$s) dauern</string>
+    <string name="power_discharge_by_enhanced">Sollte je nach Nutzung etwa bis %1$s dauern (%2$s)</string>
+    <string name="power_discharge_by_only">Sollte bis etwa %1$s dauern</string>
+    <string name="power_discharge_by_only_enhanced">Sollte je nach Nutzung etwa bis %1$s dauern</string>
+    <string name="power_discharge_by_only_short">Bis %1$s</string>
     <string name="power_discharging_duration">About %1$s left (%2$s)</string>
     <string name="power_discharging_duration_enhanced">About %1$s left based on your usage (%2$s)</string>
-    <string name="power_fast_charging_duration_v2">%1$s - %2$s - Full by %3$s</string>
-    <string name="power_incompatible_charging_settings_home_page">%1$s - Check charging accessory</string>
+    <string name="power_fast_charging_duration_v2">%1$s - %2$s - Voll um %3$s</string>
+    <string name="power_incompatible_charging_settings_home_page">%1$s – Ladezubehör prüfen</string>
     <string name="power_remaining_charging_duration_only">%1$s left until full</string>
-    <string name="power_remaining_charging_duration_only_v2">Fully charged by %1$s</string>
+    <string name="power_remaining_charging_duration_only_v2">Vollständig aufgeladen von %1$s</string>
     <string name="power_remaining_duration_only">About %1$s left</string>
     <string name="power_remaining_duration_only_enhanced">About %1$s left based on your usage</string>
     <string name="power_remaining_duration_only_short">%1$s</string>
-    <string name="power_remaining_fast_charging_duration_only_v2">Full by %1$s</string>
+    <string name="power_remaining_fast_charging_duration_only_v2">Voll um %1$s</string>
     <string name="power_remaining_less_than_duration">Less than %1$s left (%2$s)</string>
     <string name="power_remaining_less_than_duration_only">Less than %1$s left</string>
     <string name="power_remaining_more_than_subtext">More than %1$s left (%2$s)</string>
     <string name="power_remaining_only_more_than_subtext">More than %1$s left</string>
     <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
-    <string name="power_suggestion_battery_run_out">Battery may run out by %1$s</string>
-    <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
+    <string name="power_suggestion_battery_run_out">Der Akku ist möglicherweise um %1$s leer</string>
+    <string name="preference_copied">\"%1$s\" in die Zwischenablage kopiert.</string>
     <string name="preference_summary_default_combination">%1$s / %2$s</string>
     <string name="private_dns_broken">Auf den privaten DNS-Server kann nicht zugegriffen werden</string>
     <string name="private_dns_mode_off">Off</string>
     <string name="private_dns_mode_opportunistic">Automatisch</string>
     <string name="private_dns_mode_provider">Hostname des privaten DNS-Anbieters</string>
-    <string name="private_dns_mode_provider_failure">„Verbindung konnte nicht hergestellt werden“</string>
+    <string name="private_dns_mode_provider_failure">"Verbindung konnte nicht hergestellt werden"</string>
     <string name="private_dns_mode_provider_hostname_hint">Geben Sie den Hostnamen des DNS-Anbieters ein</string>
     <string name="process_kernel_label">Android-Betriebssystem</string>
     <string name="profile_connect_timeout_subtext">Problem beim Verbinden. Gerät ausschalten &amp; wieder an</string>
@@ -736,17 +736,17 @@ Anyone can read this information from your lock screen, and dial your contacts b
     <string name="proxy_url_hint">https://www.example.com/proxy.pac</string>
     <string name="remaining_length_format">%1$s left</string>
     <string name="remove">Entfernen</string>
-    <string name="remove_contact">Remove %1$s from emergency contacts?</string>
+    <string name="remove_contact">%1$s aus Notfallkontakten entfernen?</string>
     <string name="remove_contact_icon_text">Kontakt entfernen</string>
     <string name="remove_dob_icon_text">Geburtsdatum entfernen</string>
     <string name="retail_demo_reset_message">Geben Sie das Passwort ein, um im Demomodus einen Werksreset durchzuführen</string>
     <string name="retail_demo_reset_next">Weiter</string>
     <string name="retail_demo_reset_title">Passwort erforderlich</string>
-    <string name="running_process_item_user_label">User: %1$s</string>
+    <string name="running_process_item_user_label">Benutzer: %1$s</string>
     <string name="runningservices_settings_summary">Zeigen Sie aktuell ausgeführte Dienste an und steuern Sie sie</string>
     <string name="runningservices_settings_title">Laufende Dienstleistungen</string>
     <string name="save">Speichern</string>
-    <string name="saved_network">Saved by %1$s</string>
+    <string name="saved_network">Gespeichert von %1$s</string>
     <string name="screen_zoom_summary_custom">Benutzerdefiniert (%d)</string>
     <string name="screen_zoom_summary_default">Standard</string>
     <string name="screen_zoom_summary_extremely_large">Größte</string>
@@ -793,7 +793,7 @@ Anyone can read this information from your lock screen, and dial your contacts b
     <string name="shared_data_summary">Freigegebene Daten anzeigen und ändern</string>
     <string name="shared_data_title">Geteilte Daten</string>
     <string name="show_all_anrs">Hintergrund-ANRs anzeigen</string>
-    <string name="show_all_anrs_summary">Zeigt das Dialogfeld „App reagiert nicht“ für Hintergrund-Apps an</string>
+    <string name="show_all_anrs_summary">Zeigt das Dialogfeld "App reagiert nicht" für Hintergrund-Apps an</string>
     <string name="show_hw_layers_updates">Aktualisierungen der Hardwareebenen anzeigen</string>
     <string name="show_hw_layers_updates_summary">Flash-Hardware-Layer grün, wenn sie aktualisiert werden</string>
     <string name="show_hw_screen_updates">Ansichtsaktualisierungen anzeigen</string>
@@ -898,12 +898,12 @@ Anyone can read this information from your lock screen, and dial your contacts b
     <string name="tts_settings">Text-to-Speech-Einstellungen</string>
     <string name="tts_settings_title">Text-to-Speech-Ausgabe</string>
     <string name="tts_status_checking">Überprüfung…</string>
-    <string name="tts_status_not_supported">%1$s is not supported</string>
-    <string name="tts_status_ok">%1$s is fully supported</string>
-    <string name="tts_status_requires_network">%1$s requires network connection</string>
+    <string name="tts_status_not_supported">%1$s wird nicht unterstützt</string>
+    <string name="tts_status_ok">%1$s wird vollständig unterstützt</string>
+    <string name="tts_status_requires_network">%1$s erfordert eine Netzwerkverbindung</string>
     <string name="tts_status_title">Standardsprachstatus</string>
     <string name="turn_screen_on_title">Steuerung zum Einschalten des Bildschirms</string>
-    <string name="tv_bluetooth_battery_level">Battery %1$s</string>
+    <string name="tv_bluetooth_battery_level">Batterie %1$s</string>
     <string name="tv_bluetooth_battery_level_untethered_left">Left %1$s</string>
     <string name="tv_bluetooth_battery_level_untethered_right">Right %1$s</string>
     <string name="tv_media_transfer_arc_fallback_title">HDMI ARC</string>
@@ -930,14 +930,14 @@ Anyone can read this information from your lock screen, and dial your contacts b
     <string name="user_add_user">Benutzer hinzufügen</string>
     <string name="user_add_user_item_summary">Benutzer haben ihre eigenen Apps und Inhalte</string>
     <string name="user_add_user_item_title">Benutzer</string>
-    <string name="user_add_user_message_long">"You can share this device with other people by creating additional users. Each user has their own space, which they can customize with apps, wallpaper, and so on. Users can also adjust device settings like Wi‑Fi that affect everyone.
+    <string name="user_add_user_message_long">"Sie können dieses Gerät mit anderen Personen teilen, indem Sie zusätzliche Benutzer erstellen. Jeder Benutzer hat seinen eigenen Bereich, den er mit Apps, Hintergrundbildern usw. anpassen kann. Benutzer können auch Geräteeinstellungen wie WLAN anpassen, die alle betreffen.
 
-When you add a new user, that person needs to set up their space.
+Wenn Sie einen neuen Benutzer hinzufügen, muss diese Person ihren Bereich einrichten.
 
-Any user can update apps for all other users. Accessibility settings and services may not transfer to the new user."</string>
-    <string name="user_add_user_message_short">"When you add a new user, that person needs to set up their space.
+Jeder Benutzer kann Apps für alle anderen Benutzer aktualisieren. Einstellungen und Dienste zur Barrierefreiheit werden möglicherweise nicht auf den neuen Benutzer übertragen."</string>
+    <string name="user_add_user_message_short">"Wenn Sie einen neuen Benutzer hinzufügen, muss diese Person ihren Bereich einrichten.
 
-Any user can update apps for all other users."</string>
+Jeder Benutzer kann Apps für alle anderen Benutzer aktualisieren.</string>
     <string name="user_add_user_title">Neuen Benutzer hinzufügen?</string>
     <string name="user_add_user_type_title">Hinzufügen</string>
     <string name="user_grant_admin_button">Machen Sie Administrator</string>
@@ -974,10 +974,10 @@ Any user can update apps for all other users."</string>
     <string name="webview_launch_devtools_no_package">WebView-Paket nicht gefunden.</string>
     <string name="webview_launch_devtools_title">WebView DevTools</string>
     <string name="wifi_ap_unable_to_handle_new_sta">Access Point vorübergehend voll</string>
-    <string name="wifi_cant_connect">„Es kann keine Verbindung hergestellt werden“</string>
-    <string name="wifi_cant_connect_to_ap">"Can't connect to '%1$s'"</string>
+    <string name="wifi_cant_connect">"Es kann keine Verbindung hergestellt werden"</string>
+    <string name="wifi_cant_connect_to_ap">"Es kann keine Verbindung zu ‚%1$s‘ hergestellt werden"</string>
     <string name="wifi_check_password_try_again">Überprüfen Sie das Passwort und versuchen Sie es erneut</string>
-    <string name="wifi_connected_less_secure">%1$s (less secure)</string>
+    <string name="wifi_connected_less_secure">%1$s (weniger sicher)</string>
     <string name="wifi_connected_low_quality">Geringe Qualität</string>
     <string name="wifi_connected_no_internet">Kein Internet</string>
     <string name="wifi_disabled_generic">Deaktiviert</string>
@@ -988,7 +988,7 @@ Any user can update apps for all other users."</string>
     <string name="wifi_display_certification_summary">Optionen für die Zertifizierung drahtloser Displays anzeigen</string>
     <string name="wifi_dns1_hint">8.8.8.8</string>
     <string name="wifi_dns2_hint">8.8.4.4</string>
-    <string name="wifi_fail_to_scan">„Kann nicht nach Netzwerken suchen“</string>
+    <string name="wifi_fail_to_scan">"Kann nicht nach Netzwerken suchen"</string>
     <string name="wifi_gateway_hint">192.168.1.1</string>
     <string name="wifi_hotspot_switch_off_text">Off</string>
     <string name="wifi_hotspot_switch_on_text">On</string>
@@ -997,7 +997,7 @@ Any user can update apps for all other users."</string>
     <string name="wifi_metered_label">Dosiert</string>
     <string name="wifi_network_prefix_length_hint">24</string>
     <string name="wifi_no_internet">Kein Internetzugang</string>
-    <string name="wifi_no_internet_no_reconnect">„Es wird keine automatische Verbindung hergestellt“</string>
+    <string name="wifi_no_internet_no_reconnect">"Es wird keine automatische Verbindung hergestellt"</string>
     <string name="wifi_non_persistent_mac_randomization">Nicht-persistente Wi-Fi-MAC-Randomisierung</string>
     <string name="wifi_non_persistent_mac_randomization_summary">Wenn dieser Modus aktiviert ist, kann sich die MAC-Adresse dieses Geräts jedes Mal ändern, wenn es eine Verbindung zu einem Netzwerk herstellt, in dem die MAC-Randomisierung aktiviert ist.</string>
     <string name="wifi_not_in_range">Nicht in Reichweite</string>
@@ -1044,23 +1044,23 @@ Any user can update apps for all other users."</string>
     <string name="wifi_verbose_logging_summary">Erhöhen Sie die Wi-Fi-Protokollierungsstufe und zeigen Sie sie pro SSID-RSSI in der Wi-Fi-Auswahl an</string>
     <string name="wifitrackerlib_admin_restricted_network">Von Ihrer Organisation nicht zugelassen</string>
     <string name="wifitrackerlib_auto_connect_disable">Die automatische Verbindung ist deaktiviert</string>
-    <string name="wifitrackerlib_available_via_app">Available via %1$s</string>
+    <string name="wifitrackerlib_available_via_app">Verfügbar über %1$s</string>
     <string name="wifitrackerlib_certinstaller_package">com.android.certinstaller</string>
     <string name="wifitrackerlib_checking_for_internet_access">Suche nach Internetzugang...</string>
-    <string name="wifitrackerlib_connected_via_app">Connected via %1$s</string>
+    <string name="wifitrackerlib_connected_via_app">Verbunden über %1$s</string>
     <string name="wifitrackerlib_help_url_imsi_protection" />
     <string name="wifitrackerlib_hotspot_network_alternate">%1$s from %2$s</string>
     <string name="wifitrackerlib_hotspot_network_connecting">Verbinden…</string>
-    <string name="wifitrackerlib_hotspot_network_summary">%1$s from %2$s</string>
-    <string name="wifitrackerlib_hotspot_network_summary_error_carrier_block">"%1$s doesn't allow this connection"</string>
-    <string name="wifitrackerlib_hotspot_network_summary_error_carrier_incomplete">"Can't connect. Contact %1$s for help."</string>
-    <string name="wifitrackerlib_hotspot_network_summary_error_generic">„Es kann keine Verbindung hergestellt werden. Versuchen Sie erneut, eine Verbindung herzustellen.“</string>
-    <string name="wifitrackerlib_hotspot_network_summary_error_settings">„{DEVICE_TYPE, select, PHONE {Verbindung nicht möglich. Telefoneinstellungen prüfen und erneut versuchen.} TABLET {Verbindung nicht möglich. Tablet-Einstellungen überprüfen und erneut versuchen.} COMPUTER {Verbindung nicht möglich. Computereinstellungen überprüfen und erneut versuchen.} UHR {Verbindung nicht möglich. Uhreinstellungen überprüfen und erneut versuchen.} FAHRZEUG {Verbindung nicht möglich. Fahrzeugeinstellungen überprüfen und erneut versuchen.} other {Verbindung nicht möglich. Geräteeinstellungen überprüfen und erneut versuchen.} }“</string>
+    <string name="wifitrackerlib_hotspot_network_summary">%1$s von %2$s</string>
+    <string name="wifitrackerlib_hotspot_network_summary_error_carrier_block">"%1$s lässt diese Verbindung nicht zu"</string>
+    <string name="wifitrackerlib_hotspot_network_summary_error_carrier_incomplete">"Es kann keine Verbindung hergestellt werden. Kontaktieren Sie %1$s für Hilfe."</string>
+    <string name="wifitrackerlib_hotspot_network_summary_error_generic">"Es kann keine Verbindung hergestellt werden. Versuchen Sie erneut, eine Verbindung herzustellen."</string>
+    <string name="wifitrackerlib_hotspot_network_summary_error_settings">"{DEVICE_TYPE, select, PHONE {Verbindung nicht möglich. Telefoneinstellungen prüfen und erneut versuchen.} TABLET {Verbindung nicht möglich. Tablet-Einstellungen überprüfen und erneut versuchen.} COMPUTER {Verbindung nicht möglich. Computereinstellungen überprüfen und erneut versuchen.} UHR {Verbindung nicht möglich. Uhreinstellungen überprüfen und erneut versuchen.} FAHRZEUG {Verbindung nicht möglich. Fahrzeugeinstellungen überprüfen und erneut versuchen.} other {Verbindung nicht möglich. Geräteeinstellungen überprüfen und erneut versuchen.} }"</string>
     <string name="wifitrackerlib_hotspot_network_summary_new">{DEVICE_TYPE, auswählen, PHONE {{NETWORK_NAME} von Ihrem Telefon} TABLET {{NETWORK_NAME} von Ihrem Tablet} COMPUTER {{NETWORK_NAME} von Ihrem Computer} UHR {{NETWORK_NAME} von Ihrer Uhr} FAHRZEUG {{NETWORK_NAME} von Ihrem Fahrzeug} andere {{NETWORK_NAME} von Ihrem Gerät} }</string>
     <string name="wifitrackerlib_imsi_protection_warning">Dieses Netzwerk erhält eine SIM-ID, mit der der Gerätestandort verfolgt werden kann.</string>
-    <string name="wifitrackerlib_known_network_summary">Available from %1$s</string>
-    <string name="wifitrackerlib_link_speed_mbps">%1$d Mbps</string>
-    <string name="wifitrackerlib_link_speed_on_band">%1$s on %2$s</string>
+    <string name="wifitrackerlib_known_network_summary">Verfügbar ab %1$s</string>
+    <string name="wifitrackerlib_link_speed_mbps">%1$d Mbit/s</string>
+    <string name="wifitrackerlib_link_speed_on_band">%1$s auf %2$s</string>
     <string name="wifitrackerlib_multiband_separator">","</string>
     <string name="wifitrackerlib_no_attribution_annotation_packages">com.android.settings,com.google.android.setupwizard,com.google.android.gms</string>
     <string name="wifitrackerlib_osu_completing_sign_up">Anmeldung wird abgeschlossen…</string>
@@ -1069,7 +1069,7 @@ Any user can update apps for all other users."</string>
     <string name="wifitrackerlib_osu_sign_up_complete">Anmeldung abgeschlossen. Verbinden…</string>
     <string name="wifitrackerlib_osu_sign_up_failed">Die Anmeldung konnte nicht abgeschlossen werden. Tippen Sie, um es noch einmal zu versuchen.</string>
     <string name="wifitrackerlib_private_dns_broken">Auf den privaten DNS-Server kann nicht zugegriffen werden</string>
-    <string name="wifitrackerlib_saved_network">Saved by %1$s</string>
+    <string name="wifitrackerlib_saved_network">Gespeichert von %1$s</string>
     <string name="wifitrackerlib_settings_package">com.android.settings</string>
     <string name="wifitrackerlib_summary_separator">" / "</string>
     <string name="wifitrackerlib_tap_to_renew_subscription_and_connect">Tippen Sie hier, um das Abonnement zu erneuern und eine Verbindung herzustellen</string>
@@ -1080,7 +1080,7 @@ Any user can update apps for all other users."</string>
     <string name="wifitrackerlib_wifi_band_6_ghz">6 GHz</string>
     <string name="wifitrackerlib_wifi_band_unknown">Unbekannt</string>
     <string name="wifitrackerlib_wifi_check_password_try_again">Überprüfen Sie das Passwort und versuchen Sie es erneut</string>
-    <string name="wifitrackerlib_wifi_connected_cannot_provide_internet">„Mit Gerät verbunden. Internet kann nicht bereitgestellt werden.“</string>
+    <string name="wifitrackerlib_wifi_connected_cannot_provide_internet">"Mit Gerät verbunden. Internet kann nicht bereitgestellt werden."</string>
     <string name="wifitrackerlib_wifi_disabled_consecutive_failures">Verbindungsfehler</string>
     <string name="wifitrackerlib_wifi_disabled_generic">Deaktiviert</string>
     <string name="wifitrackerlib_wifi_disabled_network_failure">IP-Konfigurationsfehler</string>
@@ -1088,11 +1088,11 @@ Any user can update apps for all other users."</string>
     <string name="wifitrackerlib_wifi_disabled_transition_disable_indication">Mit den aktuellen Sicherheitseinstellungen nicht verfügbar</string>
     <string name="wifitrackerlib_wifi_disconnected">Getrennt</string>
     <string name="wifitrackerlib_wifi_limited_connection">Begrenzte Verbindung</string>
-    <string name="wifitrackerlib_wifi_mbo_assoc_disallowed_cannot_connect">„Es kann keine Verbindung hergestellt werden. Versuchen Sie es später noch einmal.“</string>
+    <string name="wifitrackerlib_wifi_mbo_assoc_disallowed_cannot_connect">"Es kann keine Verbindung hergestellt werden. Versuchen Sie es später noch einmal."</string>
     <string name="wifitrackerlib_wifi_mbo_assoc_disallowed_max_num_sta_associated">Das Netzwerk ist überlastet. Versuchen Sie es später noch einmal.</string>
     <string name="wifitrackerlib_wifi_mbo_oce_assoc_disallowed_insufficient_rssi">Schwaches Signal. Versuchen Sie, näher an den Router heranzukommen.</string>
     <string name="wifitrackerlib_wifi_metered_label">Dosiert</string>
-    <string name="wifitrackerlib_wifi_network_not_found">„Es kann keine Verbindung hergestellt werden. Versuchen Sie es später noch einmal.“</string>
+    <string name="wifitrackerlib_wifi_network_not_found">"Es kann keine Verbindung hergestellt werden. Versuchen Sie es später noch einmal."</string>
     <string name="wifitrackerlib_wifi_no_internet">Kein Internetzugang</string>
     <string name="wifitrackerlib_wifi_passpoint_expired">Abgelaufen</string>
     <string name="wifitrackerlib_wifi_poor_channel_conditions">Vorübergehend schlechte Netzwerkbedingungen</string>
@@ -1130,8 +1130,8 @@ Any user can update apps for all other users."</string>
     <string name="window_blurs">Erlauben Sie Unschärfen auf Fensterebene</string>
     <string name="window_management_category">Fensterverwaltung</string>
     <string name="yes">Yes</string>
-    <string name="zen_alarm_warning">"You won't hear your next alarm %1$s"</string>
-    <string name="zen_alarm_warning_indef">"You won't hear your next alarm %1$s unless you turn this off before then"</string>
+    <string name="zen_alarm_warning">"Sie werden Ihren nächsten Alarm %1$s nicht hören"</string>
+    <string name="zen_alarm_warning_indef">"Ihren nächsten Alarm %1$s hören Sie nicht, es sei denn, Sie schalten ihn vorher aus."</string>
     <string name="zen_interruption_level_priority">Nur Priorität</string>
     <string name="zen_mode_and_condition">%1$s. %2$s</string>
     <string name="zen_mode_do_not_disturb_name">Bitte nicht stören</string>
@@ -1141,6 +1141,6 @@ Any user can update apps for all other users."</string>
     <string name="zen_mode_forever">Bis du abschaltest</string>
     <string name="zen_mode_settings_summary_off">Niemals</string>
     <string name="zen_mode_settings_title">Bitte nicht stören</string>
-    <string name="zen_mode_settings_turn_on_dialog_title">Aktivieren Sie „Bitte nicht stören“.</string>
+    <string name="zen_mode_settings_turn_on_dialog_title">Aktivieren Sie "Bitte nicht stören".</string>
     <string name="zen_mode_starred_contacts_empty_name">(Kein Name)</string>
 </resources>

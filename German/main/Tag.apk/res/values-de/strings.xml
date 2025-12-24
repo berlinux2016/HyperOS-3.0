@@ -12,9 +12,9 @@
     <string name="call_notification_incoming_text">Eingehender Anruf</string>
     <string name="call_notification_ongoing_text">Laufender Anruf</string>
     <string name="call_notification_screening_text">Überwachen eines eingehenden Anrufs</string>
-    <string name="call_phone_permission_denied">Diese Anwendung benötigt die Berechtigung „Telefon“, um Anrufe tätigen zu können. Sie können die Tag-Berechtigung in den Einstellungen verwalten</string>
+    <string name="call_phone_permission_denied">Diese Anwendung benötigt die Berechtigung "Telefon", um Anrufe tätigen zu können. Sie können die Tag-Berechtigung in den Einstellungen verwalten</string>
     <string name="empty_tag_prompt">Dieses Tag ist leer.</string>
-    <string name="external_storage_permission_denied">Diese Anwendung benötigt die Berechtigung „Externer Speicher“, um auf Dateien zugreifen zu können. Sie können die Tag-Berechtigung in den Einstellungen verwalten</string>
+    <string name="external_storage_permission_denied">Diese Anwendung benötigt die Berechtigung "Externer Speicher", um auf Dateien zugreifen zu können. Sie können die Tag-Berechtigung in den Einstellungen verwalten</string>
     <string name="import_vcard">^1 importieren</string>
     <string name="mime_display_name">Daten vom NFC-Tag</string>
     <string name="status_bar_notification_info_overflow">999+</string>

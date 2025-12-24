@@ -152,7 +152,7 @@
     <string name="ThreeWCMmi">Drei-Wege-Anruf</string>
     <string name="VideoView_error_button">OK</string>
     <string name="VideoView_error_text_invalid_progressive_playback">Dieses Video ist für das Streaming auf diesem Gerät nicht zulässig.</string>
-    <string name="VideoView_error_text_unknown">„Dieses Video kann nicht abgespielt werden.“</string>
+    <string name="VideoView_error_text_unknown">"Dieses Video kann nicht abgespielt werden."</string>
     <string name="VideoView_error_title">Videoproblem</string>
     <string name="accept">Akzeptieren</string>
     <string name="accessibility_autoclick_double_click">Doppelklick</string>
@@ -247,7 +247,7 @@ Unter Einstellungen &gt; Bedienungshilfen kannst du diesem Kürzel eine andere F
     <string name="activity_list_empty">Keine passenden Aktivitäten gefunden.</string>
     <string name="activity_resolver_use_always">Stets</string>
     <string name="activity_resolver_use_once">Nur einmal</string>
-    <string name="activity_resolver_work_profiles_support">"%1$s doesn't support work profile"</string>
+    <string name="activity_resolver_work_profiles_support">"%1$s unterstützt das Arbeitsprofil nicht"</string>
     <string name="activitychooserview_choose_application">Wählen Sie eine App</string>
     <string name="activitychooserview_choose_application_error">%s wurde nicht gestartet</string>
     <string name="adb_active_notification_message">Auswählen, um USB-Debugging auszuschalten</string>
@@ -277,8 +277,8 @@ Unter Einstellungen &gt; Bedienungshilfen kannst du diesem Kürzel eine andere F
     <string name="all_apps_group_a11y_title">App-Liste</string>
     <string name="allow">Erlauben</string>
     <string name="alternate_eri_file">/data/eri.xml</string>
-    <string name="alternative_face_setup_notification_content">„Verwenden Sie Face Unlock, wenn Ihr Fingerabdruck nicht erkannt wird, beispielsweise wenn Ihre Finger nass sind.“</string>
-    <string name="alternative_fp_setup_notification_content">„Verwenden Sie die Fingerabdruck-Entsperrung, wenn Ihr Gesicht nicht erkannt wird, beispielsweise wenn nicht genug Licht vorhanden ist.“</string>
+    <string name="alternative_face_setup_notification_content">"Verwenden Sie Face Unlock, wenn Ihr Fingerabdruck nicht erkannt wird, beispielsweise wenn Ihre Finger nass sind."</string>
+    <string name="alternative_fp_setup_notification_content">"Verwenden Sie die Fingerabdruck-Entsperrung, wenn Ihr Gesicht nicht erkannt wird, beispielsweise wenn nicht genug Licht vorhanden ist."</string>
     <string name="alternative_unlock_setup_notification_title">Versuchen Sie es mit einer anderen Möglichkeit zum Entsperren</string>
     <string name="alwaysUse">Standardmäßig für diese Aktion verwenden.</string>
     <string name="android_preparing_apk">%1$s vorbereiten</string>
@@ -288,9 +288,9 @@ Unter Einstellungen &gt; Bedienungshilfen kannst du diesem Kürzel eine andere F
     <string name="android_upgrading_notification_title">Systemupdate fertigstellen…</string>
     <string name="android_upgrading_starting_apps">Apps starten…</string>
     <string name="android_upgrading_title">Telefon aktualisieren…</string>
-    <string name="anr_activity_application">"%2$s isn't responding"</string>
-    <string name="anr_activity_process">"%1$s isn't responding"</string>
-    <string name="anr_application_process">"%1$s isn't responding"</string>
+    <string name="anr_activity_application">"%2$s antwortet nicht"</string>
+    <string name="anr_activity_process">"%1$s antwortet nicht"</string>
+    <string name="anr_application_process">"%1$s antwortet nicht"</string>
     <string name="anr_process">Prozess %1$s reagiert nicht</string>
     <string name="anr_title" />
     <string name="app_blocked_message">%1$s ist derzeit nicht verfügbar</string>
@@ -307,12 +307,12 @@ Unter Einstellungen &gt; Bedienungshilfen kannst du diesem Kürzel eine andere F
     <string name="app_info">App-Info</string>
     <string name="app_not_found">Es wurde keine Anwendung zur Verarbeitung dieser Aktion gefunden</string>
     <string name="app_running_notification_text">Für weitere Informationen oder zum Anhalten der App antippen</string>
-    <string name="app_running_notification_title">%1$s is running</string>
+    <string name="app_running_notification_title">%1$s läuft</string>
     <string name="app_streaming_blocked_message">Auf %1$s kannst du derzeit nicht darauf zugreifen. Versuche es stattdessen auf deinem Telefon.</string>
     <string name="app_streaming_blocked_message_for_fingerprint_dialog">Diese App bittet um zusätzliche Sicherheit. Versuche es stattdessen auf deinem Telefon.</string>
     <string name="app_streaming_blocked_message_for_permission_request">Diese App fordert zusätzliche Berechtigungen an, in einer Streaming-Sitzung können jedoch keine Berechtigungen erteilt werden. Erteilen Sie zuerst die Erlaubnis auf Ihrem Telefon.</string>
     <string name="app_streaming_blocked_message_for_settings_dialog">Auf %1$s kannst du nicht darauf zugreifen. Versuche es stattdessen auf deinem Telefon.</string>
-    <string name="app_streaming_blocked_title">%1$s unavailable</string>
+    <string name="app_streaming_blocked_title">%1$s ist nicht verfügbar</string>
     <string name="app_streaming_blocked_title_for_camera_dialog">Kamera nicht verfügbar</string>
     <string name="app_streaming_blocked_title_for_fingerprint_dialog">Weiter am Telefon</string>
     <string name="app_streaming_blocked_title_for_microphone_dialog">Mikrofon nicht verfügbar</string>
@@ -771,9 +771,9 @@ Unter Einstellungen &gt; Bedienungshilfen kannst du diesem Kürzel eine andere F
     <string name="confirm_noimsreg_for_ctvolte_title" />
     <string name="confirm_radio_msg">To use the number, first turn it on.</string>
     <string name="confirm_radio_title">SIM aus</string>
-    <string name="connected_display_thermally_unavailable_notification_content">„Ihr Gerät ist zu warm und kann erst dann auf dem Display angezeigt werden, wenn es abgekühlt ist.“</string>
+    <string name="connected_display_thermally_unavailable_notification_content">"Ihr Gerät ist zu warm und kann erst dann auf dem Display angezeigt werden, wenn es abgekühlt ist."</string>
     <string name="connected_display_unavailable_notification_content">Verwenden Sie ein anderes Kabel und versuchen Sie es erneut</string>
-    <string name="connected_display_unavailable_notification_title">„Kann nicht zur Anzeige gespiegelt werden“</string>
+    <string name="connected_display_unavailable_notification_title">"Kann nicht zur Anzeige gespiegelt werden"</string>
     <string name="console_running_notification_message">Leistung wird beeinträchtigt. Zum Deaktivieren Bootloader prüfen.</string>
     <string name="console_running_notification_title">Serielle Konsole aktiviert</string>
     <string name="contentServiceSync">Synchronisation</string>
@@ -855,7 +855,7 @@ Unter Einstellungen &gt; Bedienungshilfen kannst du diesem Kürzel eine andere F
     <string name="default_wallpaper_component">com.miui.miwallpaper/.wallpaperservice.ImageWallpaper</string>
     <string name="delete">Löschen</string>
     <string name="deleteText">Löschen</string>
-    <string name="deleted_key">%1$s deleted</string>
+    <string name="deleted_key">%1$s gelöscht</string>
     <string name="demo_restarting_message">Gerät zurücksetzen…</string>
     <string name="demo_starting_message">Demo starten…</string>
     <string name="deny">Leugnen</string>
@@ -948,7 +948,7 @@ Unter Einstellungen &gt; Bedienungshilfen kannst du diesem Kürzel eine andere F
     <string name="enable_explore_by_touch_warning_title">Erkunden durch Berühren aktivieren?</string>
     <string name="error_handwriting_unsupported">Handschrift wird in diesem Feld nicht unterstützt</string>
     <string name="error_handwriting_unsupported_password">Handschrift wird in Passwortfeldern nicht unterstützt</string>
-    <string name="error_message_change_not_allowed">„Diese Änderung wird von Ihrem Administrator nicht zugelassen“</string>
+    <string name="error_message_change_not_allowed">"Diese Änderung wird von Ihrem Administrator nicht zugelassen"</string>
     <string name="error_message_title">Fehler</string>
     <string name="etws_primary_default_message_earthquake">Bleiben Sie ruhig und suchen Sie Schutz in der Nähe.</string>
     <string name="etws_primary_default_message_earthquake_and_tsunami">Bleiben Sie ruhig und suchen Sie Schutz in der Nähe.</string>
@@ -1025,7 +1025,7 @@ Unter Einstellungen &gt; Bedienungshilfen kannst du diesem Kürzel eine andere F
     <string name="face_acquired_too_right">Telefon nach links bewegen</string>
     <string name="face_acquired_too_similar">Position des Kopfes leicht verändern</string>
     <string name="face_app_setting_name">Gesichtssperre verwenden</string>
-    <string name="face_authenticated_confirmation_required">Gesichtsauthentifiziert, bitte drücken Sie auf „Bestätigen“.</string>
+    <string name="face_authenticated_confirmation_required">Gesichtsauthentifiziert, bitte drücken Sie auf "Bestätigen".</string>
     <string name="face_authenticated_no_confirmation_required">Gesicht authentifiziert</string>
     <string name="face_dangling_notification_msg">Ihr Gesichtsmodell ist nicht mehr erkennbar. Richten Sie Face Unlock erneut ein.</string>
     <string name="face_dangling_notification_title">Richten Sie Face Unlock erneut ein</string>
@@ -1060,8 +1060,8 @@ Unter Einstellungen &gt; Bedienungshilfen kannst du diesem Kürzel eine andere F
     <string name="factorytest_reboot">Neustart</string>
     <string name="failed_to_copy_to_clipboard">Kopieren in Zwischenablage fehlgeschlagen</string>
     <string name="fallback_wallpaper_component">com.android.systemui/com.android.systemui.wallpapers.GradientColorWallpaper</string>
-    <string name="fast_scroll_alphabet">„ABCDEFGHIJKLMNOPQRSTUVWXYZ“</string>
-    <string name="fast_scroll_numeric_alphabet">„ 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ“</string>
+    <string name="fast_scroll_alphabet">"ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+    <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="fcComplete">Funktionscode abgeschlossen.</string>
     <string name="fcError">Verbindungsproblem oder ungültiger Funktionscode.</string>
     <string name="fdnFailMmi">FDN-Prüfung fehlgeschlagen.</string>
@@ -1085,9 +1085,9 @@ Unter Einstellungen &gt; Bedienungshilfen kannst du diesem Kürzel eine andere F
     <string name="fingerprint_app_setting_name">Fingerabdruck verwenden</string>
     <string name="fingerprint_authenticated">Fingerabdruck authentifiziert</string>
     <string name="fingerprint_dangling_notification_msg_1">%s kann nicht mehr erkannt werden.</string>
-    <string name="fingerprint_dangling_notification_msg_2">%1$s and %2$s can no longer be recognized.</string>
+    <string name="fingerprint_dangling_notification_msg_2">%1$s und %2$s können nicht mehr erkannt werden.</string>
     <string name="fingerprint_dangling_notification_msg_all_deleted_1">%s kann nicht mehr erkannt werden. Richten Sie die Fingerabdruck-Entsperrung erneut ein.</string>
-    <string name="fingerprint_dangling_notification_msg_all_deleted_2">%1$s and %2$s can no longer be recognized. Set up Fingerprint Unlock again.</string>
+    <string name="fingerprint_dangling_notification_msg_all_deleted_2">%1$s und %2$s können nicht mehr erkannt werden. Richten Sie die Fingerabdruck-Entsperrung erneut ein.</string>
     <string name="fingerprint_dangling_notification_title">Richten Sie die Fingerabdruck-Entsperrung erneut ein</string>
     <string name="fingerprint_dialog_default_subtitle">Fingerabdruck zum Fortfahren verwenden</string>
     <string name="fingerprint_dialog_use_fingerprint_instead">Gesicht nicht erkannt. Verwenden Sie stattdessen einen Fingerabdruck.</string>
@@ -1137,8 +1137,8 @@ Unter Einstellungen &gt; Bedienungshilfen kannst du diesem Kürzel eine andere F
     <string name="foreground_service_apps_in_background">%1$d Apps verbrauchen Akku</string>
     <string name="foreground_service_multiple_separator">%1$s, %2$s</string>
     <string name="foreground_service_tap_for_details">Antippen für Details über Akku- und Datennutzung</string>
-    <string name="forward_intent_to_owner">„Sie verwenden diese App außerhalb Ihres Arbeitsprofils“</string>
-    <string name="forward_intent_to_work">„Sie verwenden diese App in Ihrem Arbeitsprofil“</string>
+    <string name="forward_intent_to_owner">"Sie verwenden diese App außerhalb Ihres Arbeitsprofils"</string>
+    <string name="forward_intent_to_work">"Sie verwenden diese App in Ihrem Arbeitsprofil"</string>
     <string name="fp_power_button_bp_message">Du hast die Power-Taste gedrückt - normalerweise schaltet dies den Bildschirm aus.\n\nLeicht tippen, um deinen Fingerabdruck zu verifizieren.</string>
     <string name="fp_power_button_bp_negative_button">Weitermachen</string>
     <string name="fp_power_button_bp_positive_button">Bildschirm ausschalten</string>
@@ -1171,7 +1171,7 @@ Unter Einstellungen &gt; Bedienungshilfen kannst du diesem Kürzel eine andere F
     <string name="global_actions_toggle_airplane_mode">Flugmodus</string>
     <string name="gnss_service">GNSS-Dienst</string>
     <string name="gnss_time_update_service">GNSS-Zeitaktualisierungsdienst</string>
-    <string name="gpsNotifMessage">Requested by %1$s (%2$s)</string>
+    <string name="gpsNotifMessage">Angefordert von %1$s (%2$s)</string>
     <string name="gpsNotifTicker">Standortanfrage von %s</string>
     <string name="gpsNotifTitle">Standortanfrage</string>
     <string name="gpsVerifNo">No</string>
@@ -1200,7 +1200,7 @@ Unter Einstellungen &gt; Bedienungshilfen kannst du diesem Kürzel eine andere F
     <string name="hearing_device_switch_hearing_mic_notification_title">Auf Hörgerätemikrofon umstellen?</string>
     <string name="hearing_device_switch_phone_mic_notification_text">Für besseren Klang oder wenn die Batterie Ihres Hörgeräts schwach ist. Dadurch wird Ihr Mikrofon nur während des Anrufs umgeschaltet.</string>
     <string name="hearing_device_switch_phone_mic_notification_title">Auf Telefonmikrofon umstellen?</string>
-    <string name="heavy_weight_notification">%1$s running</string>
+    <string name="heavy_weight_notification">%1$s läuft</string>
     <string name="heavy_weight_notification_detail">Tippen, um zum Spiel zurückzukehren</string>
     <string name="heavy_weight_switcher_text">Für eine bessere Leistung kann jeweils nur eins dieser Spiele gestartet sein.</string>
     <string name="heavy_weight_switcher_title">Spiel auswählen</string>
@@ -1273,11 +1273,11 @@ Unter Einstellungen &gt; Bedienungshilfen kannst du diesem Kürzel eine andere F
     <string name="issued_to">Lautend auf:</string>
     <string name="js_dialog_before_unload">"%s
 
-Are you sure you want to navigate away from this page?"</string>
+Sind Sie sicher, dass Sie diese Seite verlassen möchten?"</string>
     <string name="js_dialog_before_unload_negative_button">Bleiben Sie auf dieser Seite</string>
     <string name="js_dialog_before_unload_positive_button">Verlassen Sie diese Seite</string>
     <string name="js_dialog_before_unload_title">Bestätigen Sie die Navigation</string>
-    <string name="js_dialog_title">Auf der Seite unter „%s“ heißt es:</string>
+    <string name="js_dialog_title">Auf der Seite unter "%s" heißt es:</string>
     <string name="js_dialog_title_default">JavaScript</string>
     <string name="key_warning_state">Warnzustand</string>
     <string name="keyboard_layout_notification_more_than_three_selected_message">Keyboard layout set to %1$s, %2$s, %3$s… Tap to change.</string>
@@ -1362,7 +1362,7 @@ Versuch es in %3$d Sekunden erneut."</string>
     <string name="kg_reordering_delete_drop_target_text">Entfernen</string>
     <string name="kg_sim_pin_instructions">Geben Sie die SIM-PIN ein</string>
     <string name="kg_sim_unlock_progress_dialog_message">SIM entsperren…</string>
-    <string name="kg_text_message_separator">„-“</string>
+    <string name="kg_text_message_separator">"-"</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message">Du hast dein Passwort %1$d-mal falsch eingegeben. \n\nVersuch es in %2$d Sekunden erneut.</string>
     <string name="kg_too_many_failed_pattern_attempts_dialog_message">Du hast dein Entsperrmuster %1$d-mal falsch gezeichnet. \n\nVersuch es in %2$d Sekunden erneut.</string>
     <string name="kg_too_many_failed_pin_attempts_dialog_message">Du hast deine PIN %1$d-mal falsch eingegeben. \n\nVersuch es in %2$d Sekunden erneut.</string>
@@ -1378,8 +1378,8 @@ Versuch es in %3$d Sekunden erneut."</string>
     <string name="last_month">Letzten Monat</string>
     <string name="last_num_days">{ count, plural, =1 {Letzter Tag (#)} other {Letzte # Tage} }</string>
     <string name="launchBrowserDefault">Browser starten?</string>
-    <string name="launch_warning_original">%1$s was originally launched.</string>
-    <string name="launch_warning_replace">%1$s is now running.</string>
+    <string name="launch_warning_original">%1$s wurde ursprünglich gestartet.</string>
+    <string name="launch_warning_replace">%1$s läuft jetzt.</string>
     <string name="launch_warning_title">App umgeleitet</string>
     <string name="leave_accessibility_shortcut_on">Verwenden Sie die Verknüpfung</string>
     <string name="loading">Nur eine Sekunde…</string>
@@ -1462,7 +1462,7 @@ In %2$d Sekunden erneut versuchen."</string>
     <string name="low_memory">Telefonspeicher ist voll. Dateien löschen, um Speicherplatz freizugeben.</string>
     <string name="managed_profile_app_label">Auf Arbeits-%1$s umschalten</string>
     <string name="managed_profile_label">Auf Arbeitsprofil umschalten</string>
-    <string name="managed_profile_label_badge">Work %1$s</string>
+    <string name="managed_profile_label_badge">Arbeite %1$s</string>
     <string name="managed_profile_label_badge_2">%1$s (geschäftlich2)</string>
     <string name="managed_profile_label_badge_3">%1$s (geschäftlich3)</string>
     <string name="matches_found">{ count, plural, =1 {# Treffer} other {# von {total}} }</string>
@@ -1665,8 +1665,8 @@ In %2$d Sekunden erneut versuchen."</string>
     <string name="network_switch_metered_detail">Gerät verwendet %1$s, wenn %2$s keinen Internetzugriff hat. Es können Kosten entstehen.</string>
     <string name="network_switch_metered_toast">Von %1$s auf %2$s umgeschaltet</string>
     <string name="network_switch_type_name_unknown">ein unbekannter Netzwerktyp</string>
-    <string name="new_app_action">Open %1$s</string>
-    <string name="new_app_description">%1$s will close without saving</string>
+    <string name="new_app_action">Öffne %1$s</string>
+    <string name="new_app_description">%1$s wird ohne Speichern geschlossen</string>
     <string name="new_sms_notification_content">Zum Anzeigen SMS-App öffnen</string>
     <string name="new_sms_notification_title">Sie haben neue Nachrichten</string>
     <string name="news_notification_channel_label">Nachricht</string>
@@ -1730,7 +1730,7 @@ In %2$d Sekunden erneut versuchen."</string>
     <string name="notification_feedback_indicator_promoted">Diese Benachrichtigung wurde höher eingestuft. Tippen, um Feedback zu geben.</string>
     <string name="notification_feedback_indicator_silenced">Diese Meldung wurde auf stumm zurückgestuft. Tippen, um Feedback zu geben.</string>
     <string name="notification_header_divider_symbol">•</string>
-    <string name="notification_header_divider_symbol_with_spaces">„ • „</string>
+    <string name="notification_header_divider_symbol_with_spaces">" • "</string>
     <string name="notification_hidden_text">Neue Benachrichtigung</string>
     <string name="notification_history_title_placeholder">Angepasste App-Benachrichtigung</string>
     <string name="notification_inbox_ellipsis">…</string>
@@ -1771,7 +1771,7 @@ In %2$d Sekunden erneut versuchen."</string>
     <string name="oper_short_46692">Chunghwa</string>
     <string name="oper_short_46697">TWN</string>
     <string name="oper_short_99997">AD1</string>
-    <string name="oper_short_99999">AD</string>
+    <string name="oper_short_99999">ANZEIGE</string>
     <string name="orgTypeCustom">Brauch</string>
     <string name="orgTypeOther">Andere</string>
     <string name="orgTypeWork">Arbeiten</string>
@@ -1780,10 +1780,10 @@ In %2$d Sekunden erneut versuchen."</string>
     <string name="other_networks_no_internet">Netzwerk hat keinen Internetzugang</string>
     <string name="owner_name">Eigentümer</string>
     <string name="package_deleted_device_owner">Von Ihrem Administrator gelöscht</string>
-    <string name="package_installed_device_owner">"Installed by your admin.
-Go to settings to view granted permissions"</string>
-    <string name="package_updated_device_owner">"Updated by your admin.
-Go to settings to view granted permissions"</string>
+    <string name="package_installed_device_owner">"Von Ihrem Administrator installiert.
+Gehen Sie zu den Einstellungen, um gewährte Berechtigungen anzuzeigen.</string>
+    <string name="package_updated_device_owner">"Von Ihrem Administrator aktualisiert.
+Gehen Sie zu den Einstellungen, um gewährte Berechtigungen anzuzeigen.</string>
     <string name="page_size_compat_apk_and_elf_warning">Diese App ist nicht 16 KB kompatibel. Die APK- und ELF-Ausrichtungsprüfungen sind fehlgeschlagen. Diese App wird im seitengrößenkompatiblen Modus ausgeführt. Für optimale Kompatibilität kompilieren Sie die Anwendung bitte mit 16-KB-Unterstützung neu. Weitere Informationen finden Sie unter &lt;a href=\"https://developer.android.com/16kb-page-size\</string>
     <string name="page_size_compat_apk_warning">Diese App ist nicht 16 KB kompatibel. Die APK-Ausrichtungsprüfung ist fehlgeschlagen. Diese App wird im seitengrößenkompatiblen Modus ausgeführt. Für optimale Kompatibilität kompilieren Sie die Anwendung bitte mit 16-KB-Unterstützung neu. Weitere Informationen finden Sie unter &lt;a href=\"https://developer.android.com/16kb-page-size\</string>
     <string name="page_size_compat_elf_warning">Diese App ist nicht 16 KB kompatibel. Die Prüfung der ELF-Ausrichtung ist fehlgeschlagen. Diese App wird im seitengrößenkompatiblen Modus ausgeführt. Für optimale Kompatibilität kompilieren Sie die Anwendung bitte mit 16-KB-Unterstützung neu. Weitere Informationen finden Sie unter &lt;a href=\"https://developer.android.com/16kb-page-size\</string>
@@ -1867,7 +1867,7 @@ Go to settings to view granted permissions"</string>
     <string name="permdesc_foregroundServiceHealth">Ermöglicht der App die Nutzung von Vordergrunddiensten mit dem Typ \"health\"</string>
     <string name="permdesc_foregroundServiceLocation">Ermöglicht der App die Nutzung von Vordergrunddiensten mit dem Typ \"location\"</string>
     <string name="permdesc_foregroundServiceMediaPlayback">Ermöglicht der App die Nutzung von Vordergrunddiensten mit dem Typ \"mediaPlayback\"</string>
-    <string name="permdesc_foregroundServiceMediaProcessing">Ermöglicht der App, Vordergrunddienste vom Typ „mediaProcessing“ zu nutzen.</string>
+    <string name="permdesc_foregroundServiceMediaProcessing">Ermöglicht der App, Vordergrunddienste vom Typ "mediaProcessing" zu nutzen.</string>
     <string name="permdesc_foregroundServiceMediaProjection">Ermöglicht der App die Nutzung von Vordergrunddiensten mit dem Typ \"mediaProjection\"</string>
     <string name="permdesc_foregroundServiceMicrophone">Ermöglicht der App die Nutzung von Vordergrunddiensten mit dem Typ \"microphone\"</string>
     <string name="permdesc_foregroundServicePhoneCall">Ermöglicht der App die Nutzung von Vordergrunddiensten mit dem Typ \"phoneCall\"</string>
@@ -1946,7 +1946,7 @@ Go to settings to view granted permissions"</string>
     <string name="permdesc_sendSms">Ermöglicht der App, SMS-Nachrichten zu senden. Dies kann zu unerwarteten Gebühren führen. Schädliche Apps können Sie Geld kosten, indem sie Nachrichten ohne Ihre Bestätigung versenden.</string>
     <string name="permdesc_setAlarm">Ermöglicht der App, einen Wecker in einer installierten Wecker-App einzurichten. Einige Wecker-Apps implementieren diese Funktion ggf. nicht.</string>
     <string name="permdesc_setInputCalibration">Ermöglicht der App, die Kalibrierungsparameter des Touchscreens zu ändern. Sollte für normale Apps niemals benötigt werden.</string>
-    <string name="permdesc_setTimeZone">„Ermöglicht der App, die Zeitzone des Telefons zu ändern.“</string>
+    <string name="permdesc_setTimeZone">"Ermöglicht der App, die Zeitzone des Telefons zu ändern."</string>
     <string name="permdesc_setWallpaper">Ermöglicht der App, den Systemhintergrund festzulegen.</string>
     <string name="permdesc_setWallpaperHints">Ermöglicht der App, Hinweise zur Systemhintergrundgröße festzulegen.</string>
     <string name="permdesc_sim_communication">Ermöglicht der App das Senden von Befehlen an die SIM. Dies ist äußerst risikoreich.</string>
@@ -1976,7 +1976,7 @@ Go to settings to view granted permissions"</string>
     <string name="permdesc_writeCalendar">Diese App kann Kalendertermine auf deinem Telefon hinzufügen, entfernen oder ändern. Diese App kann Nachrichten senden, die scheinbar von Kalendereigentümern stammen, oder Termine ohne Benachrichtigung der Eigentümer ändern.</string>
     <string name="permdesc_writeCallLog">Ermöglicht der App, die Anrufliste deines Telefons zu ändern, inkl. der Daten über ein- und ausgehende Anrufe. Schädliche Apps können so deine Anrufliste löschen oder ändern.</string>
     <string name="permdesc_writeContacts">Ermöglicht der App, Daten zu den auf deinem Telefon gespeicherten Kontakten zu ändern. Diese Berechtigung erlaubt Apps, Kontaktdaten zu löschen.</string>
-    <string name="permdesc_writeSettings">„Ermöglicht der App, die Einstellungsdaten des Systems zu ändern. Schädliche Apps können die Konfiguration Ihres Systems beschädigen.“</string>
+    <string name="permdesc_writeSettings">"Ermöglicht der App, die Einstellungsdaten des Systems zu ändern. Schädliche Apps können die Konfiguration Ihres Systems beschädigen."</string>
     <string name="permdesc_writeSyncSettings">Ermöglicht der App, die Synchronisationseinstellungen eines Kontos zu ändern. Dies kann z. B. dazu verwendet werden, die Synchronisation von Kontakten mit einem Konto zu aktivieren.</string>
     <string name="permdesc_writeVerificationStateE2eeContactKeys">Ermöglicht der App, die Verifizierungsstatus von E2EE-Kontaktschlüsseln zu aktualisieren, die anderen Apps gehören</string>
     <string name="permdesc_xr_tracking_in_background">Ermöglicht der App den Zugriff auf XR-Daten, während sie nicht im Vordergrund ist.</string>
@@ -2086,7 +2086,7 @@ Go to settings to view granted permissions"</string>
     <string name="permlab_foregroundServiceHealth">Vordergrunddienst ausführen mit dem Typ \"health\"</string>
     <string name="permlab_foregroundServiceLocation">Vordergrunddienst ausführen mit dem Typ \"location\"</string>
     <string name="permlab_foregroundServiceMediaPlayback">Vordergrunddienst ausführen mit dem Typ \"mediaPlayback\"</string>
-    <string name="permlab_foregroundServiceMediaProcessing">Führen Sie den Vordergrunddienst mit dem Typ „mediaProcessing“ aus.</string>
+    <string name="permlab_foregroundServiceMediaProcessing">Führen Sie den Vordergrunddienst mit dem Typ "mediaProcessing" aus.</string>
     <string name="permlab_foregroundServiceMediaProjection">Vordergrunddienst ausführen mit dem Typ \"mediaProjection\"</string>
     <string name="permlab_foregroundServiceMicrophone">Vordergrunddienst ausführen mit dem Typ \"microphone\"</string>
     <string name="permlab_foregroundServicePhoneCall">Vordergrunddienst ausführen mit dem Typ \"phoneCall\"</string>
@@ -2116,7 +2116,7 @@ Go to settings to view granted permissions"</string>
     <string name="permlab_modifyNetworkAccounting">Ändern Sie die Netzwerknutzungsabrechnung</string>
     <string name="permlab_nearby_wifi_devices">Interagieren Sie mit WLAN-Geräten in der Nähe</string>
     <string name="permlab_nfc">NFC/Nahfeldkommunikation steuern</string>
-    <string name="permlab_nfcTransactionEvent">Transaktionsereignis „Sicheres Element“.</string>
+    <string name="permlab_nfcTransactionEvent">Transaktionsereignis "Sicheres Element".</string>
     <string name="permlab_observeCompanionDevicePresence">Anwesenheit des Begleitgeräts beobachten</string>
     <string name="permlab_persistentActivity">App dauerhaft ausführen</string>
     <string name="permlab_postNotification">Benachrichtigungen anzeigen</string>
@@ -2198,7 +2198,7 @@ Go to settings to view granted permissions"</string>
     <string name="permlab_writeSyncSettings">Synchronisation aktivieren oder deaktivieren</string>
     <string name="permlab_writeVerificationStateE2eeContactKeys">Aktualisieren Sie die Verifizierungsstatus von E2EE-Kontaktschlüsseln, die anderen Apps gehören</string>
     <string name="permlab_xr_tracking_in_background">Greifen Sie auf XR-Daten zu, während Sie nicht im Vordergrund sind</string>
-    <string name="perms_description_app">Provided by %1$s.</string>
+    <string name="perms_description_app">Bereitgestellt von %1$s.</string>
     <string name="perms_new_perm_prefix"><font fgcolor="#ff33b5e5" size="12">NEW: </font></string>
     <string name="personal_apps_suspended_turn_profile_on">Einschalten</string>
     <string name="personal_apps_suspension_soon_text">Private Apps werden am %1$s um %2$s gesperrt. Dein IT-Admin erlaubt nicht, dass dein Arbeitsprofil länger als %3$d Tage ausgeschaltet bleibt.</string>
@@ -2235,7 +2235,7 @@ Go to settings to view granted permissions"</string>
     <string name="policydesc_limitPassword">Zulässige Länge und Zeichen der Passwörter/PINs für die Bildschirmsperre festlegen</string>
     <string name="policydesc_resetPassword">Ändern der Bildschirmsperre</string>
     <string name="policydesc_setGlobalProxy">Den bei aktivierter Richtlinie zu verwendenden globalen Geräte-Proxy festlegen. Nur der Geräteeigentümer kann den globalen Proxy festlegen.</string>
-    <string name="policydesc_watchLogin">„Überwachen Sie beim Entsperren des Bildschirms die Anzahl der eingegebenen falschen Passwörter und sperren Sie das Telefon oder löschen Sie alle Daten des Telefons, wenn zu viele falsche Passwörter eingegeben werden.“</string>
+    <string name="policydesc_watchLogin">"Überwachen Sie beim Entsperren des Bildschirms die Anzahl der eingegebenen falschen Passwörter und sperren Sie das Telefon oder löschen Sie alle Daten des Telefons, wenn zu viele falsche Passwörter eingegeben werden."</string>
     <string name="policydesc_watchLogin_secondaryUser">Anzahl der falsch eingegebenen Passwörter beim Entsperren des Bildschirms überwachen und Telefon sperren oder alle Daten dieses Benutzers auf dem Telefon löschen, wenn zu häufig ein falsches Passwort eingegeben wird.</string>
     <string name="policydesc_wipeData">Alle Daten des Telefons ohne Warnung durch einen Werksreset löschen</string>
     <string name="policydesc_wipeData_secondaryUser">Alle Daten dieses Benutzers auf diesem Telefon ohne Warnung löschen</string>
@@ -2266,7 +2266,7 @@ Go to settings to view granted permissions"</string>
     <string name="print_service_installed_title">%s-Dienst installiert</string>
     <string name="printing_disabled_by">Drucken von %s deaktiviert</string>
     <string name="private_dns_broken_detailed">Auf den privaten DNS-Server kann nicht zugegriffen werden</string>
-    <string name="private_profile_label_badge">Private %1$s</string>
+    <string name="private_profile_label_badge">Privat %1$s</string>
     <string name="private_space_biometric_prompt_title">Privater Raum</string>
     <string name="private_space_deleted_by_admin">Privater Bereich entfernt</string>
     <string name="private_space_deleted_by_admin_details">Ihre Organisation erlaubt keine privaten Bereiche auf diesem verwalteten Gerät.</string>
@@ -2355,7 +2355,7 @@ Go to settings to view granted permissions"</string>
     <string name="review_notification_settings_title">Benachrichtigungseinstellungen prüfen</string>
     <string name="revoke">Widerrufen</string>
     <string name="ringtone_default">Standardklingelton</string>
-    <string name="ringtone_default_with_actual">Default (%1$s)</string>
+    <string name="ringtone_default_with_actual">Standard (%1$s)</string>
     <string name="ringtone_picker_title">Klingeltöne</string>
     <string name="ringtone_picker_title_alarm">Alarmtöne</string>
     <string name="ringtone_picker_title_notification">Benachrichtigungstöne</string>
@@ -2381,18 +2381,18 @@ Go to settings to view granted permissions"</string>
     <string name="sans_serif">sans-serif</string>
     <string name="satellite_access_config_file" />
     <string name="satellite_manual_selection_state_popup_cancel">Go back</string>
-    <string name="satellite_manual_selection_state_popup_message">Aktivieren Sie „Netzwerk automatisch auswählen“ in den Einstellungen, damit Ihr Telefon ein Netzwerk finden kann, das mit Satellit funktioniert</string>
+    <string name="satellite_manual_selection_state_popup_message">Aktivieren Sie "Netzwerk automatisch auswählen" in den Einstellungen, damit Ihr Telefon ein Netzwerk finden kann, das mit Satellit funktioniert</string>
     <string name="satellite_manual_selection_state_popup_ok">Einschalten</string>
-    <string name="satellite_manual_selection_state_popup_title">Aktivieren Sie „Netzwerk automatisch auswählen“.</string>
-    <string name="satellite_messaging_available_notification_summary">„Sie können Nachrichten per Satellit senden, wenn kein Mobilfunk- oder WLAN-Netzwerk vorhanden ist. Google Messages muss Ihre Standard-Messaging-App sein.“</string>
+    <string name="satellite_manual_selection_state_popup_title">Aktivieren Sie "Netzwerk automatisch auswählen".</string>
+    <string name="satellite_messaging_available_notification_summary">"Sie können Nachrichten per Satellit senden, wenn kein Mobilfunk- oder WLAN-Netzwerk vorhanden ist. Google Messages muss Ihre Standard-Messaging-App sein."</string>
     <string name="satellite_messaging_available_notification_title">Satellitennachrichten verfügbar</string>
     <string name="satellite_messaging_location_disabled_notification_summary">Um zu überprüfen, ob Satellitennachrichten in diesem Land oder dieser Region verfügbar sind, aktivieren Sie die Standorteinstellungen</string>
     <string name="satellite_messaging_location_disabled_notification_title">Satellitennachrichten nicht verfügbar</string>
-    <string name="satellite_messaging_not_in_allowed_region_notification_summary">„Satellitennachrichten sind in diesem Land oder dieser Region nicht verfügbar“</string>
+    <string name="satellite_messaging_not_in_allowed_region_notification_summary">"Satellitennachrichten sind in diesem Land oder dieser Region nicht verfügbar"</string>
     <string name="satellite_messaging_not_in_allowed_region_notification_title">Satellitennachrichten nicht verfügbar</string>
-    <string name="satellite_messaging_not_provisioned_notification_summary">„Stellen Sie sicher, dass Sie mit dem Internet verbunden sind, und versuchen Sie die Einrichtung erneut.“</string>
+    <string name="satellite_messaging_not_provisioned_notification_summary">"Stellen Sie sicher, dass Sie mit dem Internet verbunden sind, und versuchen Sie die Einrichtung erneut."</string>
     <string name="satellite_messaging_not_provisioned_notification_title">Satellitennachrichten nicht eingerichtet</string>
-    <string name="satellite_messaging_not_supported_notification_summary">„Satellitennachrichten werden auf diesem Gerät nicht unterstützt“</string>
+    <string name="satellite_messaging_not_supported_notification_summary">"Satellitennachrichten werden auf diesem Gerät nicht unterstützt"</string>
     <string name="satellite_messaging_not_supported_notification_title">Satellitennachrichten werden nicht unterstützt</string>
     <string name="satellite_messaging_unsupported_default_sms_app_notification_summary">Um Nachrichten per Satellit zu senden, legen Sie Google Messages als Ihre Standard-Messaging-App fest</string>
     <string name="satellite_messaging_unsupported_default_sms_app_notification_title">Satellitennachrichten nicht eingerichtet</string>
@@ -2403,16 +2403,16 @@ Go to settings to view granted permissions"</string>
     <string name="satellite_notification_summary">Sie können Nachrichten ohne Mobilfunk- oder WLAN-Netzwerk senden und empfangen</string>
     <string name="satellite_notification_summary_with_data">Sie können Nachrichten senden und empfangen und begrenzte Daten über Satellit nutzen</string>
     <string name="satellite_notification_title">Automatisch mit Satellit verbunden</string>
-    <string name="satellite_sos_available_notification_summary">„Sie können Notrufdienste benachrichtigen, wenn kein Mobilfunk- oder WLAN-Netzwerk vorhanden ist. Google Messages muss Ihre Standard-Messaging-App sein.“</string>
+    <string name="satellite_sos_available_notification_summary">"Sie können Notrufdienste benachrichtigen, wenn kein Mobilfunk- oder WLAN-Netzwerk vorhanden ist. Google Messages muss Ihre Standard-Messaging-App sein."</string>
     <string name="satellite_sos_available_notification_title">Satelliten-SOS ist jetzt verfügbar</string>
     <string name="satellite_sos_location_disabled_notification_summary">Um zu überprüfen, ob Satelliten-SOS in diesem Land oder dieser Region verfügbar ist, aktivieren Sie die Standorteinstellungen</string>
-    <string name="satellite_sos_location_disabled_notification_title">„Satelliten-SOS ist nicht verfügbar“</string>
-    <string name="satellite_sos_not_in_allowed_region_notification_summary">„Satelliten-SOS ist in diesem Land oder dieser Region nicht verfügbar“</string>
-    <string name="satellite_sos_not_in_allowed_region_notification_title">„Satelliten-SOS ist nicht verfügbar“</string>
-    <string name="satellite_sos_not_provisioned_notification_summary">„Stellen Sie sicher, dass Sie mit dem Internet verbunden sind, und versuchen Sie die Einrichtung erneut.“</string>
-    <string name="satellite_sos_not_provisioned_notification_title">„Satelliten-SOS ist nicht eingerichtet“</string>
-    <string name="satellite_sos_not_supported_notification_summary">„Satelliten-SOS wird auf diesem Gerät nicht unterstützt“</string>
-    <string name="satellite_sos_not_supported_notification_title">„Satelliten-SOS wird nicht unterstützt“</string>
+    <string name="satellite_sos_location_disabled_notification_title">"Satelliten-SOS ist nicht verfügbar"</string>
+    <string name="satellite_sos_not_in_allowed_region_notification_summary">"Satelliten-SOS ist in diesem Land oder dieser Region nicht verfügbar"</string>
+    <string name="satellite_sos_not_in_allowed_region_notification_title">"Satelliten-SOS ist nicht verfügbar"</string>
+    <string name="satellite_sos_not_provisioned_notification_summary">"Stellen Sie sicher, dass Sie mit dem Internet verbunden sind, und versuchen Sie die Einrichtung erneut."</string>
+    <string name="satellite_sos_not_provisioned_notification_title">"Satelliten-SOS ist nicht eingerichtet"</string>
+    <string name="satellite_sos_not_supported_notification_summary">"Satelliten-SOS wird auf diesem Gerät nicht unterstützt"</string>
+    <string name="satellite_sos_not_supported_notification_title">"Satelliten-SOS wird nicht unterstützt"</string>
     <string name="satellite_sos_unsupported_default_sms_app_notification_summary">Um Nachrichten per Satellit zu senden, legen Sie Google Messages als Ihre Standard-Messaging-App fest</string>
     <string name="satellite_sos_unsupported_default_sms_app_notification_title">Satelliten-SOS nicht eingerichtet</string>
     <string name="scCellularNetworkSecurityLearnMore" />
@@ -2426,12 +2426,12 @@ This means that your location, activity, or identity have been logged. This is c
     <string name="scNullCipherIssueActionGotIt">Habe es</string>
     <string name="scNullCipherIssueActionLearnMore">Erfahren Sie mehr</string>
     <string name="scNullCipherIssueActionSettings">Sicherheitseinstellungen für mobile Netzwerke</string>
-    <string name="scNullCipherIssueEncryptedSummary">%1$s SIM connection is more secure now</string>
-    <string name="scNullCipherIssueEncryptedTitle">Connected to encrypted network %1$s</string>
-    <string name="scNullCipherIssueNonEncryptedSummary">"Calls, messages, and data are currently more vulnerable while using your %1$s SIM.
+    <string name="scNullCipherIssueEncryptedSummary">%1$s SIM-Verbindung ist jetzt sicherer</string>
+    <string name="scNullCipherIssueEncryptedTitle">Verbunden mit dem verschlüsselten Netzwerk %1$s</string>
+    <string name="scNullCipherIssueNonEncryptedSummary">"Anrufe, Nachrichten und Daten sind derzeit anfälliger, wenn Sie die SIM-Karte Ihres %1$s verwenden.
 
-When your connection is encrypted again, you'll get another notification."</string>
-    <string name="scNullCipherIssueNonEncryptedSummaryNotification">Calls, messages, and data are currently more vulnerable while using your %1$s SIM</string>
+Sobald Ihre Verbindung wieder verschlüsselt ist, erhalten Sie eine weitere Benachrichtigung."</string>
+    <string name="scNullCipherIssueNonEncryptedSummaryNotification">Anrufe, Nachrichten und Daten sind derzeit anfälliger, wenn Sie die SIM-Karte von %1$s verwenden</string>
     <string name="scNullCipherIssueNonEncryptedTitle">Mit unverschlüsseltem Netzwerk verbunden</string>
     <string name="screen_compat_mode_hint">Erneute Aktivierung in Systemeinstellungen &gt; Apps &gt; Heruntergeladen</string>
     <string name="screen_compat_mode_scale">Skala</string>
@@ -2528,8 +2528,8 @@ When your connection is encrypted again, you'll get another notification."</stri
     <string name="sipAddressTypeWork">Arbeiten</string>
     <string name="skip_button_label">Überspringen</string>
     <string name="slice_more_content">+ %1$d</string>
-    <string name="slices_permission_request">%1$s wants to show %2$s slices</string>
-    <string name="sms_control_message">&lt;b&gt;%1$s&lt;/b&gt; is sending a large number of SMS messages. Do you want to allow this app to continue sending messages?</string>
+    <string name="slices_permission_request">%1$s möchte %2$s Slices anzeigen</string>
+    <string name="sms_control_message">&lt;b>%1$s&lt;/b> sendet eine große Anzahl von SMS-Nachrichten. Möchten Sie zulassen, dass diese App weiterhin Nachrichten sendet?</string>
     <string name="sms_control_no">Verweigern</string>
     <string name="sms_control_title">SMS senden</string>
     <string name="sms_control_yes">Erlauben</string>
@@ -2537,7 +2537,7 @@ When your connection is encrypted again, you'll get another notification."</stri
     <string name="sms_short_code_confirm_allow">Schicken</string>
     <string name="sms_short_code_confirm_always_allow">Immer zulassen</string>
     <string name="sms_short_code_confirm_deny">Cancel</string>
-    <string name="sms_short_code_confirm_message">&lt;b&gt;%1$s&lt;/b&gt; would like to send a message to &lt;b&gt;%2$s&lt;/b&gt;.</string>
+    <string name="sms_short_code_confirm_message">&lt;b>%1$s&lt;/b> möchte eine Nachricht an &lt;b>%2$s&lt;/b> senden.</string>
     <string name="sms_short_code_confirm_never_allow">Nie zulassen</string>
     <string name="sms_short_code_details">Hierfür könnten deinem Mobilfunkkonto <b>may cause charges</b> on your mobile account.</string>
     <string name="sms_short_code_remember_choice">Erinnere dich an meine Wahl</string>
@@ -2628,9 +2628,9 @@ When your connection is encrypted again, you'll get another notification."</stri
     <string name="test_harness_mode_notification_message">Werksreset durchführen, um den Test-Harnisch-Modus zu deaktivieren</string>
     <string name="test_harness_mode_notification_title">Test-Harnisch-Modus aktiviert</string>
     <string name="tethered_notification_message">Zum Einrichten tippen.</string>
-    <string name="tethered_notification_multi_device_message">%1$s connected devices</string>
+    <string name="tethered_notification_multi_device_message">%1$s verbundene Geräte</string>
     <string name="tethered_notification_no_device_message">Kein angeschlossenes Gerät</string>
-    <string name="tethered_notification_one_device_message">%1$s connected device</string>
+    <string name="tethered_notification_one_device_message">%1$s verbundenes Gerät</string>
     <string name="tethered_notification_title">Tethering oder Hotspot aktiv</string>
     <string name="textSelectionCABTitle">Textauswahl</string>
     <string formatted="false" name="time_of_day">%H:%M:%S</string>
@@ -2650,7 +2650,7 @@ When your connection is encrypted again, you'll get another notification."</stri
     <string name="time_picker_radial_mode_description">In Uhrzeitmodus wechseln für Zeiteingabe</string>
     <string name="time_picker_text_input_mode_description">In Texteingabemodus wechseln für Zeiteingabe</string>
     <string name="time_placeholder">--</string>
-    <string name="time_zone_change_notification_body">"You're now in %1$s (%2$s)"</string>
+    <string name="time_zone_change_notification_body">"Du bist jetzt in %1$s (%2$s)"</string>
     <string name="time_zone_change_notification_title">Ihre Zeitzone hat sich geändert</string>
     <string name="toolbar_collapse_description">Zusammenbruch</string>
     <string name="tooltip_popup_title">Tooltip</string>
@@ -2691,7 +2691,7 @@ When your connection is encrypted again, you'll get another notification."</stri
     <string name="usb_midi_peripheral_name">Android USB-Peripherieport</string>
     <string name="usb_midi_peripheral_product_name">USB-Peripherieport</string>
     <string name="usb_mtp_launch_notification_description">Tippen, um Dateien anzuzeigen</string>
-    <string name="usb_mtp_launch_notification_title">Connected to %1$s</string>
+    <string name="usb_mtp_launch_notification_title">Verbunden mit %1$s</string>
     <string name="usb_mtp_notification_title">USB-Dateitransfer ist an</string>
     <string name="usb_notification_message">Tippen für mehr USB-Optionen</string>
     <string name="usb_power_notification_message">Laden des angeschlossenen Gerätes. Tippen für mehr Optionen.</string>
@@ -2721,7 +2721,7 @@ When your connection is encrypted again, you'll get another notification."</stri
     <string name="user_logging_out_message">%1$s abmelden…</string>
     <string name="user_owner_app_label">Zur/zum privaten %1$s wechseln</string>
     <string name="user_owner_label">Zum Privatprofil wechseln</string>
-    <string name="user_switching_message">Switching to %1$s…</string>
+    <string name="user_switching_message">Wechsel zu %1$s…</string>
     <string name="validity_period">Gültigkeit:</string>
     <string name="vdm_camera_access_denied">Von %1$s kann nicht auf die Telefonkamera zugegriffen werden</string>
     <string name="vdm_pip_blocked">Bild-im-Bild kann beim Streaming nicht angezeigt werden</string>
@@ -2789,21 +2789,21 @@ Möchtest du sie schließen?"</string>
     <string name="wfc_mode_wifi_preferred_summary">Über WLAN anrufen</string>
     <string name="whichApplication">Vollständige Aktion mit</string>
     <string name="whichApplicationLabel">Vollständige Aktion</string>
-    <string name="whichApplicationNamed">Complete action using %1$s</string>
+    <string name="whichApplicationNamed">Aktion mit %1$s abschließen</string>
     <string name="whichEditApplication">Bearbeiten mit</string>
     <string name="whichEditApplicationLabel">Bearbeiten</string>
-    <string name="whichEditApplicationNamed">Edit with %1$s</string>
+    <string name="whichEditApplicationNamed">Bearbeiten mit %1$s</string>
     <string name="whichGiveAccessToApplicationLabel">Zugriff gewähren</string>
     <string name="whichHomeApplication">Wählen Sie eine Home-App aus</string>
     <string name="whichHomeApplicationLabel">Bild aufnehmen</string>
     <string name="whichHomeApplicationNamed">%1$s als Home-App verwenden</string>
     <string name="whichImageCaptureApplication">Bild aufnehmen mit</string>
     <string name="whichImageCaptureApplicationLabel">Bild aufnehmen</string>
-    <string name="whichImageCaptureApplicationNamed">Capture image with %1$s</string>
+    <string name="whichImageCaptureApplicationNamed">Bild mit %1$s aufnehmen</string>
     <string name="whichOpenHostLinksWith">%1$s-Links öffnen mit</string>
     <string name="whichOpenHostLinksWithApp">%1$s-Links öffnen mit %2$s</string>
     <string name="whichOpenLinksWith">Offene Links mit</string>
-    <string name="whichOpenLinksWithApp">Open links with %1$s</string>
+    <string name="whichOpenLinksWithApp">Offene Links mit %1$s</string>
     <string name="whichSendApplication">Teilen</string>
     <string name="whichSendApplicationLabel">Teilen</string>
     <string name="whichSendApplicationNamed">Mit %1$s teilen</string>
@@ -2812,7 +2812,7 @@ Möchtest du sie schließen?"</string>
     <string name="whichSendToApplicationNamed">Mit %1$s senden</string>
     <string name="whichViewApplication">Öffnen mit</string>
     <string name="whichViewApplicationLabel">Öffnen</string>
-    <string name="whichViewApplicationNamed">Open with %1$s</string>
+    <string name="whichViewApplicationNamed">Öffnen mit %1$s</string>
     <string name="widget_default_class_name" />
     <string name="widget_default_package_name" />
     <string name="wifi_available_sign_in">Am WLAN anmelden</string>
@@ -2859,14 +2859,14 @@ Möchtest du sie schließen?"</string>
     <string name="zen_mode_forever_dnd">Bis du Nicht stören ausschaltest</string>
     <string name="zen_mode_implicit_activated">On</string>
     <string name="zen_mode_implicit_deactivated">Off</string>
-    <string name="zen_mode_implicit_name">Do Not Disturb (%1$s)</string>
-    <string name="zen_mode_implicit_trigger_description">Managed by %1$s</string>
+    <string name="zen_mode_implicit_name">Bitte nicht stören (%1$s)</string>
+    <string name="zen_mode_implicit_trigger_description">Verwaltet von %1$s</string>
     <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
     <string name="zen_mode_trigger_event_calendar_any">Jeder Kalender</string>
     <string name="zen_mode_trigger_summary_combined">%1$s, %2$s</string>
     <string name="zen_mode_trigger_summary_divider_text">","</string>
     <string name="zen_mode_trigger_summary_range_symbol_combination">%1$s - %2$s</string>
-    <string name="zen_mode_trigger_summary_range_words">%1$s to %2$s</string>
-    <string name="zen_mode_until">Until %1$s</string>
-    <string name="zen_mode_until_next_day">Until %1$s</string>
+    <string name="zen_mode_trigger_summary_range_words">%1$s bis %2$s</string>
+    <string name="zen_mode_until">Bis %1$s</string>
+    <string name="zen_mode_until_next_day">Bis %1$s</string>
 </resources>

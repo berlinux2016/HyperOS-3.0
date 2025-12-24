@@ -27,7 +27,7 @@
     <string name="abc_shareactionprovider_share_with">Teilen mit</string>
     <string name="abc_shareactionprovider_share_with_application">Mit %s teilen</string>
     <string name="abc_toolbar_collapse_description">Zusammenbruch</string>
-    <string name="accessing_notification_title">Accessing files from %1$s</string>
+    <string name="accessing_notification_title">Zugriff auf Dateien von %1$s</string>
     <string name="androidx_startup">androidx.startup</string>
     <string name="app_label">Telefon- und Nachrichtenspeicher</string>
     <string name="call_notification_answer_action">Antwort</string>
@@ -38,7 +38,7 @@
     <string name="call_notification_ongoing_text">Laufender Anruf</string>
     <string name="call_notification_screening_text">Überwachen eines eingehenden Anrufs</string>
     <string name="downloads_app_label">Downloads</string>
-    <string name="error_busy_device">„Das andere Gerät ist beschäftigt. Sie können keine Dateien übertragen, bis es verfügbar ist.“</string>
+    <string name="error_busy_device">"Das andere Gerät ist beschäftigt. Sie können keine Dateien übertragen, bis es verfügbar ist."</string>
     <string name="error_locked_device">Keine Dateien gefunden. Das andere Gerät ist möglicherweise gesperrt. Wenn ja, entsperren Sie es und versuchen Sie es erneut.</string>
     <string name="root_name">%1$s %2$s</string>
     <string name="search_menu_title">Suchen</string>

@@ -2,9 +2,9 @@
 <resources>
     <string name="androidx_startup">androidx.startup</string>
     <string name="app_label">Telefon- und Nachrichtenspeicher</string>
-    <string name="bugreport_add_details_to_zip_failed">„Fehlerberichtdetails konnten nicht zur ZIP-Datei hinzugefügt werden“</string>
-    <string name="bugreport_confirm">„Fehlerberichte enthalten Daten aus den verschiedenen Protokolldateien des Systems, darunter möglicherweise Daten, die Sie als vertraulich erachten (z. B. App-Nutzungs- und Standortdaten). Geben Sie Fehlerberichte nur an Personen und Apps weiter, denen Sie vertrauen.“</string>
-    <string name="bugreport_confirm_dont_repeat">„Nicht mehr zeigen“</string>
+    <string name="bugreport_add_details_to_zip_failed">"Fehlerberichtdetails konnten nicht zur ZIP-Datei hinzugefügt werden"</string>
+    <string name="bugreport_confirm">"Fehlerberichte enthalten Daten aus den verschiedenen Protokolldateien des Systems, darunter möglicherweise Daten, die Sie als vertraulich erachten (z. B. App-Nutzungs- und Standortdaten). Geben Sie Fehlerberichte nur an Personen und Apps weiter, denen Sie vertrauen."</string>
+    <string name="bugreport_confirm_dont_repeat">"Nicht mehr zeigen"</string>
     <string name="bugreport_finished_pending_screenshot_text">Tippen Sie hier, um Ihren Fehlerbericht ohne Screenshot zu teilen, oder warten Sie, bis der Screenshot fertig ist</string>
     <string name="bugreport_finished_text">Tippen Sie hier, um Ihren Fehlerbericht zu teilen</string>
     <string name="bugreport_finished_title">Fehlerbericht #%d erfasst</string>

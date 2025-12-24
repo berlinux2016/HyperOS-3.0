@@ -40,7 +40,7 @@
     <string name="hq_warning_dialog_button_ack">Anerkennen</string>
     <string name="hq_warning_dialog_content_1">Im Hochqualitätsmodus werden Energieoptimierungen deaktiviert, um die Webcam-Qualität zu verbessern. Die Verwendung dieses Modus kann zu einem erheblichen Stromverbrauch führen, der zu einer Erwärmung des Geräts führen kann.</string>
     <string name="hq_warning_dialog_content_2"><b><u>WARNING:</u></b> Prolonged usage at high temperatures may have an adverse effect on the long term battery health of this device.</string>
-    <string name="hq_warning_dialog_dont_show_again">„Nicht mehr zeigen“</string>
+    <string name="hq_warning_dialog_dont_show_again">"Nicht mehr zeigen"</string>
     <string name="hq_warning_dialog_title">Hochwertiger Modus</string>
     <string name="list_item_text_back_camera">Rückkamera</string>
     <string name="list_item_text_front_camera">Frontkamera</string>
@@ -65,8 +65,8 @@
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="toggle_camera_button_description_back">Wechseln Sie zur Rückkamera</string>
     <string name="toggle_camera_button_description_front">Wechseln Sie zur Frontkamera</string>
-    <string name="toggle_high_quality_description_off">Schalten Sie „Hohe Qualität“ aus</string>
-    <string name="toggle_high_quality_description_on">Schalten Sie „Hohe Qualität“ ein</string>
+    <string name="toggle_high_quality_description_off">Schalten Sie "Hohe Qualität" aus</string>
+    <string name="toggle_high_quality_description_on">Schalten Sie "Hohe Qualität" ein</string>
     <string name="view_finder_description">Sucher anzeigen</string>
     <string name="zoom_ratio_button_current_description">Aktuelles Zoomverhältnis</string>
     <string name="zoom_ratio_description">Zoomverhältnis</string>

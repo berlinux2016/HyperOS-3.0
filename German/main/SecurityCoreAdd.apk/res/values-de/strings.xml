@@ -2,10 +2,10 @@
 <resources>
     <string name="Active">Aktiv</string>
     <string name="PassWordGuard">Zweitprofil-Passwort</string>
-    <string name="PrivacyContactDes1">"Contacts will become private.
-Messages will only appear in Second space."</string>
-    <string name="PrivacyContactDes2">"If you used private messages in First space,
-this feature will be added to Second space automatically."</string>
+    <string name="PrivacyContactDes1">"Kontakte werden privat.
+Nachrichten werden nur im zweiten Bereich angezeigt.</string>
+    <string name="PrivacyContactDes2">"Wenn Sie im ersten Bereich private Nachrichten verwendet haben,
+Diese Funktion wird automatisch zum zweiten Bereich hinzugefügt.</string>
     <string name="abc_action_bar_home_description">Navigieren Sie nach Hause</string>
     <string name="abc_action_bar_up_description">Navigieren Sie nach oben</string>
     <string name="abc_action_menu_overflow_description">Weitere Optionen</string>
@@ -58,10 +58,10 @@ this feature will be added to Second space automatically."</string>
     <string name="aon_learn_double_press_tip">Führen Sie eine doppelte Druckbewegung aus, wobei Ihre Handfläche zur Kamera zeigt, um die Musik anzuhalten</string>
     <string name="aon_learn_draw_circle_phone_tip">Zeichnen Sie einen Kreis im Uhrzeigersinn, wobei Ihre Handfläche zur Kamera zeigt, um Anrufe entgegenzunehmen</string>
     <string name="aon_learn_draw_circle_tip">Zeichnen Sie einen Kreis im Uhrzeigersinn, wobei Ihre Handfläche zur Kamera zeigt, um an das Tablet weitergeleitete Anrufe entgegenzunehmen</string>
-    <string name="aon_learn_gesture_position_down_tip">Hold your hand with fingers pointing down %1$d to %2$d cm from the camera until the hand icon appears</string>
+    <string name="aon_learn_gesture_position_down_tip">Halten Sie Ihre Hand so, dass die Finger %1$d bis %2$d cm von der Kamera nach unten zeigen, bis das Handsymbol angezeigt wird</string>
     <string name="aon_learn_gesture_position_left_tip">Hold your hand with fingers pointing left %1$d to %2$d cm from the camera until the hand icon appears</string>
     <string name="aon_learn_gesture_position_right_tip">Hold your hand with fingers pointing right %1$d to %2$d cm from the camera until the hand icon appears</string>
-    <string name="aon_learn_gesture_position_up_tip">Hold your hand with fingers pointing up %1$d to %2$d cm from the camera until the hand icon appears</string>
+    <string name="aon_learn_gesture_position_up_tip">Halten Sie Ihre Hand so, dass die Finger %1$d bis %2$d cm von der Kamera nach oben zeigen, bis das Handsymbol angezeigt wird</string>
     <string name="aon_learn_wave_down_tip">Bewegen Sie Ihre Hand nach unten, um zu scrollen</string>
     <string name="aon_learn_wave_left_tip">Winke mit der Hand nach links, um den vorherigen Titel abzuspielen.</string>
     <string name="aon_learn_wave_right_tip">Winke mit der Hand nach rechts, um den nächsten Titel abzuspielen.</string>
@@ -79,7 +79,7 @@ this feature will be added to Second space automatically."</string>
     <string name="auto_disable_screenbuttons_no">Niemals deaktivieren</string>
     <string name="auto_disable_screenbuttons_rotation_summary">Wenn sich Ihr Gerät im Querformat befindet, sind die Navigationstasten blockiert</string>
     <string name="auto_disable_screenbuttons_rotation_title">Navigationsschaltflächen im Querformat blockieren</string>
-    <string name="auto_disable_screenbuttons_summary">„Navigationsschaltflächen automatisch deaktivieren, wenn die Statusleiste nicht angezeigt wird. Tippen Sie zweimal auf eine Navigationsschaltfläche, um sie wieder zu aktivieren.“</string>
+    <string name="auto_disable_screenbuttons_summary">"Navigationsschaltflächen automatisch deaktivieren, wenn die Statusleiste nicht angezeigt wird. Tippen Sie zweimal auf eine Navigationsschaltfläche, um sie wieder zu aktivieren."</string>
     <string name="auto_disable_screenbuttons_title">Navigationsschaltflächen automatisch deaktivieren</string>
     <string name="back">Zurück</string>
     <string name="back_button">Zurück</string>
@@ -103,7 +103,7 @@ this feature will be added to Second space automatically."</string>
     <string name="bt_enable_pair_connect_ok">Verbinden</string>
     <string name="bt_enable_pair_connect_succceed">Erfolgreich verbunden</string>
     <string name="bt_enable_pair_connecting">Verbinden…</string>
-    <string name="bubble_app_empty_page">„Auf diesem Gerät konnten keine Apps gefunden werden, die Sprechblasen unterstützen.“</string>
+    <string name="bubble_app_empty_page">"Auf diesem Gerät konnten keine Apps gefunden werden, die Sprechblasen unterstützen."</string>
     <string name="bubble_app_manage">Konversationsblasen verwalten</string>
     <string name="bubble_notification">Gesprächsblasen</string>
     <string name="bubble_notification_switch">Sprechblasen anzeigen</string>
@@ -114,7 +114,7 @@ this feature will be added to Second space automatically."</string>
     <string name="button_text_next_step_timer">Weiter (%d)</string>
     <string name="button_touch">Leg deinen Finger auf den Sensor</string>
     <string name="camera_key_action_app_title">App öffnen</string>
-    <string name="camera_key_action_category_title">„Kamera kann nicht verwendet werden“</string>
+    <string name="camera_key_action_category_title">"Kamera kann nicht verwendet werden"</string>
     <string name="camera_key_action_none_title">Keine Aktion</string>
     <string name="camera_key_action_setting_title">Mi-Taste</string>
     <string name="camera_key_action_shortcut_call">Anruf</string>
@@ -127,53 +127,53 @@ this feature will be added to Second space automatically."</string>
     <string name="camera_key_action_toggle_title">Auslöser umschalten</string>
     <string name="can_not_delete_when_calling">Profile können während eines Anrufs nicht gelöscht werden</string>
     <string name="can_not_switch_when_calling">Während eines Anrufs ist ein Profilwechsel nicht möglich</string>
-    <string name="can_not_switch_when_desktop_mode">„Kann im Workstation-Modus nicht zwischen Leerzeichen wechseln“</string>
-    <string name="can_not_switch_when_extreme_endurance_battery_active">„Der zweite Speicherplatz kann wegen schwacher Batterie nicht genutzt werden“</string>
+    <string name="can_not_switch_when_desktop_mode">"Kann im Workstation-Modus nicht zwischen Leerzeichen wechseln"</string>
+    <string name="can_not_switch_when_extreme_endurance_battery_active">"Der zweite Speicherplatz kann wegen schwacher Batterie nicht genutzt werden"</string>
     <string name="can_not_switch_when_green_kid_active">Es ist verboten, Klone im Familienschutz zu wechseln</string>
     <string name="can_not_switch_when_green_kid_active_new">Wechsel zum Zweitprofil nicht möglich, wenn Family Guard eingeschaltet ist</string>
     <string name="can_not_switch_when_lock_to_app_enabled_classic_navigation">Zurück- und Vorschautaste gedrückt halten, um diese App zu lösen</string>
     <string name="can_not_switch_when_lock_to_app_enabled_guest_navigation">Vom unteren Bildschirmrand nach oben streichen und anhalten, um diese App zu lösen</string>
     <string name="can_not_switch_when_super_power_active">Bei aktiviertem Ultra-Stromsparen ist ein Profilwechsel nicht möglich</string>
     <string name="cancel">Leugnen</string>
-    <string name="cancelClosePassword">„Nicht ausschalten“</string>
+    <string name="cancelClosePassword">"Nicht ausschalten"</string>
     <string name="cancel_button">Cancel</string>
     <string name="changePassword">Kennwort ändern</string>
     <string name="change_brightness">Helligkeit anpassen</string>
     <string name="character_counter_content_description">%1$d von %2$d Zeichen eingegeben</string>
     <string name="character_counter_overflowed_content_description">Zeichengrenze überschritten: %1$d von %2$d</string>
     <string name="character_counter_pattern">%1$d/%2$d</string>
-    <string name="check_protocol_msg_detail">„Wenn während der Reparatur Teile im Zusammenhang mit dem Gerätespeicher ausgetauscht werden müssen, können einige Daten verloren gehen. Sichern Sie alle Ihre Daten, bevor Sie den Reparaturmodus aktivieren. Das Kundendienstpersonal ist nicht verantwortlich für Datenverluste, die während des Reparaturvorgangs auftreten können.“</string>
+    <string name="check_protocol_msg_detail">"Wenn während der Reparatur Teile im Zusammenhang mit dem Gerätespeicher ausgetauscht werden müssen, können einige Daten verloren gehen. Sichern Sie alle Ihre Daten, bevor Sie den Reparaturmodus aktivieren. Das Kundendienstpersonal ist nicht verantwortlich für Datenverluste, die während des Reparaturvorgangs auftreten können."</string>
     <string name="check_protocol_msg_title">Haftungsausschluss für Benutzerdaten</string>
-    <string name="chinese_day_1">初一</string>
-    <string name="chinese_day_10">初十</string>
-    <string name="chinese_day_11">十一</string>
-    <string name="chinese_day_12">十二</string>
-    <string name="chinese_day_13">十三</string>
-    <string name="chinese_day_14">十四</string>
-    <string name="chinese_day_15">十五</string>
-    <string name="chinese_day_16">十六</string>
-    <string name="chinese_day_17">十七</string>
-    <string name="chinese_day_18">十八</string>
-    <string name="chinese_day_19">十九</string>
-    <string name="chinese_day_2">初二</string>
-    <string name="chinese_day_20">二十</string>
-    <string name="chinese_day_21">廿一</string>
-    <string name="chinese_day_22">廿二</string>
-    <string name="chinese_day_23">廿三</string>
-    <string name="chinese_day_24">廿四</string>
-    <string name="chinese_day_25">廿五</string>
-    <string name="chinese_day_26">廿六</string>
-    <string name="chinese_day_27">廿七</string>
-    <string name="chinese_day_28">廿八</string>
-    <string name="chinese_day_29">廿九</string>
-    <string name="chinese_day_3">初三</string>
-    <string name="chinese_day_30">三十</string>
-    <string name="chinese_day_4">初四</string>
-    <string name="chinese_day_5">初五</string>
-    <string name="chinese_day_6">初六</string>
-    <string name="chinese_day_7">初七</string>
-    <string name="chinese_day_8">初八</string>
-    <string name="chinese_day_9">初九</string>
+    <string name="chinese_day_1">Erste Klasse der Mittelschule</string>
+    <string name="chinese_day_10">Der zehnte Tag des Mondmonats</string>
+    <string name="chinese_day_11">elf</string>
+    <string name="chinese_day_12">zwölf</string>
+    <string name="chinese_day_13">Dreizehn</string>
+    <string name="chinese_day_14">vierzehn</string>
+    <string name="chinese_day_15">fünfzehn</string>
+    <string name="chinese_day_16">sechzehn</string>
+    <string name="chinese_day_17">siebzehn</string>
+    <string name="chinese_day_18">achtzehn</string>
+    <string name="chinese_day_19">neunzehn</string>
+    <string name="chinese_day_2">Zweite Klasse der Mittelschule</string>
+    <string name="chinese_day_20">zwanzig</string>
+    <string name="chinese_day_21">Einundzwanzig</string>
+    <string name="chinese_day_22">zweiundzwanzig</string>
+    <string name="chinese_day_23">Dreiundzwanzig</string>
+    <string name="chinese_day_24">Vierundzwanzig</string>
+    <string name="chinese_day_25">Fünfundzwanzig</string>
+    <string name="chinese_day_26">Sechsundzwanzig</string>
+    <string name="chinese_day_27">Siebenundzwanzig</string>
+    <string name="chinese_day_28">Achtundzwanzig</string>
+    <string name="chinese_day_29">Neunundzwanzig</string>
+    <string name="chinese_day_3">Dritte Klasse</string>
+    <string name="chinese_day_30">dreißig</string>
+    <string name="chinese_day_4">Vierter Tag des neuen Mondjahres</string>
+    <string name="chinese_day_5">fünfter Tag</string>
+    <string name="chinese_day_6">Der sechste Tag des Mondmonats</string>
+    <string name="chinese_day_7">Der siebte Tag des Mondmonats</string>
+    <string name="chinese_day_8">Der achte Tag des Mondmonats</string>
+    <string name="chinese_day_9">Neunter Tag</string>
     <string name="chinese_day_elementary">初</string>
     <string name="chinese_digit_eight">八</string>
     <string name="chinese_digit_five">五</string>
@@ -234,7 +234,7 @@ this feature will be added to Second space automatically."</string>
     <string name="closed">Off</string>
     <string name="complete_setting">Beenden</string>
     <string name="complete_setting_sub_title">Sie können auch später wiederkommen, um die Einstellungen anzupassen.</string>
-    <string name="complete_setting_title">„Du bist bereit!“</string>
+    <string name="complete_setting_title">"Du bist bereit!"</string>
     <string name="confirm">Bestätigen</string>
     <string name="confirmClose">Ausschalten</string>
     <string name="confirmCloseSpaceDes">Nach dem Löschen kannst du nicht mehr auf das Zweitprofil zugreifen. Alle Daten werden verschoben oder gelöscht.</string>
@@ -244,7 +244,7 @@ this feature will be added to Second space automatically."</string>
     <string name="confirm_close_password_desc">Du kannst das Zweitprofil am Sperrbildschirm nicht mehr öffnen, wenn du das Passwort ausschaltest. Trotzdem ausschalten?</string>
     <string name="confirm_close_password_title">Passwort deaktivieren</string>
     <string name="confirm_main_space_password">Bitte bestätigen Sie das anfängliche Space-Passwort</string>
-    <string name="confirm_restore">„Nicht zeigen“</string>
+    <string name="confirm_restore">"Nicht zeigen"</string>
     <string name="contactData">Kontakte</string>
     <string name="contact_sub_titile_text">SMS-Daten werden zwischen beiden Profilen geteilt</string>
     <string name="contact_titile_text">Private Nachrichten im Zweitprofil anzeigen, \num diese jederzeit zu sehen</string>
@@ -257,7 +257,7 @@ this feature will be added to Second space automatically."</string>
     <string name="createUserFail">Erstellen fehlgeschlagen</string>
     <string name="create_app_icon_failed">Symbol erstellen fehlgeschlagen</string>
     <string name="create_app_icon_success">Symbol erfolgreich erstellt</string>
-    <string name="create_fail">„Der Reparaturmodus konnte nicht aktiviert werden. Versuchen Sie es erneut.“</string>
+    <string name="create_fail">"Der Reparaturmodus konnte nicht aktiviert werden. Versuchen Sie es erneut."</string>
     <string name="create_fail_because_max_user">Maximale Anzahl an Systemprofilen erreicht. Löschen Sie Second Space, Dual Apps oder Kid Space und versuchen Sie es erneut.</string>
     <string name="create_second_space">Erfolgreich erstellt</string>
     <string name="create_space_loading">Einen zweiten Raum schaffen…</string>
@@ -267,7 +267,7 @@ this feature will be added to Second space automatically."</string>
     <string formatted="false" name="cta_declaration_message_format">Du musst unsere &lt;font color=%s&gt;&lt;a href=%s&gt;%s&lt;/a&gt;&lt;/font&gt; lesen und akzeptieren, bevor du den Unternehmensmodus nutzt. Dein Gerät muss eine Internetverbindung herstellen, um den Unternehmensmodus zu aktivieren. Zustimmen?</string>
     <string name="cta_declaration_title">Allgemeine Geschäftsbedingungen</string>
     <string name="current_space">Aktuelles Profil</string>
-    <string name="custom_esc_logic">Passen Sie die Taste „Esc“ an</string>
+    <string name="custom_esc_logic">Passen Sie die Taste "Esc" an</string>
     <string name="custom_gesture_title">Eigene Gesten</string>
     <string name="customize_knock_gesture">Eigene Knöchelgesten</string>
     <string name="dataSafe">Ein Zweitprofil ist wie ein zweites Telefon</string>
@@ -283,7 +283,7 @@ this feature will be added to Second space automatically."</string>
     <string name="deleteDataDes">Du hast keine Elemente zum Verschieben ausgewählt. Du kannst die Elemente nach dem Löschen nicht mehr wiederherstellen.</string>
     <string name="delete_fingerprint">Fingerabdruck löschen</string>
     <string name="delete_fingerprint_desc">Der Fingerabdruck des zweiten Leerzeichens wird zusammen mit dem Passwort gelöscht</string>
-    <string name="delete_maintenance_mode">„Reparaturmodus deaktivieren. Starten Sie Ihr Gerät nicht neu.“</string>
+    <string name="delete_maintenance_mode">"Reparaturmodus deaktivieren. Starten Sie Ihr Gerät nicht neu."</string>
     <string name="delete_phone_fingerprint">Löschen Sie den Fingerabdruck des zweiten Leerzeichens</string>
     <string name="delete_src_file">Dateien löschen</string>
     <string name="delete_src_photo">Fotos löschen</string>
@@ -295,13 +295,13 @@ this feature will be added to Second space automatically."</string>
     <string name="dialog_tip_need_network">Zum Widerruf der Autorisierung muss sich dein Gerät mit dem Internet verbinden.</string>
     <string name="dialog_title">Aufmerksamkeit</string>
     <string name="dialog_title_service_error">Serverfehler</string>
-    <string name="dialog_undo_negative">„Nicht widerrufen“</string>
+    <string name="dialog_undo_negative">"Nicht widerrufen"</string>
     <string name="dialog_verify">Bestätige deinen Fingerabdruck</string>
     <string name="dialog_verify_fingerprint_retry">Fingerabdruck wurde nicht bestätigt. Erneut versuchen.</string>
     <string name="dir_switch_out_all_photos">Zweitprofilgalerie</string>
     <string name="disable">Ausschalten</string>
     <string name="disable_power_key_long_press_under_keyguard">Schalten Sie das Power-Button-Menü aus</string>
-    <string name="disagree">„Stimme nicht zu“</string>
+    <string name="disagree">"Stimme nicht zu"</string>
     <string name="diy_suppression_summary">Größe des Bereichs in Randnähe anpassen, in dem versehentliche Berührungen ignoriert werden</string>
     <string name="diy_suppression_title">Brauch</string>
     <string name="do_not_ask">Nicht mehr fragen</string>
@@ -310,7 +310,7 @@ this feature will be added to Second space automatically."</string>
     <string name="dock_location_title">Standort des App-Docks</string>
     <string name="dont_import">Nicht jetzt</string>
     <string name="double_click_power_key">Drücken Sie zweimal die Power-Taste</string>
-    <string name="double_click_volume_down_when_lock">Drücken Sie zweimal auf „Lautstärke verringern“, wenn der Bildschirm gesperrt ist</string>
+    <string name="double_click_volume_down_when_lock">Drücken Sie zweimal auf "Lautstärke verringern", wenn der Bildschirm gesperrt ist</string>
     <string name="double_knock">Fingerknöchel-Doppeltipp</string>
     <string name="downloading_space">Herunterladen…</string>
     <string name="drag_app_to_pad">Halten Sie gedrückt und ziehen Sie dann, um es auf Ihrem Tablet zu öffnen</string>
@@ -318,8 +318,8 @@ this feature will be added to Second space automatically."</string>
     <string name="dual_animation">Animation starten</string>
     <string name="dual_animation_description">Animation beim Start von dualen Apps anzeigen</string>
     <string name="dump_log">Erhalten Sie problembezogene Protokolle</string>
-    <string name="dump_log_summary">"This feature is designed for generating the %s log in the Beta version of MIUI. Use it with caution.
-You can view generated logs in File Manager."</string>
+    <string name="dump_log_summary">"Diese Funktion dient zum Generieren des %s-Protokolls in der Beta-Version von MIUI. Verwenden Sie sie mit Vorsicht."
+Sie können die generierten Protokolle im Dateimanager anzeigen."</string>
     <string name="dump_log_title">Über diese Funktion</string>
     <string name="early_morning">Morgen</string>
     <string name="earthly_branches_chen">辰</string>
@@ -343,7 +343,7 @@ You can view generated logs in File Manager."</string>
     <string name="ent_agency_code">Firmencode</string>
     <string name="ent_agency_code_hint">Geben Sie den Unternehmenscode ein</string>
     <string name="ent_agency_code_invalid">Eingegebener Firmencode ist ungültig.</string>
-    <string name="ent_agree_privacy_policy">„Ich habe die Datenschutzerklärung gelesen und bin damit einverstanden“</string>
+    <string name="ent_agree_privacy_policy">"Ich habe die Datenschutzerklärung gelesen und bin damit einverstanden"</string>
     <string name="ent_app_verified">Anscheinend sind auf deinem Gerät Arbeits-Apps installiert. Unternehmensmodus aktivieren?</string>
     <string name="ent_confirm_dialog_content">Nach Aktivierung des Unternehmensmodus kannst du nicht mehr in den aktuellen Status deines Systems zurückkehren. Alle deine Daten werden jedoch weiterhin auf diesem Gerät gespeichert. Du musst dein Gerät neu starten, um den Unternehmensmodus zu aktivieren. Jetzt aktivieren?</string>
     <string name="ent_disallow_running">Die Ausführung der App ist verboten</string>
@@ -435,24 +435,24 @@ You can view generated logs in File Manager."</string>
     <string name="fmt_date_timezone">D z</string>
     <string name="fmt_date_year">jjjj</string>
     <string name="fmt_time">T</string>
-    <string name="fmt_time_12hour">„h ‚Uhr‘“</string>
+    <string name="fmt_time_12hour">"h ‚Uhr‘"</string>
     <string name="fmt_time_12hour_minute">Hmm</string>
     <string name="fmt_time_12hour_minute_pm">h:mm a</string>
     <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
     <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
     <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
     <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
-    <string name="fmt_time_12hour_pm">ha</string>
-    <string name="fmt_time_24hour">„HH ‚Uhr‘“</string>
+    <string name="fmt_time_12hour_pm">Ha</string>
+    <string name="fmt_time_24hour">"HH ‚Uhr‘"</string>
     <string name="fmt_time_24hour_minute">HH: mm</string>
     <string name="fmt_time_24hour_minute_second">HH:mm:ss</string>
     <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
     <string name="fmt_time_millis">"S'ms'"</string>
     <string name="fmt_time_minute">"bedeuten"</string>
-    <string name="fmt_time_minute_second">„M'min's'“</string>
-    <string name="fmt_time_minute_second_millis">„m'min‘ s.S‘“</string>
-    <string name="fmt_time_second">„s“</string>
-    <string name="fmt_time_second_millis">„s.S‘‘“</string>
+    <string name="fmt_time_minute_second">"M'min's'"</string>
+    <string name="fmt_time_minute_second_millis">"m'min‘ s.S‘"</string>
+    <string name="fmt_time_second">"s"</string>
+    <string name="fmt_time_second_millis">"s.S‘‘"</string>
     <string name="fmt_time_timezone">T z</string>
     <string name="fmt_timezone">z</string>
     <string name="fmt_weekday">W</string>
@@ -471,7 +471,7 @@ You can view generated logs in File Manager."</string>
     <string name="freeform_demo_back">Zurück</string>
     <string name="freeform_demo_final_over">Fertig</string>
     <string name="freeform_demo_final_restart">Fangen Sie von vorne an</string>
-    <string name="freeform_demo_final_title">„Du bist bereit zu rocken!“</string>
+    <string name="freeform_demo_final_title">"Du bist bereit zu rocken!"</string>
     <string name="freeform_demo_go_on">Weiter</string>
     <string name="freeform_demo_next_tutorial">Weiter</string>
     <string name="freeform_demo_previous_tutorial">Zurück</string>
@@ -527,7 +527,7 @@ This feature works only when system navigation is set to gestures."</string>
     <string name="freeform_guide_slide_up_to_close_title">Schwebende Fenster schließen</string>
     <string name="freeform_guide_split_screen_combination_fold">Split-Screen-Kombination</string>
     <string name="freeform_guide_split_screen_combination_settings_fold">Split-Screen-Kombination</string>
-    <string name="freeform_guide_split_screen_combination_summary">Halten Sie in „Letzte“ eine geteilte Bildschirmvorschau gedrückt, um eine Verknüpfung für die Kombination zu erstellen</string>
+    <string name="freeform_guide_split_screen_combination_summary">Halten Sie in "Letzte" eine geteilte Bildschirmvorschau gedrückt, um eine Verknüpfung für die Kombination zu erstellen</string>
     <string name="freeform_guide_split_screen_combination_summary_fold">Erstellen Sie Verknüpfungen für Split-Screen-Kombinationen mithilfe des App-Docks auf dem inneren Bildschirm</string>
     <string name="freeform_guide_split_screen_combination_summary_pad">Erstellen Sie mithilfe des App-Docks Verknüpfungen für Split-Screen-Kombinationen</string>
     <string name="freeform_guide_split_screen_combination_title">Split-Screen-Kombination</string>
@@ -557,8 +557,8 @@ This feature works only when system navigation is set to gestures."</string>
     <string name="freeform_side_app_bar">Seitenleiste</string>
     <string name="freeform_slide_to_small_freeform">Ein schwebendes Fenster minimieren</string>
     <string name="freeform_slide_to_small_freeform_summary">Halten Sie die Aktionsleiste gedrückt und ziehen Sie sie in eine Ecke</string>
-    <string name="freeform_vedio_description">"· Press and hold, then pull down a notification to open it in a floating window.
-· Tap \"Floating windows\" in Recents to select apps."</string>
+    <string name="freeform_vedio_description">"· Halten Sie gedrückt und ziehen Sie dann eine Benachrichtigung nach unten, um sie in einem schwebenden Fenster zu öffnen.
+· Tippen Sie in "Letzte" auf "Floating Windows", um Apps auszuwählen."</string>
     <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Tap an app on the sidebar to open it in a floating window.
 · Drag an app to the center of the screen to open it in a floating window or to the side to use Split screen."</string>
     <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">Während Sie eine App verwenden, ziehen Sie eine andere aus der Seitenleiste in die Mitte des Bildschirms, um sie in einem schwebenden Fenster zu öffnen, oder zur Seite, um den geteilten Bildschirm zu verwenden</string>
@@ -653,7 +653,7 @@ This feature works only when system navigation is set to gestures."</string>
     <string name="greenguard_functional_description">Geräte aus der Ferne verwalten, Standortdaten anzeigen und installierte Apps steuern</string>
     <string name="greenguard_install_cancle">Nein danke</string>
     <string name="greenguard_install_confirm">Installieren</string>
-    <string name="greenguard_install_message">„Family Guard ist eine System-App. Sie benötigen kein Internet, um sie zu installieren.“</string>
+    <string name="greenguard_install_message">"Family Guard ist eine System-App. Sie benötigen kein Internet, um sie zu installieren."</string>
     <string name="greenguard_install_title">Installieren Sie Family Guard</string>
     <string name="greenguard_new_install_message">Family Guard ist eine System-App. Sie können diese App installieren, ohne sie herunterzuladen.</string>
     <string name="greenguard_new_install_title">Installieren Sie Family Guard</string>
@@ -681,7 +681,7 @@ Messages will only appear in Second space."</string>
     <string name="guide_insert_blank_tip">Zeichnen Sie eine vertikale Linie, um die Zeichen zu trennen. Wiederholen Sie diesen Vorgang, um sich ihnen anzuschließen.</string>
     <string name="guide_insert_blank_title">Charaktere verbinden oder trennen</string>
     <string name="guide_insert_word_exercise">Versuchen Sie, hier Text einzufügen</string>
-    <string name="guide_insert_word_tip">Zeichnen Sie „∧“ unter die Textzeile oder „∨“ darüber und schreiben Sie dann in das Feld, das sich öffnet</string>
+    <string name="guide_insert_word_tip">Zeichnen Sie "∧" unter die Textzeile oder "∨" darüber und schreiben Sie dann in das Feld, das sich öffnet</string>
     <string name="guide_insert_word_title">Text einfügen</string>
     <string name="guide_learn_use">Lernen</string>
     <string name="guide_media_play_pause">Video und Audio abspielen und anhalten</string>
@@ -689,7 +689,7 @@ Messages will only appear in Second space."</string>
     <string name="guide_media_volume">Passen Sie die Medienlautstärke an</string>
     <string name="guide_meida_next_previous">Zwischen Titeln wechseln</string>
     <string name="guide_new_line_exercise">Versuchen Sie, hier einen neuen Absatz zu beginnen</string>
-    <string name="guide_new_line_tip">Zeichnen Sie „⅃“ in eine Textzeile, um einen neuen Absatz zu beginnen</string>
+    <string name="guide_new_line_tip">Zeichnen Sie "⅃" in eine Textzeile, um einen neuen Absatz zu beginnen</string>
     <string name="guide_new_line_title">Beginnen Sie einen neuen Absatz</string>
     <string name="guide_page_up_down">Seiten umblättern</string>
     <string name="guide_phone_call_endcall">Auf das Tablet übertragene Anrufe annehmen und beenden</string>
@@ -705,11 +705,11 @@ Enter Second space from Lock screen"</string>
     <string name="guide_swipe_up_down">Wischen Sie nach oben und unten</string>
     <string name="handwriting_enable_dialog_cancel">Cancel</string>
     <string name="handwriting_enable_dialog_confirm">Einstellungen</string>
-    <string name="handwriting_enable_dialog_message">„Die aktuelle Tastatur unterstützt „Scribe“ nicht. Sie können Ihre Einstellungen in den Einstellungen ändern.“</string>
-    <string name="handwriting_enable_dialog_title">„Scribe“ ist ausgeschaltet</string>
-    <string name="handwriting_enable_dialog_unprompt">„Nicht mehr zeigen“</string>
-    <string name="has_created_second_space">"You can open Second space now.
-Two spaces. One device."</string>
+    <string name="handwriting_enable_dialog_message">"Die aktuelle Tastatur unterstützt "Scribe" nicht. Sie können Ihre Einstellungen in den Einstellungen ändern."</string>
+    <string name="handwriting_enable_dialog_title">"Scribe" ist ausgeschaltet</string>
+    <string name="handwriting_enable_dialog_unprompt">"Nicht mehr zeigen"</string>
+    <string name="has_created_second_space">"Sie können jetzt den zweiten Bereich öffnen.
+Zwei Leerzeichen. Ein Gerät."</string>
     <string name="heavenly_stems_bing">丙</string>
     <string name="heavenly_stems_ding">丁</string>
     <string name="heavenly_stems_geng">庚</string>
@@ -758,10 +758,10 @@ Two spaces. One device."</string>
     <string name="import_photo_suc">Importierte Fotos</string>
     <string name="input_space_finger">Jetzt einstellen</string>
     <string name="input_space_password">Jetzt einstellen</string>
-    <string name="inputmethod_switch_automatic">Die Eingabemethode wird automatisch umgeschaltet, wenn „Scribe“ aktiviert ist</string>
+    <string name="inputmethod_switch_automatic">Die Eingabemethode wird automatisch umgeschaltet, wenn "Scribe" aktiviert ist</string>
     <string name="instagram_send">Auf Instagram teilen</string>
     <string name="install">Installieren</string>
-    <string name="install_error">„Konnte nicht installiert werden. Versuchen Sie es erneut.“</string>
+    <string name="install_error">"Konnte nicht installiert werden. Versuchen Sie es erneut."</string>
     <string name="intelligence_suppression_summary">Größe des Bereichs in Randnähe, in dem versehentliche Berührungen ignoriert werden, dynamisch an deinen Griff anpassen</string>
     <string name="intelligence_suppression_title">Automatisch (empfohlen)</string>
     <string name="invalid_qr_code">Ungültiger QR-Code</string>
@@ -800,7 +800,7 @@ Two spaces. One device."</string>
     <string name="keyboard_back_light">Tastaturbeleuchtung</string>
     <string name="keyboard_back_light_automatic_adjustment">Hintergrundbeleuchtung automatisch anpassen</string>
     <string name="keyboard_back_light_brightness">Helligkeit der Hintergrundbeleuchtung</string>
-    <string name="keyboard_connect_fail_text">„Konnte Tastatur nicht verbinden“</string>
+    <string name="keyboard_connect_fail_text">"Konnte Tastatur nicht verbinden"</string>
     <string name="keyboard_connect_lose_text">Tastaturverbindung unterbrochen</string>
     <string name="keyboard_connect_low_electricity_text">Tastaturakku ist schwach. Schließ ihn an eine Stromquelle an.</string>
     <string name="keyboard_connect_success_text">Tastatur erfolgreich verbunden</string>
@@ -829,7 +829,7 @@ Two spaces. One device."</string>
     <string name="keyboard_touchpad_click_force_strong">Firma</string>
     <string name="keyboard_touchpad_click_force_weak">Licht</string>
     <string name="kid_mode_label">Kinderraum</string>
-    <string name="knock_edge_area_invalid">„Diese Geste funktioniert nicht in der Nähe von Bildschirmrändern“</string>
+    <string name="knock_edge_area_invalid">"Diese Geste funktioniert nicht in der Nähe von Bildschirmrändern"</string>
     <string name="knock_guide_dialog_title">Wähle eine Aktion für diese Geste. Du kannst sie später unter Einstellungen &gt; Weitere Einstellungen &gt; Tastenkürzel ändern.</string>
     <string name="knock_guide_drive_desc">Screenshots während der Fahrt erstellen</string>
     <string name="knock_guide_launch_desc">Lösen Sie Mi AI aus, wenn Ihr Telefon auf dem Tisch liegt</string>
@@ -850,13 +850,13 @@ Two spaces. One device."</string>
     <string name="ks_dialog_conflict">Dieses Kürzel wird bereits für \"%s\"verwendet</string>
     <string name="ks_dialog_modify_text">Tastenkombination eingeben, um dieses Kürzel zu bearbeiten.</string>
     <string name="ks_dialog_reset_btn">Wiederherstellen</string>
-    <string name="ks_dialog_reset_conflict_text">„Kann nicht zurückgesetzt werden. Diese Kombination ist bereits vergeben.“</string>
+    <string name="ks_dialog_reset_conflict_text">"Kann nicht zurückgesetzt werden. Diese Kombination ist bereits vergeben."</string>
     <string name="ks_dialog_reset_text_app">Standard-Kürzeleinstellungen zum Öffnen von Apps werden wiederhergestellt. Deine eigenen Kürzel werden gelöscht. Trotzdem wiederherstellen?</string>
     <string name="ks_dialog_reset_text_system">Standard-Kürzeleinstellungen jetzt wiederherstellen?</string>
     <string name="ks_dialog_title">Öffnen Sie %s</string>
     <string name="ks_launch_control_center">Kontrollzentrum</string>
     <string name="ks_launch_notification_center">Benachrichtigungsschatten</string>
-    <string name="ks_launch_recents_tasks">Öffnen Sie „Neueste“.</string>
+    <string name="ks_launch_recents_tasks">Öffnen Sie "Neueste".</string>
     <string name="ks_lock_screen">Bildschirm sperren</string>
     <string name="ks_regional_screen_shot">Screenshot (teilweise)</string>
     <string name="ks_reset_title">Standardeinstellungen wiederherstellen</string>
@@ -892,7 +892,7 @@ Two spaces. One device."</string>
     <string name="launch_noapp_dialog_install">Installieren</string>
     <string name="launch_noapp_dialog_replace">Einstellungen</string>
     <string name="launch_notification_center">Benachrichtigungsschatten</string>
-    <string name="launch_recents">Starten Sie „Neueste“.</string>
+    <string name="launch_recents">Starten Sie "Neueste".</string>
     <string name="launch_smarthome">Xiaomi Magic Control</string>
     <string name="launch_sound_recorder">Recorder</string>
     <string name="launch_voice_assistant">Starten Sie den Sprachassistenten</string>
@@ -910,10 +910,10 @@ Two spaces. One device."</string>
     <string name="lock_screen_open_second_space">Geben Sie auf dem Sperrbildschirm das zweite Leerzeichen ein</string>
     <string name="lock_settings_common_title">Einstellungen</string>
     <string name="long_press_back_key">Drücken Sie lange die Zurück-Taste</string>
-    <string name="long_press_buttom_key">Drücken Sie lange auf „Home“ auf dem Sperrbildschirm</string>
+    <string name="long_press_buttom_key">Drücken Sie lange auf "Home" auf dem Sperrbildschirm</string>
     <string name="long_press_home_key">Drücken Sie lange die Home-Taste</string>
     <string name="long_press_menu_key">Drücken Sie lange auf die Menütaste</string>
-    <string name="long_press_menu_key_when_lock">Drücken Sie lange auf „Menü“ auf dem Sperrbildschirm</string>
+    <string name="long_press_menu_key_when_lock">Drücken Sie lange auf "Menü" auf dem Sperrbildschirm</string>
     <string name="long_press_power_guide_know">Habe es</string>
     <string formatted="false" name="long_press_power_guide_message">Halte die Power-Taste für %s Sek gedrückt, um Google Assistant aufzuwecken. \nWenn du die Taste für %s Sek gedrückt hältst, öffnet sich stattdessen das Herunterfahren-Menü.</string>
     <string name="long_press_power_guide_settings">Einstellungen</string>
@@ -922,7 +922,7 @@ Two spaces. One device."</string>
     <string name="long_press_power_key_half_of_second">Power-Taste für %s Sek gedrückt halten, um Google Assistant einzuschalten</string>
     <string name="long_press_power_key_half_second">Halten Sie die Ein-/Aus-Taste für %ss gedrückt</string>
     <string name="long_press_power_key_tips">&lt;Data&gt;Langes Drücken der Power-Taste ist &lt;font color=#999999&gt;schneller und bequemer&lt;/font&gt;&lt;/Data&gt;</string>
-    <string name="long_press_volume_down">Drücken Sie lange auf „Lautstärke verringern“.</string>
+    <string name="long_press_volume_down">Drücken Sie lange auf "Lautstärke verringern".</string>
     <string name="lp_display_shortcut_keys">Halten Sie* gedrückt, um Verknüpfungen anzuzeigen</string>
     <string name="m3_sys_motion_easing_emphasized">path(M 0,0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1)</string>
     <string name="m3_sys_motion_easing_emphasized_accelerate">cubic-bezier(0.3, 0.0, 0.8, 0.2)</string>
@@ -952,9 +952,9 @@ Two spaces. One device."</string>
     <string name="material_clock_display_divider">:</string>
     <string name="material_clock_toggle_content_description">Wählen Sie AM oder PM</string>
     <string name="material_hour_selection">Stunde auswählen</string>
-    <string name="material_hour_suffix">"%1$s o'clock"</string>
+    <string name="material_hour_suffix">"%1$s Uhr"</string>
     <string name="material_minute_selection">Minuten auswählen</string>
-    <string name="material_minute_suffix">%1$s minutes</string>
+    <string name="material_minute_suffix">%1$s Minuten</string>
     <string name="material_motion_easing_accelerated">cubic-bezier(0.4, 0.0, 1.0, 1.0)</string>
     <string name="material_motion_easing_decelerated">cubic-bezier(0.0, 0.0, 0.2, 1.0)</string>
     <string name="material_motion_easing_emphasized">path(M 0,0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1)</string>
@@ -1023,10 +1023,10 @@ Two spaces. One device."</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Erfolgreich aktualisiert</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Erfrischend…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Zum Aktualisieren loslassen</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">„Das ist alles für den Moment“</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">„Das ist alles für den Moment“</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Das ist alles für den Moment"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"Das ist alles für den Moment"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Nur eine Sekunde…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">„Elemente konnten nicht geladen werden“</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Elemente konnten nicht geladen werden"</string>
     <string name="miuix_show_password">Passwort anzeigen</string>
     <string name="miuix_stretchablewidget_collapsed">Zusammengebrochen</string>
     <string name="miuix_stretchablewidget_expanded">Erweitert</string>
@@ -1087,12 +1087,12 @@ Two spaces. One device."</string>
     <string name="mtrl_checkbox_state_description_checked">Geprüft</string>
     <string name="mtrl_checkbox_state_description_indeterminate">Teilweise überprüft</string>
     <string name="mtrl_checkbox_state_description_unchecked">Nicht überprüft</string>
-    <string name="mtrl_chip_close_icon_content_description">Remove %1$s</string>
-    <string name="mtrl_exceed_max_badge_number_content_description">More than %1$d new notifications</string>
+    <string name="mtrl_chip_close_icon_content_description">%1$s entfernen</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Mehr als %1$d neue Benachrichtigungen</string>
     <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
     <string name="mtrl_picker_a11y_next_month">Wechseln Sie zum nächsten Monat</string>
     <string name="mtrl_picker_a11y_prev_month">Zum Vormonat wechseln</string>
-    <string name="mtrl_picker_announce_current_selection">Current selection: %1$s</string>
+    <string name="mtrl_picker_announce_current_selection">Aktuelle Auswahl: %1$s</string>
     <string name="mtrl_picker_cancel">Cancel</string>
     <string name="mtrl_picker_confirm">OK</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
@@ -1103,10 +1103,10 @@ Two spaces. One device."</string>
     <string name="mtrl_picker_invalid_format_example">Example: %1$s</string>
     <string name="mtrl_picker_invalid_format_use">Verwendung: %1$s</string>
     <string name="mtrl_picker_invalid_range">Ungültiger Bereich.</string>
-    <string name="mtrl_picker_navigate_to_year_description">Navigate to year %1$s</string>
-    <string name="mtrl_picker_out_of_range">Out of range: %1$s</string>
-    <string name="mtrl_picker_range_header_only_end_selected">Start date – %1$s</string>
-    <string name="mtrl_picker_range_header_only_start_selected">%1$s – End date</string>
+    <string name="mtrl_picker_navigate_to_year_description">Navigieren Sie zum Jahr %1$s</string>
+    <string name="mtrl_picker_out_of_range">Außerhalb des Bereichs: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Startdatum – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Enddatum</string>
     <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
     <string name="mtrl_picker_range_header_title">Wählen Sie Bereich aus</string>
     <string name="mtrl_picker_range_header_unselected">Startdatum – Enddatum</string>
@@ -1148,13 +1148,13 @@ Two spaces. One device."</string>
     <string name="newSecondSpace">Aktivieren Sie Zweites Leerzeichen</string>
     <string name="next_setp">Weiter</string>
     <string name="night">Abend</string>
-    <string name="no_match_repate_scanner">„Konnte keine passenden Fingerabdrücke finden, scannen Sie erneut.“</string>
+    <string name="no_match_repate_scanner">"Konnte keine passenden Fingerabdrücke finden, scannen Sie erneut."</string>
     <string name="no_media_button_receiver">No</string>
     <string name="none">Nichts</string>
     <string name="noon">Eins</string>
     <string name="normal_app">Erster Raum</string>
     <string name="not_set">Nicht festgelegt</string>
-    <string name="not_support_air_space">„Diese Funktion wird auf Ihrem Telefon nicht unterstützt“</string>
+    <string name="not_support_air_space">"Diese Funktion wird auf Ihrem Telefon nicht unterstützt"</string>
     <string name="not_support_multiple_users">Mehrere Profile werden nicht unterstützt</string>
     <string name="notificationSetPassword">Passwort festlegen</string>
     <string name="notificationSetPasswordDes">Daten im Zweitprofil schützen</string>
@@ -1204,9 +1204,9 @@ Two spaces. One device."</string>
     <string name="power_key_start_enjoy">Beginnen Sie mit der Verwendung von Google Assistant</string>
     <string name="power_key_start_guide">Google Assistant auf Geräten mit Vollbildschirm mit der Power-Taste aufwecken</string>
     <string name="power_off_cn_guide_1_open_power_panel">Öffnen Sie stattdessen das Shutdown-Menü</string>
-    <string name="power_off_cn_guide_1_sub_title">Sie können dies jederzeit unter „Einstellungen“ > „Gestenverknüpfungen“ > „Ausschalten und neu starten“ ändern.</string>
+    <string name="power_off_cn_guide_1_sub_title">Sie können dies jederzeit unter "Einstellungen" > "Gestenverknüpfungen" > "Ausschalten und neu starten" ändern.</string>
     <string name="power_off_cn_guide_1_talk_with_xiaoai">Satz</string>
-    <string name="power_off_cn_guide_1_title">Verwenden Sie „Drücken und halten Sie die Ein-/Aus-Taste“, um mit Xiaomi Hyper XiaoAi zu chatten</string>
+    <string name="power_off_cn_guide_1_title">Verwenden Sie "Drücken und halten Sie die Ein-/Aus-Taste", um mit Xiaomi Hyper XiaoAi zu chatten</string>
     <string name="power_off_cn_guide_2_get">Habe es</string>
     <string name="power_off_cn_guide_2_sub_title">Um das Menü zum Herunterfahren zu öffnen, halten Sie gleichzeitig die Ein-/Aus-Taste und die Lauter-Taste gedrückt.</string>
     <string name="power_off_cn_guide_2_title">Erfolgreich eingestellt</string>
@@ -1228,7 +1228,7 @@ Two spaces. One device."</string>
     <string name="pref_volume_launch_camera_title">Starten Sie die Kamera</string>
     <string name="pref_volume_wake_summary">Drücken der Lautstärketasten weckt das Gerät auf</string>
     <string name="pref_volume_wake_title">Wachen Sie mit den Lautstärketasten auf</string>
-    <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
+    <string name="preference_copied">\"%1$s\" in die Zwischenablage kopiert.</string>
     <string name="preferences_esc">Präferenzen</string>
     <string name="preferred_app_settings_reset">Auf Standard zurücksetzen</string>
     <string name="preferred_app_settings_reset_button">Zurücksetzen</string>
@@ -1260,9 +1260,9 @@ Two spaces. One device."</string>
     <string name="reset_passwd_success">Das Passwort wurde erfolgreich zurückgesetzt</string>
     <string name="reset_password_dialog_message">Du verwendest verschiedene Passworttypen für das Haupt- und Zweitprofil. Das Zweitprofil sollte denselben Passworttyp wie das Hauptprofil verwenden, damit die Verknüpfung ausgeblendet wird.</string>
     <string name="reset_password_dialog_positve_btn_title">Ändern</string>
-    <string name="reset_password_dialog_title">„Kann die Tastenkombination für das zweite Leerzeichen nicht ausblenden“</string>
-    <string name="restore_normal_show">„Keine privaten Nachrichten anzeigen“</string>
-    <string name="restore_show_desc">„Private Nachrichten werden nicht im zweiten Bereich angezeigt. Sie sind weiterhin im ersten Bereich verfügbar.“</string>
+    <string name="reset_password_dialog_title">"Kann die Tastenkombination für das zweite Leerzeichen nicht ausblenden"</string>
+    <string name="restore_normal_show">"Keine privaten Nachrichten anzeigen"</string>
+    <string name="restore_show_desc">"Private Nachrichten werden nicht im zweiten Bereich angezeigt. Sie sind weiterhin im ersten Bereich verfügbar."</string>
     <string name="restore_show_toast">Private Nachrichten werden nicht angezeigt</string>
     <string name="retain_src_file">Bewahren Sie Dateien auf</string>
     <string name="retain_src_photo">Behalten Sie Fotos</string>
@@ -1276,7 +1276,7 @@ Two spaces. One device."</string>
     <string name="scanner_fingerprint">Fingerabdruck scannen…</string>
     <string name="scanner_fingerprint_enter_second">Zweitprofil-Fingerabdruck scannen, \num das Zweitprofil vom Sperrbildschirm aus zu erreichen</string>
     <string name="scanner_fingerprint_error_tips_desc">Keine passenden Fingerabdrücke gefunden. Zweitprofilfingerabdruck hinzufügen?</string>
-    <string name="scanner_fingerprint_error_tips_title">„Kann keine passenden Fingerabdrücke finden“</string>
+    <string name="scanner_fingerprint_error_tips_title">"Kann keine passenden Fingerabdrücke finden"</string>
     <string name="scanner_fingerprint_tips_desc">Vorhandenen Fingerabdruck für das Zweitprofil auswählen. Du kannst ihn dann nicht mehr für das Hauptprofil verwenden.</string>
     <string name="scanner_fingerprint_tips_title">Mit vorhandenem Fingerabdruck auf das Zweitprofil zugreifen</string>
     <string name="scanner_second_space_fingerprint">Scannen Sie den zweiten Leerzeichen-Fingerabdruck</string>
@@ -1289,7 +1289,7 @@ Two spaces. One device."</string>
     <string name="screen_shot">Machen Sie einen Screenshot</string>
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
     <string name="search_menu_title">Suchen</string>
-    <string name="search_result_text">„Konnte keine Apps finden“</string>
+    <string name="search_result_text">"Konnte keine Apps finden"</string>
     <string name="search_screen_shot">Screenshot</string>
     <string name="secondSpace">Zweiter Raum</string>
     <string name="second_owner_finger_print">Zweiter Weltraum-Fingerabdruck</string>
@@ -1310,8 +1310,8 @@ Two spaces. One device."</string>
     <string name="setSecondSpacePasswordGuideDes">Verwenden Sie dieses Passwort, um über den Sperrbildschirm in das zweite Leerzeichen einzutreten</string>
     <string name="setSpacePasswordGuide">Verschiedene Passwörter verwenden, um vom Sperrbildschirm ins jeweilige Profil zu gelangen</string>
     <string name="setSuccess">Passwörter erfolgreich festgelegt</string>
-    <string name="set_password_main_user">Legen Sie die Bildschirmsperre „Erste Leertaste“ fest</string>
-    <string name="set_password_main_user_context">„Stellen Sie eine Bildschirmsperre ein, um Ihre Daten zu schützen. Sie müssen diese Bildschirmsperre aktivieren, wenn Sie den Reparaturmodus deaktivieren. Ihre Bildschirmsperre kann nicht wiederhergestellt werden. Merken Sie sich sie daher unbedingt.“</string>
+    <string name="set_password_main_user">Legen Sie die Bildschirmsperre "Erste Leertaste" fest</string>
+    <string name="set_password_main_user_context">"Stellen Sie eine Bildschirmsperre ein, um Ihre Daten zu schützen. Sie müssen diese Bildschirmsperre aktivieren, wenn Sie den Reparaturmodus deaktivieren. Ihre Bildschirmsperre kann nicht wiederhergestellt werden. Merken Sie sich sie daher unbedingt."</string>
     <string name="set_space_finger">Fingerabdruck einstellen</string>
     <string name="set_space_finger_sub_text_suc">Fingerabdruck erfolgreich festgelegt</string>
     <string name="set_space_password">Passwort festlegen</string>
@@ -1325,7 +1325,7 @@ Two spaces. One device."</string>
     <string name="settings_cross_notification_summary">Benachrichtigungen vom anderen Profil erhalten</string>
     <string name="settings_cross_notification_title">Benachrichtigungen</string>
     <string name="settings_keyboard_title">Tastatur</string>
-    <string name="settings_keyboard_warning">„Tastatur ist nicht angeschlossen“</string>
+    <string name="settings_keyboard_warning">"Tastatur ist nicht angeschlossen"</string>
     <string name="settings_msg_add_shortcut_to_owner_space">Verknüpfung zum ersten Leerzeichen hinzugefügt</string>
     <string name="settings_msg_add_shortcut_to_second_space">Verknüpfung im Zweitprofil erstellt</string>
     <string name="settings_msg_remove_shortcut_from_owner_space">Verknüpfung aus dem ersten Bereich entfernt</string>
@@ -1351,7 +1351,7 @@ Two spaces. One device."</string>
     <string name="show_decktop_quick_switch_icon">Startbildschirm-Verknüpfung</string>
     <string name="show_decktop_quick_switch_icon_detail">Verknüpfung für Profilwechsel am Hauptprofil-Startbildschirm anzeigen</string>
     <string name="show_menu">Menü anzeigen</string>
-    <string name="show_normal_content">„Private Gegenstände nicht anzeigen“</string>
+    <string name="show_normal_content">"Private Gegenstände nicht anzeigen"</string>
     <string name="show_noti_from_owner">Benachrichtigungen aus dem anderen Profil</string>
     <string name="show_noti_from_owner_detail">Auf diesem Profil Benachrichtigungen erhalten, wenn sie auf dem anderen ankommen</string>
     <string name="show_noti_quick_switch_icon">Verknüpfung in Benachrichtigungsleiste</string>
@@ -1396,7 +1396,7 @@ Two spaces. One device."</string>
     <string name="spaceSetting">Einstellungen</string>
     <string name="space_create_guide_desc_1">Speichern Sie Apps und Fotos sicher</string>
     <string name="space_create_guide_desc_2">Komplett einsatzbereites separates Profil</string>
-    <string name="space_create_guide_desc_3">„Das zweite Leerzeichen hat keinen Einfluss auf andere Elemente auf Ihrem Gerät.“</string>
+    <string name="space_create_guide_desc_3">"Das zweite Leerzeichen hat keinen Einfluss auf andere Elemente auf Ihrem Gerät."</string>
     <string name="space_create_guide_switchmode_title">Zwischen den Profilen wechseln</string>
     <string name="space_create_guide_title_1">Schützen Sie Ihre Privatsphäre</string>
     <string name="space_create_guide_title_2">Erstellen Sie jederzeit</string>
@@ -1430,12 +1430,12 @@ Two spaces. One device."</string>
     <string name="stylus_btn_screen_shot">Screenshot</string>
     <string name="stylus_btn_skip">Überspringen</string>
     <string name="stylus_connect">Tippen zum Verbinden</string>
-    <string name="stylus_connect_fail">„Verbindung konnte nicht hergestellt werden. Erneut anhängen.“</string>
-    <string name="stylus_connect_failV2">„Verbindung konnte nicht hergestellt werden. Versuchen Sie es erneut.“</string>
+    <string name="stylus_connect_fail">"Verbindung konnte nicht hergestellt werden. Erneut anhängen."</string>
+    <string name="stylus_connect_failV2">"Verbindung konnte nicht hergestellt werden. Versuchen Sie es erneut."</string>
     <string name="stylus_connect_fail_no_battery">Laden Sie Ihren Stift jetzt auf</string>
-    <string name="stylus_connect_fail_no_reason">„Verbindung konnte nicht hergestellt werden“</string>
-    <string name="stylus_connect_fail_not_match_tablet">„Stylus ist nicht mit Tablet kompatibel“</string>
-    <string name="stylus_connect_fail_not_open_gps">„Verbindung konnte nicht hergestellt werden. Schalten Sie die Ortungsdienste ein und versuchen Sie es erneut.“</string>
+    <string name="stylus_connect_fail_no_reason">"Verbindung konnte nicht hergestellt werden"</string>
+    <string name="stylus_connect_fail_not_match_tablet">"Stylus ist nicht mit Tablet kompatibel"</string>
+    <string name="stylus_connect_fail_not_open_gps">"Verbindung konnte nicht hergestellt werden. Schalten Sie die Ortungsdienste ein und versuchen Sie es erneut."</string>
     <string name="stylus_connecting">Verbinden…</string>
     <string name="stylus_default_percent">100</string>
     <string name="stylus_dislocation_summary">Stift hier anbringen</string>
@@ -1465,12 +1465,12 @@ Two spaces. One device."</string>
     <string name="stylus_laser_pen_title">Laserstift</string>
     <string name="stylus_laser_summary">Spotlight-Taste gedrückt halten, um Fokusbereiche einzukreisen</string>
     <string name="stylus_laser_title">Bereiche hervorheben</string>
-    <string name="stylus_not_connect_message">„Stift ist nicht verbunden“</string>
+    <string name="stylus_not_connect_message">"Stift ist nicht verbunden"</string>
     <string name="stylus_not_connect_message_new">Bring deinen Stift zum Koppeln an</string>
     <string name="stylus_ota_cancel">Cancel</string>
     <string name="stylus_ota_check_failed_battery">Prüfen fehlgeschlagen. Der Akku deines Stiftes ist fast leer.</string>
     <string name="stylus_ota_check_failed_info">Firmware-Version prüfen fehlgeschlagen. Bring den Stift erneut an.</string>
-    <string name="stylus_ota_check_failed_infoV2">„Firmware-Version konnte nicht abgerufen werden. Schließen Sie Ihren Stift erneut an.“</string>
+    <string name="stylus_ota_check_failed_infoV2">"Firmware-Version konnte nicht abgerufen werden. Schließen Sie Ihren Stift erneut an."</string>
     <string name="stylus_ota_check_update">Aktualisieren</string>
     <string name="stylus_ota_completed">Erfolgreich aktualisiert</string>
     <string name="stylus_ota_completed_tip">Firmware erfolgreich aktualisiert. Bring den Stift zum Koppeln an.</string>
@@ -1479,13 +1479,13 @@ Two spaces. One device."</string>
     <string name="stylus_ota_demands">Lass Bluetooth während der Aktualisierung eingeschaltet. Akku darf nicht unter %1$s sinken.</string>
     <string name="stylus_ota_download_failed">Firmware herunterladen fehlgeschlagen</string>
     <string name="stylus_ota_downloading_firmware">Firmware herunterladen</string>
-    <string name="stylus_ota_fail">„Konnte nicht aktualisiert werden“</string>
-    <string name="stylus_ota_fail_reason">„Das Firmware-Update konnte nicht abgeschlossen werden. Bringen Sie den Stift erneut an oder aktualisieren Sie stattdessen manuell.“</string>
-    <string name="stylus_ota_fail_special_reason">"Couldn't update stylus. Without this update, your stylus can only be used on screens with a %1$d Hz refresh rate. Reconnect the stylus or update manually."</string>
+    <string name="stylus_ota_fail">"Konnte nicht aktualisiert werden"</string>
+    <string name="stylus_ota_fail_reason">"Das Firmware-Update konnte nicht abgeschlossen werden. Bringen Sie den Stift erneut an oder aktualisieren Sie stattdessen manuell."</string>
+    <string name="stylus_ota_fail_special_reason">"Der Stift konnte nicht aktualisiert werden. Ohne dieses Update kann Ihr Stift nur auf Bildschirmen mit einer Bildwiederholfrequenz von %1$d Hz verwendet werden. Schließen Sie den Stift erneut an oder aktualisieren Sie ihn manuell."</string>
     <string name="stylus_ota_firmware_info">Firmware</string>
     <string name="stylus_ota_firmware_update">Firmware aktualisieren</string>
     <string name="stylus_ota_hardware_version">Hardwareversion</string>
-    <string name="stylus_ota_hava_new_version">„Neue Version:“</string>
+    <string name="stylus_ota_hava_new_version">"Neue Version:"</string>
     <string name="stylus_ota_latest">Auf dem neuesten Stand</string>
     <string name="stylus_ota_manual">Error 504 (Server Error)!!1504.That’s an error.There was an error. Please try again later.That’s all we know.</string>
     <string name="stylus_ota_manual_as_lowversion">Aktualisieren Sie Ihren Stift auf die neueste Version, um ihn verwenden zu können</string>
@@ -1493,7 +1493,7 @@ Two spaces. One device."</string>
     <string name="stylus_ota_net_error">Nach Updates suchen fehlgeschlagen. Mit Netzwerk verbinden und erneut versuchen.</string>
     <string name="stylus_ota_new_version">Aktualisieren</string>
     <string name="stylus_ota_popup_describe">Firmware-Update</string>
-    <string name="stylus_ota_popup_sub_describe">„Firmware wird aktualisiert. Berühren Sie nicht den Bildschirm und bewegen Sie den Stift nicht.“</string>
+    <string name="stylus_ota_popup_sub_describe">"Firmware wird aktualisiert. Berühren Sie nicht den Bildschirm und bewegen Sie den Stift nicht."</string>
     <string name="stylus_ota_serial_number">Seriennummer</string>
     <string name="stylus_ota_timeout_failed">Zeitüberschreitung der Sitzung</string>
     <string name="stylus_ota_update">Aktualisieren</string>
@@ -1505,7 +1505,7 @@ Two spaces. One device."</string>
     <string name="stylus_pinch_pressure_adjust_title">Pinch-Intensität</string>
     <string name="stylus_pinch_summary">Drücken Sie den Stift zusammen, um das Verknüpfungsfeld zu öffnen</string>
     <string name="stylus_pinch_title">Prise</string>
-    <string name="stylus_pinch_trigger_pressure_guide">„Wählen Sie, wie viel Druck erforderlich ist, um den Pinch zu verwenden.“</string>
+    <string name="stylus_pinch_trigger_pressure_guide">"Wählen Sie, wie viel Druck erforderlich ist, um den Pinch zu verwenden."</string>
     <string name="stylus_primary_key">Erster Knopf</string>
     <string name="stylus_projection">Vorsprung</string>
     <string name="stylus_quick_note_summary">Wenn der Bildschirm aus ist, tippe mit deinem Stift darauf, um mit dem Schreiben zu beginnen. Diese Funktion erhöht den Stromverbrauch.</string>
@@ -1546,7 +1546,7 @@ Two spaces. One device."</string>
     <string name="switch_data_app">Elemente ins Zweitprofil verschieben</string>
     <string name="switch_data_settings">Daten verschieben</string>
     <string name="switch_download_space">Arbeitsprofil wechseln</string>
-    <string name="switch_failed">„Konnte nicht bewegt werden“</string>
+    <string name="switch_failed">"Konnte nicht bewegt werden"</string>
     <string name="switch_file_success">Dateien erfolgreich verschoben</string>
     <string name="switch_in_contacts">Kontakte importieren</string>
     <string name="switch_in_files">Dateien importieren</string>
@@ -1573,7 +1573,7 @@ Two spaces. One device."</string>
     <string name="the_arbor_day">Tag der Laube</string>
     <string name="the_armed_forces_day">Tag der Streitkräfte</string>
     <string name="the_armys_day">PLA-Tag</string>
-    <string name="the_childrens_day">„Kindertag“</string>
+    <string name="the_childrens_day">"Kindertag"</string>
     <string name="the_chinese_youth_day">Jugendtag</string>
     <string name="the_christmas_day">Weihnachten</string>
     <string name="the_double_ninth_festival">Doppeltes neuntes Festival</string>
@@ -1581,16 +1581,16 @@ Two spaces. One device."</string>
     <string name="the_easter_day">Ostern</string>
     <string name="the_eve_of_the_spring_festival">Vorabend des chinesischen Neujahrs</string>
     <string name="the_fifth_day">Fünfter Tag des chinesischen Neujahrs</string>
-    <string name="the_fools_day">„Aprilscherz“</string>
+    <string name="the_fools_day">"Aprilscherz"</string>
     <string name="the_forth_day">Vierter Tag des chinesischen Neujahrs</string>
     <string name="the_hksar_establishment_day">Gründungstag der Sonderverwaltungszone Hongkong</string>
-    <string name="the_international_womens_day">„Frauentag“</string>
+    <string name="the_international_womens_day">"Frauentag"</string>
     <string name="the_laba_festival">Laba-Festival</string>
     <string name="the_labour_day">Tag der Arbeit</string>
     <string name="the_lantern_festival">Laternenfest</string>
     <string name="the_mid_autumn_festival">Mittherbstfest</string>
     <string name="the_national_day">Nationalfeiertag</string>
-    <string name="the_national_father_day">„Sun Yat-sens Geburtstag“</string>
+    <string name="the_national_father_day">"Sun Yat-sens Geburtstag"</string>
     <string name="the_new_years_day">Neujahr</string>
     <string name="the_night_of_sevens">Qixi-Fest</string>
     <string name="the_partys_day">CPC-Tag</string>
@@ -1601,9 +1601,9 @@ Two spaces. One device."</string>
     <string name="the_sixth_day">Sechster Tag des chinesischen Neujahrs</string>
     <string name="the_spirit_festival">Geisterfest</string>
     <string name="the_spring_festival">Chinesisches Neujahr</string>
-    <string name="the_teachers_day">„Tag der Lehrer“</string>
+    <string name="the_teachers_day">"Tag der Lehrer"</string>
     <string name="the_third_day">Dritter Tag des chinesischen Neujahrs</string>
-    <string name="the_tw_childrens_day">„Kindertag“</string>
+    <string name="the_tw_childrens_day">"Kindertag"</string>
     <string name="the_tw_youth_day">Jugendtag</string>
     <string name="the_united_nations_day">Tag der Vereinten Nationen</string>
     <string name="the_valentines_day">"Valentinstag"</string>
@@ -1715,7 +1715,7 @@ Two spaces. One device."</string>
     <string name="weixin_pay">WeChat-Zahlung</string>
     <string name="weixin_share_sign">Anmelden und teilen</string>
     <string name="whatsapp_send">Auf WhatsApp teilen</string>
-    <string name="workbench_mode_not_support_maintenancemode_mode">„Der Reparaturmodus kann im Workstation-Modus nicht aktiviert werden. Schalten Sie den Workstation-Modus aus und versuchen Sie es erneut.“</string>
+    <string name="workbench_mode_not_support_maintenancemode_mode">"Der Reparaturmodus kann im Workstation-Modus nicht aktiviert werden. Schalten Sie den Workstation-Modus aus und versuchen Sie es erneut."</string>
     <string name="xpsace_guide_button">Erstellen</string>
     <string name="xspace_account">Duale App-Konten</string>
     <string name="xspace_chocie">Duale App-Support</string>

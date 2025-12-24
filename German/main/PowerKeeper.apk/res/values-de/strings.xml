@@ -23,13 +23,13 @@
     <string name="enable_sleep_mode">Aktivieren Sie den Schlafmodus, um den Akkuverbrauch nachts zu optimieren</string>
     <string name="failure">Fehler</string>
     <string name="high_temp_benchmark_state">Überhitzung</string>
-    <string name="high_temp_benchmark_state_message">„Sieht aus, als wäre dieses Gerät jetzt zu heiß. Verwenden Sie diese App, nachdem das Gerät abgekühlt ist:“</string>
+    <string name="high_temp_benchmark_state_message">"Sieht aus, als wäre dieses Gerät jetzt zu heiß. Verwenden Sie diese App, nachdem das Gerät abgekühlt ist:"</string>
     <string name="high_temp_state">Überhitzung</string>
     <string name="high_temp_state_message">Ihr Gerät ist überhitzt. Mobile Daten, WLAN-Hotspots, GPS und Kamera werden eingeschränkt.</string>
     <string name="high_temp_state_message_orange_es">Um die Geräteleistung zu verbessern, wurden einige Apps vorübergehend deaktiviert.</string>
     <string name="insert_data">Daten einfügen</string>
     <string name="kill_all_back_pro_toast_message">Ihr Gerät ist überhitzt. Alle im Hintergrund laufenden Apps wurden vorerst geschlossen.</string>
-    <string name="kill_pkg_toast_message">„Apps können wegen Überhitzung des Geräts nicht verwendet werden“</string>
+    <string name="kill_pkg_toast_message">"Apps können wegen Überhitzung des Geräts nicht verwendet werden"</string>
     <string name="kill_some_back_pro_toast_message">Ihr Gerät ist überhitzt. Einige im Hintergrund laufende Apps wurden vorerst geschlossen.</string>
     <string name="lasttime_applist_cloud">Aktualisierte Apps:</string>
     <string name="lasttime_feature_cloud">Aktualisierte Funktionen:</string>
@@ -40,14 +40,14 @@
     <string name="screen_off_current">Bildschirm aus DC</string>
     <string name="screen_on_current">Bildschirm auf DC</string>
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
-    <string name="search_result_text">„Konnte keine Apps finden“</string>
+    <string name="search_result_text">"Konnte keine Apps finden"</string>
     <string name="softbank_high_temp_toast_time_10min">Taschenlampe ausgeschaltet, um Überhitzung zu vermeiden</string>
     <string name="softbank_high_temp_toast_time_4min">Der Blitz wurde ausgeschaltet, um eine Überhitzung zu vermeiden</string>
-    <string name="stricter_high_temp_state_message">„Das Gerät scheint überhitzt zu sein. Sie können vorerst nur Telefon und Kontakte verwenden.“</string>
+    <string name="stricter_high_temp_state_message">"Das Gerät scheint überhitzt zu sein. Sie können vorerst nur Telefon und Kontakte verwenden."</string>
     <string name="sucess">Fertig</string>
     <string name="thermal_cancel">Cancel</string>
     <string name="thermal_confirm">OK</string>
     <string name="trig_temperature">Starttemp</string>
-    <string name="update_profile_failture_not_connect_wifi">„Aktualisierung nicht möglich. Stellen Sie eine WLAN-Verbindung her und versuchen Sie es erneut.“</string>
+    <string name="update_profile_failture_not_connect_wifi">"Aktualisierung nicht möglich. Stellen Sie eine WLAN-Verbindung her und versuchen Sie es erneut."</string>
     <string name="update_profile_sucess">Vom Server erfolgreich aktualisiert</string>
 </resources>

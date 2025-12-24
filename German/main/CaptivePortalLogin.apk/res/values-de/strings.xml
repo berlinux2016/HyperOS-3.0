@@ -24,9 +24,9 @@
     <string name="custom_scheme_example">Beispielsweise erfordert die Anmeldeseite möglicherweise eine bestimmte Anwendung zur Authentifizierung</string>
     <string name="custom_scheme_warning">Das Netzwerk, dem Sie beitreten möchten, fordert das Öffnen einer anderen Anwendung an.</string>
     <string name="download_completed">Heruntergeladen</string>
-    <string name="downloading_paramfile">Downloading %1$s</string>
+    <string name="downloading_paramfile">%1$s wird heruntergeladen</string>
     <string name="error_continue_via_browser">Einzelheiten</string>
-    <string name="error_downloading_paramfile">Could not download %1$s</string>
+    <string name="error_downloading_paramfile">%1$s konnte nicht heruntergeladen werden</string>
     <string name="fallback_menu_item_copy_link">Link kopieren</string>
     <string name="fallback_menu_item_open_in_browser">Im Browser öffnen</string>
     <string name="fallback_menu_item_share_link">Link teilen</string>
@@ -39,10 +39,10 @@
     <string name="ssl_error_example">Beispielsweise gehört die Anmeldeseite möglicherweise nicht zu der angezeigten Organisation.</string>
     <string name="ssl_error_expired">Dieses Zertifikat ist abgelaufen.</string>
     <string name="ssl_error_invalid">Dieses Zertifikat ist ungültig.</string>
-    <string name="ssl_error_mismatch">„Der Name der Site stimmt nicht mit dem Namen auf dem Zertifikat überein.“</string>
-    <string name="ssl_error_not_yet_valid">„Dieses Zertifikat ist noch nicht gültig.“</string>
+    <string name="ssl_error_mismatch">"Der Name der Site stimmt nicht mit dem Namen auf dem Zertifikat überein."</string>
+    <string name="ssl_error_not_yet_valid">"Dieses Zertifikat ist noch nicht gültig."</string>
     <string name="ssl_error_unknown">Unbekannter Zertifikatsfehler.</string>
-    <string name="ssl_error_untrusted">„Dieses Zertifikat stammt nicht von einer vertrauenswürdigen Stelle.“</string>
+    <string name="ssl_error_untrusted">"Dieses Zertifikat stammt nicht von einer vertrauenswürdigen Stelle."</string>
     <string name="ssl_error_view_certificate">Zertifikat ansehen</string>
     <string name="ssl_error_warning">Das Netzwerk, dem Sie beitreten möchten, weist Sicherheitsprobleme auf.</string>
     <string name="ssl_security_warning_title">Sicherheitswarnung</string>

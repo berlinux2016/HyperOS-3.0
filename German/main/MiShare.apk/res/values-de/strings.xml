@@ -73,36 +73,36 @@
     <string name="cancel_send">Senden abbrechen</string>
     <string name="cancel_task">Cancel</string>
     <string name="canceled">Abgesagt</string>
-    <string name="chinese_day_1">初一</string>
-    <string name="chinese_day_10">初十</string>
-    <string name="chinese_day_11">十一</string>
-    <string name="chinese_day_12">十二</string>
-    <string name="chinese_day_13">十三</string>
-    <string name="chinese_day_14">十四</string>
-    <string name="chinese_day_15">十五</string>
-    <string name="chinese_day_16">十六</string>
-    <string name="chinese_day_17">十七</string>
-    <string name="chinese_day_18">十八</string>
-    <string name="chinese_day_19">十九</string>
-    <string name="chinese_day_2">初二</string>
-    <string name="chinese_day_20">二十</string>
-    <string name="chinese_day_21">廿一</string>
-    <string name="chinese_day_22">廿二</string>
-    <string name="chinese_day_23">廿三</string>
-    <string name="chinese_day_24">廿四</string>
-    <string name="chinese_day_25">廿五</string>
-    <string name="chinese_day_26">廿六</string>
-    <string name="chinese_day_27">廿七</string>
-    <string name="chinese_day_28">廿八</string>
-    <string name="chinese_day_29">廿九</string>
-    <string name="chinese_day_3">初三</string>
-    <string name="chinese_day_30">三十</string>
-    <string name="chinese_day_4">初四</string>
-    <string name="chinese_day_5">初五</string>
-    <string name="chinese_day_6">初六</string>
-    <string name="chinese_day_7">初七</string>
-    <string name="chinese_day_8">初八</string>
-    <string name="chinese_day_9">初九</string>
+    <string name="chinese_day_1">Erste Klasse der Mittelschule</string>
+    <string name="chinese_day_10">Der zehnte Tag des Mondmonats</string>
+    <string name="chinese_day_11">elf</string>
+    <string name="chinese_day_12">zwölf</string>
+    <string name="chinese_day_13">Dreizehn</string>
+    <string name="chinese_day_14">vierzehn</string>
+    <string name="chinese_day_15">fünfzehn</string>
+    <string name="chinese_day_16">sechzehn</string>
+    <string name="chinese_day_17">siebzehn</string>
+    <string name="chinese_day_18">achtzehn</string>
+    <string name="chinese_day_19">neunzehn</string>
+    <string name="chinese_day_2">Zweite Klasse der Mittelschule</string>
+    <string name="chinese_day_20">zwanzig</string>
+    <string name="chinese_day_21">Einundzwanzig</string>
+    <string name="chinese_day_22">zweiundzwanzig</string>
+    <string name="chinese_day_23">Dreiundzwanzig</string>
+    <string name="chinese_day_24">Vierundzwanzig</string>
+    <string name="chinese_day_25">Fünfundzwanzig</string>
+    <string name="chinese_day_26">Sechsundzwanzig</string>
+    <string name="chinese_day_27">Siebenundzwanzig</string>
+    <string name="chinese_day_28">Achtundzwanzig</string>
+    <string name="chinese_day_29">Neunundzwanzig</string>
+    <string name="chinese_day_3">Dritte Klasse</string>
+    <string name="chinese_day_30">dreißig</string>
+    <string name="chinese_day_4">Vierter Tag des neuen Mondjahres</string>
+    <string name="chinese_day_5">fünfter Tag</string>
+    <string name="chinese_day_6">Der sechste Tag des Mondmonats</string>
+    <string name="chinese_day_7">Der siebte Tag des Mondmonats</string>
+    <string name="chinese_day_8">Der achte Tag des Mondmonats</string>
+    <string name="chinese_day_9">Neunter Tag</string>
     <string name="chinese_day_elementary">初</string>
     <string name="chinese_digit_eight">八</string>
     <string name="chinese_digit_five">五</string>
@@ -145,7 +145,7 @@
     <string name="close">Schließen</string>
     <string name="complete">Fertig</string>
     <string name="confirm">Bestätigen</string>
-    <string name="confirm_cancel_receive">„Sie können diesen Artikel nicht erhalten, wenn Sie die Übertragung jetzt abbrechen. Trotzdem abbrechen?“</string>
+    <string name="confirm_cancel_receive">"Sie können diesen Artikel nicht erhalten, wenn Sie die Übertragung jetzt abbrechen. Trotzdem abbrechen?"</string>
     <string name="confirm_cancel_task_files">Dateien an %1$s senden abbrechen?</string>
     <string name="confirm_cancel_task_images">Bilder an %1$s senden abbrechen?</string>
     <string name="connect">Verbinden</string>
@@ -167,7 +167,7 @@
     <string name="device_name">Gerätename</string>
     <string name="device_name_with_ellipsize">%1$s…</string>
     <string name="device_offline">Das andere Gerät ist offline. Fangen Sie von vorne an.</string>
-    <string name="device_status_failed">„Konnte nicht gesendet werden“</string>
+    <string name="device_status_failed">"Konnte nicht gesendet werden"</string>
     <string name="device_status_sending">Senden…</string>
     <string name="device_status_success">Gesendet</string>
     <string name="device_status_waiting">Warten…</string>
@@ -196,7 +196,7 @@
     <string name="earthly_branches_zi">子</string>
     <string name="eras_ad">CE</string>
     <string name="eras_bc">BCE</string>
-    <string name="err_send_short_connect_error">„Verbindung konnte nicht hergestellt werden“</string>
+    <string name="err_send_short_connect_error">"Verbindung konnte nicht hergestellt werden"</string>
     <string name="err_send_short_remote_busy">Gerät ist beschäftigt</string>
     <string name="err_send_short_remote_cancel">Abgesagt</string>
     <string name="err_send_short_remote_refuse">Abgelehnt</string>
@@ -221,8 +221,8 @@
     <string name="error_p2p_recv_connect_timeout">Verbinden fehlgeschlagen. Beide Geräte neu mit WLAN verbinden und erneut versuchen.</string>
     <string name="error_p2p_recv_connect_timeout_china">Verbinden fehlgeschlagen. Beide Geräte neu mit WLAN verbinden und erneut versuchen.</string>
     <string name="error_permission_denied">Um diese Funktion zu nutzen, erteile Xiaomi Share in Einstellungen alle erforderlichen Berechtigungen.</string>
-    <string name="error_receive_file_cannot_read">„Datei konnte nicht empfangen werden“</string>
-    <string name="error_receive_file_changed">„Kann nicht empfangen werden. Der Artikel wurde geändert.“</string>
+    <string name="error_receive_file_cannot_read">"Datei konnte nicht empfangen werden"</string>
+    <string name="error_receive_file_changed">"Kann nicht empfangen werden. Der Artikel wurde geändert."</string>
     <string name="error_receive_file_file_opened">Element nicht empfangen. Anscheinend wird es gerade verwendet.</string>
     <string name="error_receive_file_no_enough_space">Empfang nicht möglich. Nicht genügend Speicherplatz.</string>
     <string name="error_receive_file_service_disabled">Eingehender Transfer abgebrochen</string>
@@ -238,8 +238,8 @@
     <string name="error_remote_wlan_off">Schalten Sie WLAN auf dem anderen Gerät ein</string>
     <string name="error_remote_wlan_off_china">Schalten Sie WLAN auf dem anderen Gerät ein</string>
     <string name="error_self_busy">Gerät ist ausgelastet. Etwas warten und erneut versuchen.</string>
-    <string name="error_send_file_cannot_read">„Datei konnte nicht gesendet werden. Versuchen Sie es erneut.“</string>
-    <string name="error_send_file_no_enough_space">„Kann nicht gesendet werden. Nicht genügend Speicherplatz auf dem anderen Gerät.“</string>
+    <string name="error_send_file_cannot_read">"Datei konnte nicht gesendet werden. Versuchen Sie es erneut."</string>
+    <string name="error_send_file_no_enough_space">"Kann nicht gesendet werden. Nicht genügend Speicherplatz auf dem anderen Gerät."</string>
     <string name="error_send_file_not_found">Datei nicht gefunden. Erneut versuchen.</string>
     <string name="error_send_file_service_disabled">Ausgehender Transfer abgebrochen</string>
     <string name="error_send_transfer_error">Elemente senden fehlgeschlagen. Etwas warten und erneut versuchen.</string>
@@ -251,15 +251,15 @@
     <string name="error_wifi_display_in_use">Während des Castings können keine Dateien an andere Geräte gesendet werden</string>
     <string name="evening">Nachmittag</string>
     <string name="expand_button_title">Fortschrittlich</string>
-    <string name="fail_in_send">„Konnte nicht gesendet werden“</string>
-    <string name="file_cannot_print">„Dieses Element kann nicht gedruckt werden.“</string>
-    <string name="file_cannot_screen_throw">„Dieser Gegenstand kann nicht gewirkt werden.“</string>
+    <string name="fail_in_send">"Konnte nicht gesendet werden"</string>
+    <string name="file_cannot_print">"Dieses Element kann nicht gedruckt werden."</string>
+    <string name="file_cannot_screen_throw">"Dieser Gegenstand kann nicht gewirkt werden."</string>
     <string name="file_progress">%1$s</string>
-    <string name="file_receive_progress">Progress: %1$d%%</string>
+    <string name="file_receive_progress">Fortschritt: %1$d%%</string>
     <string name="file_receive_progress_title">Fortschritt</string>
-    <string name="file_received_successfully_from_pc">Received more than %2$d files from %1$s successfully</string>
+    <string name="file_received_successfully_from_pc">Mehr als %2$d Dateien von %1$s erfolgreich empfangen</string>
     <string name="file_sending">Dateien werden übertragen…</string>
-    <string name="file_transfer_progress">Progress: %1$d%%</string>
+    <string name="file_transfer_progress">Fortschritt: %1$d%%</string>
     <string name="file_transfer_progress_title">Fortschritt</string>
     <string name="file_transferring">Elemente werden übertragen. Später erneut versuchen.</string>
     <string name="fmt_chinese_date">Nmonthe</string>
@@ -284,24 +284,24 @@
     <string name="fmt_date_timezone">D z</string>
     <string name="fmt_date_year">jjjj</string>
     <string name="fmt_time">T</string>
-    <string name="fmt_time_12hour">„h ‚Uhr‘“</string>
+    <string name="fmt_time_12hour">"h ‚Uhr‘"</string>
     <string name="fmt_time_12hour_minute">Hmm</string>
     <string name="fmt_time_12hour_minute_pm">h:mm a</string>
     <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
     <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
     <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
     <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
-    <string name="fmt_time_12hour_pm">ha</string>
-    <string name="fmt_time_24hour">„HH ‚Uhr‘“</string>
+    <string name="fmt_time_12hour_pm">Ha</string>
+    <string name="fmt_time_24hour">"HH ‚Uhr‘"</string>
     <string name="fmt_time_24hour_minute">HH: mm</string>
     <string name="fmt_time_24hour_minute_second">HH:mm:ss</string>
     <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
     <string name="fmt_time_millis">"S'ms'"</string>
     <string name="fmt_time_minute">"bedeuten"</string>
-    <string name="fmt_time_minute_second">„M'min's'“</string>
-    <string name="fmt_time_minute_second_millis">„m'min‘ s.S‘“</string>
-    <string name="fmt_time_second">„s“</string>
-    <string name="fmt_time_second_millis">„s.S‘‘“</string>
+    <string name="fmt_time_minute_second">"M'min's'"</string>
+    <string name="fmt_time_minute_second_millis">"m'min‘ s.S‘"</string>
+    <string name="fmt_time_second">"s"</string>
+    <string name="fmt_time_second_millis">"s.S‘‘"</string>
     <string name="fmt_time_timezone">T z</string>
     <string name="fmt_timezone">z</string>
     <string name="fmt_weekday">W</string>
@@ -318,8 +318,8 @@
     <string name="friday_short">Fr</string>
     <string name="friday_shortest">Fr</string>
     <string name="functions_are_being_developed">Diese Funktion wird bald verfügbar sein. Bleiben Sie dran!</string>
-    <string name="global_help">„Gerät kann nicht gefunden werden“</string>
-    <string name="global_my">"My device
+    <string name="global_help">"Gerät kann nicht gefunden werden"</string>
+    <string name="global_my">"Mein Gerät
 %1$s"</string>
     <string name="go_to_settings">Gehen Sie zu Einstellungen</string>
     <string name="guide_page_view1">Turn on Xiaomi Share on both devices. The other person can tap the toggle in Control center. Page %1$d of %2$d. Swipe left or right with two fingers to switch.</string>
@@ -331,8 +331,8 @@
     <string name="guide_summary_1">Die andere Person kann auf den Schalter im Benachrichtigungsschatten tippen</string>
     <string name="guide_summary_1_lyra">Sie können Xiaomi Share im Kontrollzentrum aktivieren</string>
     <string name="guide_summary_1_os3">Sie können Xiaomi Share im Kontrollzentrum aktivieren</string>
-    <string name="guide_summary_2">„Wählen Sie das Gerät aus, an das Sie Elemente senden möchten, und tippen Sie auf das entsprechende Symbol.“</string>
-    <string name="guide_summary_2_os3">„Wählen Sie das Gerät aus, an das Sie Artikel senden möchten“</string>
+    <string name="guide_summary_2">"Wählen Sie das Gerät aus, an das Sie Elemente senden möchten, und tippen Sie auf das entsprechende Symbol."</string>
+    <string name="guide_summary_2_os3">"Wählen Sie das Gerät aus, an das Sie Artikel senden möchten"</string>
     <string name="guide_summary_3">Platzieren Sie die hinteren NFC-Bereiche zweier Geräte nahe beieinander, um mit der Freigabe zu beginnen</string>
     <string name="guide_title_1">Zeitmanagement für Sehschutz</string>
     <string name="guide_title_1_lyra">Aktivieren Sie Xiaomi Share, um Dateien zu empfangen</string>
@@ -350,7 +350,7 @@
     <string name="heavenly_stems_wu">戊</string>
     <string name="heavenly_stems_xin">辛</string>
     <string name="heavenly_stems_yi">乙</string>
-    <string name="help">„Kann keine Geräte finden?“</string>
+    <string name="help">"Kann keine Geräte finden?"</string>
     <string name="hide">Verstecken</string>
     <string name="hisense">Hisense</string>
     <string name="hisense_phone">Hisense</string>
@@ -367,7 +367,7 @@
     <string name="island_app_id">2882303761518090152</string>
     <string name="jump_market_dialog_btn_cancel">Cancel</string>
     <string name="jump_market_dialog_btn_open">Öffnen</string>
-    <string name="jump_market_dialog_message">„Diese Funktion wird vom System-Framework nicht unterstützt. Sie können sie in GetApps aktualisieren. GetApps jetzt öffnen?“</string>
+    <string name="jump_market_dialog_message">"Diese Funktion wird vom System-Framework nicht unterstützt. Sie können sie in GetApps aktualisieren. GetApps jetzt öffnen?"</string>
     <string name="jump_market_dialog_title">Aufmerksamkeit</string>
     <string name="lenovo">Lenovo</string>
     <string name="lenovo_phone">Lenovo-Telefon</string>
@@ -415,9 +415,9 @@
     <string name="mishare_nfc_help_web">https://sf.pay.xiaomi.com/views/cmsModelPages/nfcArea.html</string>
     <string name="mishare_service_channel_desc">Benachrichtigungen über Xiaomi Share-Prozesse</string>
     <string name="mishare_settings_summary_international">Mit Xiaomi Share kannst du Elemente drahtlos an andere Geräte in der Nähe senden.\nDiese Funktion wird von OPPO, vivo, realme und anderen Smartphone-Herstellern unterstützt. Du kannst die Liste der unterstützten Geräte auf der offiziellen Webseite der jeweiligen Marke einsehen.</string>
-    <string name="mishare_settings_summary_international_ios">"Xiaomi phones and tablets
-Apple devices: iPhone, iPad, and Mac
-Other Android devices: vivo, realme, OPPO, and other selected brands may support this feature. Refer to each brand's official website for details."</string>
+    <string name="mishare_settings_summary_international_ios">"Xiaomi-Telefone und -Tablets
+Apple-Geräte: iPhone, iPad und Mac
+Andere Android-Geräte: vivo, realme, OPPO und andere ausgewählte Marken unterstützen diese Funktion möglicherweise. Einzelheiten finden Sie auf der offiziellen Website der jeweiligen Marke.</string>
     <string name="mishare_state_protection">Xiaomi Share automatisch aktivieren</string>
     <string name="mishare_state_protection_summary">Schalten Sie Xiaomi Share automatisch wieder ein, wenn Bluetooth oder WLAN wieder aktiviert werden</string>
     <string name="mishare_state_protection_summary_china">Schalten Sie Xiaomi Share automatisch wieder ein, wenn Bluetooth oder WLAN wieder aktiviert werden</string>
@@ -472,10 +472,10 @@ Android devices from other manufacturers: vivo, realme, OPPO, Honor, Black Shark
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Erfolgreich aktualisiert</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Erfrischend…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Zum Aktualisieren loslassen</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">„Das ist alles für den Moment“</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">„Das ist alles für den Moment“</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Das ist alles für den Moment"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"Das ist alles für den Moment"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Nur eine Sekunde…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">„Elemente konnten nicht geladen werden“</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Elemente konnten nicht geladen werden"</string>
     <string name="miuix_show_password">Passwort anzeigen</string>
     <string name="miuix_stretchablewidget_collapsed">Zusammengebrochen</string>
     <string name="miuix_stretchablewidget_expanded">Erweitert</string>
@@ -528,9 +528,9 @@ Android devices from other manufacturers: vivo, realme, OPPO, Honor, Black Shark
     <string name="nfc_check_the_touch_device">Zur Verbindung der Geräte sollten WLAN und Bluetooth auch auf dem anderen Gerät aktiviert sein. Sieh unter Einstellungen &gt; Verbinden &amp; Teilen &gt; Verbundene Geräte nach, ob die Verbindung für das andere Gerät erlaubt ist und versuch es erneut.</string>
     <string name="nfc_check_the_touch_device_china">Zur Verbindung der Geräte sollten WLAN und Bluetooth auch auf dem anderen Gerät aktiviert sein. Sieh unter Einstellungen &gt; Verbinden &amp; Teilen &gt; Verbundene Geräte nach, ob die Verbindung für das andere Gerät erlaubt ist und versuch es erneut.</string>
     <string name="nfc_connect_fail">Verbinden fehlgeschlagen. Etwas warten und erneut versuchen.</string>
-    <string name="nfc_connect_fail_lyra_secure">„Sie können Xiaomi Share im Kontrollzentrum Ihres Geräts aktivieren.“</string>
+    <string name="nfc_connect_fail_lyra_secure">"Sie können Xiaomi Share im Kontrollzentrum Ihres Geräts aktivieren."</string>
     <string name="nfc_connect_fail_lyra_secure_title">Xiaomi Share ist ausgeschaltet</string>
-    <string name="nfc_connect_fail_pad">„Verbindung konnte nicht hergestellt werden“</string>
+    <string name="nfc_connect_fail_pad">"Verbindung konnte nicht hergestellt werden"</string>
     <string name="nfc_connecting">Verbinden…</string>
     <string name="nfc_need_to_enable_your_bluetooth_and_wlan">Um die Geräte zu verbinden, schalten Sie zunächst WLAN und Bluetooth auf diesem Gerät ein. Jetzt einschalten?</string>
     <string name="nfc_need_to_enable_your_bluetooth_and_wlan_china">Zur Verbindung der Geräte zunächst WLAN und Bluetooth auf diesem Gerät aktivieren. Jetzt aktivieren?</string>
@@ -542,7 +542,7 @@ Android devices from other manufacturers: vivo, realme, OPPO, Honor, Black Shark
     <string name="night">Abend</string>
     <string name="nio">NIO</string>
     <string name="nio_phone">NIO-Telefon</string>
-    <string name="no_longer_prompt">„Nicht mehr zeigen“</string>
+    <string name="no_longer_prompt">"Nicht mehr zeigen"</string>
     <string name="no_longer_receive">Dieses Gerät blockieren? Du wirst von ihm keine Dateien empfangen können.</string>
     <string name="noon">Eins</string>
     <string name="not_set">Nicht festgelegt</string>
@@ -574,7 +574,7 @@ Android devices from other manufacturers: vivo, realme, OPPO, Honor, Black Shark
     <string name="permission_denied_hint">Erforderliche Berechtigungen erteilen, um Xiaomi Share zu nutzen</string>
     <string name="permission_related">Berechtigungen</string>
     <string name="pm">PM</string>
-    <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
+    <string name="preference_copied">\"%1$s\" in die Zwischenablage kopiert.</string>
     <string name="privacy_authorize">Genehmigung</string>
     <string name="progress_notification_downloaded">Download abgeschlossen</string>
     <string name="progress_notification_downloading">Fortschritt: %d%%</string>
@@ -588,7 +588,7 @@ Bevor du Xiaomi Share benutzt, musst du die folgenden Berechtigungen erteilen un
     <string name="realme">realme</string>
     <string name="realme_phone">realme</string>
     <string name="receive_complete">Erfolgreich empfangen</string>
-    <string name="receive_error">„Konnte nicht empfangen“</string>
+    <string name="receive_error">"Konnte nicht empfangen"</string>
     <string name="receive_file">Akzeptieren</string>
     <string name="receive_only_from_contacts">Empfangen Sie Dateien nur von Kontakten</string>
     <string name="receiver_error">Empfangen fehlgeschlagen. Etwas warten und erneut versuchen.</string>
@@ -628,7 +628,7 @@ Bevor du Xiaomi Share benutzt, musst du die folgenden Berechtigungen erteilen un
     <string name="redmi_note_9s">Redmi Note 9S</string>
     <string name="refuse_file">Abfall</string>
     <string name="refused">Abgelehnt</string>
-    <string name="required_permissions">android.permission.x;</string>
+    <string name="required_permissions">android.permission.ACCESS_FINE_LOCATION;android.permission.WRITE_EXTERNAL_STORAGE;android.permission.POST_NOTIFICATIONS</string>
     <string name="required_permissions_default">android.permission.BLUETOOTH_CONNECT;android.permission.BLUETOOTH_ADVERTISE;android.permission.BLUETOOTH_SCAN;android.permission.NEARBY_WIFI_DEVICES</string>
     <string name="required_permissions_desc">Zum Senden und Empfangen von Dateien; Zum Übertragen von Dateien über Bluetooth und WLAN; Zum Auffinden verfügbarer Geräte in der Nähe über Bluetooth; Zum Auffinden verfügbarer Geräte in der Nähe und zum Übertragen von Dateien über WLAN; Zum Überprüfen, ob Apps installiert sind, um sie nach dem Empfang von Daten zu öffnen</string>
     <string name="required_permissions_list">android.permission-group.STORAGE;android.permission-group.LOCATION;android.permission.BLUETOOTH_ADMIN;android.permission.CHANGE_WIFI_STATE;com.android.permission.GET_INSTALLED_APPS</string>
@@ -648,19 +648,19 @@ Bevor du Xiaomi Share benutzt, musst du die folgenden Berechtigungen erteilen un
     <string name="send_file">DATEI SENDEN</string>
     <string name="send_files_by">Teilen Sie Dateien über</string>
     <string name="send_files_to">Artikel senden an</string>
-    <string name="send_files_to_remote_success">Sent items to %1$s successfully</string>
+    <string name="send_files_to_remote_success">Elemente erfolgreich an %1$s gesendet</string>
     <string name="send_files_to_remote_success_title">Erfolgreich gesendet</string>
-    <string name="send_one_apk_dialog_desc">%2$d APK \"%3$s\" from %1$s</string>
-    <string name="send_one_apk_dialog_desc_received">Received %2$d APK \"%3$s\" from %1$s</string>
+    <string name="send_one_apk_dialog_desc">%2$d APK \"%3$s\" von %1$s</string>
+    <string name="send_one_apk_dialog_desc_received">%2$d APK "%3$s" von %1$s erhalten</string>
     <string name="send_one_apk_dialog_desc_receiving">%2$d APK \"%3$s\" von %1$s erhalten</string>
-    <string name="send_one_audio_dialog_desc">%2$d audio file \"%3$s\" from %1$s</string>
+    <string name="send_one_audio_dialog_desc">%2$d Audiodatei "%3$s" von %1$s</string>
     <string name="send_one_audio_dialog_desc_received">%2$d Audiodatei \"%3$s\" von %1$s erhalten</string>
     <string name="send_one_audio_dialog_desc_receiving">%2$d Audiodatei \"%3$s\" von %1$s erhalten</string>
     <string name="send_one_file_dialog_desc">%2$d %3$s-Datei \"%4$s\" von %1$s</string>
     <string name="send_one_file_dialog_desc_received">%2$d %3$s-Datei \"%4$s\" von %1$s erhalten</string>
     <string name="send_one_file_dialog_desc_receiving">%2$d %3$s-Datei \"%4$s\" von %1$s erhalten</string>
-    <string name="send_one_zip_dialog_desc">%2$d ZIP file \"%3$s\" from %1$s</string>
-    <string name="send_one_zip_dialog_desc_received">Received %2$d ZIP file \"%3$s\" from %1$s</string>
+    <string name="send_one_zip_dialog_desc">%2$d ZIP-Datei "%3$s" von %1$s</string>
+    <string name="send_one_zip_dialog_desc_received">%2$d ZIP-Datei "%3$s" von %1$s erhalten</string>
     <string name="send_one_zip_dialog_desc_receiving">%2$d ZIP-Datei \"%3$s\" von %1$s erhalten</string>
     <string name="send_successfully">Erfolgreich gesendet</string>
     <string name="send_text">Text senden:</string>
@@ -669,26 +669,26 @@ Bevor du Xiaomi Share benutzt, musst du die folgenden Berechtigungen erteilen un
     <string name="share_complete">Übertragung erfolgreich abgeschlossen</string>
     <string name="share_device_near_share">Teilen, wenn Sie in der Nähe sind</string>
     <string name="share_device_near_share_condition">Bedingungen für die Weitergabe</string>
-    <string name="share_device_near_share_condition_describe">"%1$d. Make sure NFC, Bluetooth, and Wi-Fi are turned on on both devices.
-%2$d. Update Xiaomi Share to version %3$s.
-%4$d. If you're using an iPhone, install Xiaomi Interconnectivity."</string>
-    <string name="share_device_near_share_condition_describe_china">"%1$d. Make sure NFC, Bluetooth, and Wi-Fi are turned on on both devices.
-%2$d. Update Xiaomi Share to version %3$s.
-%4$d. If you're using an iPhone, install Xiaomi Interconnectivity."</string>
+    <string name="share_device_near_share_condition_describe">"%1$d. Stellen Sie sicher, dass NFC, Bluetooth und WLAN auf beiden Geräten aktiviert sind.
+%2$d. Aktualisieren Sie Xiaomi Share auf Version %3$s.
+%4$d. Wenn Sie ein iPhone verwenden, installieren Sie Xiaomi Interconnectivity."</string>
+    <string name="share_device_near_share_condition_describe_china">"%1$d. Stellen Sie sicher, dass NFC, Bluetooth und WLAN auf beiden Geräten aktiviert sind.
+%2$d. Aktualisieren Sie Xiaomi Share auf Version %3$s.
+%4$d. Wenn Sie ein iPhone verwenden, installieren Sie Xiaomi Interconnectivity."</string>
     <string formatted="false" name="share_device_near_share_content_describe">"You can send the following types of content:
 %d. Share photos: In Gallery, tap \"Share\" next to a photo.
 %d. Share files: Select a file in File Manager."</string>
     <string name="share_device_near_share_content_title">Inhalte teilen</string>
     <string name="share_device_near_share_image_describe">Platzieren Sie die NFC-Bereiche zweier Geräte nahe beieinander, um mit der Freigabe zu beginnen</string>
     <string name="share_device_near_share_subtitle">Platzieren Sie zwei Geräte nebeneinander, um sie gemeinsam zu nutzen</string>
-    <string name="share_failed">„Konnte nicht geteilt werden“</string>
+    <string name="share_failed">"Konnte nicht geteilt werden"</string>
     <string name="share_file_timeout">Zeitüberschreitung bei der Anfrage. Versuchen Sie es erneut mit weniger Dateien.</string>
     <string name="share_not_supported">Nicht unterstützt</string>
-    <string name="share_notification_receive_confirm_content">From %1$s</string>
+    <string name="share_notification_receive_confirm_content">Von %1$s</string>
     <string name="share_open_nfc_content">Schalten Sie NFC ein, um diese Funktion nutzen zu können. Jetzt einschalten?</string>
     <string name="share_open_nfc_title">Schalten Sie NFC ein</string>
     <string name="share_refuse">Übertragung abgelehnt</string>
-    <string name="share_send_notification_describe">Recipient: %1$s</string>
+    <string name="share_send_notification_describe">Empfänger: %1$s</string>
     <string name="share_show_nfc_position"><Data>&lt;a href=%1$s&gt;View NFC area&lt;/a&gt;</Data></string>
     <string name="share_to_be_sent">Ausstehend</string>
     <string name="share_waiting_connect">Ausstehend</string>
@@ -731,8 +731,8 @@ Bevor du Xiaomi Share benutzt, musst du die folgenden Berechtigungen erteilen un
     <string name="solar_term_white_dews">Tau</string>
     <string name="solar_term_winter_begins">Der Winter beginnt</string>
     <string name="solar_term_winter_solstice">Wintersonnenwende</string>
-    <string name="some_files_receive_completed">"View the files you've already received in %1$s."</string>
-    <string name="somepc_send_muchfile_files">%1$s is sending more than %2$d files to you…</string>
+    <string name="some_files_receive_completed">"Sehen Sie sich die Dateien an, die Sie in %1$s bereits erhalten haben."</string>
+    <string name="somepc_send_muchfile_files">%1$s sendet mehr als %2$d Dateien an Sie…</string>
     <string name="start_advertise">WERBUNG STARTEN</string>
     <string name="start_receive_much_files_from_pc">Mehr als %2$d Dateien von %1$s empfangen…</string>
     <string name="start_scan">SCAN STARTEN</string>
@@ -742,7 +742,7 @@ Bevor du Xiaomi Share benutzt, musst du die folgenden Berechtigungen erteilen un
     <string name="sub_title_mishare_switch">Diese Funktion schaltet sich nach %d Min automatisch ab</string>
     <string name="sub_title_mishare_switch_all">Sie können alle Dateien erhalten</string>
     <string name="sub_title_mishare_switch_mine">Sie können Dateien von Geräten empfangen, die bei Ihrem Konto angemeldet sind</string>
-    <string name="sub_title_mishare_switch_mine_desc">„Bevor Sie Ihren Empfangsstatus auf „Von diesem Konto“ setzen, stellen Sie sicher, dass die Systemversion des anderen Geräts auf Xiaomi HyperOS oder höher und Xiaomi Share auf Version 3.0.0 oder höher aktualisiert ist.“</string>
+    <string name="sub_title_mishare_switch_mine_desc">"Bevor Sie Ihren Empfangsstatus auf "Von diesem Konto" setzen, stellen Sie sicher, dass die Systemversion des anderen Geräts auf Xiaomi HyperOS oder höher und Xiaomi Share auf Version 3.0.0 oder höher aktualisiert ist."</string>
     <string name="sub_title_mishare_switch_none">Schalten Sie Xiaomi Share ein, um Dateien empfangen zu können</string>
     <string name="sub_title_mishare_switch_none_os3">Kann von Geräten in der Nähe gefunden werden</string>
     <string name="sub_title_turbo_mode">Superschnelle Übertragungen zwischen Xiaomi Telefonen und Tablets. Netzwerk wird während der Übertragung unterbrochen.</string>
@@ -757,22 +757,22 @@ Bevor du Xiaomi Share benutzt, musst du die folgenden Berechtigungen erteilen un
     <string name="switch_mode_close">Off</string>
     <string name="switch_mode_close_os3">Off</string>
     <string name="switch_mode_sameaccount">Von diesem Konto</string>
-    <string name="tap_share_condition_describe">"%1$d. Both devices have NFC, Bluetooth, and Wi-Fi turned on.
-%2$d. On your Xiaomi device, update Xiaomi Share to version %3$s.
-%4$d. On your iPhone, install the Xiaomi Interconnectivity app."</string>
-    <string name="tap_share_condition_describe_china">"%1$d. Both devices have NFC, Bluetooth, and Wi-Fi turned on.
-%2$d. On your Xiaomi device, update Xiaomi Share to version %3$s.
-%4$d. On your iPhone, install the Xiaomi Interconnectivity app."</string>
-    <string name="tap_share_condition_describe_os3">"%1$d. Make sure both devices are unlocked and have NFC, Bluetooth, and Wi-Fi turned on.
-%2$d. Update your Xiaomi device to Xiaomi HyperOS 3 or later. You can also search for Xiaomi Share in Settings to check whether \"Touch to share\" is supported.
-%4$d. Make sure you are using an iPhone 12 or a newer model and it's running iOS 17 or later. Install the latest version of Xiaomi Interconnectivity on your iPhone."</string>
-    <string name="tap_share_condition_describe_os3_china">"%1$d. Make sure both devices are unlocked and have NFC, Bluetooth, and Wi-Fi turned on.
-%2$d. Update your Xiaomi device to Xiaomi HyperOS 3 or later. You can also search for Xiaomi Share in Settings to check whether \"Touch to share\" is supported.
-%4$d. Make sure you are using an iPhone 12 or a newer model and it's running iOS 17 or later. Install the latest version of Xiaomi Interconnectivity on your iPhone."</string>
+    <string name="tap_share_condition_describe">"%1$d. Auf beiden Geräten sind NFC, Bluetooth und WLAN aktiviert.
+%2$d. Aktualisieren Sie Xiaomi Share auf Ihrem Xiaomi-Gerät auf Version %3$s.
+%4$d. Installieren Sie auf Ihrem iPhone die Xiaomi Interconnectivity-App.</string>
+    <string name="tap_share_condition_describe_china">"%1$d. Auf beiden Geräten sind NFC, Bluetooth und WLAN aktiviert.
+%2$d. Aktualisieren Sie Xiaomi Share auf Ihrem Xiaomi-Gerät auf Version %3$s.
+%4$d. Installieren Sie auf Ihrem iPhone die Xiaomi Interconnectivity-App.</string>
+    <string name="tap_share_condition_describe_os3">"%1$d. Stellen Sie sicher, dass beide Geräte entsperrt sind und NFC, Bluetooth und WLAN aktiviert sind.
+%2$d. Aktualisieren Sie Ihr Xiaomi-Gerät auf Xiaomi HyperOS 3 oder höher. Sie können auch in den Einstellungen nach Xiaomi Share suchen, um zu überprüfen, ob "Zum Teilen berühren" unterstützt wird.
+%4$d. Stellen Sie sicher, dass Sie ein iPhone 12 oder ein neueres Modell verwenden und darauf iOS 17 oder höher läuft. Installieren Sie die neueste Version von Xiaomi Interconnectivity auf Ihrem iPhone.</string>
+    <string name="tap_share_condition_describe_os3_china">"%1$d. Stellen Sie sicher, dass beide Geräte entsperrt sind und NFC, Bluetooth und WLAN aktiviert sind.
+%2$d. Aktualisieren Sie Ihr Xiaomi-Gerät auf Xiaomi HyperOS 3 oder höher. Sie können auch in den Einstellungen nach Xiaomi Share suchen, um zu überprüfen, ob "Zum Teilen berühren" unterstützt wird.
+%4$d. Stellen Sie sicher, dass Sie ein iPhone 12 oder ein neueres Modell verwenden und darauf iOS 17 oder höher läuft. Installieren Sie die neueste Version von Xiaomi Interconnectivity auf Ihrem iPhone.</string>
     <string name="tap_share_connecting_this_wifi">Herstellen einer Verbindung zu diesem Wi-Fi-Netzwerk</string>
     <string name="tap_share_connecting_this_wlan">Herstellen einer Verbindung zu diesem Wi-Fi-Netzwerk</string>
-    <string name="tap_share_connecting_wifi">Connecting to \"%1$s\"</string>
-    <string name="tap_share_contact_person_describe">„Verwenden Sie Touch, um auf der Detailseite eines Kontakts oder auf der Auswahlseite zu teilen, oder tippen Sie auf „Teilen“, um ein Freigabemenü zu öffnen.“</string>
+    <string name="tap_share_connecting_wifi">Verbindung zu "%1$s" wird hergestellt</string>
+    <string name="tap_share_contact_person_describe">"Verwenden Sie Touch, um auf der Detailseite eines Kontakts oder auf der Auswahlseite zu teilen, oder tippen Sie auf "Teilen", um ein Freigabemenü zu öffnen."</string>
     <string name="tap_share_contact_person_title">Kontakt teilen</string>
     <string formatted="false" name="tap_share_content_describe">"The sender can use Touch to share in the following ways:
 %d. Share photos and videos by viewing a full image in Gallery, on the selection page, or by tapping \"Send\" to open a sharing pop-up.
@@ -788,19 +788,19 @@ Bevor du Xiaomi Share benutzt, musst du die folgenden Berechtigungen erteilen un
 %d. Share contacts by viewing a contact's details page, on the selection page, or by tapping \"Share\" to open a sharing pop-up.
 %d. Share a web page by opening the page in Mi Browser or tapping \"Share\" to open a sharing pop-up.
 "</string>
-    <string name="tap_share_file_describe">Verwenden Sie zum Teilen die Touch-Funktion auf der Auswahlseite des Dateimanagers oder tippen Sie auf „Senden“, um ein Freigabemenü zu öffnen.</string>
+    <string name="tap_share_file_describe">Verwenden Sie zum Teilen die Touch-Funktion auf der Auswahlseite des Dateimanagers oder tippen Sie auf "Senden", um ein Freigabemenü zu öffnen.</string>
     <string name="tap_share_file_title">Teilen Sie Dateien</string>
-    <string name="tap_share_game_team_up_describe">Enter a group room in Mobile Legends: Bang Bang to use Touch to share. Update Mobile Legends: Bang Bang to version %1$s or later first.</string>
+    <string name="tap_share_game_team_up_describe">Betreten Sie einen Gruppenraum in Mobile Legends: Bang Bang, um Touch zum Teilen zu verwenden. Aktualisieren Sie Mobile Legends: Bang Bang zuerst auf Version %1$s oder höher.</string>
     <string name="tap_share_game_team_up_title">Spielgruppe</string>
     <string name="tap_share_image_and_video_comment">Sie können die folgenden Arten von Inhalten senden:</string>
-    <string name="tap_share_image_and_video_describe">Sehen Sie sich ein vollständiges Bild in der Galerie an oder halten Sie gedrückt, um die Auswahlseite für die Verwendung von „Zum Teilen berühren“ zu öffnen, oder tippen Sie auf „Senden“, um ein Freigabemenü zu öffnen.</string>
+    <string name="tap_share_image_and_video_describe">Sehen Sie sich ein vollständiges Bild in der Galerie an oder halten Sie gedrückt, um die Auswahlseite für die Verwendung von "Zum Teilen berühren" zu öffnen, oder tippen Sie auf "Senden", um ein Freigabemenü zu öffnen.</string>
     <string name="tap_share_image_and_video_title">Teilen Sie Fotos und Videos</string>
     <string name="tap_share_image_describe">Berühren Sie die hinteren NFC-Bereiche zweier Geräte miteinander, um schnell Elemente zu teilen</string>
     <string name="tap_share_is_connect_this_wifi">Mit diesem Wi-Fi-Netzwerk verbinden?</string>
     <string name="tap_share_is_connect_this_wlan">Mit diesem Wi-Fi-Netzwerk verbinden?</string>
-    <string name="tap_share_navigation_address_describe">Open the details of a location in Baidu Maps to use Touch to share, or tap \"Share\" to open a sharing menu. Update Baidu Maps to version %1$s or later first.</string>
+    <string name="tap_share_navigation_address_describe">Öffnen Sie die Details eines Standorts in Baidu Maps, um Touch zum Teilen zu verwenden, oder tippen Sie auf "Teilen", um ein Freigabemenü zu öffnen. Aktualisieren Sie Baidu Maps zuerst auf Version %1$s oder höher.</string>
     <string name="tap_share_navigation_address_title">Navigationsadresse teilen</string>
-    <string name="tap_share_network_page_describe">Öffnen Sie eine Webseite im Mi Browser, um Touch zum Teilen zu verwenden, oder tippen Sie auf „Teilen“, um ein Freigabemenü zu öffnen.</string>
+    <string name="tap_share_network_page_describe">Öffnen Sie eine Webseite im Mi Browser, um Touch zum Teilen zu verwenden, oder tippen Sie auf "Teilen", um ein Freigabemenü zu öffnen.</string>
     <string name="tap_share_network_page_title">Webseite teilen</string>
     <string name="tap_share_preparing">Vorbereiten</string>
     <string name="tap_share_preparing_file">Dateien vorbereiten</string>
@@ -809,22 +809,22 @@ Bevor du Xiaomi Share benutzt, musst du die folgenden Berechtigungen erteilen un
     <string name="tap_share_subTitle">Berühren Sie die Rückseiten zweier Geräte, um Elemente zu teilen</string>
     <string name="tap_share_tips_title">Berühren Sie die Rückseiten zweier Geräte, um Elemente zu teilen</string>
     <string name="tap_share_title">Zum Teilen berühren</string>
-    <string name="tap_share_wifi_cannot_share">„Dieses Netzwerk kann nicht geteilt werden“</string>
+    <string name="tap_share_wifi_cannot_share">"Dieses Netzwerk kann nicht geteilt werden"</string>
     <string name="tap_share_wifi_connect_cancel">Verbindung abgebrochen</string>
     <string name="tap_share_wifi_connect_success">Verbunden</string>
-    <string name="tap_share_wifi_connected">Connected to \"%1$s\"</string>
-    <string name="tap_share_wifi_fail">„Verbindung konnte nicht hergestellt werden“</string>
-    <string name="tap_share_wifi_password_describe">„Um ein Wi-Fi-Netzwerk zu teilen, mit dem Sie verbunden sind, öffnen Sie die Wi-Fi-Liste, um „Zum Teilen berühren“ zu verwenden, oder tippen Sie auf das verbundene Wi-Fi-Netzwerk, um ein Freigabemenü zu öffnen.“</string>
-    <string name="tap_share_wifi_password_describe_china">„Um ein Wi-Fi-Netzwerk zu teilen, mit dem Sie verbunden sind, öffnen Sie die Wi-Fi-Liste, um „Zum Teilen berühren“ zu verwenden, oder tippen Sie auf das verbundene Wi-Fi-Netzwerk, um ein Freigabemenü zu öffnen.“</string>
+    <string name="tap_share_wifi_connected">Verbunden mit "%1$s"</string>
+    <string name="tap_share_wifi_fail">"Verbindung konnte nicht hergestellt werden"</string>
+    <string name="tap_share_wifi_password_describe">"Um ein Wi-Fi-Netzwerk zu teilen, mit dem Sie verbunden sind, öffnen Sie die Wi-Fi-Liste, um "Zum Teilen berühren" zu verwenden, oder tippen Sie auf das verbundene Wi-Fi-Netzwerk, um ein Freigabemenü zu öffnen."</string>
+    <string name="tap_share_wifi_password_describe_china">"Um ein Wi-Fi-Netzwerk zu teilen, mit dem Sie verbunden sind, öffnen Sie die Wi-Fi-Liste, um "Zum Teilen berühren" zu verwenden, oder tippen Sie auf das verbundene Wi-Fi-Netzwerk, um ein Freigabemenü zu öffnen."</string>
     <string name="tap_share_wifi_password_title">Teilen Sie das WLAN-Passwort</string>
     <string name="tap_share_wifi_password_title_china">Teilen Sie das WLAN-Passwort</string>
-    <string name="tapshare_receive_describe_wifi">Connect to \"%1$s\"</string>
+    <string name="tapshare_receive_describe_wifi">Mit "%1$s" verbinden</string>
     <string name="the_anniversary_of_lifting_martial_law">Jahrestag der Aufhebung des Kriegsrechts</string>
     <string name="the_anti_aggression_day">Anti-Aggression-Tag</string>
     <string name="the_arbor_day">Tag der Laube</string>
     <string name="the_armed_forces_day">Tag der Streitkräfte</string>
     <string name="the_armys_day">PLA-Tag</string>
-    <string name="the_childrens_day">„Kindertag“</string>
+    <string name="the_childrens_day">"Kindertag"</string>
     <string name="the_chinese_youth_day">Jugendtag</string>
     <string name="the_christmas_day">Weihnachten</string>
     <string name="the_double_ninth_festival">Doppeltes neuntes Festival</string>
@@ -832,16 +832,16 @@ Bevor du Xiaomi Share benutzt, musst du die folgenden Berechtigungen erteilen un
     <string name="the_easter_day">Ostern</string>
     <string name="the_eve_of_the_spring_festival">Vorabend des chinesischen Neujahrs</string>
     <string name="the_fifth_day">Fünfter Tag des chinesischen Neujahrs</string>
-    <string name="the_fools_day">„Aprilscherz“</string>
+    <string name="the_fools_day">"Aprilscherz"</string>
     <string name="the_forth_day">Vierter Tag des chinesischen Neujahrs</string>
     <string name="the_hksar_establishment_day">Gründungstag der Sonderverwaltungszone Hongkong</string>
-    <string name="the_international_womens_day">„Frauentag“</string>
+    <string name="the_international_womens_day">"Frauentag"</string>
     <string name="the_laba_festival">Laba-Festival</string>
     <string name="the_labour_day">Tag der Arbeit</string>
     <string name="the_lantern_festival">Laternenfest</string>
     <string name="the_mid_autumn_festival">Mittherbstfest</string>
     <string name="the_national_day">Nationalfeiertag</string>
-    <string name="the_national_father_day">„Sun Yat-sens Geburtstag“</string>
+    <string name="the_national_father_day">"Sun Yat-sens Geburtstag"</string>
     <string name="the_new_years_day">Neujahr</string>
     <string name="the_night_of_sevens">Qixi-Fest</string>
     <string name="the_partys_day">CPC-Tag</string>
@@ -852,9 +852,9 @@ Bevor du Xiaomi Share benutzt, musst du die folgenden Berechtigungen erteilen un
     <string name="the_sixth_day">Sechster Tag des chinesischen Neujahrs</string>
     <string name="the_spirit_festival">Geisterfest</string>
     <string name="the_spring_festival">Chinesisches Neujahr</string>
-    <string name="the_teachers_day">„Tag der Lehrer“</string>
+    <string name="the_teachers_day">"Tag der Lehrer"</string>
     <string name="the_third_day">Dritter Tag des chinesischen Neujahrs</string>
-    <string name="the_tw_childrens_day">„Kindertag“</string>
+    <string name="the_tw_childrens_day">"Kindertag"</string>
     <string name="the_tw_youth_day">Jugendtag</string>
     <string name="the_united_nations_day">Tag der Vereinten Nationen</string>
     <string name="the_valentines_day">"Valentinstag"</string>
@@ -881,19 +881,19 @@ Bevor du Xiaomi Share benutzt, musst du die folgenden Berechtigungen erteilen un
     <string name="today">Heute</string>
     <string name="tomorrow">Morgen</string>
     <string name="transfer_intercept_to_remote">Senden fehlgeschlagen: %1$s</string>
-    <string name="transfer_to_different_account_summary">„Beide Geräte (Xiaomi und andere Android-Geräte) müssen Xiaomi Share im Kontrollzentrum aktivieren. Sie können %d Minuten lang Dateien von jedem empfangen.“</string>
+    <string name="transfer_to_different_account_summary">"Beide Geräte (Xiaomi und andere Android-Geräte) müssen Xiaomi Share im Kontrollzentrum aktivieren. Sie können %d Minuten lang Dateien von jedem empfangen."</string>
     <string name="transfer_to_different_account_summary_ios">"%1$d. Both devices (Xiaomi and other Android devices) need to turn on Xiaomi Share in Control center. You'll be able to receive files from anyone for %2$d minutes.
 %3$d. iPhones and iPads need to turn on Xiaomi Interconnectivity Services."</string>
     <string name="transfer_to_different_account_title">Entdecken Sie Telefone und Tablets</string>
     <string name="transfer_to_pc_summary_new_plus"><Data>Make sure that Xiaomi PC Manager is downloaded, then turn on Xiaomi Share in Control center to be able to receive files. You can find a list of supported computer models &lt;a href=%1$s&gt;here&lt;/a&gt;.</Data></string>
     <string name="transfer_to_pc_summary_new_plus_ios"><Data>&lt;xliff:g id=mishare_ios_1 refersto=1&gt;%1$d&lt;/xliff:g&gt;. On a Xiaomi laptop, make sure that Xiaomi PC Manager is downloaded, then turn on Xiaomi Share in Control center to be able to receive files. You can find a list of supported computer models &lt;a href=%2$s&gt;here&lt;/a&gt;.&lt;br&gt;&lt;xliff:g id=mishare_ios_2 refersto=2&gt;%3$d&lt;/xliff:g&gt;. On a Mac, turn on Xiaomi Interconnectivity Services and make sure both devices are connected to the same LAN.</Data></string>
     <string name="transfer_to_pc_title">Computer entdecken</string>
-    <string name="transfer_to_phone_summary">„Aktivieren Sie Xiaomi Share mit dem Schalter in der Benachrichtigungsleiste. Danach können Sie Geräte in der Nähe sehen, wenn Sie mit dem Teilen eines Fotos oder einer Datei beginnen. Tippen Sie auf das Gerät des Empfängers, um das von Ihnen geteilte Element zu senden.“</string>
+    <string name="transfer_to_phone_summary">"Aktivieren Sie Xiaomi Share mit dem Schalter in der Benachrichtigungsleiste. Danach können Sie Geräte in der Nähe sehen, wenn Sie mit dem Teilen eines Fotos oder einer Datei beginnen. Tippen Sie auf das Gerät des Empfängers, um das von Ihnen geteilte Element zu senden."</string>
     <string name="transfer_to_phone_summary_new">Schalte Xiaomi Share im Kontrollzentrum ein, um Elemente einfach zu senden und zu empfangen. Nach dem Einschalten kannst du Elemente für %d Minuten mit Geräten in der Nähe teilen, bevor es sich automatisch ausschaltet.</string>
     <string name="transfer_to_phone_title">Senden Sie Dateien an Telefone</string>
-    <string name="transfer_to_same_account_summary">„Um Elemente auf Geräte zu übertragen, die bei Ihrem Konto angemeldet sind, stellen Sie zunächst sicher, dass die Systemversion des anderen Geräts auf Xiaomi HyperOS oder höher und Xiaomi Share auf Version 3.0.0 oder höher aktualisiert ist. Setzen Sie den Empfangsstatus auf „Von diesem Konto“. Andernfalls müssen Sie Xiaomi Share im Kontrollzentrum aktivieren, um %d Minuten lang Dateien von jedem empfangen zu können.“</string>
+    <string name="transfer_to_same_account_summary">"Um Elemente auf Geräte zu übertragen, die bei Ihrem Konto angemeldet sind, stellen Sie zunächst sicher, dass die Systemversion des anderen Geräts auf Xiaomi HyperOS oder höher und Xiaomi Share auf Version 3.0.0 oder höher aktualisiert ist. Setzen Sie den Empfangsstatus auf "Von diesem Konto". Andernfalls müssen Sie Xiaomi Share im Kontrollzentrum aktivieren, um %d Minuten lang Dateien von jedem empfangen zu können."</string>
     <string name="transfer_to_same_account_title">Erkennen von Geräten unter demselben Konto</string>
-    <string name="transfer_to_summary">„Aktivieren Sie Xiaomi Share mit dem Schalter in der Benachrichtigungsleiste. Danach können Sie Geräte in der Nähe sehen, wenn Sie mit dem Teilen eines Fotos oder einer Datei beginnen. Tippen Sie auf das Gerät des Empfängers, um das von Ihnen geteilte Element zu senden.“</string>
+    <string name="transfer_to_summary">"Aktivieren Sie Xiaomi Share mit dem Schalter in der Benachrichtigungsleiste. Danach können Sie Geräte in der Nähe sehen, wenn Sie mit dem Teilen eines Fotos oder einer Datei beginnen. Tippen Sie auf das Gerät des Empfängers, um das von Ihnen geteilte Element zu senden."</string>
     <string name="transfer_to_summary_new">Schalte Xiaomi Share im Kontrollzentrum ein, um Elemente einfach zu senden und zu empfangen. Nach dem Einschalten kannst du Elemente für %d Minuten mit Geräten in der Nähe teilen, bevor es sich automatisch ausschaltet.</string>
     <string name="transfer_to_title">Senden Sie Dateien an mobile Geräte</string>
     <string name="tuesday">Dienstag</string>
@@ -910,7 +910,7 @@ Bevor du Xiaomi Share benutzt, musst du die folgenden Berechtigungen erteilen un
     <string name="uwb_setting_guide_summary">Beam nutzt UWB-Technologie, um Zielgeräte drahtlos zu erkennen. Sobald das Zielgerät erkannt wurde, kommt sein Symbol in den Vordergrund.</string>
     <string name="uwb_setting_guide_title">Halte dieses Gerät direkt vor das kompatible Zielgerät</string>
     <string name="uwb_summary">Beam nutzt UWB-Technologie, um Zielgeräte drahtlos zu erkennen. Die Übertragung von Elementen zwischen Geräten mit UWB-Technologie ist schneller und bequemer.</string>
-    <string name="uwb_support_device">„Kompatible Geräte:“</string>
+    <string name="uwb_support_device">"Kompatible Geräte:"</string>
     <string name="uwb_title">Strahl</string>
     <string name="v7_preference_off">OFF</string>
     <string name="v7_preference_on">ON</string>
@@ -930,7 +930,7 @@ Bevor du Xiaomi Share benutzt, musst du die folgenden Berechtigungen erteilen un
     <string name="withdraw">Zurückziehen</string>
     <string name="withdraw_consent_message">Wenn du fortfährst, widerrufst du deine Zustimmung zur Datenschutzerklärung von Xiaomi Share. Die bereits gesammelten und gespeicherten personenbezogenen Daten werden innerhalb des festgelegten Zeitraums in Übereinstimmung mit den geltenden Gesetzen und Vorschriften gelöscht, sofern nicht anders gefordert. Da Xiaomi Share seine Dienste anhand der Erfassung der erforderlichen personenbezogenen Daten erbringt, wird dein Widerruf der Zustimmung als Ablehnung der Dienste von Xiaomi Share gewertet.</string>
     <string name="withdraw_consent_title">Zustimmung widerrufen</string>
-    <string name="withdraw_with_time">Withdraw (%1$ds)</string>
+    <string name="withdraw_with_time">Abheben (%1$ds)</string>
     <string name="xiaomi">Mi</string>
     <string name="xiaomi_10">Mi 10</string>
     <string name="xiaomi_10_lite">Mi 10 Lite</string>

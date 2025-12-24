@@ -106,7 +106,7 @@ Data will not be wiped."</string>
     <string name="new_version">Neue Version gefunden!</string>
     <string name="no_info">Keine Info verfügbar</string>
     <string name="no_mirror">Alle Server sind derzeit offline, später versuchen…</string>
-    <string name="no_network">„Es konnte keine Verbindung zum Netzwerk hergestellt werden“</string>
+    <string name="no_network">"Es konnte keine Verbindung zum Netzwerk hergestellt werden"</string>
     <string name="no_update">Sie haben bereits die aktuellste Version.</string>
     <string name="no_xioamieu">Sie nutzen keine HyperOS-ROM vom Xiaomi.eu-Team!\nKeine Updates für Sie verfügbar!</string>
     <string name="not_set">Nicht festgelegt</string>
@@ -123,7 +123,7 @@ Data will not be wiped."</string>
     <string name="permlab_reboot">Neustart-Zugriff</string>
     <string name="pick_not_found">Kein geeigneter Dateimanager gefunden</string>
     <string name="pick_title">Wählen mit:</string>
-    <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
+    <string name="preference_copied">\"%1$s\" in die Zwischenablage kopiert.</string>
     <string name="recovery_desc">Gerät startet jetzt neu im Recovery-Modus. Wenn Sie mit dem Modus nicht vertraut sind, brechen Sie den Vorgang ab. Fortfahren?</string>
     <string name="recovery_mode">Updater ist im Recovery-Modus. Sie können ROMs im Updater flashen.</string>
     <string name="search_menu_title">Suchen</string>

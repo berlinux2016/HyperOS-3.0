@@ -11,11 +11,11 @@
     <string name="call_notification_ongoing_text">Laufender Anruf</string>
     <string name="call_notification_screening_text">Überwachen eines eingehenden Anrufs</string>
     <string name="com.google.firebase.crashlytics.mapping_file_id">e4780391bd10456a937ae95e85e50911</string>
-    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unknown_issue">%1$s hat Probleme mit den Google Play-Diensten. Bitte versuchen Sie es erneut.</string>
     <string name="default_notification_channel_name">Benachrichtigungen</string>
     <string name="error_device_id_message">"Invalid device ID: %s
 Device ID must be a valid IMEI or MAC address. Without device ID, some Mi Account and Xiaomi Cloud features won't be available."</string>
-    <string name="error_device_id_title">„Kann keine gültige Geräte-ID erhalten“</string>
+    <string name="error_device_id_title">"Kann keine gültige Geräte-ID erhalten"</string>
     <string name="explain_send_sms_permission_button">Verifizieren</string>
     <string name="explain_send_sms_permission_msg">Um %s zu aktivieren, sendet Xiaomi Service Framework eine SMS zur Bestätigung Ihrer Telefonnummer. Die reguläre SMS wird Ihnen vom Mobilfunkanbieter in Rechnung gestellt.</string>
     <string name="explain_send_sms_permission_title">Bestätigen Sie Ihre Telefonnummer</string>
@@ -29,10 +29,10 @@ Device ID must be a valid IMEI or MAC address. Without device ID, some Mi Accoun
     <string name="privacy_change_dialog_agree">Zustimmen</string>
     <string name="privacy_change_dialog_back">Zurück</string>
     <string name="privacy_change_dialog_title">Anpassung des Geltungsbereichs der Allgemeinen Geschäftsbedingungen</string>
-    <string name="privacy_change_notification">„WICHTIG: Wir haben den Geltungsbereich unserer AGB angepasst“</string>
+    <string name="privacy_change_notification">"WICHTIG: Wir haben den Geltungsbereich unserer AGB angepasst"</string>
     <string name="project_id">Xiaomi-Service-Framework</string>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="sync_notification_title_format">Current syncing item: %1$s</string>
+    <string name="sync_notification_title_format">Aktuelles Synchronisierungselement: %1$s</string>
     <string name="terms_of_label_period">". "</string>
     <string name="terms_of_label_separator">","</string>
     <string name="terms_of_label_space">" "</string>

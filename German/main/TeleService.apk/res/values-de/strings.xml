@@ -192,7 +192,7 @@
     <string name="arrears_sim_title">Unzureichende Deckung</string>
     <string name="arrears_sim_v2_notification">Benachrichtigungen über unzureichendes Guthaben</string>
     <string name="arrears_sim_v2_summary">Looks like SIM %1$s balance is insufficient. Check SIM %2$s balance and top up to stay connected.</string>
-    <string name="arrears_sim_v2_title">„SIM %s konnte keine Verbindung zum Netzwerk herstellen“</string>
+    <string name="arrears_sim_v2_title">"SIM %s konnte keine Verbindung zum Netzwerk herstellen"</string>
     <string name="ask">Fragen</string>
     <string name="atr_disable">Verkehrsmeldungen deaktiviert</string>
     <string name="atr_enable">Verkehrsmeldungen aktiviert</string>
@@ -250,7 +250,7 @@
     <string name="band_mode_set">Festlegen</string>
     <string name="band_mode_succeeded">Erfolgreich</string>
     <string name="band_mode_title">Radioband-Modus einstellen</string>
-    <string name="beidiu_privacy_statement_negative">„Stimme nicht zu“</string>
+    <string name="beidiu_privacy_statement_negative">"Stimme nicht zu"</string>
     <string name="beidiu_privacy_statement_positive">Zustimmen</string>
     <string name="beidiu_privacy_statement_title">BeiDou-Satellitenkommunikation</string>
     <string name="beidiue_privacy_statement_message">"BeiDou satellite communications allows you to send and receive satellite messages. This service needs to connect to the internet and requires the following permissions:
@@ -260,7 +260,7 @@ Read and agree to the "<a href="https://pnt.10086.cn/scc/v1/bdlawfront/#/agreeme
     <string name="beidiue_privacy_statement_message_all">"BeiDou satellite communications allows you to send and receive satellite messages. This service needs to connect to the internet and requires the following permissions:
 Location: for sending and sharing location
 This service is provided and activated by your carrier. To activate this service or for related questions, contact your carrier. Once you turn on the service, your carrier will collect your phone number and IMSI to confirm the activation of the service. For details on how your information is handled, read and agree to the "<a href="https://privacy.mi.com/BeidouSMS/zh_CN/">BeiDou Messaging Privacy Policy</a>.</string>
-    <string name="beidou_close_bluetooth_fail_toast">„Bluetooth konnte nicht ausgeschaltet werden. Dies kann zu Fehlern bei der Satellitenkommunikation führen.“</string>
+    <string name="beidou_close_bluetooth_fail_toast">"Bluetooth konnte nicht ausgeschaltet werden. Dies kann zu Fehlern bei der Satellitenkommunikation führen."</string>
     <string name="beidou_close_bluetooth_toast">Bluetooth wurde deaktiviert, um die Satellitenverbindung zu verbessern</string>
     <string name="beidou_findout_settings_title">Über BeiDou-Satellitennachrichten</string>
     <string name="beidou_mobile_settings_summary">Nur für China Mobile-Benutzer verfügbar</string>
@@ -278,12 +278,12 @@ Try again."</string>
     <string name="beidou_satellite_environment_requirement_message">Satellitenkommunikation lässt sich am besten in Gebieten ohne Netzabdeckung nutzen. Um Signalstörungen zu vermeiden, entfernen Sie alle Metallgehäuse von Ihrem Gerät und halten Sie die Oberseite des Geräts während des Gebrauchs mindestens 5 cm von Ihrem Körper oder anderen Gegenständen entfernt.</string>
     <string name="beidou_satellite_environment_requirement_title">Welche Umgebungsanforderungen gelten für die Nutzung dieser Funktion?</string>
     <string name="beidou_satellite_feature_introduction">FAQ</string>
-    <string name="beidou_satellite_impact_phone_message">„Wenn die Satellitenkommunikation aktiviert ist, werden WLAN, mobile Daten und der Flugmodus deaktiviert und sind nicht verfügbar. Während diese Funktion aktiviert ist, werden GPS-Dienste nur zum Senden von Nachrichten verwendet. Das Senden von Nachrichten über Satellit erfordert mehr Strom als herkömmliche Nachrichten, sodass Ihr Gerät schneller Strom als normal verbraucht.“</string>
+    <string name="beidou_satellite_impact_phone_message">"Wenn die Satellitenkommunikation aktiviert ist, werden WLAN, mobile Daten und der Flugmodus deaktiviert und sind nicht verfügbar. Während diese Funktion aktiviert ist, werden GPS-Dienste nur zum Senden von Nachrichten verwendet. Das Senden von Nachrichten über Satellit erfordert mehr Strom als herkömmliche Nachrichten, sodass Ihr Gerät schneller Strom als normal verbraucht."</string>
     <string name="beidou_satellite_impact_phone_title">Welche Auswirkungen hat die Nutzung der Satellitenkommunikation auf mein Gerät?</string>
     <string name="beidou_satellite_introduction_title">BeiDou-Satellitennachrichten</string>
     <string name="beidou_satellite_send_receive_sms_message">Sobald Sie die Satellitenkommunikation aktivieren, werden Nachrichten über den BeiDou-Satelliten gesendet und empfangen. Sie können Nachrichten an bis zu 4 Kontakte gleichzeitig senden, wobei jede Nachricht bis zu 20 chinesische Schriftzeichen enthalten kann. Je mehr Kontakte Sie auswählen, desto weniger Zeichen können gesendet werden. Die enthaltenen Standortinformationen zählen zu den zulässigen Zeichen.</string>
     <string name="beidou_satellite_send_receive_sms_title">Wie sende und empfange ich Nachrichten über BeiDou?</string>
-    <string name="beidou_satellite_use_message">„In Gebieten ohne Mobilfunksignal, wie zum Beispiel in Bergen, Wüsten und Ozeanen, oder in Situationen, in denen Bodenkommunikationssysteme durch Naturkatastrophen zerstört wurden, können Sie immer noch Satellitenkommunikation zum Senden und Empfangen von Nachrichten nutzen, solange das Gebiet, in dem Sie sich befinden, nach Süden offen und frei ist.“</string>
+    <string name="beidou_satellite_use_message">"In Gebieten ohne Mobilfunksignal, wie zum Beispiel in Bergen, Wüsten und Ozeanen, oder in Situationen, in denen Bodenkommunikationssysteme durch Naturkatastrophen zerstört wurden, können Sie immer noch Satellitenkommunikation zum Senden und Empfangen von Nachrichten nutzen, solange das Gebiet, in dem Sie sich befinden, nach Süden offen und frei ist."</string>
     <string name="beidou_satellite_use_title">Warum Satellitenkommunikation nutzen?</string>
     <string name="beidou_send_failed">"Couldn't send.
 Try again."</string>
@@ -456,14 +456,14 @@ Try again."</string>
     <string name="call_record_on_summary">AN</string>
     <string name="call_record_setting">Anrufaufnahme</string>
     <string name="call_record_whitelist_custom">Ausgewählte Nummern</string>
-    <string name="call_recording_disclaimer_msg">„Das anwendbare Recht in der Gerichtsbarkeit, in der Sie oder andere Anrufteilnehmer ansässig sind, erfordert möglicherweise, dass alle Parteien der Aufzeichnung zustimmen. Sie sind verpflichtet, diese Gesetze einzuhalten, und Xiaomi haftet nicht für eine illegale Nutzung dieser Funktion. Anrufaufzeichnungen werden nur auf Ihrem Gerät gespeichert und können von Xiaomi nicht abgerufen werden.“</string>
+    <string name="call_recording_disclaimer_msg">"Das anwendbare Recht in der Gerichtsbarkeit, in der Sie oder andere Anrufteilnehmer ansässig sind, erfordert möglicherweise, dass alle Parteien der Aufzeichnung zustimmen. Sie sind verpflichtet, diese Gesetze einzuhalten, und Xiaomi haftet nicht für eine illegale Nutzung dieser Funktion. Anrufaufzeichnungen werden nur auf Ihrem Gerät gespeichert und können von Xiaomi nicht abgerufen werden."</string>
     <string name="call_recording_disclaimer_title">Haftungsausschluss</string>
     <string name="call_recording_notification_message">Tippen zum Anhören</string>
     <string name="call_recording_notification_message_low_storage">SD-Karte ist voll</string>
     <string name="call_recording_notification_message_sd_unmounted">SD-Karte wurde entfernt</string>
     <string name="call_recording_notification_summary">Benachrichtigung nach Anrufaufnahme anzeigen</string>
     <string name="call_recording_notification_title">Sprachanrufrekorder</string>
-    <string name="call_recording_notification_title_error">„Konnte Sprachanruf nicht aufzeichnen“</string>
+    <string name="call_recording_notification_title_error">"Konnte Sprachanruf nicht aufzeichnen"</string>
     <string name="call_recording_notification_toggle_title">Benachrichtigung Anrufaufnahme</string>
     <string name="call_recording_setting">Anrufaufnahme</string>
     <string name="call_settings">Anrufeinstellungen</string>
@@ -484,7 +484,7 @@ Try again."</string>
     <string name="can_not_use">Verwenden nicht möglich</string>
     <string name="can_not_use_for_not_data_sim">(Verwenden nicht möglich: Muss als Standarddaten-SIM festgelegt sein)</string>
     <string name="cancel">Leugnen</string>
-    <string name="card_title_call_ended">„Anruf beendet“</string>
+    <string name="card_title_call_ended">"Anruf beendet"</string>
     <string name="card_title_conf_call">Telefonkonferenz</string>
     <string name="card_title_dialing">Wählen</string>
     <string name="card_title_hanging_up">Auflegen</string>
@@ -525,7 +525,7 @@ Try again."</string>
     <string name="cell_broadcast_sms">Cell-Broadcast-SMS</string>
     <string name="cellular_coverage_satellite_notification">Bei der Nutzung der Satellitenkommunikation wurde ein Mobilfunknetz erkannt</string>
     <string name="cellular_coverage_satellite_notification_action_text">Schalten</string>
-    <string name="cellular_coverage_satellite_notification_text">„Sie befinden sich jetzt in einem Bereich mit Mobilfunknetzabdeckung. Durch das Umschalten wird die Satellitenkommunikation ausgeschaltet.“</string>
+    <string name="cellular_coverage_satellite_notification_text">"Sie befinden sich jetzt in einem Bereich mit Mobilfunknetzabdeckung. Durch das Umschalten wird die Satellitenkommunikation ausgeschaltet."</string>
     <string name="cellular_coverage_satellite_notification_title">Wechseln Sie zum Mobilfunknetz</string>
     <string name="cf_setting_mobile_data_alert">Bitte mobile Daten einschalten und sicherstellen, dass WLAN aus ist</string>
     <string name="cf_setting_mobile_data_off_alert">Bitte aktivieren Sie mobile Daten</string>
@@ -568,36 +568,36 @@ Try again."</string>
     <string name="checkbox_do_not_show_again">Nicht mehr anzeigen</string>
     <string name="china_mobile_palm_category">Carrier-Dienste</string>
     <string name="china_mobile_palm_title">CMCC-Online-Service-Halle</string>
-    <string name="chinese_day_1">初一</string>
-    <string name="chinese_day_10">初十</string>
-    <string name="chinese_day_11">十一</string>
-    <string name="chinese_day_12">十二</string>
-    <string name="chinese_day_13">十三</string>
-    <string name="chinese_day_14">十四</string>
-    <string name="chinese_day_15">十五</string>
-    <string name="chinese_day_16">十六</string>
-    <string name="chinese_day_17">十七</string>
-    <string name="chinese_day_18">十八</string>
-    <string name="chinese_day_19">十九</string>
-    <string name="chinese_day_2">初二</string>
-    <string name="chinese_day_20">二十</string>
-    <string name="chinese_day_21">廿一</string>
-    <string name="chinese_day_22">廿二</string>
-    <string name="chinese_day_23">廿三</string>
-    <string name="chinese_day_24">廿四</string>
-    <string name="chinese_day_25">廿五</string>
-    <string name="chinese_day_26">廿六</string>
-    <string name="chinese_day_27">廿七</string>
-    <string name="chinese_day_28">廿八</string>
-    <string name="chinese_day_29">廿九</string>
-    <string name="chinese_day_3">初三</string>
-    <string name="chinese_day_30">三十</string>
-    <string name="chinese_day_4">初四</string>
-    <string name="chinese_day_5">初五</string>
-    <string name="chinese_day_6">初六</string>
-    <string name="chinese_day_7">初七</string>
-    <string name="chinese_day_8">初八</string>
-    <string name="chinese_day_9">初九</string>
+    <string name="chinese_day_1">Erste Klasse der Mittelschule</string>
+    <string name="chinese_day_10">Der zehnte Tag des Mondmonats</string>
+    <string name="chinese_day_11">elf</string>
+    <string name="chinese_day_12">zwölf</string>
+    <string name="chinese_day_13">Dreizehn</string>
+    <string name="chinese_day_14">vierzehn</string>
+    <string name="chinese_day_15">fünfzehn</string>
+    <string name="chinese_day_16">sechzehn</string>
+    <string name="chinese_day_17">siebzehn</string>
+    <string name="chinese_day_18">achtzehn</string>
+    <string name="chinese_day_19">neunzehn</string>
+    <string name="chinese_day_2">Zweite Klasse der Mittelschule</string>
+    <string name="chinese_day_20">zwanzig</string>
+    <string name="chinese_day_21">Einundzwanzig</string>
+    <string name="chinese_day_22">zweiundzwanzig</string>
+    <string name="chinese_day_23">Dreiundzwanzig</string>
+    <string name="chinese_day_24">Vierundzwanzig</string>
+    <string name="chinese_day_25">Fünfundzwanzig</string>
+    <string name="chinese_day_26">Sechsundzwanzig</string>
+    <string name="chinese_day_27">Siebenundzwanzig</string>
+    <string name="chinese_day_28">Achtundzwanzig</string>
+    <string name="chinese_day_29">Neunundzwanzig</string>
+    <string name="chinese_day_3">Dritte Klasse</string>
+    <string name="chinese_day_30">dreißig</string>
+    <string name="chinese_day_4">Vierter Tag des neuen Mondjahres</string>
+    <string name="chinese_day_5">fünfter Tag</string>
+    <string name="chinese_day_6">Der sechste Tag des Mondmonats</string>
+    <string name="chinese_day_7">Der siebte Tag des Mondmonats</string>
+    <string name="chinese_day_8">Der achte Tag des Mondmonats</string>
+    <string name="chinese_day_9">Neunter Tag</string>
     <string name="chinese_day_elementary">初</string>
     <string name="chinese_digit_eight">八</string>
     <string name="chinese_digit_five">五</string>
@@ -637,7 +637,7 @@ Try again."</string>
     <string name="chinese_symbol_animals_snake">蛇</string>
     <string name="chinese_symbol_animals_tiger">虎</string>
     <string name="choose_network_title">Wählen Sie Netzwerk</string>
-    <string name="choose_satellite_data_mode">Modus „Mock Satellite Data“ (nur Debuggen)</string>
+    <string name="choose_satellite_data_mode">Modus "Mock Satellite Data" (nur Debuggen)</string>
     <string name="clear_all_set_button">Einstellungen löschen</string>
     <string name="clear_all_set_title">Diese Taste dient zum Löschen aller Einstellungen</string>
     <string name="clearable_edittext_clear_description">Klar</string>
@@ -741,8 +741,8 @@ Try again."</string>
     <string name="crescendo_ringer_summary">Ruftonlautstärke steigt allmählich auf die voreingestellte Stufe an</string>
     <string name="crescendo_ringer_title">Ansteigende Klingellautstärke</string>
     <string name="current_ant_info">Aktuelle ANT-Einstellungen abrufen</string>
-    <string name="customized_message_emm_cause_6">„Dieses Gerät kann kein Netzwerkprofil erstellen, da ihm die von den örtlichen Behörden geforderte Zertifizierung fehlt.“</string>
-    <string name="customized_title_emm_cause_6">„Netzwerkprofil konnte nicht erstellt werden“</string>
+    <string name="customized_message_emm_cause_6">"Dieses Gerät kann kein Netzwerkprofil erstellen, da ihm die von den örtlichen Behörden geforderte Zertifizierung fehlt."</string>
+    <string name="customized_title_emm_cause_6">"Netzwerkprofil konnte nicht erstellt werden"</string>
     <string name="data_disable_warning_no_mms">Sie können keine MMS senden und empfangen, wenn Sie mobile Daten (WCDMA/LTE) ausschalten. Sie können dies jedoch tun, wenn Ihr Gerät mit WLAN verbunden ist.</string>
     <string name="data_disable_warning_with_mms">Sie können weiterhin MMS senden und empfangen, wenn Sie mobile Daten (WCDMA/LTE) ausschalten. Für die Internetnutzung verbinden Sie sich mit WLAN.</string>
     <string name="data_enable_always_warn">Fragen Sie, ob Sie mobile Daten nutzen möchten</string>
@@ -855,16 +855,16 @@ Try again."</string>
     <string name="disable_cfnrc_forbidden">Ihr Anbieter unterstützt die Deaktivierung der Rufumleitung bei Nichterreichbarkeit nicht</string>
     <string name="disable_cfnry_forbidden">Ihr Anbieter unterstützt die Deaktivierung der Rufumleitung bei Nichtbeantwortung nicht</string>
     <string name="disable_cfu_notification_summary">SIM %d ist nicht mehr im Roaming. Wir empfehlen, die Anrufweiterleitung für diese SIM-Karte zu deaktivieren.</string>
-    <string name="disable_esim_dialog_summary">„Wenn Sie eSIM ausschalten, können Sie eSIM nicht verwenden. Trotzdem ausschalten?“</string>
+    <string name="disable_esim_dialog_summary">"Wenn Sie eSIM ausschalten, können Sie eSIM nicht verwenden. Trotzdem ausschalten?"</string>
     <string name="disable_esim_dialog_title">Schalten Sie eSIM aus</string>
-    <string name="disable_esim_error_toast_message">„eSIM konnte nicht ausgeschaltet werden“</string>
+    <string name="disable_esim_error_toast_message">"eSIM konnte nicht ausgeschaltet werden"</string>
     <string name="disable_esim_progress_activating_message">eSIM ausschalten…</string>
     <string name="disable_fdn">Rufnummernbeschränkung ausschalten</string>
     <string name="disable_fdn_ok">Rufnummernbeschränkung einschalten</string>
     <string name="disable_pin_ok">PIN deaktiviert</string>
     <string name="disable_sim_pin">SIM-PIN deaktivieren</string>
     <string name="disabled_by_admin">Vom Administrator deaktiviert</string>
-    <string name="do_not_show_again">„Nicht mehr zeigen“</string>
+    <string name="do_not_show_again">"Nicht mehr zeigen"</string>
     <string name="doneButton">Fertig</string>
     <string name="dsda_end_call_toast">Vorherige Anrufsitzung wurde beendet</string>
     <string name="dsda_summary">5G+4G Dual SIM-Standby wird von ausgewählten Netzen unterstützt</string>
@@ -885,7 +885,7 @@ Try again."</string>
     <string name="dual_sim_smart_call_forward_dialog_message">Damit diese Funktion richtig funktioniert, muss die Rufumleitung auf beiden SIM-Karten aktiviert sein. Erkundigen Sie sich bei Ihrem Anbieter nach den Optionen und Kosten für die Rufumleitung.</string>
     <string name="dual_sim_smart_call_forward_failed">Einrichtung fehlgeschlagen</string>
     <string name="dual_sim_smart_call_forward_failed_cause">Ein Netzwerkfehler ist aufgetreten. Etwas warten und erneut versuchen.</string>
-    <string name="dual_sim_smart_call_forward_summary">„Anrufe an die andere SIM-Karte weiterleiten, wenn sie nicht angenommen werden können“</string>
+    <string name="dual_sim_smart_call_forward_summary">"Anrufe an die andere SIM-Karte weiterleiten, wenn sie nicht angenommen werden können"</string>
     <string name="dual_sim_smart_call_forward_title">Weiterleiten an die andere SIM-Karte</string>
     <string name="dual_sim_smart_call_forward_updating">Einen Moment…</string>
     <string name="eab_provisioned_switch_string">EAB/Präsenz bereitgestellt</string>
@@ -934,7 +934,7 @@ Try again."</string>
     <string name="enable_antispam_strange_title">Erstes Klingeln stummschalten</string>
     <string name="enable_cdma_call_waiting_setting">Während eines Anrufs werden Sie über eingehende Anrufe benachrichtigt</string>
     <string name="enable_cdma_cw">Einschalten</string>
-    <string name="enable_cfu_notification_summary">SIM %1$d is roaming. You can forward calls to SIM %2$d to save on roaming charges.</string>
+    <string name="enable_cfu_notification_summary">SIM %1$d ist Roaming. Sie können Anrufe an die SIM-Karte %2$d weiterleiten, um Roaming-Gebühren zu sparen.</string>
     <string name="enable_disable_administrative">Verwaltung</string>
     <string name="enable_disable_advertisements">Werbung</string>
     <string name="enable_disable_atr">Verkehrsberichte</string>
@@ -957,9 +957,9 @@ Try again."</string>
     <string name="enable_disable_technology_news">Techniknachrichten</string>
     <string name="enable_dual_4g_if_dual_ct">4G-Netze für beide SIM-Karten bervorzugen, um VoLTE auf der sekundären SIM zu nutzen, wenn zwei China Telecom SIM-Karten installiert sind.</string>
     <string name="enable_dual_4g_prompt_when_turn_on_volte">VoLTE erfordert 4G-Konnektivität für beide SIM-Steckplätze. Jetzt auf Dual 4G umsteigen?</string>
-    <string name="enable_esim_dialog_summary">„Wenn Sie eSIM aktivieren, können Sie Ihre aktuelle SIM-Karte %s nicht verwenden. eSIM trotzdem aktivieren?“</string>
+    <string name="enable_esim_dialog_summary">"Wenn Sie eSIM aktivieren, können Sie Ihre aktuelle SIM-Karte %s nicht verwenden. eSIM trotzdem aktivieren?"</string>
     <string name="enable_esim_dialog_title">Turn ist eSIM</string>
-    <string name="enable_esim_error_toast_message">„Konnte eSIM nicht aktivieren“</string>
+    <string name="enable_esim_error_toast_message">"Konnte eSIM nicht aktivieren"</string>
     <string name="enable_esim_progress_activating_message">eSIM wird aktiviert…</string>
     <string name="enable_esim_summary">eSIM ersetzt SIM %s</string>
     <string name="enable_esim_title">Turn ist eSIM</string>
@@ -978,8 +978,8 @@ Try again."</string>
     <string name="enable_video_calling_title">Schalten Sie Videotelefonie an</string>
     <string name="enabled_by_admin">Vom Administrator aktiviert</string>
     <string name="enforce_satellite_channel_string">Force Camp Satellite LTE-Kanal (nur Debug Build)</string>
-    <string name="enhanced_4g_lte_mode_off_failed">„VoLTE konnte nicht ausgeschaltet werden.“</string>
-    <string name="enhanced_4g_lte_mode_on_failed">„VoLTE konnte nicht aktiviert werden.“</string>
+    <string name="enhanced_4g_lte_mode_off_failed">"VoLTE konnte nicht ausgeschaltet werden."</string>
+    <string name="enhanced_4g_lte_mode_on_failed">"VoLTE konnte nicht aktiviert werden."</string>
     <string name="enhanced_4g_lte_mode_summary">4G-Dienste nutzen, um Sprache und andere Kommunikationen zu verbessern (empfohlen)</string>
     <string name="enhanced_4g_lte_mode_summary_o2">4G-Dienste zur Verbesserung der Sprache und anderer Kommunikation nutzen (empfohlen)</string>
     <string name="enhanced_4g_lte_mode_title">Erweiterter 4G LTE-Modus</string>
@@ -1052,8 +1052,8 @@ Try again."</string>
     <string name="fiveg_icon_type1">NR-Symboltyp:</string>
     <string name="fiveg_info">5G-Info anzeigen</string>
     <string name="fiveg_infos">5G-Infos</string>
-    <string name="fiveg_interruption_remind">„Anscheinend kann Ihre SIM-Karte %s die 5G SA-Dienste nicht nutzen. Wenden Sie sich für weitere Informationen an Ihren Mobilfunkanbieter.“</string>
-    <string name="fiveg_interruption_remind_title">„Kann 5G-Dienste nicht nutzen“</string>
+    <string name="fiveg_interruption_remind">"Anscheinend kann Ihre SIM-Karte %s die 5G SA-Dienste nicht nutzen. Wenden Sie sich für weitere Informationen an Ihren Mobilfunkanbieter."</string>
+    <string name="fiveg_interruption_remind_title">"Kann 5G-Dienste nicht nutzen"</string>
     <string name="fiveg_network_config_type1">Netzwerk-Config-Typ:</string>
     <string name="fiveg_network_mode_default">Automatisch</string>
     <string name="fiveg_network_mode_nsa">NSA</string>
@@ -1104,24 +1104,24 @@ Try again."</string>
     <string name="fmt_date_timezone">D z</string>
     <string name="fmt_date_year">jjjj</string>
     <string name="fmt_time">T</string>
-    <string name="fmt_time_12hour">„h ‚Uhr‘“</string>
+    <string name="fmt_time_12hour">"h ‚Uhr‘"</string>
     <string name="fmt_time_12hour_minute">Hmm</string>
     <string name="fmt_time_12hour_minute_pm">h:mm a</string>
     <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
     <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
     <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
     <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
-    <string name="fmt_time_12hour_pm">ha</string>
-    <string name="fmt_time_24hour">„HH ‚Uhr‘“</string>
+    <string name="fmt_time_12hour_pm">Ha</string>
+    <string name="fmt_time_24hour">"HH ‚Uhr‘"</string>
     <string name="fmt_time_24hour_minute">HH: mm</string>
     <string name="fmt_time_24hour_minute_second">HH:mm:ss</string>
     <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
     <string name="fmt_time_millis">"S'ms'"</string>
     <string name="fmt_time_minute">"bedeuten"</string>
-    <string name="fmt_time_minute_second">„M'min's'“</string>
-    <string name="fmt_time_minute_second_millis">„m'min‘ s.S‘“</string>
-    <string name="fmt_time_second">„s“</string>
-    <string name="fmt_time_second_millis">„s.S‘‘“</string>
+    <string name="fmt_time_minute_second">"M'min's'"</string>
+    <string name="fmt_time_minute_second_millis">"m'min‘ s.S‘"</string>
+    <string name="fmt_time_second">"s"</string>
+    <string name="fmt_time_second_millis">"s.S‘‘"</string>
     <string name="fmt_time_timezone">T z</string>
     <string name="fmt_timezone">z</string>
     <string name="fmt_weekday">W</string>
@@ -1142,7 +1142,7 @@ Try again."</string>
     <string name="forced_to_display">Anzeigen erzwingen</string>
     <string name="forced_to_hide">Ausblenden erzwingen</string>
     <string name="four_point_five_switch_summary">4.5G nutzen, um die Geschwindigkeit der mobilen Datenverbindung zu erhöhen und die Sprachqualität zu verbessern</string>
-    <string name="four_point_five_switch_title">4.5G</string>
+    <string name="four_point_five_switch_title">4,5G</string>
     <string name="frequecy_num">LTE-Kanalnr</string>
     <string name="friday">Freitag</string>
     <string name="friday_short">Fr</string>
@@ -1197,18 +1197,18 @@ Try again."</string>
     <string name="incall_error_missing_voicemail_number">Unbekannte Sprachboxnummer</string>
     <string name="incall_error_no_phone_number_supplied">Anruf fehlgeschlagen. Kein gültige Nummer eingegeben.</string>
     <string name="incall_error_out_of_service">Mobilfunknetz nicht verfügbar</string>
-    <string name="incall_error_out_of_service_2g">"Mobile network not available.
+    <string name="incall_error_out_of_service_2g">"Mobilfunknetz nicht verfügbar.
 
-Connect to a wireless network to make a call.
+Stellen Sie eine Verbindung zu einem drahtlosen Netzwerk her, um einen Anruf zu tätigen.
 
-2G is disabled on this device, which may be impacting your connectivity. Go to Settings and enable Allow 2G to continue."</string>
+2G ist auf diesem Gerät deaktiviert, was möglicherweise Auswirkungen auf Ihre Konnektivität hat. Gehen Sie zu Einstellungen und aktivieren Sie "2G zulassen, um fortzufahren."</string>
     <string name="incall_error_out_of_service_kr">Nur Notruf verfügbar.</string>
     <string name="incall_error_out_of_service_wfc">Mobilfunknetzt nicht verfügbar. Mit WLAN verbinden zum Telefonieren.</string>
-    <string name="incall_error_out_of_service_wfc_2g_user">"Mobile network is not available.
+    <string name="incall_error_out_of_service_wfc_2g_user">"Mobilfunknetz ist nicht verfügbar.
 
-Connect to a wireless network to make a call.
+Stellen Sie eine Verbindung zu einem drahtlosen Netzwerk her, um einen Anruf zu tätigen.
 
-2G is disabled on this device, which may be impacting your connectivity. Go to Settings and enable Allow 2G to continue."</string>
+2G ist auf diesem Gerät deaktiviert, was möglicherweise Auswirkungen auf Ihre Konnektivität hat. Gehen Sie zu Einstellungen und aktivieren Sie "2G zulassen, um fortzufahren."</string>
     <string name="incall_error_outgoing_call_failed">Ausgehender Anruf fehlgeschlagen</string>
     <string name="incall_error_power_off">Flugmodus ausschalten, um zu telefonieren</string>
     <string name="incall_error_power_off_thermal"><b>Phone too hot</b>"
@@ -1455,10 +1455,10 @@ You can still make emergency calls."</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Erfolgreich aktualisiert</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Erfrischend…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Zum Aktualisieren loslassen</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">„Das ist alles für den Moment“</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">„Das ist alles für den Moment“</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Das ist alles für den Moment"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"Das ist alles für den Moment"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Nur eine Sekunde…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">„Elemente konnten nicht geladen werden“</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Elemente konnten nicht geladen werden"</string>
     <string name="miuix_show_password">Passwort anzeigen</string>
     <string name="miuix_stretchablewidget_collapsed">Zusammengebrochen</string>
     <string name="miuix_stretchablewidget_expanded">Erweitert</string>
@@ -1715,7 +1715,7 @@ You can still make emergency calls."</string>
     <string name="oem_radio_info_label">OEM-spezifische Info/Einstellungen</string>
     <string name="offline_call">Xiaomi Offline-Kommunikation</string>
     <string name="offline_call_has_call">Andere Person ist beschäftigt. Versuchen Sie es in ein oder zwei Minuten noch einmal.</string>
-    <string name="offline_call_not_match_contact">„Konnte nicht anrufen. Sie sind nicht der Kontakt der anderen Person.“</string>
+    <string name="offline_call_not_match_contact">"Konnte nicht anrufen. Sie sind nicht der Kontakt der anderen Person."</string>
     <string name="offline_call_summary">Rufen Sie Xiaomi-Telefone in der Nähe über Bluetooth ohne Netzwerkverbindung an</string>
     <string name="offline_connection_service_label">Integrierter OFFLINE-Anruf</string>
     <string name="ok">Habe es</string>
@@ -2205,8 +2205,8 @@ You can still make emergency calls."</string>
     <string name="satellite_area_requirement_message">Diese Funktion ist nur für Geräte verfügbar, die auf dem chinesischen Festland verkauft werden (außer Hongkong, Macau und Taiwan), und diese Funktion kann nur auf dem chinesischen Festland (außer Hongkong, Macau und Taiwan) verwendet werden.</string>
     <string name="satellite_area_requirement_title">In welchen Regionen kann diese Funktion genutzt werden?</string>
     <string name="satellite_call_failed">Signal unterbrochen. Versuchen Sie es erneut.</string>
-    <string name="satellite_call_indoor_positioning_message">„Wenn keine satellitengestützte SIM-Karte installiert ist und Sie sich drinnen befinden, wird der Xiaomi Science and Technology Park als Standardstandort verwendet. Dadurch kann Ihr Gerät zeigen, wie sich Satelliten befinden.“</string>
-    <string name="satellite_call_indoor_positioning_title">„Warum wird als Standort des Geräts Xiaomi Science and Technology Park angezeigt, wenn ich drinnen bin?“</string>
+    <string name="satellite_call_indoor_positioning_message">"Wenn keine satellitengestützte SIM-Karte installiert ist und Sie sich drinnen befinden, wird der Xiaomi Science and Technology Park als Standardstandort verwendet. Dadurch kann Ihr Gerät zeigen, wie sich Satelliten befinden."</string>
+    <string name="satellite_call_indoor_positioning_title">"Warum wird als Standort des Geräts Xiaomi Science and Technology Park angezeigt, wenn ich drinnen bin?"</string>
     <string name="satellite_call_sound_quality_message">Die Anrufqualität hängt von der Stärke des Satellitensignals ab. Aufgrund der großen Übertragungsentfernung und der begrenzten Bandbreite kommt es zu Verzögerungen beim Senden von Anrufen und Textnachrichten, und die Audioqualität der Anrufe ist schlechter als in einem normalen Mobilfunknetz.</string>
     <string name="satellite_call_sound_quality_title">Warum haben Satellitenanrufe eine schlechte Audioqualität und eine langsame Geschwindigkeit?</string>
     <string name="satellite_camera_enable_toast">Schließen Sie die Kamera, bevor Sie die Tiantong-Satellitenkommunikation öffnen</string>
@@ -2225,7 +2225,7 @@ You can still make emergency calls."</string>
     <string name="satellite_dialog_cancel">Cancel</string>
     <string name="satellite_display_insert_support_card_message">Um die Tiantong-Satellitenkommunikation nutzen zu können, legen Sie eine satellitenfähige SIM-Karte von China Telecom ein.</string>
     <string name="satellite_display_insert_support_card_title">Legen Sie eine satellitenfähige SIM-Karte ein</string>
-    <string name="satellite_display_message">„Die Tiantong-SIM-Karte konnte nicht gefunden werden. Um diese Funktion nutzen zu können, legen Sie eine SIM-Karte mit Tiantong-Satellitenkommunikation ein.“</string>
+    <string name="satellite_display_message">"Die Tiantong-SIM-Karte konnte nicht gefunden werden. Um diese Funktion nutzen zu können, legen Sie eine SIM-Karte mit Tiantong-Satellitenkommunikation ein."</string>
     <string name="satellite_display_search_star">Weitermachen</string>
     <string name="satellite_enable_message">"Turn on Tiantong Satellite communications in Settings &gt; Satellite network, or swipe down to open Control center and tap the Tiantong Satellite toggle, then follow the instructions to connect.
 Only dedicated satellite SIM cards or plans with satellite service are supported. Contact your carrier if the service isn't enabled."</string>
@@ -2243,13 +2243,13 @@ Only dedicated satellite SIM cards or plans with satellite service are supported
     <string name="satellite_exit_tips">Tiantong-Satellitenkommunikation jetzt deaktivieren?</string>
     <string name="satellite_feature_introduction">Über diese Funktion</string>
     <string name="satellite_findout_settings_title">Über Tiantong-Satellitenkommunikation</string>
-    <string name="satellite_flash_time_out_message">„Die Firmware für die Satellitenkommunikation konnte nicht aktualisiert werden. Das Gerät versucht nach dem Neustart erneut, die Aktualisierung durchzuführen.“</string>
+    <string name="satellite_flash_time_out_message">"Die Firmware für die Satellitenkommunikation konnte nicht aktualisiert werden. Das Gerät versucht nach dem Neustart erneut, die Aktualisierung durchzuführen."</string>
     <string name="satellite_flash_time_out_notification">Erinnerung an fehlgeschlagene Satelliten-Firmware-Updates</string>
     <string name="satellite_flash_time_out_title">Firmware-Update</string>
-    <string name="satellite_flashing_toast">„Firmware konnte nicht aktualisiert werden. Versuchen Sie es später noch einmal.“</string>
+    <string name="satellite_flashing_toast">"Firmware konnte nicht aktualisiert werden. Versuchen Sie es später noch einmal."</string>
     <string name="satellite_guide_azimuth">Bewegen Sie sich, bis sich der Satellit im Scanbereich befindet</string>
     <string name="satellite_guide_azimuth_in">Der Satellit befindet sich im Scanbereich</string>
-    <string name="satellite_guide_azimuth_leave">„Satellit ist nicht im Scanbereich“</string>
+    <string name="satellite_guide_azimuth_leave">"Satellit ist nicht im Scanbereich"</string>
     <string name="satellite_guide_down">"Tilt your device down
 to put the ball in the blue area"</string>
     <string name="satellite_guide_elevation">Neigen Sie Ihr Gerät, um den blauen Kreis auf den Satelliten zu verschieben, und bleiben Sie dann ruhig</string>
@@ -2260,9 +2260,9 @@ to put the satellite icon in the blue area"</string>
     <string name="satellite_guide_searching">Suche nach Satellit…</string>
     <string name="satellite_guide_up">"Tilt your device up
 to put the ball in the blue area"</string>
-    <string name="satellite_handle_connection_failure_message">"Your device will try to connect to the satellite for up to %1$d seconds. If the connection isn't successful within %2$d seconds, a connection timeout will occur. If you receive a prompt that the service hasn't been activated, contact the satellite service operator. Other possible reasons for connection failure include the direct line to the satellite being blocked by tall buildings or other objects directly above or in front of you. In this case, change your location and try again."</string>
+    <string name="satellite_handle_connection_failure_message">"Ihr Gerät versucht bis zu %1$d Sekunden lang, eine Verbindung zum Satelliten herzustellen. Wenn die Verbindung nicht innerhalb von %2$d Sekunden erfolgreich ist, kommt es zu einer Zeitüberschreitung der Verbindung. Wenn Sie eine Meldung erhalten, dass der Dienst nicht aktiviert wurde, wenden Sie sich an den Satellitendienstbetreiber. Andere mögliche Gründe für einen Verbindungsfehler sind, dass die direkte Verbindung zum Satelliten durch hohe Gebäude oder andere Objekte direkt über oder vor Ihnen blockiert wird. Ändern Sie in diesem Fall Ihren Standort und versuchen Sie es erneut."</string>
     <string name="satellite_handle_connection_failure_title">Was kann ich tun, wenn mein Gerät Probleme mit der Verbindung zum Satelliten hat?</string>
-    <string name="satellite_impact_phone_message">„Wenn der Satellitenmodus aktiviert ist, werden WLAN, mobile Daten und der Flugmodus deaktiviert und können während der Nutzung nicht wieder aktiviert werden. Ortungsdienste unterstützen nur das Tätigen von Anrufen und das Senden von SMS. Funktionen wie Kamera, Gesichtserkennung, Hinzufügen von Gesichtern für die Gesichtsentsperrung und Blickerkennung sind erst verfügbar, wenn der Satellitenmodus deaktiviert wird. Die Satellitenkommunikation erfordert viel Strom und verbraucht daher schneller Batteriestrom als die normale Verwendung Ihres Geräts.“</string>
+    <string name="satellite_impact_phone_message">"Wenn der Satellitenmodus aktiviert ist, werden WLAN, mobile Daten und der Flugmodus deaktiviert und können während der Nutzung nicht wieder aktiviert werden. Ortungsdienste unterstützen nur das Tätigen von Anrufen und das Senden von SMS. Funktionen wie Kamera, Gesichtserkennung, Hinzufügen von Gesichtern für die Gesichtsentsperrung und Blickerkennung sind erst verfügbar, wenn der Satellitenmodus deaktiviert wird. Die Satellitenkommunikation erfordert viel Strom und verbraucht daher schneller Batteriestrom als die normale Verwendung Ihres Geräts."</string>
     <string name="satellite_impact_phone_title">Wie wirkt sich die Nutzung der Satellitenkommunikation auf mein Gerät aus?</string>
     <string name="satellite_introduction_title">Tiantong-Satellitenkommunikation</string>
     <string name="satellite_knew">Habe es</string>
@@ -2275,23 +2275,22 @@ to put the ball in the blue area"</string>
     <string name="satellite_mobile_settings_summary">Nur verfügbar mit einer dedizierten Satelliten-SIM-Karte oder einem Plan, der Satellitendienst beinhaltet</string>
     <string name="satellite_mobile_settings_title">Tiantong-Satellitenkommunikation</string>
     <string name="satellite_network_error">Bei der Satellitenkommunikation ist ein Fehler aufgetreten. Warten Sie ein oder zwei Minuten und starten Sie die Satellitenfunktionen neu.</string>
-    <string name="satellite_not_show_again">„Nicht mehr zeigen“</string>
+    <string name="satellite_not_show_again">"Nicht mehr zeigen"</string>
     <string name="satellite_notification_text">Wenn kein Signal verfügbar ist, können Sie für Anrufe und Nachrichten Satellit verwenden. Tippen Sie hier, um die Satellitenkommunikation zu aktivieren.</string>
     <string name="satellite_notification_title">Automatisch mit Satellit verbunden</string>
     <string name="satellite_open_tiantong_business_title">Aktivieren Sie die Tiantong-Satellitenkommunikation</string>
     <string name="satellite_pa_megathermal_message">Das Gerät ist zu heiß, um die Satellitenkommunikation einzuschalten. Warten Sie, bis es abgekühlt ist, und versuchen Sie es erneut.</string>
     <string name="satellite_pa_megathermal_title">Gerät überhitzt</string>
     <string name="satellite_point_title">Aktivieren Sie die Tiantong-Satellitenkommunikation</string>
-    <string name="satellite_privacy_statement_message">"To connect to the Tiantong Satellite network, we need your location to scan satellites locally.
-After connection, the carrier also needs your location so rescuers can find you quickly in an emergency. For details, read the "<a href="https://privacy.mi.com/TianTong-dianxin/zh_CN/">Statement on Tiantong Satellite Communications and Privacy</a>".
-By tapping \"Agree\", you confirm that you've read and accepted this statement."</string>
-    <string name="satellite_privacy_statement_negative">„Stimme nicht zu“</string>
+    <string name="satellite_privacy_statement_message">"Um eine Verbindung zum Tiantong-Satellitennetzwerk herzustellen, benötigen wir Ihren Standort, um Satelliten lokal scannen zu können.
+Nach der Verbindung benötigt der Spediteur auch Ihren Standort, damit Retter Sie im Notfall schnell finden können. Einzelheiten finden Sie im Abschnitt "</string>
+    <string name="satellite_privacy_statement_negative">"Stimme nicht zu"</string>
     <string name="satellite_privacy_statement_positive">Zustimmen</string>
     <string name="satellite_privacy_statement_title">Datenschutzerklärung</string>
     <string name="satellite_privacy_withdrawal_dialog_enable_negative">Dienste kündigen</string>
-    <string name="satellite_privacy_withdrawal_dialog_message">"If you cancel Tiantong Satellite communications services, we will cease to collect your personal information and delete personal information already collected in accordance with applicable law, unless other laws and regulations specify the retention period of the personal information.
-Cancel services now?"</string>
-    <string name="satellite_privacy_withdrawal_dialog_positive">„Nicht stornieren“</string>
+    <string name="satellite_privacy_withdrawal_dialog_message">"Wenn Sie die Kommunikationsdienste von Tiantong Satellite kündigen, werden wir die Erfassung Ihrer personenbezogenen Daten einstellen und bereits erfasste personenbezogene Daten gemäß geltendem Recht löschen, es sei denn, andere Gesetze und Vorschriften legen die Aufbewahrungsfrist der personenbezogenen Daten fest.
+Dienste jetzt kündigen?"</string>
+    <string name="satellite_privacy_withdrawal_dialog_positive">"Nicht stornieren"</string>
     <string name="satellite_privacy_withdrawal_dialog_title">Aufmerksamkeit</string>
     <string name="satellite_privacy_withdrawal_setting">Abbrechen der Tiantong-Satellitenkommunikationsdienste</string>
     <string name="satellite_select_enable_sim">Wählen Sie SIM-Karte</string>
@@ -2306,19 +2305,19 @@ Cancel services now?"</string>
     <string name="satellite_start">Habe es</string>
     <string name="satellite_start_battery">Habe es</string>
     <string name="satellite_state">Halten Sie das Gerät in der gleichen Position</string>
-    <string name="satellite_state_connected_floating">„Bewegen Sie Ihr Gerät nicht“</string>
+    <string name="satellite_state_connected_floating">"Bewegen Sie Ihr Gerät nicht"</string>
     <string name="satellite_state_occlusion_prompt">Vermeiden Sie Gebäude oder Bäume, die das Signal blockieren könnten</string>
     <string name="satellite_switch_alert">Das Satellitensignal ist schlecht, bitte richten Sie den Satelliten neu aus</string>
     <string name="satellite_thermal_hangup_delay">Gerät ist überhitzt. Der Anruf endet in %ds. Warten Sie, bis Ihr Gerät abgekühlt ist.</string>
     <string name="satellite_tiantong_setting">Tiantong-Satellitenkommunikation</string>
-    <string name="satellite_unable_open_title">„Satellitenkommunikation kann nicht aktiviert werden“</string>
-    <string name="satellite_use_message">„In Gebieten ohne regelmäßiges terrestrisches Signal, wie in Bergen, Wüsten und im Meer, oder in Gebieten, in denen Bodenkommunikationssysteme durch Naturkatastrophen beschädigt wurden, kann Ihr Mobilgerät eine Verbindung zu Satelliten herstellen, um SMS zu senden und zu empfangen, Anrufe zu tätigen und zu empfangen und Hilfe zu suchen, solange Sie sich in einem Gebiet befinden, in dem es im Umkreis von %d° nach Süden keine Hindernisse gibt.“</string>
-    <string name="satellite_use_phone_message">„Sobald der Satellitenmodus aktiviert ist, können Sie Anrufe über Satellit tätigen und empfangen. Befolgen Sie die Anweisungen auf dem Bildschirm, um die Anrufqualität sicherzustellen und die Satellitenverbindung während des Anrufs aufrechtzuerhalten. Die Freisprechfunktion ist standardmäßig aktiviert. Bleiben Sie während des Anrufs ruhig und ändern Sie nicht die Position Ihres Geräts, um Unterbrechungen zu vermeiden.“</string>
+    <string name="satellite_unable_open_title">"Satellitenkommunikation kann nicht aktiviert werden"</string>
+    <string name="satellite_use_message">"In Gebieten ohne regelmäßiges terrestrisches Signal, wie in Bergen, Wüsten und im Meer, oder in Gebieten, in denen Bodenkommunikationssysteme durch Naturkatastrophen beschädigt wurden, kann Ihr Mobilgerät eine Verbindung zu Satelliten herstellen, um SMS zu senden und zu empfangen, Anrufe zu tätigen und zu empfangen und Hilfe zu suchen, solange Sie sich in einem Gebiet befinden, in dem es im Umkreis von %d° nach Süden keine Hindernisse gibt."</string>
+    <string name="satellite_use_phone_message">"Sobald der Satellitenmodus aktiviert ist, können Sie Anrufe über Satellit tätigen und empfangen. Befolgen Sie die Anweisungen auf dem Bildschirm, um die Anrufqualität sicherzustellen und die Satellitenverbindung während des Anrufs aufrechtzuerhalten. Die Freisprechfunktion ist standardmäßig aktiviert. Bleiben Sie während des Anrufs ruhig und ändern Sie nicht die Position Ihres Geräts, um Unterbrechungen zu vermeiden."</string>
     <string name="satellite_use_phone_title">Wie nutze ich Satellitenkommunikation zum Telefonieren?</string>
     <string name="satellite_use_title">Warum Satellitenkommunikation nutzen?</string>
-    <string name="satellite_user_reminder">"Tiantong Satellite calls need your location. Mobile data, Camera, and Face unlock will be temporarily turned off.
-Activate Tiantong Satellite communications first. Contact your carrier if it's not enabled.
-Service availability depends on your local carrier."</string>
+    <string name="satellite_user_reminder">"Tiantong-Satellitenanrufe benötigen Ihren Standort. Mobile Daten, Kamera und Gesichtsentsperrung werden vorübergehend deaktiviert.
+Aktivieren Sie zunächst die Tiantong-Satellitenkommunikation. Wenden Sie sich an Ihren Mobilfunkanbieter, wenn die Funktion nicht aktiviert ist.
+Die Verfügbarkeit des Dienstes hängt von Ihrem örtlichen Mobilfunkanbieter ab."</string>
     <string name="satellite_xingwang_findout_settings_title">Über Tiantong-Satellitenkommunikation</string>
     <string name="satellite_xingwang_mobile_settings_summary">Unterstützt nur satellitengestützte SIM-Karten von China Telecom oder anderen unterstützten Anbietern</string>
     <string name="satellite_xingwang_mobile_settings_title">Aktivieren Sie die Satellitenkommunikation</string>
@@ -2447,7 +2446,7 @@ Service availability depends on your local carrier."</string>
     <string name="smart_forwarding_settings_menu_summary">Wenn eine Nummer nicht erreichbar ist, leiten Sie Anrufe immer an Ihre andere Nummer weiter</string>
     <string name="smart_multinetwork_acceleration_title">Smarte Netzwerkbeschleunigung</string>
     <string name="smart_switch_dual_sim_diag_cancel">Abbrechen</string>
-    <string name="smart_switch_dual_sim_diag_message">„Offenbar bietet Ihre aktuelle Daten-SIM-Karte keine stabile Netzwerkverbindung. Der automatische Wechsel zwischen Daten-SIM-Karten könnte die Verbindungsqualität verbessern. Sie können diese Funktion in den Einstellungen aktivieren.“</string>
+    <string name="smart_switch_dual_sim_diag_message">"Offenbar bietet Ihre aktuelle Daten-SIM-Karte keine stabile Netzwerkverbindung. Der automatische Wechsel zwischen Daten-SIM-Karten könnte die Verbindungsqualität verbessern. Sie können diese Funktion in den Einstellungen aktivieren."</string>
     <string name="smart_switch_dual_sim_diag_ok">Einstellungen</string>
     <string name="smart_switch_dual_sim_diag_title">Aufmerksamkeit</string>
     <string name="smart_switch_dual_sim_prompt">Für die Verbindung mit dem mobilen Datennetz über SIM %1$s können zusätzliche Kosten entstehen. Legen Sie ein Limit für die Datennutzung fest, um zusätzliche Kosten zu vermeiden.</string>
@@ -2481,7 +2480,7 @@ Service availability depends on your local carrier."</string>
     <string name="solar_term_winter_solstice">Wintersonnenwende</string>
     <string name="speed_limit_card_toast">Sie haben die volle Datengeschwindigkeit verbraucht. Verbindungsgeschwindigkeit wird jetzt begrenzt.</string>
     <string name="speed_limit_sim_notification">Datengeschwindigkeitsbegrenzungen</string>
-    <string name="speed_limit_sim_summary">„Sie haben das Datenlimit Ihres Plans erreicht. Die Datengeschwindigkeit wird langsamer. Wenden Sie sich für weitere Informationen an Ihren Mobilfunkanbieter.“</string>
+    <string name="speed_limit_sim_summary">"Sie haben das Datenlimit Ihres Plans erreicht. Die Datengeschwindigkeit wird langsamer. Wenden Sie sich für weitere Informationen an Ihren Mobilfunkanbieter."</string>
     <string name="speed_limit_sim_title">Die Datengeschwindigkeit ist begrenzt</string>
     <string name="sports_news_settings">Sportnachrichten</string>
     <string name="srvcc_message">4G-Anruf wurde auf 2G/3G-Anruf runtergestuft, weil 4G Netzwerk nicht verfügbar</string>
@@ -2603,7 +2602,7 @@ Service availability depends on your local carrier."</string>
     <string name="the_arbor_day">Tag der Laube</string>
     <string name="the_armed_forces_day">Tag der Streitkräfte</string>
     <string name="the_armys_day">PLA-Tag</string>
-    <string name="the_childrens_day">„Kindertag“</string>
+    <string name="the_childrens_day">"Kindertag"</string>
     <string name="the_chinese_youth_day">Jugendtag</string>
     <string name="the_christmas_day">Weihnachten</string>
     <string name="the_double_ninth_festival">Doppeltes neuntes Festival</string>
@@ -2611,16 +2610,16 @@ Service availability depends on your local carrier."</string>
     <string name="the_easter_day">Ostern</string>
     <string name="the_eve_of_the_spring_festival">Vorabend des chinesischen Neujahrs</string>
     <string name="the_fifth_day">Fünfter Tag des chinesischen Neujahrs</string>
-    <string name="the_fools_day">„Aprilscherz“</string>
+    <string name="the_fools_day">"Aprilscherz"</string>
     <string name="the_forth_day">Vierter Tag des chinesischen Neujahrs</string>
     <string name="the_hksar_establishment_day">Gründungstag der Sonderverwaltungszone Hongkong</string>
-    <string name="the_international_womens_day">„Frauentag“</string>
+    <string name="the_international_womens_day">"Frauentag"</string>
     <string name="the_laba_festival">Laba-Festival</string>
     <string name="the_labour_day">Tag der Arbeit</string>
     <string name="the_lantern_festival">Laternenfest</string>
     <string name="the_mid_autumn_festival">Mittherbstfest</string>
     <string name="the_national_day">Nationalfeiertag</string>
-    <string name="the_national_father_day">„Sun Yat-sens Geburtstag“</string>
+    <string name="the_national_father_day">"Sun Yat-sens Geburtstag"</string>
     <string name="the_new_years_day">Neujahr</string>
     <string name="the_night_of_sevens">Qixi-Fest</string>
     <string name="the_partys_day">CPC-Tag</string>
@@ -2631,9 +2630,9 @@ Service availability depends on your local carrier."</string>
     <string name="the_sixth_day">Sechster Tag des chinesischen Neujahrs</string>
     <string name="the_spirit_festival">Geisterfest</string>
     <string name="the_spring_festival">Chinesisches Neujahr</string>
-    <string name="the_teachers_day">„Tag der Lehrer“</string>
+    <string name="the_teachers_day">"Tag der Lehrer"</string>
     <string name="the_third_day">Dritter Tag des chinesischen Neujahrs</string>
-    <string name="the_tw_childrens_day">„Kindertag“</string>
+    <string name="the_tw_childrens_day">"Kindertag"</string>
     <string name="the_tw_youth_day">Jugendtag</string>
     <string name="the_united_nations_day">Tag der Vereinten Nationen</string>
     <string name="the_valentines_day">"Valentinstag"</string>
@@ -2683,8 +2682,8 @@ Service availability depends on your local carrier."</string>
     <string name="tuesday">Dienstag</string>
     <string name="tuesday_short">Di</string>
     <string name="tuesday_shortest">Di</string>
-    <string name="turn_off_dual_4g_failed">„Dual 4G konnte nicht ausgeschaltet werden.“</string>
-    <string name="turn_on_dual_4g_failed">„Dual 4G konnte nicht aktiviert werden.“</string>
+    <string name="turn_off_dual_4g_failed">"Dual 4G konnte nicht ausgeschaltet werden."</string>
+    <string name="turn_on_dual_4g_failed">"Dual 4G konnte nicht aktiviert werden."</string>
     <string name="turnover_mute_summary">Wenn das Telefon auf einer horizontalen Fläche mit Bildschirm oben liegt, drehen sie es um, um Ton, Vibration und Benachrichtigungslicht auszuschalten.</string>
     <string name="turnover_mute_title">Umdrehen für lautlos</string>
     <string name="ui_default_package">com.android.incallui</string>
@@ -2777,12 +2776,12 @@ Service availability depends on your local carrier."</string>
     <string name="volte_provisioned_switch_string">VoLTE bereitgestellt</string>
     <string name="volte_switch_globalization_prompt">Dieses Mobilfunknetz wurde auf diesem Gerät nicht für VoLTE verifiziert. Das Einschalten dieser Funktion kann sich auf die Akkulaufzeit, Anrufe, Nachrichten, Voicemail und die Nutzung mobiler Daten auswirken.</string>
     <string name="volte_switch_globalization_prompt_title">Aufmerksamkeit</string>
-    <string name="volte_switch_not_support_summary">„VoLTE-Anrufe werden für die mobile Daten-SIM-Karte nicht unterstützt.“</string>
-    <string name="volte_switch_not_support_summary2">„VoLTE-Anrufe werden vom Mobilfunkanbieter nicht unterstützt.“</string>
+    <string name="volte_switch_not_support_summary">"VoLTE-Anrufe werden für die mobile Daten-SIM-Karte nicht unterstützt."</string>
+    <string name="volte_switch_not_support_summary2">"VoLTE-Anrufe werden vom Mobilfunkanbieter nicht unterstützt."</string>
     <string name="volte_switch_summary">Nutzen Sie VoLTE, um die Qualität von Sprachanrufen zu verbessern</string>
     <string name="volte_switch_summary2">Vergewissern Sie sich, dass Ihr Mobilfunkanbieter diese Funktion unterstützt, bevor Sie sie aktivieren. Andernfalls könnten regelmäßige Anrufe beeinträchtigt sein.</string>
     <string name="volte_switch_title">Verwenden Sie VoLTE</string>
-    <string name="volte_switch_title_ct">VoLTE</string>
+    <string name="volte_switch_title_ct">Volte</string>
     <string name="volte_tips_when_turn_on">China Telecom VoLTE-Dienste werden nur in den Gebieten mit VoLTE-Netzabdeckung angeboten. Die VoLTE-Dienste werden vom Anbieter bereitgestellt.</string>
     <string name="vonr_switch_summary">VoNR zur Verbesserung der Qualität von Sprachanrufen nutzen</string>
     <string name="vonr_switch_title">Use VoNR</string>
@@ -2812,7 +2811,7 @@ Service availability depends on your local carrier."</string>
     <string name="wifi_call_help_message_1">WLAN-Anrufe sind ein Service von Orange, mit dem Sie Anrufe über WLAN tätigen und annehmen können. Diese Funktion kann in Gebieten mit schlechter Mobilfunkabdeckung eingesetzt werden.\n\nUm WLAN-Anrufe zu nutzen, schalten Sie sie unter Einstellungen &gt; WLAN-Anrufe ein.\n\nUm den Dienst zu aktivieren, sendet Ihnen Orange eine Bestätigungsnachricht, sobald der Dienst verfügbar ist. Danach können Sie sich mit einem WLAN verbinden und telefonieren.\n\nAnrufe über WLAN werden nach Ihren Tarifbedingungen abgerechnet.\n\nWann immer diese Funktion verfügbar ist, wird das folgende Symbol oben auf Ihrem Bildschirm angezeigt.</string>
     <string name="wifi_call_help_message_2">Wenn Sie WLAN bevorzugen auswählen, wird dieses standardmäßig für Telefonate genutzt. Wenn Sie nicht mit WLAN verbunden sind oder das Signal schlecht ist, werden Mobilfunknetze für Anrufe genutzt.\n\nWenn Sie sich für Mobilfunknetze entscheiden, werden diese standardmäßig für Telefonate genutzt. Bei fehlender Mobilfunkabdeckung oder schlechtem Signal wird stattdessen WLAN genutzt.</string>
     <string name="wifi_call_help_title">Hilfe für WLAN-Anrufe</string>
-    <string name="wifi_call_notification_message">„Dieser Dienst wird von Orange bereitgestellt. Die Aktivierung dieses Dienstes kann mehrere Stunden dauern. Sie erhalten eine Bestätigungs-SMS, sobald er verfügbar ist.“</string>
+    <string name="wifi_call_notification_message">"Dieser Dienst wird von Orange bereitgestellt. Die Aktivierung dieses Dienstes kann mehrere Stunden dauern. Sie erhalten eine Bestätigungs-SMS, sobald er verfügbar ist."</string>
     <string name="wifi_call_preferred_summary">Wenn Sie sich für Mobilfunknetze entscheiden, werden diese standardmäßig für Anrufe genutzt. Wenn kein oder ein sehr schlechtes Mobilfunksignal vorhanden ist, wird stattdessen WLAN genutzt.</string>
     <string name="wifi_call_setting">WLAN-Anrufe</string>
     <string name="wifi_call_setting_vodafone_de">WLAN-Anrufe</string>
