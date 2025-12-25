@@ -1,4 +1,13 @@
 # ![logo](HyperOS.png)
+
+## ⚠️ Archivierungshinweis / Archive Notice
+
+**Dieses Repository wird nicht mehr aktiv entwickelt und wird archiviert.**
+
+**This repository is no longer actively maintained and will be archived.**
+
+---
+
 # Xiaomi HyperOS 3.0 - German Translation on Xiaomi.eu
 
 [![GitHub issues](https://img.shields.io/github/issues-raw/berlinux2016/MIUI15.svg)](https://github.com/berlinux2016/HyperOS-3.0/issues "GitHub issues")
